@@ -1,0 +1,154 @@
+---
+title: "My Movies"
+author: "João Neto"
+date: "28/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, warning=FALSE, message=FALSE}
+library(dplyr)
+library(magrittr)
+```
+
+
+```{r}
+df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
+df$Score <- as.numeric(df$Score)
+df %>% 
+  rename(ImdbRate = averageRating) %>% 
+  rename(Votes = numVotes) %>% 
+  rename(Director = primaryName) %>% 
+  select(-directors) %>% 
+  select(-IMDB) -> df
+```
+
+```{r, warning=FALSE, echo=FALSE}
+library(DT)
+DT::datatable(df)
+```
+
+
+
+## Number of Selected Movies per Year
+
+```{r}
+min.score <- 7.5
+my.color <- 'steelblue'
+```
+
+Only showing movies with a minimal score, given that more recent years have more lower score movies (I see more modern movies than old movies). And still have *lots* of movies to see from the 70s and 60s.
+
+```{r, fig.width=12}
+df %>% 
+  filter(Score >= min.score) %>% 
+  count(Year, sort=TRUE) %>% 
+  arrange( Year ) -> df2
+barplot(df2$n, names.arg=df2$Year, las=2, col=my.color)
+```
+
+## Number of Selected Movies per Decade
+
+Again using the same filter as above:
+
+```{r}
+df %>% 
+  filter(Score >= min.score) %>% 
+  count(Decade, sort=TRUE) %>% 
+  arrange( Decade ) -> df2
+barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color)
+```
+
+## Number of Selected Movies per Country
+
+Most movies I see are from Hollywood, but let's check how others countries are represented:
+
+```{r, fig.width=12}
+rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
+  ymax <- max(data[[column_to_plot]])*1.25
+  plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", ylim=c(0,ymax))
+  text(plt, par("usr")[3], labels = labels_vec, srt = rot_angle, 
+       adj = c(1.1,1.1), xpd = TRUE, cex=1) 
+  text(x = plt, y = data$n, label = data$n, pos = 3, cex = 1.2, col = my.color)
+}
+
+df %>% 
+  filter(Score >= min.score) %>% 
+  filter (Country!='USA') %>% 
+  count(Country, sort=TRUE) %>% 
+  arrange( Country ) -> df2
+
+rotate_x(df2, 'n', df2$Country, 45)
+```
+
+## Masterpieces per Decade
+
+Herein I define as a masterpiece a movie with score at least 9.5.
+
+```{r}
+df %>% 
+  filter(Score >= 9.5) %>% 
+  count(Decade, sort=TRUE) %>% 
+  arrange( Decade ) -> df2
+
+rotate_x(df2, 'n', df2$Decade, 45)
+```
+
+```{r, fig.width=10}
+df %>% 
+  mutate(interval = cut(df$Score, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
+  group_by(Decade, interval, .drop = FALSE) %>% 
+  summarise(count=n()) -> df3
+
+mat <- matrix(df3$count, ncol=6, byrow=T)
+
+library(RColorBrewer)
+# https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
+barplot(mat %>% t, names.arg=df2$Decade, ylim=c(0,155), col=brewer.pal(6, "Blues") )
+legend(0, 150, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
+       col=rev(brewer.pal(7, "Blues")), pch=15)
+```
+
+## Movies per Directors
+
+Check directors with multiple movies in the list
+
+```{r, fig.width=12, fig.height=8}
+df %>% 
+  count(Director, sort=TRUE) %>% 
+  filter(!is.na(Director)) %>% 
+  filter(n>3) -> df4
+
+rotate_x(df4, 'n', df4$Director, 45)
+```
+
+And with movies with at least 8.75 score, ie, one of the five highest scores:
+
+```{r, fig.width=12}
+df %>% 
+  filter(Score >= 8.75) %>% 
+  count(Director, sort=TRUE) %>% 
+  filter(!is.na(Director)) %>% 
+  filter(n>2) -> df5
+
+rotate_x(df5, 'n', df5$Director, 45)
+```
+
+
+## Movies per Genre
+
+
+
+```{r}
+df %>% 
+  #filter(Score >= min.score) %>% 
+  count(Genre) %>% 
+  arrange( Genre ) -> df6
+
+rotate_x(df6, 'n', df6$Genre, 45)
+```
+
