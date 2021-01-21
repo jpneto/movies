@@ -443,6 +443,7 @@ The Terminator;1984;1980s;USA;SciFi;tt0088247;8.5;8;782320;nm0000116;James Camer
 Amadeus;1984;1980s;USA;Historical;tt0086879;9.25;8.3;360082;nm0001232;Milos Forman
 The Day After;1983;1980s;UK;Dystopia;tt0085404;8;7.1;14058;nm0583292;Nicholas Meyer
 Videodrome;1983;1980s;USA;SciFi;tt0086541;8;7.2;81075;nm0000343;David Cronenberg
+Return of the Jedi;1983;1980s;USA;Fantasy;tt0086190;8;8.3;941413;nm0549658;Richard Marquand
 The Meaning of Life;1983;1980s;UK;Comedy;tt0085959;8;7.5;111559;nm0001402.nm0000416;Terry Gilliam
 Testament;1983;1980s;USA;Dystopia;tt0086429;7.5;6.9;5598;nm0003313;Lynne Littman
 Scarface;1983;1980s;USA;Thriller;tt0086250;8.5;8.3;719066;nm0000361;Brian De Palma
@@ -489,7 +490,7 @@ The Boys from Brazil;1978;1970s;USA;Thriller;tt0077269;7.5;7;24984;nm0769874;Fra
 Invasion of the Body Snatchers;1978;1970s;USA;SciFi;tt0077745;7.75;7.4;50775;nm0442241;Philip Kaufman
 Midnight Express;1978;1970s;USA;Drama;tt0077928;8.75;7.6;71815;nm0000570;Alan Parker
 The Deer Hunter;1978;1970s;USA;War;tt0077416;9.5;8.1;303546;nm0001047;Michael Cimino
-Star Wars;1977;1970s;USA;Fantasy;tt0076759;8;8.6;1201450;nm0000184;George Lucas
+Star Wars;1977;1970s;USA;Fantasy;tt0076759;8.25;8.6;1201450;nm0000184;George Lucas
 Equus;1977;1970s;USA;Drama;tt0075995;8;7.2;7295;nm0001486;Sidney Lumet
 The Serpent's Egg;1977;1970s;Germany;Historical;tt0076686;7.5;6.7;5068;nm0000005;Ingmar Bergman
 Cross of Iron;1977;1970s;USA;War;tt0074695;8.25;7.5;24656;nm0001603;Sam Peckinpah
@@ -625,4 +626,18 @@ The Stoning of Soraya M.;2008;2000s;USA;Drama;tt1277737;7.75;8.0;18676;nm0637493
 Hard Eight;1996;1990s;USA;Drama;tt0119256;7.25;7.2;41590;nm0000759;Paul Thomas Anderson
 The General;1998;1990s;Ireland;Drama;tt0120706;7.75;7.3;8106;nm0000958;John Boorman
 The Interview;1998;1990s;Australia;Thriller;tt0120714;7;7.1;7988;nm0597516;Craig Monahan
-Rosewood;1997;1990s;USA;Historical;/tt0120036;7.75;7.2;7381;nm0005436;John Singleton
+Rosewood;1997;1990s;USA;Historical;tt0120036;7.75;7.2;7381;nm0005436;John Singleton
+Brother/Brat;1997;1990s;Russia;Drama;tt0118767;7.5;8;16985;nm0049326;Aleksey Balabanov
+Land and Freedom;1995;1990s;UK;Historical;tt0114671;8.25;7.6;10338;nm0516360;Ken Loach
+Dangerous Beauty;1998;1990s;USA;Historical;tt0118892;7;7.2;15935;nm0380980;Marshall Herskovitz
+The Wind that Shakes the Barley;2006;2000s;Ireland;Historical;tt0460989;8.25;7.5;46319;nm0516360;Ken Loach
+Stalingrad;1993;1990s;Germany;Historical;tt0108211;8;7.5;30701;nm0005917;Joseph Vilsmaier
+Body Heat;1981;1980s;USA;Thriller;tt0082089;8;7.4;30754;nm0001410;Lawrence Kasdan
+The Sting;1973;1970s;USA;Thriller;tt0070735;8.5;8.3;240432;nm0001351;George Roy Hill
+The Ninth Configuration;1980;1980s;USA;Drama;tt0081237;7.5;7;6497;nm0087861;William Peter Blatty
+Alone;2020;2020s;USA;Thriller;tt7711170;7.75;6.2;7305;nm0404882;John Hyams
+Mank;2020;2020s;USA;Drama;tt10618286;7.75;7.1;33212;nm0000399;David Fincher
+Soul;2020;2020s;USA;Comedy;tt2948372;8.25;8.1;141337;nm0230032;Pete Docter
+Tenet;2020;2020s;USA;Thriller;tt6723592;7.5;7.5;272119;nm0634240;Christopher Nolan
+The Invisible Man;2020;2020s;USA;Horror;tt1051906;7.5;7.1;163231;nm1191481;Leigh Whannell
+His House;2020;2020s;UK;Horror;tt8508734;7.5;6.5;22172;nm3676311;Remi Weekes

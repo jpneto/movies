@@ -67,7 +67,7 @@ barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color)
 
 Most movies I see are from Hollywood, but let's check how others countries are represented:
 
-```{r, fig.width=12}
+```{r, fig.width=12, warning=FALSE}
 rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
   ymax <- max(data[[column_to_plot]])*1.25
   plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", ylim=c(0,ymax))
@@ -98,7 +98,7 @@ df %>%
 rotate_x(df2, 'n', df2$Decade, 45)
 ```
 
-```{r, fig.width=10}
+```{r, fig.width=10, warning=FALSE}
 df %>% 
   mutate(interval = cut(df$Score, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
   group_by(Decade, interval, .drop = FALSE) %>% 
@@ -108,7 +108,7 @@ mat <- matrix(df3$count, ncol=6, byrow=T)
 
 library(RColorBrewer)
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
-barplot(mat %>% t, names.arg=df2$Decade, ylim=c(0,155), col=brewer.pal(6, "Blues") )
+barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,155), col=brewer.pal(6, "Blues") )
 legend(0, 150, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
