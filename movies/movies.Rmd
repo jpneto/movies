@@ -27,12 +27,13 @@ df %>%
   select(-IMDB) -> df
 ```
 
+This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around one third of all the movies I've seen and is, obviously, quite subjective :-)
+
+
 ```{r, warning=FALSE, echo=FALSE}
 library(DT)
-DT::datatable(df)
+DT::datatable(df) 
 ```
-
-
 
 ## Number of Selected Movies per Year
 
@@ -41,7 +42,7 @@ min.score <- 7.5
 my.color <- 'steelblue'
 ```
 
-Only showing movies with a minimal score, given that more recent years have more lower score movies (I see more modern movies than old movies). And still have *lots* of movies to see from the 70s and 60s.
+Only showing movies with a minimal score of `r min.score``, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have *lots* of movies to see from the 70s and 60s.
 
 ```{r, fig.width=12}
 df %>% 
@@ -67,7 +68,24 @@ barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color)
 
 Most movies I see are from Hollywood, but let's check how others countries are represented:
 
-```{r, fig.width=12, warning=FALSE}
+```{r, fig.width=12, fig.height=8, warning=FALSE}
+df %>% 
+  filter(Score >= min.score) %>% 
+  filter (Country!='USA') %>% 
+  count(Country, sort=TRUE) %>% 
+  arrange( desc(Country) ) -> df2
+
+par(mar=c(1,11,1,6))
+plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
+               las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
+text(y=plt, x=df2$n+1.75, label=df2$n, pos = 2, cex = 0.8, col='blue')
+```
+
+## Masterpieces per Decade
+
+Herein I define as a masterpiece a movie with a score of at least 9.5.
+
+```{r}
 rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
   ymax <- max(data[[column_to_plot]])*1.25
   plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", ylim=c(0,ymax))
@@ -77,26 +95,13 @@ rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
 }
 
 df %>% 
-  filter(Score >= min.score) %>% 
-  filter (Country!='USA') %>% 
-  count(Country, sort=TRUE) %>% 
-  arrange( Country ) -> df2
-
-rotate_x(df2, 'n', df2$Country, 45)
-```
-
-## Masterpieces per Decade
-
-Herein I define as a masterpiece a movie with score at least 9.5.
-
-```{r}
-df %>% 
   filter(Score >= 9.5) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
 
 rotate_x(df2, 'n', df2$Decade, 45)
 ```
+The next plot shows how different score ranges are represented by decade,
 
 ```{r, fig.width=10, warning=FALSE}
 df %>% 
@@ -115,40 +120,61 @@ legend(0, 150, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')),
 
 ## Movies per Directors
 
-Check directors with multiple movies in the list
+Let's check directors with multiple movies in the list,
 
 ```{r, fig.width=12, fig.height=8}
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
-  filter(n>3) -> df4
+  filter(n>4) -> df4
 
-rotate_x(df4, 'n', df4$Director, 45)
+par(mar=c(1,11,1,6))
+plt <- barplot(df4$n, col='steelblue', horiz=TRUE, names.arg=df4$Director, 
+               las=1, xlim=c(0,10+max(df4$n)), xaxt='n')
+text(y=plt, x=df4$n+0.8, label=df4$n, pos = 2, cex = 0.8, col='blue')
 ```
 
-And with movies with at least 8.75 score, ie, one of the five highest scores:
+Directors with movies with a score of at least 8.5,
 
-```{r, fig.width=12}
+```{r, fig.width=12, fig.height=6}
 df %>% 
-  filter(Score >= 8.75) %>% 
+  filter(Score >= 8.5) %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
   filter(n>2) -> df5
 
-rotate_x(df5, 'n', df5$Director, 45)
+par(mar=c(1,11,1,1))
+plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director, 
+               las=1, xlim=c(0,10+max(df5$n)), xaxt='n')
+text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
+```
+
+And finally who made the masterpieces (>=9.5),
+
+```{r, fig.width=12, fig.height=6}
+df %>% 
+  filter(Score >= 9.5) %>% 
+  count(Director, sort=TRUE) %>% 
+  filter(!is.na(Director)) -> df5
+
+par(mar=c(1,11,1,1))
+plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director, 
+               las=1, xlim=c(0,10+max(df5$n)), xaxt='n')
+text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 
 ## Movies per Genre
 
-
-
-```{r}
+```{r, fig.width=12, fig.height=6}
 df %>% 
   #filter(Score >= min.score) %>% 
   count(Genre) %>% 
-  arrange( Genre ) -> df6
+  arrange( desc(Genre) ) -> df6
 
-rotate_x(df6, 'n', df6$Genre, 45)
+par(mar=c(1,11,1,1))
+plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
+               las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
+text(y=plt, x=df6$n+7, label=df6$n, pos = 2, cex = 0.8, col='blue')
 ```
 

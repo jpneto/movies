@@ -421,7 +421,7 @@ Radio Days;1987;1980s;USA;Comedy;tt0093818;7.25;7.5;30826;nm0000095;Woody Allen
 Raising Arizona;1987;1980s;USA;Comedy;tt0093822;7.5;7.3;124052;nm0001053.nm0001054;Cohen Brothers
 Predator;1987;1980s;USA;Horror;tt0093773;8.25;7.8;363922;nm0001532;John McTiernan
 House of Games;1987;1980s;USA;Thriller;tt0093223;8.25;7.3;20206;nm0000519;David Mamet
-Empire of the Sun;1987;1980s;USA;War;tt0092965;8.5;7.7;112838;nm0000229;Steven Spielberg
+Empire of the Sun;1987;1980s;USA;War;tt0092965;8.25;7.7;112838;nm0000229;Steven Spielberg
 Full Metal Jacket;1987;1980s;USA;War;tt0093058;8.75;8.3;656225;nm0000040;Stanley Kubrick
 The Hitcher;1986;1980s;USA;Horror;tt0091209;7;7.2;42523;nm0363553;Robert Harmon
 Der Name der Rose;1986;1980s;Germany;Historical;tt0091605;8;7.7;99161;nm0000269;Jean-Jacques Annaud
@@ -437,6 +437,7 @@ The Mission;1986;1980s;USA;Historical;tt0091530;8.75;7.4;54649;nm0423646;Roland 
 Agnes of God;1985;1980s;USA;Drama;tt0088683;7;6.6;6615;nm0422484;Norman Jewison
 Back to the Future;1985;1980s;USA;Comedy;tt0088763;8;8.5;1057703;nm0000709;Robert Zemeckis
 Brazil;1985;1980s;UK;Dystopia;tt0088846;9;7.9;184004;nm0000416;Terry Gilliam
+Come and See;1985;1980s;Russia;War;tt0091251;9;8.3;59361;nm0459552;Elem Klimov
 Ran;1985;1980s;Japan;Historical;tt0089881;9;8.2;108357;nm0000041;Akira Kurosawa
 Ladyhawke;1985;1980s;USA;Fantasy;tt0089457;7.5;7;42430;nm0001149;Richard Donner
 The Color Purple;1985;1980s;USA;Drama;tt0088939;8.5;7.8;76222;nm0000229;Steven Spielberg
@@ -517,7 +518,7 @@ Taxi Driver;1976;1970s;USA;Drama;tt0075314;9.25;8.3;700745;nm0000217;Martin Scor
 Dog Day Afternoon;1975;1970s;USA;Drama;tt0072890;8;8;230203;nm0001486;Sidney Lumet
 Dersu Uzala;1975;1970s;Japan;Drama;tt0071411;8;8.3;22902;nm0000041;Akira Kurosawa
 Rollerball;1975;1970s;USA;Dystopia;tt0073631;7.25;6.6;21876;nm0422484;Norman Jewison
-Jaws;1975;1970s;USA;Horror;tt0073195;8.5;8;534693;nm0000229;Steven Spielberg
+Jaws;1975;1970s;USA;Horror;tt0073195;8.25;8;534693;nm0000229;Steven Spielberg
 Monty Python and the Holy Grail;1975;1970s;UK;Comedy;tt0071853;8.5;8.2;490505;nm0000416;Terry Gilliam
 Section spéciale;1975;1970s;France;Historical;tt0073679;8.5;7.8;1027;nm0002020;Costa-Gavras
 Barry Lyndon;1975;1970s;USA;Historical;tt0072684;8.75;8.1;144729;nm0000040;Stanley Kubrick
@@ -647,8 +648,10 @@ Alone;2020;2020s;USA;Thriller;tt7711170;7.75;6.2;7305;nm0404882;John Hyams
 Mank;2020;2020s;USA;Drama;tt10618286;7.75;7.1;33212;nm0000399;David Fincher
 Soul;2020;2020s;USA;Comedy;tt2948372;8.25;8.1;141337;nm0230032;Pete Docter
 Tenet;2020;2020s;USA;Thriller;tt6723592;7.5;7.5;272119;nm0634240;Christopher Nolan
-The Invisible Man;2020;2020s;USA;Horror;tt1051906;7.5;7.1;163231;nm1191481;Leigh Whannell
+The Invisible Man;2020;2020s;USA;Thriller;tt1051906;7.5;7.1;163231;nm1191481;Leigh Whannell
 His House;2020;2020s;UK;Horror;tt8508734;7.5;6.5;22172;nm3676311;Remi Weekes
+Mangrove;2020;2020s;UK;Historical;tt10551100;9;8.1;3349;nm2588606;Steve McQueen
+Saint Maud;2020;2020s;UK;Horror;tt7557108;7;6.9;5755;nm3819217;Rose Glass
 The Killing of a Chinese Bookie;1976;1970s;USA;Drama;tt0074749;7;7.4;11167;nm0001023;John Cassavetes
 Slaughterhouse-Five;1972;1970s;USA;Drama;tt0069280;7;6.8;12168;nm0001351;George Roy Hill
 The Friends of Eddie Coyle;1973;1970s;USA;Crime;tt0070077;7.5;7.5;8795;nm0946811;Peter Yates
@@ -671,3 +674,9 @@ Mean Streets;1973;1970s;USA;Drama;tt0070379;7;7.2;100180;nm0000217;Martin Scorse
 The Warriors;1979;1970s;USA;Thriller;tt0080120;7.25;7.6;93865;nm0001353;Walter Hill
 Le Cercle Rouge;1970;1970s;France;Crime;tt0065531;7;8;22460;nm0578483;Jean-Pierre Melville
 A Touch of Zen;1970;1970s;Taiwan;Action;tt0064451;7.5;7.6;5439;nm0002254;King Hu
+Escape from Alcatraz;1979;1970s;USA;Crime;tt0079116;7.25;7.6;121815;nm0796923;Don Siegel
+Lady Snowblow;1973;1970s;Japan;Thriller;tt0158714;9;7.7;12428;nm0297846;Toshiya Fujita
+The Conformist;1970;1970s;Italy;Drama;tt0065571;7;8;27107;nm0000934;Bernardo Bertolucci
+Rumble Fish;1983;1980s;USA;Drama;tt0086216;7;7.2;31837;nm0000338;Francis Ford Coppola
+Romper Stomper;1992;1990s;Australia;Drama;tt0105275;7.75;6.8;37445;nm0942408;Geoffrey Wright
+The Ascent;1977;1970s;Russia;War;tt0075404;8.75;8.3;6686;nm0791899;Larisa Shepitko
