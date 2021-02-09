@@ -11,6 +11,7 @@ Joker;2019;2010s;USA;Drama;tt7286456;9.25;8.5;840947;nm0680846;Todd Phillips
 Dr. Sleep;2019;2010s;USA;Horror;tt5606664;8;7.4;124487;nm1093039;Mike Flanagan
 Parasite;2019;2010s;South Korea;Drama;tt6751668;9.5;8.6;460340;nm0094435;Bong Joon Ho
 El hoyo;2019;2010s;Spain;Dystopia;tt8228288;7;7;146637;nm2008067;Galder Gaztelu-Urrutia
+Saint Maud;2019;2010s;UK;Horror;tt7557108;7;6.9;5755;nm3819217;Rose Glass
 Mandy;2018;2010s;USA;Horror;tt6998518;7;6.6;59150;nm0181903;Panos Cosmatos
 A Simple Favor;2018;2010s;USA;Thriller;tt7040874;7;6.8;118312;nm0082450;Paul Feig
 Upgrade;2018;2010s;USA;Action;tt6499752;7;7.5;144283;nm1191481;Leigh Whannell
@@ -537,6 +538,11 @@ The Offence;1973;1970s;USA;Drama;tt0070468;8.25;7;5488;nm0001486;Sidney Lumet
 Serpico;1973;1970s;USA;Crime;tt0070666;8.5;7.7;106208;nm0001486;Sidney Lumet
 The Exorcist;1973;1970s;USA;Horror;tt0070047;9.5;8;353406;nm0001243;William Friedkin
 Solyaris;1972;1970s;Russia;SciFi;tt0069293;8;8.1;77861;nm0001789;Andrei Tarkovsky
+Mad Max;1979;1970s;Australia;SciFi;tt0079501;7;6.9;191715;nm0004306;George Miller
+The Towering Inferno;1974;1970s;USA;Thriller;tt0072308;7.5;7.0;39452;nm0347086;John Guillermin
+Assault on Precinct 13;1976;1970s;USA;Thriller;tt0074156;7.5;7.4;43907;nm0000118;John Carpenter
+La Planète Sauvage;1973;1970s;France;Fantasy;tt0070544;7.5;7.8;25204;nm0482537;René Laloux
+Love and Death;1975;1970s;USA;Comedy;tt0073312;8.25;7.7;36026;nm0000095;Woody Allen
 Jeremiah Johnson;1972;1970s;USA;Western;tt0068762;9;7.6;27848;nm0001628;Sydney Pollack
 Deliverance;1972;1970s;USA;Thriller;tt0068473;8.5;7.7;96483;nm0000958;John Boorman
 État de siège;1972;1970s;France;Historical;tt0070959;8.5;7.8;4376;nm0002020;Costa-Gavras
@@ -651,7 +657,6 @@ Tenet;2020;2020s;USA;Thriller;tt6723592;7.5;7.5;272119;nm0634240;Christopher Nol
 The Invisible Man;2020;2020s;USA;Thriller;tt1051906;7.5;7.1;163231;nm1191481;Leigh Whannell
 His House;2020;2020s;UK;Horror;tt8508734;7.5;6.5;22172;nm3676311;Remi Weekes
 Mangrove;2020;2020s;UK;Historical;tt10551100;9;8.1;3349;nm2588606;Steve McQueen
-Saint Maud;2020;2020s;UK;Horror;tt7557108;7;6.9;5755;nm3819217;Rose Glass
 The Killing of a Chinese Bookie;1976;1970s;USA;Drama;tt0074749;7;7.4;11167;nm0001023;John Cassavetes
 Slaughterhouse-Five;1972;1970s;USA;Drama;tt0069280;7;6.8;12168;nm0001351;George Roy Hill
 The Friends of Eddie Coyle;1973;1970s;USA;Crime;tt0070077;7.5;7.5;8795;nm0946811;Peter Yates
@@ -665,17 +670,12 @@ The Candidate;1972;1970s;USA;Politics;tt0068334;7.5;7.0;9905;nm0006916;Michael R
 Klute;1971;1970s;USA;Thriller;tt0067309;8.25;7.1;22367;nm0001587;Alan J. Pakula
 L.A. Confidencial;1997;1990s;USA;Crime;tt0119488;7.5;8.2;531755;nm0000436;Curtis Hanson
 Dirty Harry;1971;1970s;USA;Thriller;tt0066999;8;7.7;143256;nm0796923;Don Siegel
-Mad Max;1979;1970s;Australia;SciFi;tt0079501;7;6.9;191715;nm0004306;George Miller
-The Towering Inferno;1974;1970s;USA;Thriller;tt0072308;7.5;7.0;39452;nm0347086;John Guillermin
-Assault on Precinct 13;1976;1970s;USA;Thriller;tt0074156;7.5;7.4;43907;nm0000118;John Carpenter
-La Planète Sauvage;1973;1970s;France;Fantasy;tt0070544;7.5;7.8;25204;nm0482537;René Laloux
-Love and Death;1975;1970s;USA;Comedy;tt0073312;8.25;7.7;36026;nm0000095;Woody Allen
 Mean Streets;1973;1970s;USA;Drama;tt0070379;7;7.2;100180;nm0000217;Martin Scorsese
 The Warriors;1979;1970s;USA;Thriller;tt0080120;7.25;7.6;93865;nm0001353;Walter Hill
 Le Cercle Rouge;1970;1970s;France;Crime;tt0065531;7;8;22460;nm0578483;Jean-Pierre Melville
 A Touch of Zen;1970;1970s;Taiwan;Action;tt0064451;7.5;7.6;5439;nm0002254;King Hu
 Escape from Alcatraz;1979;1970s;USA;Crime;tt0079116;7.25;7.6;121815;nm0796923;Don Siegel
-Lady Snowblow;1973;1970s;Japan;Thriller;tt0158714;9;7.7;12428;nm0297846;Toshiya Fujita
+Lady Snowblood;1973;1970s;Japan;Thriller;tt0158714;9;7.7;12428;nm0297846;Toshiya Fujita
 The Conformist;1970;1970s;Italy;Drama;tt0065571;7;8;27107;nm0000934;Bernardo Bertolucci
 Rumble Fish;1983;1980s;USA;Drama;tt0086216;7;7.2;31837;nm0000338;Francis Ford Coppola
 Romper Stomper;1992;1990s;Australia;Drama;tt0105275;7.75;6.8;37445;nm0942408;Geoffrey Wright

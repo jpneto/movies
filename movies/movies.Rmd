@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "28/09/2020"
+date: "February 2021"
 output: html_document
 ---
 
@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r, warning=FALSE, message=FALSE}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(dplyr)
 library(magrittr)
 ```
 
 
-```{r}
+```{r, echo=FALSE}
 df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
 df$Score <- as.numeric(df$Score)
 df %>% 
@@ -37,38 +37,43 @@ DT::datatable(df)
 
 ## Number of Selected Movies per Year
 
-```{r}
+```{r, echo=FALSE}
 min.score <- 7.5
 my.color <- 'steelblue'
 ```
 
-Only showing movies with a minimal score of `r min.score``, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have *lots* of movies to see from the 70s and 60s.
+Only showing movies with a minimal score of `r min.score`, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have *lots* of movies to see from the 70s and 60s.
 
-```{r, fig.width=12}
+```{r, fig.width=12, echo=FALSE}
 df %>% 
   filter(Score >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
   arrange( Year ) -> df2
-barplot(df2$n, names.arg=df2$Year, las=2, col=my.color)
+
+par(mar=c(3,1,1,1))
+plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
+text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
 ```
 
 ## Number of Selected Movies per Decade
 
 Again using the same filter as above:
 
-```{r}
+```{r, echo=FALSE}
 df %>% 
   filter(Score >= min.score) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
-barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color)
+
+plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
+text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col='blue')
 ```
 
 ## Number of Selected Movies per Country
 
 Most movies I see are from Hollywood, but let's check how others countries are represented:
 
-```{r, fig.width=12, fig.height=8, warning=FALSE}
+```{r, fig.width=12, fig.height=8, warning=FALSE, echo=FALSE}
 df %>% 
   filter(Score >= min.score) %>% 
   filter (Country!='USA') %>% 
@@ -85,10 +90,10 @@ text(y=plt, x=df2$n+1.75, label=df2$n, pos = 2, cex = 0.8, col='blue')
 
 Herein I define as a masterpiece a movie with a score of at least 9.5.
 
-```{r}
+```{r, echo=FALSE}
 rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
   ymax <- max(data[[column_to_plot]])*1.25
-  plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", ylim=c(0,ymax))
+  plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", yaxt="n", ylim=c(0,ymax))
   text(plt, par("usr")[3], labels = labels_vec, srt = rot_angle, 
        adj = c(1.1,1.1), xpd = TRUE, cex=1) 
   text(x = plt, y = data$n, label = data$n, pos = 3, cex = 1.2, col = my.color)
@@ -101,9 +106,10 @@ df %>%
 
 rotate_x(df2, 'n', df2$Decade, 45)
 ```
+
 The next plot shows how different score ranges are represented by decade,
 
-```{r, fig.width=10, warning=FALSE}
+```{r, fig.width=10, warning=FALSE, echo=FALSE}
 df %>% 
   mutate(interval = cut(df$Score, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
   group_by(Decade, interval, .drop = FALSE) %>% 
@@ -122,7 +128,7 @@ legend(0, 150, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')),
 
 Let's check directors with multiple movies in the list,
 
-```{r, fig.width=12, fig.height=8}
+```{r, fig.width=12, fig.height=8, echo=FALSE}
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
@@ -136,7 +142,7 @@ text(y=plt, x=df4$n+0.8, label=df4$n, pos = 2, cex = 0.8, col='blue')
 
 Directors with movies with a score of at least 8.5,
 
-```{r, fig.width=12, fig.height=6}
+```{r, fig.width=12, fig.height=6, echo=FALSE}
 df %>% 
   filter(Score >= 8.5) %>% 
   count(Director, sort=TRUE) %>% 
@@ -151,7 +157,7 @@ text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
 
 And finally who made the masterpieces (>=9.5),
 
-```{r, fig.width=12, fig.height=6}
+```{r, fig.width=12, fig.height=6, echo=FALSE}
 df %>% 
   filter(Score >= 9.5) %>% 
   count(Director, sort=TRUE) %>% 
@@ -166,7 +172,7 @@ text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
 
 ## Movies per Genre
 
-```{r, fig.width=12, fig.height=6}
+```{r, fig.width=12, fig.height=6, echo=FALSE}
 df %>% 
   #filter(Score >= min.score) %>% 
   count(Genre) %>% 
