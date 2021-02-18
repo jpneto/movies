@@ -169,7 +169,6 @@ plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director,
 text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
 ```
 
-
 ## Movies per Genre
 
 ```{r, fig.width=12, fig.height=6, echo=FALSE}
