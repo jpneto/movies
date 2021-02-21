@@ -189,6 +189,7 @@ The Mist;2007;2000s;USA;Horror;tt0884328;8.5;7.1;275327;nm0001104;Frank Darabont
 No Country for Old Men;2007;2000s;USA;Drama;tt0477348;8.75;8.1;828492;nm0001054.nm0001053;Cohen Brothers
 There Will Be Blood;2007;2000s;USA;Drama;tt0469494;8.75;8.2;501197;nm0000759;Paul Thomas Anderson
 Little Miss Sunshine;2006;2000s;USA;Comedy;tt0449059;7.25;7.8;430977;nm0206760;Jonathan Dayton
+Babel;2006;2000s;USA;Drama;tt0449467;7.25;7.4;289982;nm0327944;Alejandro G. Iñárritu
 This is England;2006;2000s;UK;Drama;tt0480025;8;7.7;114593;nm0276349;Shane Meadows
 The Fall;2006;2000s;USA;Fantasy;tt0460791;7;7.9;105658;nm0802248;Tarsem Singh
 The Host;2006;2000s;USA;Horror;tt0468492;7;7.1;102196;nm0094435;Bong Joon Ho
@@ -196,12 +197,13 @@ Inside Man;2006;2000s;USA;Thriller;tt0454848;7.25;7.6;332268;nm0000490;Spike Lee
 Shi Gan (Time);2006;2000s;South Korea;Drama;tt0497986;8;7.2;11597;nm1104118;Ki-duk Kim
 Volver;2006;2000s;Spain;Drama;tt0441909;8;7.6;92918;nm0000264;Pedro Almodóvar
 Apocalypto;2006;2000s;USA;Historical;tt0472043;9;7.8;285521;nm0000154;Mel Gibson
-Miami Vice;2006;2000s;USA;Action;tt0430357;7.5;6;108232;nm0000520;Michael Mann
+Miami Vice;2006;2000s;USA;Action;tt0430357;7.75;6;108232;nm0000520;Michael Mann
 El laberinto del fauno;2006;2000s;Spain;Fantasy;tt0457430;7.75;8.2;605587;nm0868219;Guillermo del Toro
 The Departed;2006;2000s;USA;Thriller;tt0407887;8;8.5;1162745;nm0000217;Martin Scorsese
 Letters from Iwo Jima;2006;2000s;USA;War;tt0498380;8;7.9;152328;nm0000142;Clint Eastwood
 The Lives of Others;2006;2000s;Germany;Politics;tt0405094;8.5;8.4;348508;nm0003697;Florian Henckel von Donnersmarck
 The Fountain;2006;2000s;USA;SciFi;tt0414993;8.5;7.2;224805;nm0004716;Darren Aronofsky
+The Last King of Scotland;2006;2000s;UK;Historical;tt0455590;7.5;7.7;175744;nm0531817;Kevin Macdonald
 Children of Men;2006;2000s;USA;Dystopia;tt0206634;9.5;7.9;455067;nm0190859;Alfonso Cuarón
 The Exorcism of Emily Rose;2005;2000s;USA;Horror;tt0404032;7;6.7;116897;nm0220600;Scott Derrickson
 The Proposition;2005;2000s;Australia;Western;tt0421238;7;7.3;49457;nm0384825;John Hillcoat
@@ -229,7 +231,7 @@ Saw;2004;2000s;USA;Horror;tt0387564;8;7.6;371168;nm1490123;James Wan
 The Village;2004;2000s;USA;Horror;tt0368447;8;6.5;238160;nm0796117;M. Night Shyamalan
 The Passion of the Christ;2004;2000s;USA;Historical;tt0335345;9;7.2;212068;nm0000154;Mel Gibson
 Troy;2004;2000s;USA;Historical;tt0332452;7.25;7.2;478589;nm0000583;Wolfgang Petersen
-Collateral;2004;2000s;USA;Action;tt0369339;7.25;7.5;351625;nm0000520;Michael Mann
+Collateral;2004;2000s;USA;Action;tt0369339;7.5;7.5;351625;nm0000520;Michael Mann
 Shaun of the Dead;2004;2000s;UK;Comedy;tt0365748;7.5;7.9;501173;nm0942367;Edgar Wright
 The Machinist;2004;2000s;Spain;Thriller;tt0361862;7.25;7.7;351890;nm0026442;Brad Anderson
 La Mala Educación;2004;2000s;Spain;Drama;tt0275491;7.5;7.4;54797;nm0000264;Pedro Almodóvar
@@ -262,6 +264,9 @@ Hero;2002;2000s;China;Action;tt0299977;8;7.9;171769;nm0955443;Yimou Zhang
 The Twilight Samurai;2002;2000s;Japan;Samurai;tt0351817;8;8.1;22262;nm0945282;Yôji Yamada
 Infernal Affairs;2002;2000s;Hong Kong;Crime;tt0338564;8;8;116194;nm0538320;Alan Mak
 Hable con ella;2002;2000s;Spain;Drama;tt0287467;9;7.9;102544;nm0000264;Pedro Almodóvar
+Equilibrium;2002;2000s;USA;Dystopia;tt0238380;7;7.4;312031;nm0934483;Kurt Wimmer
+Minority Report;2002;2000s;USA;SciFi;tt0181689;7.25;7.6;509534;nm0000229;Steven Spielberg
+The Pianist;2002;2000s;UK;Drama;tt0253474;8;8.5;732598;nm0000591;Roman Polanski
 The Two Towers;2002;2000s;USA;Fantasy;tt0167261;7.5;8.7;1446016;nm0001392;Peter Jackson
 25th Hour;2002;2000s;USA;Drama;tt0307901;7.75;7.6;167646;nm0000490;Spike Lee
 Dog Soldiers;2002;2000s;UK;Horror;tt0280609;7;6.8;54479;nm0551076;Neil Marshall
@@ -610,6 +615,7 @@ La vingt-cinquiéme heure;1967;1960s;France;War;tt0062445;8.5;7.5;1672;nm0894577
 The Long Good Friday;1980;1980s;UK;Thriller;tt0081070;7.75;7.6;18588;nm0533334;John Mackenzie
 Babette's Feast;1987;1980s;Denmark;Drama;tt0092603;8.25;7.8;17665;nm0002196;Gabriel Axel
 Mesrine;2008;2000s;France;Crime;tt1259014;8;7.5;31639;nm0724938;Jean-François Richet
+Ponyo;2008;2000s;Japan;Fantasy;tt0876563;7.75;7.7;126023;nm0594503;Hayao Miyazaki
 Un Prophète;2009;2000s;France;Crime;tt1235166;9;7.9;92069;nm0002191;Jacques Audiard
 Abril Despedaçado;2001;2000s;Brazil;Drama;tt0291003;7.5;7.6;6698;nm0758574;Walter Salles
 Memories of Murder;2003;2000s;South Korea;Thriller;tt0353969;7.5;8.1;128780;nm0094435;Bong Joon Ho
@@ -708,3 +714,8 @@ Frenzy;1972;1970s;UK;Thriller;tt0068611;7.75;7.4;41613;nm0000033;Alfred Hitchcoc
 The Parallax View;1974;1970s;USA;Thriller;tt0071970;7.25;7.1;15773;nm0001587;Alan J. Pakula
 The Marriage of Maria Braun;1979;1970s;Germany;Drama;tt0079095;9;7.8;12388;nm0001202;Rainer Werner Fassbinder
 The Night Comes for Us;2018;2010s;Indonesia;Action;tt6116856;7.75;7;21312;nm3464186;Timo Tjahjanto
+The Duellists;1977;1970s;UK;Drama;tt0075968;7.75;7.4;19871;nm0000631;Ridley Scott
+Capricorn One;1977;1970s;USA;Thriller;tt0077294;7.25;6.9;20334;nm0001382;Peter Hyams
+Blood Simple;1984;1980s;USA;Thriller;tt0086979;7;7.6;88070;nm0001053.nm0001054;Cohen Brothers
+Carrie;1976;1970s;USA;Horror;tt0074285;7.75;7.4;168760;nm0000361;Brian De Palma
+Interiors;1977;1970s;USA;Drama;tt0077742;7.25;7.4;18338;nm0000095;Woody Allen
