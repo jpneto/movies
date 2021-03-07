@@ -42,7 +42,7 @@ min.score <- 7.5
 my.color <- 'steelblue'
 ```
 
-Only showing movies with a minimal score of `r min.score`, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have *lots* of movies to see from the 70s and 60s.
+Only showing movies with a minimal score of `r min.score`, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have dozens of movies to see from the 70s and around 200 movies to see from the 60s (!).
 
 ```{r, fig.width=12, echo=FALSE}
 df %>% 
@@ -69,13 +69,13 @@ plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color, ylim=c(0,max(df
 text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col='blue')
 ```
 
-## Number of Selected Movies per Country
+## Number of Movies per Country
 
 Most movies I see are from Hollywood, but let's check how others countries are represented:
 
 ```{r, fig.width=12, fig.height=8, warning=FALSE, echo=FALSE}
 df %>% 
-  filter(Score >= min.score) %>% 
+  filter(Score >= 7) %>% 
   filter (Country!='USA') %>% 
   count(Country, sort=TRUE) %>% 
   arrange( desc(Country) ) -> df2
@@ -83,12 +83,31 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
                las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+1.75, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+2.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
-## Masterpieces per Decade
+## Movie quality per Decade
 
-Herein I define as a masterpiece a movie with a score of at least 9.5.
+Let's see how many great films (score at least 9) each decade produced,
+
+```{r, echo=FALSE}
+rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
+  ymax <- max(data[[column_to_plot]])*1.25
+  plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", yaxt="n", ylim=c(0,ymax))
+  text(plt, par("usr")[3], labels = labels_vec, srt = rot_angle, 
+       adj = c(1.1,1.1), xpd = TRUE, cex=1) 
+  text(x = plt, y = data$n, label = data$n, pos = 3, cex = 1.2, col = my.color)
+}
+
+df %>% 
+  filter(Score >= 9) %>% 
+  count(Decade, sort=TRUE) %>% 
+  arrange( Decade ) -> df2
+
+rotate_x(df2, 'n', df2$Decade, 45)
+```
+
+And masterpieces (score of at least 9.5) per decade,
 
 ```{r, echo=FALSE}
 rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
