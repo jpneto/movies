@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "February 2021"
+date: "March 2021"
 output: html_document
 ---
 
@@ -19,6 +19,8 @@ library(magrittr)
 ```{r, echo=FALSE}
 df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
 df$Score <- as.numeric(df$Score)
+df$numVotes <- as.numeric(df$numVotes)
+df$averageRating <- as.numeric(df$averageRating)
 df %>% 
   rename(ImdbRate = averageRating) %>% 
   rename(Votes = numVotes) %>% 
