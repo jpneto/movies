@@ -5,6 +5,10 @@ date: "March 2021"
 output: html_document
 ---
 
+<!--  To run shiny server place this above
+runtime: shiny
+-->
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -16,7 +20,7 @@ library(magrittr)
 ```
 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
 df$Score <- as.numeric(df$Score)
 df$numVotes <- as.numeric(df$numVotes)
@@ -31,8 +35,7 @@ df %>%
 
 This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around one third of all the movies I've seen and is, obviously, quite subjective :-)
 
-
-```{r, warning=FALSE, echo=FALSE}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
 DT::datatable(df) 
 ```
@@ -46,7 +49,7 @@ my.color <- 'steelblue'
 
 Only showing movies with a minimal score of `r min.score`, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have dozens of movies to see from the 70s and around 200 movies to see from the 60s (!).
 
-```{r, fig.width=12, echo=FALSE}
+```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
   filter(Score >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
@@ -57,11 +60,34 @@ plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color, ylim=c(0,max(df2$
 text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
 ```
 
+```{r, echo=FALSE, eval=FALSE}
+inputPanel(
+  sliderInput("score", label="minimum movie score", 
+              min=7, max=10, value=7.5, step=0.25)
+)
+
+output$g1 <- renderPlot({
+  df %>% 
+  filter(Score >= input$score) %>% 
+  count(Year, sort=TRUE) %>% 
+  arrange( Year ) -> df2
+
+  par(mar=c(3,1,1,1))
+  plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color,
+                 ylim=c(0,max(df2$n)*1.25), yaxt="n")
+  text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
+})
+
+plotOutput("g1", height="400px")
+br()
+```
+
+
 ## Number of Selected Movies per Decade
 
 Again using the same filter as above:
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, eval=TRUE}
 df %>% 
   filter(Score >= min.score) %>% 
   count(Decade, sort=TRUE) %>% 
@@ -69,6 +95,27 @@ df %>%
 
 plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
 text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col='blue')
+```
+
+```{r, echo=FALSE, eval=FALSE}
+inputPanel(
+  sliderInput("score2", label="minimum movie score", 
+              min=7, max=10, value=7.5, step=0.25)
+)
+
+output$g2 <- renderPlot({
+df %>% 
+  filter(Score >= input$score2) %>% 
+  count(Decade, sort=TRUE) %>% 
+  arrange( Decade ) -> df2
+
+  plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color,
+                 ylim=c(0,max(df2$n)*1.25), yaxt="n")
+  text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col='blue')
+})
+
+plotOutput("g2", height="400px")
+br()
 ```
 
 ## Number of Movies per Country
