@@ -47,7 +47,11 @@ min.score <- 7.5
 my.color <- 'steelblue'
 ```
 
-Only showing movies with a minimal score of `r min.score`, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have dozens of movies to see from the 70s and around 200 movies to see from the 60s (!).
+Only showing movies with a minimal score of `r min.score`, given that more recent years have more lower score movies (I see more modern movies than old movies). And I still have dozens of movies to see from the 70s and hundreds from the 1950s and 1960s.
+
++ [wishlist from the 1950s](https://www.imdb.com/list/ls089830524/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=G8MGE7R65T5SR6M8362N&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
+
++ [wishlist from the 1960s](https://www.imdb.com/list/ls089835133/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=E1XAD5HDMTDS4WJ8NJPH&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
