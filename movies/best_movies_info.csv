@@ -326,6 +326,7 @@ Crouching Tiger, Hidden Dragon;2000;2000s;China;Action;tt0190332;8.5;7.8;249127;
 JSA;2000;2000s;South Korea;Thriller;tt0260991;8;7.8;25668;nm0661791;Chan-wook Park
 Amores Perros;2000;2000s;Mexico;Drama;tt0245712;9.25;8.1;218714;nm0327944;Alejandro G. Iñárritu
 The Limey;1999;1990s;USA;Thriller;tt0165854;7;7;29470;nm0001752;Steven Soderbergh
+The Green Mile;1999;1990s;USA;Drama;tt0120689;7.75;8.8;1157950;nm0001104;Frank Darabont
 The Blair Witch Project;1999;1990s;USA;Horror;tt0185937;7;6.5;227034;nm0617130;Daniel Myrick
 Audition;1999;1990s;Japan;Horror;tt0235198;7.5;7.2;71243;nm0586281;Takashi Miike
 Magnolia;1999;1990s;USA;Drama;tt0175880;8;8;284112;nm0000759;Paul Thomas Anderson
@@ -352,6 +353,7 @@ American History X;1998;1990s;USA;Thriller;tt0120586;8.25;8.5;1011628;nm0443411;
 The Big Lebowski;1998;1990s;USA;Comedy;tt0118715;8.25;8.1;711040;nm0001054.nm0001053;Cohen Brothers
 Saving Private Ryan;1998;1990s;USA;War;tt0120815;8.5;8.6;1200222;nm0000229;Steven Spielberg
 Event Horizon;1997;1990s;USA;SciFi;tt0119081;7;6.7;154731;nm0027271;Paul W.S. Anderson
+Cube;1997;1990s;USA;SciFi;tt0123755;7.25;7.2;213849;nm0622112;Vincenzo Natali
 Funny Games;1997;1990s;USA;Horror;tt0119167;8;7.6;62955;nm0359734;Michael Haneke
 Perfect Blue;1997;1990s;USA;Horror;tt0156887;8;8;53608;nm0464804;Satoshi Kon
 Princess Mononoke;1997;1990s;Japan;Fantasy;tt0119698;8.5;8.4;334372;nm0594503;Hayao Miyazaki
@@ -421,6 +423,7 @@ Europa;1991;1990s;USA;War;tt0101829;7.5;7.6;19358;nm0001885;Lars von Trier
 Terminator 2: Judgment Day;1991;1990s;USA;SciFi;tt0103064;8.5;8.5;972565;nm0000116;James Cameron
 The Silence of the Lambs;1991;1990s;USA;Thriller;tt0102926;9.25;8.6;1230101;nm0001129;Jonathan Demme
 Jacob's Ladder;1990;1990s;USA;Horror;tt0099871;7;7.5;96494;nm0001490;Adrian Lyne
+Total Recall;1990;1990s;USA;SciFi;tt0100802;7.5;7.5;304162;nm0000682;Paul Verhoeven
 The Godfather: Part III;1990;1990s;USA;Drama;tt0071562;8;9;1095132;nm0000338;Francis Ford Coppola
 Wild at Heart;1990;1990s;USA;Drama;tt0100935;8;7.2;80775;nm0000186;David Lynch
 Miller's Crossing;1990;1990s;USA;Crime;tt0100150;9;7.7;123538;nm0001054.nm0001053;Cohen Brothers
@@ -628,6 +631,7 @@ Faces;1968;1960s;USA;Drama;tt0062952;7.5;7.7;9213;nm0001023;John Cassavetes
 Targets;1968;1960s;USA;Thriller;tt0063671;7.5;7.4;8228;nm0000953;Peter Bogdanovich
 The Shoes of the Fisherman;1968;1960s;USA;Drama;tt0063599;7;7.1;3288;nm0027183;Michael Anderson
 Boogie Nights;1997;1990s;USA;Drama;tt0118749;8;7.9;233451;nm0000759;Paul Thomas Anderson
+Amistad;1997;1990s;USA;Historical;tt0118607;8;7.3;71825;nm0000229;Steven Spielberg
 The Crying Game;1992;1990s;UK;Thriller;tt0104036;7.25;7.2;50150;nm0001403;Neil Jordan
 Absence of Malice;1981;1980s;USA;Drama;tt0081974;7.5;6.9;11643;nm0001628;Sydney Pollack
 The Dresser;1983;1980s;UK;Drama;tt0085461;8.25;7.6;4697;nm0946811;Peter Yates
@@ -771,3 +775,5 @@ Scarecrow;1973;1970s;USA;Drama;tt0070643;8.5;7.3;15626;nm0770234;Jerry Schatzber
 ...and Justice for All;1979;1970s;USA;Drama;tt0078718;8.5;7.4;31157;nm0422484;Norman Jewison
 Badlands;1973;1970s;USA;Drama;tt0069762;8;7.8;66577;nm0000517;Terrence Malick
 True Grit;2010;2010s;USA;Western;tt1403865;7.75;7.6;313785;nm0001053.nm0001054;Cohen Brothers
+Panic in Needle Park;1971;1970s;USA;Drama;tt0067549;7.5;7.1;16340;nm0770234;Jerry Schatzberg
+Dallas Buyers Club;2013;2010s;USA;Drama;tt0790636;8;8;445445;nm0885249;Jean-Marc Vallée

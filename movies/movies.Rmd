@@ -181,7 +181,7 @@ rotate_x(df2, 'n', df2$Decade, 45)
 
 The next plot shows how different score ranges are represented by decade,
 
-```{r, fig.width=10, warning=FALSE, echo=FALSE}
+```{r, fig.width=10, fig.height=8, warning=FALSE, echo=FALSE}
 df %>% 
   mutate(interval = cut(df$Score, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
   group_by(Decade, interval, .drop = FALSE) %>% 
@@ -191,8 +191,8 @@ mat <- matrix(df3$count, ncol=6, byrow=T)
 
 library(RColorBrewer)
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
-barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,155), col=brewer.pal(6, "Blues") )
-legend(0, 150, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
+barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,200), col=brewer.pal(6, "Blues") )
+legend(8, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
 
