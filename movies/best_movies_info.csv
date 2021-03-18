@@ -13,7 +13,7 @@ Uncut Gems;2019;2010s;USA;Thriller;tt5727208;7;7.4;195200;nm1509478;Safdie Broth
 Light of My Life;2019;2010s;USA;Dystopia;tt6063090;8;6.6;9020;nm0000729;Casey Affleck
 John Wick 3;2019;2010s;USA;Action;tt6146586;7.5;7.5;255727;nm0821432;Chad Stahelski
 Ad Astra;2019;2010s;USA;SciFi;tt2935510;7.5;6.6;182714;nm0336695;James Gray
-Bacurau;2019;2010s;Brazil;SciFi;tt2762506;7.5;7.4;21480;nm2207625;Kleber Mendonça Filho
+Bacurau;2019;2010s;Brazil;Dystopia;tt2762506;7.5;7.4;21480;nm2207625;Kleber Mendonça Filho
 Jojo Rabbit;2019;2010s;USA;Comedy;tt2584384;7.5;7.9;245639;nm0169806;Taika Waititi
 The Lighthouse;2019;2010s;USA;Horror;tt7984734;8.25;7.6;116902;nm3211470;Robert Eggers
 Once Upon a Time in Hollywood;2019;2010s;USA;Drama;tt7131622;8.5;7.7;500110;nm0000233;Quentin Tarantino
@@ -233,7 +233,7 @@ Syriana;2005;2000s;USA;Thriller;tt0365737;7;6.9;124585;nm0300866;Stephen Gaghan
 Munich;2005;2000s;USA;Thriller;tt0408306;8;7.5;208003;nm0000229;Steven Spielberg
 13 Tzameti;2005;2000s;France;Horror;tt0475169;8;7.4;16585;nm1201875;Géla Babluani
 The New World;2005;2000s;USA;Historical;tt0402399;9;6.7;81673;nm0000517;Terrence Malick
-King Kong;2005;2000s;USA;Action;tt0360717;7.25;7.2;383729;nm0001392;Peter Jackson
+King Kong;2005;2000s;USA;Action;tt0360717;7.5;7.2;383729;nm0001392;Peter Jackson
 Alice;2005;2000s;Portugal;Drama;tt0459072;7.5;7.4;2154;nm0554076;Marco Martins
 Caché;2005;2000s;Germany;Thriller;tt0387898;7.5;7.3;71552;nm0359734;Michael Haneke
 Wolf Creek;2005;2000s;Australia;Horror;tt0416315;7.5;6.2;66478;nm0572562;Greg McLean
@@ -275,7 +275,7 @@ Good Bye Lenin!;2003;2000s;Germany;Comedy;tt0301357;7.75;7.7;135933;nm0065615;Wo
 Les triplettes de Belleville;2003;2000s;France;Comedy;tt0286244;7.25;7.8;49999;nm0158984;Sylvain Chomet
 The Return;2003;2000s;Russia;Drama;tt0376968;7.5;8;41436;nm1168657;Andrey Zvyagintsev
 Spring Summer Fall Winter... and Spring;2003;2000s;South Korea;Drama;tt0374546;8.25;8;77640;nm1104118;Ki-duk Kim
-The Return of the King;2003;2000s;USA;Fantasy;tt0167260;8.5;8.9;1600197;nm0001392;Peter Jackson
+The Return of the King;2003;2000s;USA;Fantasy;tt0167260;8.75;8.9;1600197;nm0001392;Peter Jackson
 Old Boy;2003;2000s;South Korea;Thriller;tt0364569;8.5;8.4;499398;nm0661791;Chan-wook Park
 Kill Bill vol.1;2003;2000s;USA;Action;tt0266697;8.75;8.1;974721;nm0000233;Quentin Tarantino
 Punch-Drunk Love;2002;2000s;USA;Drama;tt0272338;7;7.3;143811;nm0000759;Paul Thomas Anderson
@@ -289,7 +289,7 @@ Hable con ella;2002;2000s;Spain;Drama;tt0287467;9;7.9;102544;nm0000264;Pedro Alm
 Equilibrium;2002;2000s;USA;Dystopia;tt0238380;7;7.4;312031;nm0934483;Kurt Wimmer
 Minority Report;2002;2000s;USA;SciFi;tt0181689;7.25;7.6;509534;nm0000229;Steven Spielberg
 The Pianist;2002;2000s;UK;Drama;tt0253474;8;8.5;732598;nm0000591;Roman Polanski
-The Two Towers;2002;2000s;USA;Fantasy;tt0167261;7.5;8.7;1446016;nm0001392;Peter Jackson
+The Two Towers;2002;2000s;USA;Fantasy;tt0167261;8.25;8.7;1446016;nm0001392;Peter Jackson
 25th Hour;2002;2000s;USA;Drama;tt0307901;7.75;7.6;167646;nm0000490;Spike Lee
 Dog Soldiers;2002;2000s;UK;Horror;tt0280609;7;6.8;54479;nm0551076;Neil Marshall
 Gangs of New York;2002;2000s;USA;Drama;tt0217505;8.25;7.5;395956;nm0000217;Martin Scorsese
@@ -569,7 +569,7 @@ Dog Day Afternoon;1975;1970s;USA;Drama;tt0072890;8;8;230203;nm0001486;Sidney Lum
 The Stepford Wives;1975;1970s;USA;SciFi;tt0073747;7.5;6.9;16384;nm0285302;Bryan Forbes
 Dersu Uzala;1975;1970s;Japan;Drama;tt0071411;8;8.3;22902;nm0000041;Akira Kurosawa
 Rollerball;1975;1970s;USA;Dystopia;tt0073631;7.25;6.6;21876;nm0422484;Norman Jewison
-Jaws;1975;1970s;USA;Horror;tt0073195;8.25;8;534693;nm0000229;Steven Spielberg
+Jaws;1975;1970s;USA;Horror;tt0073195;8.75;8;534693;nm0000229;Steven Spielberg
 Monty Python and the Holy Grail;1975;1970s;UK;Comedy;tt0071853;8.5;8.2;490505;nm0000416;Terry Gilliam
 Section spéciale;1975;1970s;France;Historical;tt0073679;8.5;7.8;1027;nm0002020;Costa-Gavras
 Barry Lyndon;1975;1970s;USA;Historical;tt0072684;8.75;8.1;144729;nm0000040;Stanley Kubrick
@@ -749,6 +749,7 @@ The Duellists;1977;1970s;UK;Drama;tt0075968;7.75;7.4;19871;nm0000631;Ridley Scot
 Capricorn One;1977;1970s;USA;Thriller;tt0077294;7.25;6.9;20334;nm0001382;Peter Hyams
 Blood Simple;1984;1980s;USA;Thriller;tt0086979;7;7.6;88070;nm0001053.nm0001054;Cohen Brothers
 Carrie;1976;1970s;USA;Horror;tt0074285;7.75;7.4;168760;nm0000361;Brian De Palma
+The Front;1976;1970s;USA;Drama;tt0074554;7.5;7.3;8235;nm0728688;Martin Ritt
 Interiors;1977;1970s;USA;Drama;tt0077742;7.25;7.4;18338;nm0000095;Woody Allen
 Hotel Rwanda;2004;2000s;UK;Historical;tt0395169;8.5;8.1;335214;nm0313623;Terry George
 Sleeper;1973;1970s;USA;Comedy;tt0070707;7;7.2;39848;nm0000095;Woody Allen
@@ -777,3 +778,8 @@ Badlands;1973;1970s;USA;Drama;tt0069762;8;7.8;66577;nm0000517;Terrence Malick
 True Grit;2010;2010s;USA;Western;tt1403865;7.75;7.6;313785;nm0001053.nm0001054;Cohen Brothers
 Panic in Needle Park;1971;1970s;USA;Drama;tt0067549;7.5;7.1;16340;nm0770234;Jerry Schatzberg
 Dallas Buyers Club;2013;2010s;USA;Drama;tt0790636;8;8;445445;nm0885249;Jean-Marc Vallée
+Samurai Rebellion;1967;1960s;Japan;Samurai;tt0061847;9.25;8.4;11202;nm0462030;Masaki Kobayashi
+Days of Heaven;1978;1970s;USA;Drama;tt0077405;7;7.8;53363;nm0000517;Terrence Malick
+Hard Boiled;1992;1990s;Hong Kong;Crime;tt0104684;7;7.8;46962;nm0000247;John Woo
+Nausicaa of the Valley of the Wind;1984;1980s;Japan;Fantasy;tt0087544;8.25;8.1;152719;nm0594503;Hayao Miyazaki
+The Omen;1976;1970s;USA;Horror;tt0075005;7;7.5;107989;nm0001149;Richard Donner

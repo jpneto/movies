@@ -122,23 +122,6 @@ plotOutput("g2", height="400px")
 br()
 ```
 
-## Number of Movies per Country
-
-Most movies I see are from Hollywood, but let's check how others countries are represented:
-
-```{r, fig.width=12, fig.height=8, warning=FALSE, echo=FALSE}
-df %>% 
-  filter(Score >= 7) %>% 
-  filter (Country!='USA') %>% 
-  count(Country, sort=TRUE) %>% 
-  arrange( desc(Country) ) -> df2
-
-par(mar=c(1,11,1,6))
-plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
-               las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+2.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
-```
-
 ## Movie quality per Decade
 
 Let's see how many great films (score at least 9) each decade produced,
@@ -255,3 +238,19 @@ plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre,
 text(y=plt, x=df6$n+7, label=df6$n, pos = 2, cex = 0.8, col='blue')
 ```
 
+## Movies per Country
+
+Most movies I see are from Hollywood, but let's check how others countries are represented:
+
+```{r, fig.width=12, fig.height=8, warning=FALSE, echo=FALSE}
+df %>% 
+  filter(Score >= 7) %>% 
+  filter (Country!='USA') %>% 
+  count(Country, sort=TRUE) %>% 
+  arrange( desc(Country) ) -> df2
+
+par(mar=c(1,11,1,6))
+plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
+               las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
+text(y=plt, x=df2$n+2.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
+```
