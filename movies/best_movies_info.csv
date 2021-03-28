@@ -88,7 +88,7 @@ Room;2015;2010s;USA;Thriller;tt3170832;8.25;8.1;355464;nm1049433;Lenny Abrahamso
 Mad Max: Fury Road;2015;2010s;USA;Dystopia;tt1392190;9.5;8.1;853395;nm0004306;George Miller
 Gone Girl;2014;2010s;USA;Thriller;tt2267998;7.5;8.1;830198;nm0000399;David Fincher
 Boyhood;2014;2010s;USA;Drama;tt1065073;7.5;7.9;330174;nm0000500;Richard Linklater
-Interstellar;2014;2010s;USA;SciFi;tt0816692;7.5;8.6;1441342;nm0634240;Christopher Nolan
+Interstellar;2014;2010s;USA;SciFi;tt0816692;7.75;8.6;1441342;nm0634240;Christopher Nolan
 Leviathan;2014;2010s;Russia;Drama;tt2802154;7;7.6;47848;nm1168657;Andrey Zvyagintsev
 Mr Turner;2014;2010s;UK;Historical;tt2473794;7;6.8;23911;nm0005139;Mike Leigh
 The Raid 2. Berandal;2014;2010s;Indonesia;Action;tt2265171;8;8;111781;nm2153088;Gareth Evans
@@ -148,6 +148,7 @@ The Raid;2011;2010s;Indonesia;Action;tt1899353;8.5;7.6;186778;nm2153088;Gareth E
 Tinker Tailor Soldier Spy;2011;2010s;UK;Politics;tt1340800;8.75;7;183253;nm0019247;Tomas Alfredson
 Thurgood;2011;2010s;USA;Historical;tt1844811;8.75;7.8;497;nm0828623;Michael Stevens
 Shutter Island;2010;2010s;USA;Drama;tt1130884;7;8.2;1092158;nm0000217;Martin Scorsese
+Inception;2010;2010s;USA;Thriller;tt1375666;7.5;8.8;2090769;nm0634240;Christopher Nolan
 Predators;2010;2010s;USA;Horror;tt1424381;7;6.4;209017;nm0030735;Nimród Antal
 Outrage;2010;2010s;Japan;Thriller;tt1462667;7;6.8;11806;nm0001429;Takeshi Kitano
 127 Hours;2010;2010s;USA;Thriller;tt1542344;7;7.5;341636;nm0000965;Danny Boyle
@@ -798,3 +799,6 @@ Martin;1977;1970s;USA;Horror;tt0077914;7.5;7.1;10026;nm0001681;George A. Romero
 Midnight Run;1988;1980s;USA;Comedy;tt0095631;8;7.5;76646;nm0000976;Martin Brest
 Running on Empty;1988;1980s;USA;Drama;tt0096018;7.75;7.7;14323;nm0001486;Sidney Lumet
 Angst;1983;1980s;Germany;Horror;tt0165623;7.25;7.3;8877;nm0439231;Gerald Kargl
+The Insider;1999;1990s;USA;Thriller;tt0140352;7.75;7.8;161004;nm0000520;Michael Mann
+Valmont;1989;1980s;France;Drama;tt0098575;7.75;7;12707;nm0001232;Milos Forman
+Ali: Fear Eats the Soul;1974;1970s;Germany;Drama;tt0071141;8.25;8.1;19241;nm0001202;Rainer Werner Fassbinder
