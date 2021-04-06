@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "March 2021"
+date: "April 2021"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score`. I still have ~25 movies to watch from 1970-2020, but there are hundreds to see from the 1950s and 1960s. Before exploring the 1960s, I'm trying to consolidate movies scores from the last 50 years. Anyway, here are the wishlists from the previous two decades:
+Showing movies with a minimal rating of `r min.score`. I still have ~25 movies to watch from 1970-2020, but there are hundreds to see from the 1950s and 1960s. Before exploring the 1960s, I'm trying to consolidate movies ratings from the last 50 years. Anyway, here are the wish-lists from the previous two decades:
 
 + [wishlist from the 1950s](https://www.imdb.com/list/ls089830524/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=G8MGE7R65T5SR6M8362N&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
@@ -126,7 +126,7 @@ br()
 
 ## Movie quality per Decade
 
-Let's see how many good films (rating at least 8) each decade produced,
+Let's see how many very good films (rating at least 8) each decade produced,
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {

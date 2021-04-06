@@ -110,6 +110,7 @@ The Conjuring;2013;2010s;USA;Horror;tt1457767;7.5;7.5;429175;nm1490123;James Wan
 Pacific Rim;2013;2010s;USA;Action;tt1663662;7.5;6.9;459112;nm0868219;Guillermo del Toro
 Oculus;2013;2010s;USA;Horror;tt2388715;7.5;6.5;114158;nm1093039;Mike Flanagan
 Prisoners;2013;2010s;USA;Thriller;tt1392214;7.75;8.1;578754;nm0898288;Denis Villeneuve
+Stoker;2013;2010s;USA;Thriller;tt1682180;7.75;6.8;101784;nm0661791;Chan-wook Park
 All is Lost;2013;2010s;USA;Thriller;tt2017038;7.75;6.9;74782;nm1170855;J.C. Chandor
 Snowpiercer;2013;2010s;South Korea;Politics;tt1706620;8.5;7.1;305381;nm0094435;Bong Joon Ho
 Sinsegye, New World;2013;2010s;South Korea;Drama;tt2625030;8.5;7.6;19692;nm4219902;Hoon-jung Park
@@ -257,7 +258,7 @@ Shaun of the Dead;2004;2000s;UK;Comedy;tt0365748;7.5;7.9;501173;nm0942367;Edgar 
 The Machinist;2004;2000s;Spain;Thriller;tt0361862;7.25;7.7;351890;nm0026442;Brad Anderson
 La Mala Educación;2004;2000s;Spain;Drama;tt0275491;7.5;7.4;54797;nm0000264;Pedro Almodóvar
 Million Dollar Baby;2004;2000s;USA;Drama;tt0405159;7.75;8.1;621702;nm0000142;Clint Eastwood
-Mar Adentro;2004;2000s;Spain:Drama;tt0369702;8;8;78018;nm0024622;Alejandro Amenábar
+Mar Adentro;2004;2000s;Spain;Drama;tt0369702;8;8;78018;nm0024622;Alejandro Amenábar
 Eternal Sunshine of the Spotless Mind;2004;2000s;USA;SciFi;tt0338013;8.5;8.3;887068;nm0327273;Michel Gondry
 Vera Drake;2004;2000s;UK;Drama;tt0383694;8.75;7.6;23491;nm0005139;Mike Leigh
 Kill Bill vol.2;2004;2000s;USA;Action;tt0378194;8.75;8;666464;nm0000233;Quentin Tarantino
@@ -355,12 +356,14 @@ American History X;1998;1990s;USA;Thriller;tt0120586;8.25;8.5;1011628;nm0443411;
 The Big Lebowski;1998;1990s;USA;Comedy;tt0118715;8.25;8.1;711040;nm0001054.nm0001053;Cohen Brothers
 Saving Private Ryan;1998;1990s;USA;War;tt0120815;8.5;8.6;1200222;nm0000229;Steven Spielberg
 Event Horizon;1997;1990s;USA;SciFi;tt0119081;7;6.7;154731;nm0027271;Paul W.S. Anderson
+As Good as it Gets;1997;1990s;USA;Comedy;tt0119822;7.25;7.7;277965;nm0000985;James L. Brooks
 Cube;1997;1990s;USA;SciFi;tt0123755;7.25;7.2;213849;nm0622112;Vincenzo Natali
 Funny Games;1997;1990s;USA;Horror;tt0119167;8;7.6;62955;nm0359734;Michael Haneke
 Perfect Blue;1997;1990s;USA;Horror;tt0156887;8;8;53608;nm0464804;Satoshi Kon
 Princess Mononoke;1997;1990s;Japan;Fantasy;tt0119698;8.5;8.4;334372;nm0594503;Hayao Miyazaki
 Hana-bi;1997;1990s;USA;Crime;tt0119250;8;7.8;26878;nm0001429;Takeshi Kitano
 Bent;1997;1990s;USA;War;tt0118698;8;7.2;7541;nm0558773;Sean Mathias
+Amistad;1997;1990s;USA;Historical;tt0118607;8;7.3;71825;nm0000229;Steven Spielberg
 The Fifth Element;1997;1990s;USA;SciFi;tt0119116;7.75;7.7;425066;nm0000108;Luc Besson
 Jackie Brown;1997;1990s;USA;Drama;tt0119396;8.25;7.5;308489;nm0000233;Quentin Tarantino
 Gattaca;1997;1990s;USA;SciFi;tt0119177;8.5;7.8;275127;nm0629272;Andrew Niccol
@@ -635,7 +638,6 @@ Faces;1968;1960s;USA;Drama;tt0062952;7.5;7.7;9213;nm0001023;John Cassavetes
 Targets;1968;1960s;USA;Thriller;tt0063671;7.5;7.4;8228;nm0000953;Peter Bogdanovich
 The Shoes of the Fisherman;1968;1960s;USA;Drama;tt0063599;7;7.1;3288;nm0027183;Michael Anderson
 Boogie Nights;1997;1990s;USA;Drama;tt0118749;8;7.9;233451;nm0000759;Paul Thomas Anderson
-Amistad;1997;1990s;USA;Historical;tt0118607;8;7.3;71825;nm0000229;Steven Spielberg
 The Crying Game;1992;1990s;UK;Thriller;tt0104036;7.25;7.2;50150;nm0001403;Neil Jordan
 Absence of Malice;1981;1980s;USA;Drama;tt0081974;7.5;6.9;11643;nm0001628;Sydney Pollack
 The Dresser;1983;1980s;UK;Drama;tt0085461;8.25;7.6;4697;nm0946811;Peter Yates
@@ -695,7 +697,6 @@ The Time Machine;1960;1960s;USA;SciFi;tt0054387;7.75;7.6;35531;nm0657162;George 
 Peeping Tom;1960;1960s;UK;Thriller;tt0054167;8;7.7;30135;nm0003836;Michael Powell
 Inherit the Wind;1960;1960s;USA;Historical;tt0053946;8.5;8.1;26748;nm0006452;Stanley Kramer
 Village of the Damned;1960;1960s;UK;Horror;tt0054443;7.5;7.3;14588;nm0727211;Wolf Rilla
-Stoker;2013;2010s;USA;Thriller;tt1682180;7.75;6.8;101784;nm0661791;Chan-wook Park
 Les Misérables;2019;2010s;France;Drama;tt10199590;7.5;7.6;15592;nm1868177;Lady Ly
 The Apartment;1960;1960s;USA;Comedy;tt0053604;8.25;8.3;160571;nm0000697;Billy Wilder
 After the Wedding;2006;2000s;Denmark;Drama;tt0457655;7.75;7.7;31519;nm0081540;Susanne Bier
@@ -810,3 +811,13 @@ Mephisto;1981;1980s;Germany;Drama;tt0082736;8.25;7.8;9637;nm0843640;István Szab
 Another Woman;1988;1980s;USA;Drama;tt0094663;7.5;7.3;13080;nm0000095;Woody Allen
 Kramer vs Kramer;1979;1970s;USA;Drama;tt0079417;7;7.8;134753;nm0000914;Robert Benton
 Abre los Ojos;1997;1990s;Spain;SciFi;tt0125659;7.75;7.7;64481;nm0024622;Alejandro Amenábar
+Play it again Sam;1972;1970s;USA;Comedy;tt0069097;7;7.6;24800;nm0000095;Woody Allen
+La Double Vie de Véronique;1991;1990s;France;Drama;tt0101765;7.5;7.8;43155;nm0001425;Krzysztof Kieslowski
+My Left Foot;1989;1980s;Ireland;Drama;tt0097937;8;7.9;68897;nm0006487;Jim Sheridan
+The Royal Tenenbaums;2001;2000s;USA;Comedy;tt0265666;7.75;7.6;269377;nm0027572;Wes Anderson
+Harold and Maude;1971;1970s;USA;Comedy;tt0067185;8.5;7.9;71464;nm0000797;Hal Ashby
+It's Such a Beautiful Day;2012;2010s;USA;Drama;tt2396224;8;8.3;11281;nm0381116;Don Hertzfeldt
+Trois Couleurs: Bleu;1993;1990s;France;Drama;tt0108394;7.25;7.9;91393;nm0001425;Krzysztof Kieslowski
+Gandhi;1982;1980s;UK;Historical;tt0083987;9.5;8.0;218925;nm0000277;Richard Attenborough
+Trois Couleurs: Rouge;1994;1990s;France;Drama;tt0111495;8;8.1;92239;nm0001425;Krzysztof Kieslowski
+Merry Christmas Mr. Lawrence;1983;1980s;Japan;War;tt0085933;7;7.3;15759;nm0651915;Nagisa Ôshima
