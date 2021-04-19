@@ -255,7 +255,7 @@ The Life Aquatic with Steve Zissou;2004;2000s;USA;Comedy;tt0362270;8;7.3;175298;
 Saw;2004;2000s;USA;Horror;tt0387564;8;7.6;371168;nm1490123;James Wan
 The Village;2004;2000s;USA;Horror;tt0368447;8;6.5;238160;nm0796117;M. Night Shyamalan
 The Passion of the Christ;2004;2000s;USA;Historical;tt0335345;9;7.2;212068;nm0000154;Mel Gibson
-Troy;2004;2000s;USA;Historical;tt0332452;7.25;7.2;478589;nm0000583;Wolfgang Petersen
+Troy;2004;2000s;USA;Historical;tt0332452;7.75;7.2;478589;nm0000583;Wolfgang Petersen
 Collateral;2004;2000s;USA;Action;tt0369339;7.5;7.5;351625;nm0000520;Michael Mann
 Shaun of the Dead;2004;2000s;UK;Comedy;tt0365748;7.5;7.9;501173;nm0942367;Edgar Wright
 The Machinist;2004;2000s;Spain;Thriller;tt0361862;7.25;7.7;351890;nm0026442;Brad Anderson
@@ -701,6 +701,25 @@ The Time Machine;1960;1960s;USA;SciFi;tt0054387;7.75;7.6;35531;nm0657162;George 
 Peeping Tom;1960;1960s;UK;Thriller;tt0054167;8;7.7;30135;nm0003836;Michael Powell
 Inherit the Wind;1960;1960s;USA;Historical;tt0053946;8.5;8.1;26748;nm0006452;Stanley Kramer
 Village of the Damned;1960;1960s;UK;Horror;tt0054443;7.5;7.3;14588;nm0727211;Wolf Rilla
+12 Angry Men;1957;1950s;USA;Drama;tt0050083;10;9;701886;nm0001486;Sidney Lumet
+Ben-Hur;1959;1950s;USA;Action;tt0052618;7.75;8.1;222051;nm0943758;William Wyler
+Julius Caesar;1953;1950s;USA;Historical;tt0045943;8.5;7.3;10561;nm0000581;Joseph L. Mankiewicz
+Seven Samurai;1954;1950s;Japan;Samurai;tt0047478;9.5;8.6;319845;nm0000041;Akira Kurosawa
+Rear Window;1954;1950s;USA;Thriller;tt0047396;9.5;8.4;449659;nm0000033;Alfred Hitchcock
+Vertigo;1958;1950s;USA;Thriller;tt0052357;9;8.3;369406;nm0000033;Alfred Hitchcock
+Them!;1954;1950s;USA;Horror;tt0047573;7.5;7.2;20157;nm0235066;Gordon Douglas
+Gojira;1954;1950s;Japan;Horror;tt0047034;8.25;7.6;30318;nm0393094;Ishirô Honda
+The Bridge on the River Kwai;1957;1950s;UK;War;tt0050212;8.25;8.1;205812;nm0000180;David Lean
+Forbidden Planet;1956;1950s;USA;SciFi;tt0049223;9;7.6;45710;nm0928208;Fred M. Wilcox
+Paths of Glory;1957;1950s;USA;War;tt0050825;9;8.4;181014;nm0000040;Stanley Kubrick
+Alice in Wonderland;1951;1950s;USA;Fantasy;tt0043274;8;7.4;130591;nm0314671;Clyde Geronimi
+Le Salaire de la Peur;1953;1950s;France;Thriller;tt0046268;9.5;8.1;55518;nm0167241;Henri-Georges Clouzot
+Moby Dick;1956;1950s;USA;Drama;tt0049513;8.5;7.3;17202;nm0001379;John Huston
+The Fly;1958;1950s;USA;Horror;tt0051622;7.25;7.1;21056;nm0627087;Kurt Neumann
+The Day the Earth Stood Still;1951;1950s;USA;SciFi;tt0043456;8.25;7.7;nm0936404;Robert Wise
+The Killing;1956;1950s;USA;Crime;tt0049406;8.5;8;82676;nm0000040;Stanley Kubrick
+Touch of Evil;1958;1950s;USA;Crime;tt0052311;9;8;99155;nm0000080;Orson Welles
+The Thing from Another World;1951;1950s;USA;Horror;tt0044121;7.5;7.1;26199;nm0638528;Christian Nyby
 Les Misérables;2019;2010s;France;Drama;tt10199590;7.5;7.6;15592;nm1868177;Lady Ly
 The Apartment;1960;1960s;USA;Comedy;tt0053604;8.25;8.3;160571;nm0000697;Billy Wilder
 After the Wedding;2006;2000s;Denmark;Drama;tt0457655;7.75;7.7;31519;nm0081540;Susanne Bier
@@ -844,3 +863,8 @@ The Scarlet and the Black;1983;1980s;USA;War;tt0086251;7;7.6;2844;nm0518719;Jerr
 Weathering with You;2019;2010s;Japan;Fantasy;tt9426210;7.25;7.5;25156;nm1396121;Makoto Shinkai
 The Inugami Family;1976;1970s;Japan;Crime;tt0074691;7.5;7.2;709;nm0406728;Kon Ichikawa
 Certified Copy;2010;2010s;France;Drama;tt1020773;7.25;7.3;21687;nm0452102;Abbas Kiarostami
+Rushmore;1998;1990s;USA;Comedy;tt0128445;8.25;7.7;171597;nm0027572;Wes Anderson
+Matewan;1987;1980s;USA;Historical;tt0093509;8;7.9;7432;nm0000626;John Sayles
+Rashomon;1950;1950s;Japan;Crime;tt0042876;9;8.2;154886;nm0000041;Akira Kurosawa
+Where's is the Friend's House;1987;1980s;Iran;Drama;tt0093342;7.5;8.1;10980;nm0452102;Abbas Kiarostami
+When Father was Away on Business;1985;1980s;Yoguslavia;Drama;tt0089748;7.5;7.8;8891;nm0001437;Emir Kusturica

@@ -30,6 +30,7 @@ df %>%
   rename(Rating = Score) %>% 
   rename(Votes = numVotes) %>% 
   rename(Director = primaryName) %>% 
+  #filter(Year >= 1960) %>% 
   select(-directors) %>% 
   select(-IMDB) -> df
 ```
@@ -54,7 +55,7 @@ Showing movies with a minimal rating of `r min.score`. I still have some movies 
 
 + [wishlist from the 1960s](https://www.imdb.com/list/ls089835133/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=E1XAD5HDMTDS4WJ8NJPH&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
-```{r, fig.width=12, echo=FALSE, eval=TRUE}
+```{r, fig.width=15, echo=FALSE, eval=TRUE}
 df %>% 
   filter(Rating >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
@@ -184,7 +185,7 @@ library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
 barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,200), col=brewer.pal(6, "Blues") )
-legend(7.5, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
+legend(8.75, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
 
