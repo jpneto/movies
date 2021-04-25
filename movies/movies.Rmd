@@ -49,16 +49,32 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score`. I still have some movies to watch from 1970-2020, but there are hundreds to see from the 1950s and 1960s. Before exploring the 1960s, I'm trying to consolidate movies ratings from the last 50 years. Anyway, here are the wish-lists for the previous two decades:
+Showing movies with a minimal rating of `r min.score`. The list of movies I wanted to see from 1970-2019 is complete. 
+
+```{r, fig.width=12, echo=FALSE, eval=TRUE}
+df %>% 
+  filter(Rating >= min.score) %>% 
+  count(Year, sort=TRUE) %>% 
+  filter(Year >= 1970) %>%
+  arrange( Year ) -> df2
+
+par(mar=c(3,1,1,1))
+plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
+text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
+```
+
+
+There are hundreds to see from the 1950s and 1960s, and these are the respective wish-lists:
 
 + [wishlist from the 1950s](https://www.imdb.com/list/ls089830524/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=G8MGE7R65T5SR6M8362N&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
 + [wishlist from the 1960s](https://www.imdb.com/list/ls089835133/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=E1XAD5HDMTDS4WJ8NJPH&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
-```{r, fig.width=15, echo=FALSE, eval=TRUE}
+```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
   filter(Rating >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
+  filter(Year < 1970) %>%
   arrange( Year ) -> df2
 
 par(mar=c(3,1,1,1))
@@ -217,7 +233,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director, 
                las=1, xlim=c(0,10+max(df5$n)), xaxt='n')
-text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 And finally who made the masterpieces (>=9.5),
@@ -231,7 +247,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director, 
                las=1, xlim=c(0,10+max(df5$n)), xaxt='n')
-text(y=plt, x=df5$n+0.5, label=df5$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## Movies per Genre
@@ -245,7 +261,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+8, label=df6$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df6$n+10, label=df6$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## Movies per Country
@@ -262,5 +278,5 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
                las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+2.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+3, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
