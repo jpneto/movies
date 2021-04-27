@@ -25,12 +25,13 @@ df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
 df$Score <- as.numeric(df$Score)
 df$numVotes <- as.numeric(df$numVotes)
 df$averageRating <- as.numeric(df$averageRating)
+df$runtimeMinutes <- as.numeric(df$runtimeMinutes)
 df %>% 
-  rename(ImdbRate = averageRating) %>% 
-  rename(Rating = Score) %>% 
+  rename(Imdb = averageRating) %>% 
+  rename(Rate = Score) %>% 
+  rename(Time = runtimeMinutes) %>% 
   rename(Votes = numVotes) %>% 
   rename(Director = primaryName) %>% 
-  #filter(Year >= 1960) %>% 
   select(-directors) %>% 
   select(-IMDB) -> df
 ```
@@ -53,7 +54,7 @@ Showing movies with a minimal rating of `r min.score`. The list of movies I want
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
-  filter(Rating >= min.score) %>% 
+  filter(Rate >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
   filter(Year >= 1970) %>%
   arrange( Year ) -> df2
@@ -72,7 +73,7 @@ There are hundreds to see from the 1950s and 1960s, and these are the respective
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
-  filter(Rating >= min.score) %>% 
+  filter(Rate >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
   filter(Year < 1970) %>%
   arrange( Year ) -> df2
@@ -90,7 +91,7 @@ inputPanel(
 
 output$g1 <- renderPlot({
   df %>% 
-  filter(Rating >= input$score) %>% 
+  filter(Rate >= input$score) %>% 
   count(Year, sort=TRUE) %>% 
   arrange( Year ) -> df2
 
@@ -111,7 +112,7 @@ Again using the same filter as above:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
 df %>% 
-  filter(Rating >= min.score) %>% 
+  filter(Rate >= min.score) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
 
@@ -128,7 +129,7 @@ inputPanel(
 
 output$g2 <- renderPlot({
 df %>% 
-  filter(Rating >= input$score2) %>% 
+  filter(Rate >= input$score2) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
 
@@ -155,7 +156,7 @@ rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
 }
 
 df %>% 
-  filter(Rating >= 8) %>% 
+  filter(Rate >= 8) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
 
@@ -167,7 +168,7 @@ And how many great films (rating at least 9) each decade produced,
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 df %>% 
-  filter(Rating >= 9) %>% 
+  filter(Rate >= 9) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
 
@@ -179,7 +180,7 @@ And masterpieces (rating of at least 9.5) per decade,
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 df %>% 
-  filter(Rating >= 9.5) %>% 
+  filter(Rate >= 9.5) %>% 
   count(Decade, sort=TRUE) %>% 
   arrange( Decade ) -> df2
 
@@ -191,7 +192,7 @@ The next plot shows how different rating ranges are represented by decade,
 
 ```{r, fig.width=8, fig.height=6, warning=FALSE, echo=FALSE}
 df %>% 
-  mutate(interval = cut(df$Rating, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
+  mutate(interval = cut(df$Rate, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
   group_by(Decade, interval, .drop = FALSE) %>% 
   summarise(count=n()) -> df3
 
@@ -225,7 +226,7 @@ Directors with movies with a rating of at least 8.5,
 
 ```{r, fig.width=12, fig.height=6, echo=FALSE}
 df %>% 
-  filter(Rating >= 8.5) %>% 
+  filter(Rate >= 8.5) %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
   filter(n>2) -> df5
@@ -240,7 +241,7 @@ And finally who made the masterpieces (>=9.5),
 
 ```{r, fig.width=12, fig.height=6, echo=FALSE}
 df %>% 
-  filter(Rating >= 9.5) %>% 
+  filter(Rate >= 9.5) %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) -> df5
 
@@ -270,7 +271,7 @@ Most movies I see are from Hollywood, but let's check how others countries are r
 
 ```{r, fig.width=12, fig.height=8, warning=FALSE, echo=FALSE}
 df %>% 
-  filter(Rating >= 7) %>% 
+  filter(Rate >= 7) %>% 
   filter (Country!='USA') %>% 
   count(Country, sort=TRUE) %>% 
   arrange( desc(Country) ) -> df2
