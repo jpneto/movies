@@ -6,7 +6,7 @@ output: html_document
 ---
 
 <!--  To run shiny server place this above
-runtime: shiny
+runtime: shiny 
 -->
 
 ```{r setup, include=FALSE}
@@ -50,7 +50,7 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score`. The list of movies I wanted to see from 1970-2019 is complete. 
+Showing movies with a minimal rating of `r min.score`. The list of movies I wanted to see from 1970-2019 is (somewhat) complete. 
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
@@ -65,7 +65,13 @@ text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
 ```
 
 
-There are hundreds to see from the 1950s and 1960s, and these are the respective wish-lists:
+There are hundreds to see from the 1930s to the 1960s, and these are the respective wish-lists:
+
++ [wishlist from the 1930s](https://www.imdb.com/list/ls088107424/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=GJR77FD60TS77BB3BTM4&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=wt_otl_2)
+
+
++ [wishlist from the 1940s](https://www.imdb.com/list/ls088795556/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=0FCARTR5AZ8DRVB27SH3&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=wt_otl_4)
+
 
 + [wishlist from the 1950s](https://www.imdb.com/list/ls089830524/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=G8MGE7R65T5SR6M8362N&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
@@ -108,6 +114,17 @@ br()
 
 ## Number of Selected Movies per Decade
 
+```{r, echo=FALSE, eval=TRUE}
+rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
+  ymax <- max(data[[column_to_plot]])*1.25
+  plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", yaxt="n", ylim=c(0,ymax))
+  text(plt, par("usr")[3], labels = labels_vec, srt = rot_angle, 
+       adj = c(1.1,1.1), xpd = TRUE, cex=1) 
+  text(x = plt, y = data$n, label = data$n, pos = 3, cex = 1.2, col = my.color)
+}
+```
+
+
 Again using the same filter as above:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
@@ -117,8 +134,9 @@ df %>%
   arrange( Decade ) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
-plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
-text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col=my.color)
+rotate_x(df2, 'n', df2$Decade, 45)
+# plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
+# text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col=my.color)
 ```
 
 ```{r, echo=FALSE, eval=FALSE}
@@ -147,14 +165,6 @@ br()
 Let's see how many very good films (rating at least 8) each decade produced,
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
-rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
-  ymax <- max(data[[column_to_plot]])*1.25
-  plt <- barplot(data[[column_to_plot]], col='steelblue', xaxt="n", yaxt="n", ylim=c(0,ymax))
-  text(plt, par("usr")[3], labels = labels_vec, srt = rot_angle, 
-       adj = c(1.1,1.1), xpd = TRUE, cex=1) 
-  text(x = plt, y = data$n, label = data$n, pos = 3, cex = 1.2, col = my.color)
-}
-
 df %>% 
   filter(Rate >= 8) %>% 
   count(Decade, sort=TRUE) %>% 
@@ -202,7 +212,7 @@ library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
 barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,200), col=brewer.pal(6, "Blues") )
-legend(8.75, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
+legend(11, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
 
@@ -281,3 +291,11 @@ plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
 text(y=plt, x=df2$n+3, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
+
+
+```{r, echo=FALSE, eval=FALSE}
+plot(df$Year, df$Rate, pch=20, col='lightgrey')
+fit <- lm(Rate ~ Year, df)
+abline(fit, col='blue')
+```
+
