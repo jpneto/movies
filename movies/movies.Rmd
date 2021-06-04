@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "April 2021"
+date: "February -- June, 2021"
 output: html_document
 ---
 
@@ -36,7 +36,7 @@ df %>%
   select(-IMDB) -> df
 ```
 
-This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around one third of all the movies I've seen and is, obviously, quite subjective :-)
+This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around 40% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)

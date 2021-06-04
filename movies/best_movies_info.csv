@@ -1,4 +1,7 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+Wrath of Man;2021;2020s;UK;Action;119;tt11083552;7.25;7.4;8726;nm0005363;Guy Ritchie
+Riders of Justice;2020;2020s;Denmark;Action;116;tt11655202;7.25;7.7;12693;nm0421314;Anders Thomas Jensen
+Archive;2020;2020s;UK;SciFi;109;tt6882604;7;6.4;14320;nm2707210;Gavin Rothery
 Another Round;2020;2020s;Denmark;Drama;117;tt10288566;8.25;7.8;77007;nm0899121;Thomas Vinterberg
 Quo Vadis, Aida?;2020;2020s;Bosnia and Herzegovina;Historical;101;tt8633462;8.25;7.8;15275;nm1120092;Jasmila Zbanic
 Dear Comrades!;2020;2020s;Russia;Historical;121;tt10796286;7.5;7.3;2405;nm0464846;Andrey Konchalovskiy
@@ -231,6 +234,7 @@ The Mist;2007;2000s;USA;Horror;126;tt0884328;8.5;7.1;275327;nm0001104;Frank Dara
 No Country for Old Men;2007;2000s;USA;Drama;122;tt0477348;8.75;8.1;828492;nm0001054.nm0001053;Cohen Brothers
 There Will Be Blood;2007;2000s;USA;Drama;158;tt0469494;8.75;8.2;501197;nm0000759;Paul Thomas Anderson
 Little Miss Sunshine;2006;2000s;USA;Comedy;101;tt0449059;7.25;7.8;430977;nm0206760;Jonathan Dayton
+Blood Diamond;2006;2000s;USA;Thriller;143;tt0450259;7.5;8;508392;nm0001880;Edward Zwick
 Zwartboek, Black Book;2006;2000s;Netherlands;War;145;tt0389557;7.5;7.7;73466;nm0000682;Paul Verhoeven
 Babel;2006;2000s;USA;Drama;143;tt0449467;7.25;7.4;289982;nm0327944;Alejandro G. Iñárritu
 This is England;2006;2000s;UK;Drama;101;tt0480025;8;7.7;114593;nm0276349;Shane Meadows
@@ -629,6 +633,7 @@ The Offence;1973;1970s;USA;Drama;112;tt0070468;8.25;7;5488;nm0001486;Sidney Lume
 Serpico;1973;1970s;USA;Crime;130;tt0070666;8.5;7.7;106208;nm0001486;Sidney Lumet
 The Exorcist;1973;1970s;USA;Horror;122;tt0070047;9.5;8;353406;nm0001243;William Friedkin
 Solyaris;1972;1970s;Russia;SciFi;167;tt0069293;8;8.1;77861;nm0001789;Andrei Tarkovsky
+Silent Running;1972;1970s;USA;SciFi;89;tt0067756;7;6.7;27188;nm0874320;Douglas Trumbull
 Mad Max;1979;1970s;Australia;SciFi;88;tt0079501;7;6.9;191715;nm0004306;George Miller
 The Towering Inferno;1974;1970s;USA;Thriller;165;tt0072308;7.5;7;39452;nm0347086;John Guillermin
 Assault on Precinct 13;1976;1970s;USA;Thriller;91;tt0074156;7.5;7.4;43907;nm0000118;John Carpenter
@@ -651,7 +656,7 @@ Colossus: The Forbin Project;1970;1970s;USA;SciFi;100;tt0064177;9;7.1;7959;nm076
 A Man Called Horse;1970;1970s;USA;Western;114;tt0066049;8.5;6.9;7937;nm0799033;Elliot Silverstein
 L'aveu;1970;1970s;France;Historical;139;tt0065439;8.5;7.9;3612;nm0002020;Costa-Gavras
 Butch Cassidy and the Sundance Kid;1969;1960s;USA;Western;110;tt0064115;7.75;8;198893;nm0001351;George Roy Hill
-Midnight Cowboy;1969;1960s;USA;Drama;113;tt0064665;8;7.8;98569;nm0772259; John Schlesinger
+Midnight Cowboy;1969;1960s;USA;Drama;113;tt0064665;8;7.8;98569;nm0772259;John Schlesinger
 Easy Rider;1969;1960s;USA;Drama;95;tt0064276;8;7.3;97597;nm0000454;Dennis Hopper
 The Wild Bunch;1969;1960s;USA;Western;135;tt0065214;8;7.9;75994;nm0001603;Sam Peckinpah
 They Shoot Horses, Don't They?;1969;1960s;USA;Drama;129;tt0065088;8.25;7.9;15829;nm0001628;Sydney Pollack
@@ -687,6 +692,7 @@ Abril Despedaçado;2001;2000s;Brazil;Drama;105;tt0291003;7.5;7.6;6698;nm0758574;
 Memories of Murder;2003;2000s;South Korea;Thriller;131;tt0353969;7.5;8.1;128780;nm0094435;Bong Joon Ho
 The Chaser;2008;2000s;South Korea;Thriller;125;tt1190539;8;7.8;56403;nm2947553;Hong-jin Na
 A Man for All Seasons;1966;1960s;UK;Historical;120;tt0060665;8.75;7.7;30559;nm0003593;Fred Zinnemann
+The Good, the Bad and the Ugly;1966;1960s;Italy;Western;161;tt0060196;9.5;8.8;700845;nm0001466;Sergio Leone
 Spirited Away;2001;2000s;Japan;Fantasy;125;tt0245429;9.25;8.6;628366;nm0594503;Hayao Miyazaki
 My Friend Totoro;1988;1980s;Japan;Fantasy;86;tt0096283;8.5;8.2;279279;nm0594503;Hayao Miyazaki
 Howl's Moving Castle;2004;2000s;Japan;Fantasy;119;tt0347149;8;8.2;320155;nm0594503;Hayao Miyazaki
@@ -734,6 +740,7 @@ Village of the Damned;1960;1960s;UK;Horror;77;tt0054443;7.5;7.3;14588;nm0727211;
 The Incredible Shrinking Man;1957;1950s;USA;SciFi;81;tt0050539;7.75;7.6;16390;nm0000791;Jack Arnold
 Ben-Hur;1959;1950s;USA;Action;212;tt0052618;7.75;8.1;222051;nm0943758;William Wyler
 Julius Caesar;1953;1950s;USA;Historical;120;tt0045943;8.5;7.3;10561;nm0000581;Joseph L. Mankiewicz
+War of the Worlds;1953;1950s;USA;SciFi;85;tt0046534;7.5;7.1;33181;nm0005738;Byron Haskin
 Seven Samurai;1954;1950s;Japan;Samurai;207;tt0047478;9.5;8.6;319845;nm0000041;Akira Kurosawa
 Rear Window;1954;1950s;USA;Thriller;112;tt0047396;9.5;8.4;449659;nm0000033;Alfred Hitchcock
 Vertigo;1958;1950s;USA;Thriller;128;tt0052357;9;8.3;369406;nm0000033;Alfred Hitchcock
@@ -746,7 +753,7 @@ Alice in Wonderland;1951;1950s;USA;Fantasy;75;tt0043274;8;7.4;130591;nm0314671;C
 Le Salaire de la Peur;1953;1950s;France;Thriller;131;tt0046268;9.75;8.1;55518;nm0167241;Henri-Georges Clouzot
 Moby Dick;1956;1950s;USA;Drama;116;tt0049513;8.5;7.3;17202;nm0001379;John Huston
 The Fly;1958;1950s;USA;Horror;94;tt0051622;7.25;7.1;21056;nm0627087;Kurt Neumann
-The Day the Earth Stood Still;1951;1950s;USA;SciFi;92;tt0043456;8.25;7.7;nm0936404;Robert Wise
+The Day the Earth Stood Still;1951;1950s;USA;SciFi;92;tt0043456;8.25;7.7;76887;nm0936404;Robert Wise
 The Killing;1956;1950s;USA;Crime;84;tt0049406;8.5;8;82676;nm0000040;Stanley Kubrick
 Touch of Evil;1958;1950s;USA;Crime;95;tt0052311;9;8;99155;nm0000080;Orson Welles
 The Thing from Another World;1951;1950s;USA;Horror;87;tt0044121;7.5;7.1;26199;nm0638528;Christian Nyby
@@ -786,6 +793,7 @@ The Friends of Eddie Coyle;1973;1970s;USA;Crime;102;tt0070077;7.5;7.5;8795;nm094
 The Long Goodbye;1973;1970s;USA;Crime;112;tt0070334;7;7.6;26239;nm0000265;Robert Altman
 Charley Varrick;1973;1970s;USA;Crime;111;tt0069865;7.5;7.5;10960;nm0796923;Don Siegel
 The Shootist;1976;1970s;USA;Drama;100;tt0075213;8;7.6;22120;nm0796923;Don Siegel
+The Hills have Eyes;1977;1970s;USA;Horror;90;tt0077681;7;6.3;31234;nm0000127;Wes Craven
 Hardcore;1979;1970s;USA;Drama;108;tt0079271;8;7.1;9162;nm0001707;Paul Schrader
 Patton;1970;1970s;USA;War;172;tt0066206;8.25;7.9;93698;nm0769874;Franklin J. Schaffner
 The Anderson Tapes;1971;1970s;USA;Crime;99;tt0066767;7;6.4;7110;nm0001486;Sidney Lumet
@@ -821,7 +829,7 @@ Capricorn One;1977;1970s;USA;Thriller;123;tt0077294;7.25;6.9;20334;nm0001382;Pet
 Blood Simple;1984;1980s;USA;Thriller;99;tt0086979;7;7.6;88070;nm0001053.nm0001054;Cohen Brothers
 Carrie;1976;1970s;USA;Horror;98;tt0074285;7.75;7.4;168760;nm0000361;Brian De Palma
 The Front;1976;1970s;USA;Drama;95;tt0074554;7.5;7.3;8235;nm0728688;Martin Ritt
-Interiors;1977;1970s;USA;Drama;92;tt0077742;7.25;7.4;18338;nm0000095;Woody Allen
+Interiors;1978;1970s;USA;Drama;92;tt0077742;7.25;7.4;18338;nm0000095;Woody Allen
 Hotel Rwanda;2004;2000s;UK;Historical;121;tt0395169;8.5;8.1;335214;nm0313623;Terry George
 Sleeper;1973;1970s;USA;Comedy;89;tt0070707;7;7.2;39848;nm0000095;Woody Allen
 The Tragedy of Macbeth;1971;1970s;UK;Drama;140;tt0067372;7.5;7.4;12602;nm0000591;Roman Polanski
@@ -944,3 +952,16 @@ Huo Zhe, To Live;1994;1990s;China;Drama;133;tt0110081;9.25;8.3;16434;nm0955443;Y
 Story of Qiu Ju;1992;1990s;China;Drama;100;tt0105197;7.5;7.6;5545;nm0955443;Yimou Zhang
 Starred Up;2013;2010s;UK;Crime;106;tt2567712;8.25;7.4;44004;nm0533284;David Mackenzie
 Farewell my Concubine;1993;1990s;China;Historical;171;tt0106332;9;8.1;25718;nm0155280;Kaige Chen
+Brat 2;2000;2000s;Russia;Crime;122;tt0238883;7.5;7.8;12964;nm0049326;Aleksey Balabanov
+Fantastic Mr. Fox;2009;2000s;USA;Comedy;87;tt0432283;7.5;7.9;206161;nm0027572;Wes Anderson
+Festen, The Celebration;1998;1990s;Denmark;Drama;105;tt0154420;8.25;8.1;80132;nm0899121;Thomas Vinterberg
+Cronos;1993;1990s;Mexico;Horror;94;tt0104029;7;6.7;27679;nm0868219;Guillermo del Toro
+Husbands and Wives;1992;1990s;USA;Drama;108;tt0104466;8;7.5;27920;nm0000095;Woody Allen
+Orphan;2009;2000s;USA;Horror;123;tt1148204;7;7;195576;nm1429471;Jaume Collet-Serra
+Music Box;1989;1980s;USA;Drama;124;tt0100211;7.75;7.4;7126;nm0002020;Costa-Gavras
+Amen.;2002;2000s;France;Drama;132;tt0280653;8;7.2;13623;nm0002020;Costa-Gavras
+All or Nothing;2002;2000s;UK;Drama;138;tt0286261;7.75;7.5;10127;nm0005139;Mike Leigh
+Life is Sweet;1990;1990s;UK;Drama;103;tt0100024;7;7.5;9418;nm0005139;Mike Leigh
+Submarino;2010;2010s;Denmark;Drama;105;tt1322385;8.25;7.5;9794;nm0899121;Thomas Vinterberg
+A Man called Ove;2015;2010s;Sweden;Comedy;116;tt4080728;8.25;7.7;49231;nm0391502;Hannes Holm
+Carlito's Way;1993;1990s;USA;Crime;144;tt0106519;8.25;7.9;204719;nm0000361;Brian De Palma
