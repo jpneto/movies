@@ -214,7 +214,7 @@ library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
 barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,200), col=brewer.pal(6, "Blues") )
-legend(11, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
+legend(.25, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
 
