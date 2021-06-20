@@ -26,6 +26,7 @@ df$Score <- as.numeric(df$Score)
 df$numVotes <- as.numeric(df$numVotes)
 df$averageRating <- as.numeric(df$averageRating)
 df$runtimeMinutes <- as.numeric(df$runtimeMinutes)
+df$link <- paste0('<a href="https://www.imdb.com/title/', df$IMDB, '" target="_blank">imdb</a>')
 df %>% 
   rename(Imdb = averageRating) %>% 
   rename(Rate = Score) %>% 
@@ -40,7 +41,7 @@ This table includes movies I think show an above than average quality in either 
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
-DT::datatable(df) 
+DT::datatable(df, escape=FALSE) 
 ```
 
 ## Number of Selected Movies per Year
