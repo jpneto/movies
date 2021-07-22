@@ -1,4 +1,5 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+No Sudden Move;2021;2020s;USA;Crime;115;tt11525644;7;6.8;1296;nm0001752;Steven Soderbergh
 Judas and the Black Messiah;2021;2020s;USA;Politics;126;tt9784798;8.25;7.5;50499;nm3489851;Shaka King
 Wrath of Man;2021;2020s;UK;Action;119;tt11083552;7.25;7.4;8726;nm0005363;Guy Ritchie
 Promising Young Woman;2020;2020s;USA;Thriller;113;tt9620292;7.5;7.5;105645;nm2193504;Emerald Fennell
@@ -30,6 +31,7 @@ The Lighthouse;2019;2010s;USA;Horror;109;tt7984734;8.25;7.5;156488;nm3211470;Rob
 Once Upon a Time in Hollywood;2019;2010s;USA;Drama;161;tt7131622;8.5;7.6;590519;nm0000233;Quentin Tarantino
 Joker;2019;2010s;USA;Drama;122;tt7286456;9.25;8.4;1012226;nm0680846;Todd Phillips
 Dr. Sleep;2019;2010s;USA;Horror;152;tt5606664;8;7.3;154219;nm1093039;Mike Flanagan
+Dolor y Gloria;2019;2010s;Spain;Drama;113;tt8291806;7;7.5;52112;nm0000264;Pedro Almodóvar
 Parasite;2019;2010s;South Korea;Drama;132;tt6751668;9.25;8.6;619889;nm0094435;Bong Joon Ho
 El Hoyo;2019;2010s;Spain;Dystopia;94;tt8228288;7;7;179163;nm2008067;Galder Gaztelu-Urrutia
 Glass;2019;2010s;USA;Thriller;129;tt6823368;7;6.6;217307;nm0796117;M. Night Shyamalan
@@ -76,12 +78,13 @@ Logan;2017;2010s;USA;Action;137;tt3315342;8.25;8.1;625083;nm0003506;James Mangol
 Wind River;2017;2010s;USA;Thriller;107;tt5362988;8.5;7.7;194552;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;2010s;USA;SciFi;164;tt1856101;9.5;8;442567;nm0898288;Denis Villeneuve
 The Wailing;2016;2010s;South Korea;Horror;156;tt5215952;7;7.4;46446;nm2947553;Hong-jin Na
+Hacksaw Ridge;2016;2010s;USA;War;139;tt2119532;7.25;8.1;454346;nm0000154;Mel Gibson
 Split;2016;2010s;USA;Horror;117;tt4972582;7.5;7.3;406843;nm0796117;M. Night Shyamalan
 Don't Breathe;2016;2010s;USA;Horror;88;tt4160708;8;7.1;211623;nm1793079;Fede Alvarez
 Captain Fantastic;2016;2010s;USA;Comedy;118;tt3553976;8;7.9;181219;nm0743671;Matt Ross
 Anthropoid;2016;2010s;Czech Republic;War;120;tt4190530;7.25;7.2;44898;nm1193346;Sean Ellis
 Geumul;2016;2010s;South Korea;Politics;114;tt5996202;7.25;7.3;2732;nm1104118;Ki-duk Kim
-The Salesman;2016;2010s;Iran;Drama;124;tt5186714;7.5;7.8;48935;nm1410815;Asghar Farhadi
+The Salesman;2016;2010s;Iran;Drama;124;tt5186714;7.75;7.8;48935;nm1410815;Asghar Farhadi
 Silence;2016;2010s;USA;Historical;161;tt0490215;7.5;7.2;96804;nm0000217;Martin Scorsese
 Rogue One;2016;2010s;USA;Fantasy;133;tt3748528;7.75;7.8;537059;nm2284484;Gareth Edwards
 The Autopsy of Jane Doe;2016;2010s;USA;Horror;86;tt3289956;7.5;6.8;92696;nm0004217;André Øvredal
@@ -141,7 +144,7 @@ Patema Inverted;2013;2010s;Japan;SciFi;98;tt2981768;8.5;7.4;7344;nm3602074;Yasuh
 Universal Soldier. Day of Reckoning;2012;2010s;USA;Action;114;tt1659343;7;5;18989;nm0404882;John Hyams
 Killing Them Softly;2012;2010s;USA;Horror;97;tt1764234;7;6.2;130909;nm0231596;Andrew Dominik
 Chronicle;2012;2010s;USA;SciFi;89;tt1706593;7;7;236938;nm2503633;Josh Trank
-Cloud Atlas;2012;2010s;USA;Drama;172;tt1371111;8;7.4;339643;nm0905154.nm0878756.nm0905152;Wachowski Brothers
+Cloud Atlas;2012;2010s;USA;Drama;172;tt1371111;8;7.4;339643;nm0905152.nm0905154;Wachowski Brothers
 Dredd;2012;2010s;USA;SciFi;95;tt1343727;7.5;7.1;245770;nm0871428;Pete Travis
 Moonrise Kingdom;2012;2010s;USA;Comedy;94;tt1748122;7.25;7.8;310762;nm0027572;Wes Anderson
 Jagten, The Hunt;2012;2010s;Denmark;Drama;115;tt2106476;8;8.3;285373;nm0899121;Thomas Vinterberg
@@ -153,6 +156,7 @@ Looper;2012;2010s;USA;SciFi;113;tt1276104;8.5;7.4;525127;nm0426059;Rian Johnson
 Pieta;2012;2010s;South Korea;Drama;103;tt2299842;8.5;7.2;12666;nm1104118;Ki-duk Kim
 Hugo;2011;2010s;USA;Drama;126;tt0970179;7;7.5;299021;nm0000217;Martin Scorsese
 The Thing;2011;2010s;USA;Horror;103;tt0905372;7;6.2;122844;nm0374048;Matthijs van Heijningen
+Once Upon a Time in Anatolia;2011;2010s;Turkey;Crime;157;7.25;7.9;43685;nm0149196;Nuri Bilge Ceylan
 Margin Call;2011;2010s;USA;Thriller;107;tt1615147;7;7.1;114618;nm1170855;J.C. Chandor
 Carnage;2011;2010s;France;Drama;80;tt1692486;7;7.2;120129;nm0000591;Roman Polanski
 We Need to Talk About Kevin;2011;2010s;USA;Thriller;112;tt1242460;8;7.5;133932;nm0708903;Lynne Ramsay
@@ -198,6 +202,7 @@ Watchmen;2009;2000s;USA;Dystopia;162;tt0409459;8.5;7.6;489748;nm0811583;Zack Sny
 Moon;2009;2000s;USA;SciFi;97;tt1182345;8.5;7.9;329036;nm1512910;Duncan Jones
 Inglourious Basterds;2009;2000s;USA;War;153;tt0361748;8.5;8.3;1225885;nm0000233;Quentin Tarantino
 Gran Torino;2008;2000s;USA;Drama;116;tt1205489;7.5;8.1;708580;nm0000142;Clint Eastwood
+Ip Man;2008;2000s;Hong Kong;Action;106;tt1220719;7;8;214700;nm0948159;Wilson Yip
 Slumdog Millionaire;2008;2000s;India;Drama;120;tt1010048;7.75;8;806230;nm0000965;Danny Boyle
 Taken;2008;2000s;USA;Action;90;tt0936501;7;7.8;557162;nm0603628;Pierre Morel
 Martyrs;2008;2000s;France;Horror;99;tt1029234;8;7.1;80524;nm1052791;Pascal Laugier
@@ -224,7 +229,7 @@ Rescue Dawn;2007;2000s;USA;Drama;120;tt0462504;7;7.3;99372;nm0001348;Werner Herz
 Eastern Promises;2007;2000s;UK;Crime;100;tt0765443;7.75;7.6;228877;nm0000343;David Cronenberg
 [Rec];2007;2000s;Spain;Horror;78;tt1038988;8;7.4;161912;nm0687042.nm0049371;Jaume Balagueró
 Tropa de Elite;2007;2000s;Brazil;Thriller;115;tt0861739;7.75;8.1;96672;nm0655683;José Padilha
-Shoot 'Em Up;2007;2000s;USA;Action;86;tt0465602;7;6.7;143207;nm0205157;Michael Davis
+Shoot 'Em Up;2007;2000s;USA;Action;86;tt0465602;7.5;6.7;143207;nm0205157;Michael Davis
 Los cronocrímenes (Timecrimes);2007;2000s;Spain;SciFi;92;tt0480669;8;7.2;56457;nm1443023;Nacho Vigalondo
 Secret Sunshine;2007;2000s;South Korea;Drama;142;tt0817225;8;7.5;6694;nm0496969;Chang-dong Lee
 The Assassination of Jesse James;2007;2000s;USA;Western;160;tt0443680;10;7.5;165496;nm0231596;Andrew Dominik
@@ -255,8 +260,10 @@ The Fountain;2006;2000s;USA;SciFi;97;tt0414993;8.5;7.2;224805;nm0004716;Darren A
 The Last King of Scotland;2006;2000s;UK;Historical;123;tt0455590;7.5;7.7;175744;nm0531817;Kevin Macdonald
 Children of Men;2006;2000s;USA;Dystopia;109;tt0206634;9.5;7.9;455067;nm0190859;Alfonso Cuarón
 Un Long Dimanche;2004;2000s;France;Drama;133;tt0344510;7.5;7.6;71251;nm0000466;Jean-Pierre Jeunet
+Primer;2004;2000s;USA;SciFi;77;tt0390384;7.25;6.9;100775;nm1503403;Shane Carruth
 Love and Honor;2006;2000s;Japan;Samurai;122;tt0483578;8;7.7;3517;nm0945282;Yôji Yamada
 The Exorcism of Emily Rose;2005;2000s;USA;Horror;119;tt0404032;7;6.7;116897;nm0220600;Scott Derrickson
+Jarhead;2005;2000s;USA;War;125;tt0418763;7;7;179226;nm0005222;Sam Mendes
 A History of Violence;2005;2000s;Canada;Thriller;96;tt0399146;7.5;7.4;224730;nm0000343;David Cronenberg
 The Proposition;2005;2000s;Australia;Western;104;tt0421238;7;7.3;49457;nm0384825;John Hillcoat
 Match Point;2005;2000s;UK;Thriller;124;tt0416320;7.5;7.6;207150;nm0000095;Woody Allen
@@ -301,7 +308,7 @@ A Tale of Two Sisters;2003;2000s;USA;Horror;114;tt0365376;7;7.2;54679;nm0453518;
 21 Grams;2003;2000s;USA;Drama;124;tt0315733;8;7.7;220980;nm0327944;Alejandro G. Iñárritu
 Master and Commander;2003;2000s;USA;Historical;138;tt0311113;9;7.4;197985;nm0001837;Peter Weir
 Ong-Bak;2003;2000s;Thailand;Action;108;tt0368909;8;7.2;70120;nm1272773;Prachya Pinkaew
-Matrix Revolutions;2003;2000s;USA;SciFi;129;tt0242653;7.25;6.8;438616;nm0905154.nm0905152;Wachowski Brothers
+Matrix Revolutions;2003;2000s;USA;SciFi;129;tt0242653;7.25;6.8;438616;nm0905152.nm0905154;Wachowski Brothers
 Matrix Reloaded;2003;2000s;USA;SciFi;138;tt0234215;7.5;7.2;504957;nm0905152.nm0905154;Wachowski Brothers
 Os Imortais;2003;2000s;Portugal;Crime;130;tt0367878;7.5;7.3;1282;nm0890367;António-Pedro Vasconcelos
 Zatôichi;2003;2000s;Japan;Samurai;116;tt0363226;8.25;7.5;46519;nm0001429;Takeshi Kitano
@@ -336,7 +343,7 @@ Irréversible;2002;2000s;France;Drama;97;tt0290673;8.5;7.4;116286;nm0637615;Gasp
 Sympathy for Mr.Vengeance;2002;2000s;South Korea;Thriller;129;tt0310775;8.75;7.6;60851;nm0661791;Chan-wook Park
 Artificial Intelligence;2001;2000s;USA;SciFi;146;tt0212720;7;7.2;285927;nm0000229;Steven Spielberg
 Donnie Darko;2001;2000s;USA;Drama;113;tt0246578;7.5;8;743761;nm0446819;Richard Kelly
-La stanza del figlio;2001;2000s;Italy;Drama;99;tt0208990;7.5;7.3;17337;nm0604335;Nanni Moretti
+La Stanza del Figlio;2001;2000s;Italy;Drama;99;tt0208990;7.5;7.3;17337;nm0604335;Nanni Moretti
 Ichi the Killer;2001;2000s;Japan;Action;129;tt0296042;8;7;51294;nm0586281;Takashi Miike
 Conspiracy;2001;2000s;USA;Thriller;96;tt0266425;8;7.7;18180;nm0682757;Frank Pierson
 Das Experiment;2001;2000s;Germany;Politics;120;tt0250258;8;7.7;89848;nm0386570;Oliver Hirschbiegel
@@ -376,7 +383,7 @@ The Sixth Sense;1999;1990s;USA;Horror;107;tt0167404;8;8.1;892352;nm0796117;M. Ni
 Eyes Wide Shut;1999;1990s;USA;Thriller;159;tt0120663;7.75;7.4;293594;nm0000040;Stanley Kubrick
 American Beauty;1999;1990s;USA;Drama;122;tt0169547;8.5;8.3;1046820;nm0005222;Sam Mendes
 Todo sobre mi madre;1999;1990s;Spain;Drama;101;tt0185125;8.5;7.8;86809;nm0000264;Pedro Almodóvar
-The Matrix;1999;1990s;USA;SciFi;136;tt0133093;9.25;8.7;1627351;nm0905154.nm0905152;Wachowski Brothers
+The Matrix;1999;1990s;USA;SciFi;136;tt0133093;9.25;8.7;1627351;nm0905152.nm0905154;Wachowski Brothers
 Sphere;1998;1990s;USA;SciFi;134;tt0120184;7;6.1;97732;nm0001469;Barry Levinson
 The Truman Show;1998;1990s;USA;Drama;103;tt0120382;8;8.1;907288;nm0001837;Peter Weir
 Dark City;1998;1990s;USA;SciFi;100;tt0118929;8;7.6;184822;nm0001639;Alex Proyas
@@ -391,6 +398,7 @@ American History X;1998;1990s;USA;Thriller;119;tt0120586;8.25;8.5;1011628;nm0443
 The Big Lebowski;1998;1990s;USA;Comedy;117;tt0118715;8.25;8.1;711040;nm0001054.nm0001053;Cohen Brothers
 Saving Private Ryan;1998;1990s;USA;War;169;tt0120815;8.5;8.6;1200222;nm0000229;Steven Spielberg
 Event Horizon;1997;1990s;USA;SciFi;96;tt0119081;7;6.7;154731;nm0027271;Paul W.S. Anderson
+La Vita è Bella;1997;1990s;Italy;Drama;116;tt0118799;7.5;8.6;639863;nm0000905;Roberto Benigni
 The Game;1997;1990s;USA;Thriller;129;tt0119174;7.25;7.8;350531;nm0000399;David Fincher
 As Good as it Gets;1997;1990s;USA;Comedy;139;tt0119822;7.25;7.7;277965;nm0000985;James L. Brooks
 Cube;1997;1990s;USA;Horror;90;tt0123755;7.25;7.2;213849;nm0622112;Vincenzo Natali
@@ -465,6 +473,7 @@ Europa;1991;1990s;USA;War;112;tt0101829;7.5;7.6;19358;nm0001885;Lars von Trier
 Terminator 2: Judgment Day;1991;1990s;USA;SciFi;137;tt0103064;8.5;8.5;972565;nm0000116;James Cameron
 The Silence of the Lambs;1991;1990s;USA;Thriller;118;tt0102926;9.25;8.6;1230101;nm0001129;Jonathan Demme
 Jacob's Ladder;1990;1990s;USA;Horror;113;tt0099871;7;7.5;96494;nm0001490;Adrian Lyne
+Awakenings;1990;1990s;USA;Drama;121;tt0099077;7.75;7.8;130193;nm0001508;Penny Marshall
 Total Recall;1990;1990s;USA;SciFi;113;tt0100802;7.5;7.5;304162;nm0000682;Paul Verhoeven
 The Godfather: Part III;1990;1990s;USA;Drama;202;tt0071562;8;9;1095132;nm0000338;Francis Ford Coppola
 Wild at Heart;1990;1990s;USA;Drama;125;tt0100935;8;7.2;80775;nm0000186;David Lynch
@@ -500,6 +509,7 @@ They Live;1988;1980s;USA;SciFi;94;tt0096256;8.25;7.3;106150;nm0000118;John Carpe
 Die Hard;1988;1980s;USA;Thriller;132;tt0095016;7.75;8.2;792968;nm0001532;John McTiernan
 A Fish called Wanda;1988;1980s;USA;Comedy;108;tt0095159;7.75;7.5;131684;nm0187769;Charles Crichton
 Cinema Paradiso;1988;1980s;Italy;Drama;155;tt0095765;8.25;8.5;222054;nm0868153;Giuseppe Tornatore
+Who Framed Roger Rabbit;1988;1980s;USA;Comedy;104;tt0096438;7.5;7.7;186175;nm0000709;Robert Zemeckis
 Talk Radio;1988;1980s;USA;Drama;110;tt0096219;8.5;7.3;12260;nm0000231;Oliver Stone
 Mujeres al borde de un Ataque de Nervios;1988;1980s;Spain;Drama;88;tt0095675;8.75;7.6;34663;nm0000264;Pedro Almodóvar
 The Untouchables;1987;1980s;USA;Crime;119;tt0094226;7.25;7.9;281729;nm0000361;Brian De Palma
@@ -534,7 +544,9 @@ Come and See;1985;1980s;Russia;War;142;tt0091251;9;8.3;59361;nm0459552;Elem Klim
 Ran;1985;1980s;Japan;Samurai;162;tt0089881;9;8.2;108357;nm0000041;Akira Kurosawa
 Ladyhawke;1985;1980s;USA;Fantasy;121;tt0089457;7.5;7;42430;nm0001149;Richard Donner
 The Color Purple;1985;1980s;USA;Drama;154;tt0088939;8.5;7.8;76222;nm0000229;Steven Spielberg
+The Gonnies;1985;1980s;USA;Comedy;114;tt0089218;7.75;7.8;250807;nm0001149;Richard Donner
 The Killing Fields;1984;1980s;USA;War;141;tt0087553;8;7.8;50333;nm0423646;Roland Joffé
+The Neverending Story;1984;1980s;Germany;Fantasy;102;tt0088323;7;7.4;135125;nm0000583;Wolfgang Petersen
 Ghostbusters;1984;1980s;USA;Comedy;105;tt0087332;7.25;7.8;356175;nm0718645;Ivan Reitman
 Paris, Texas;1984;1980s;USA;Drama;145;tt0087884;7.5;8.1;85863;nm0000694;Wim Wenders
 A Nightmare on Elm Street;1984;1980s;USA;Horror;91;tt0087800;8;7.5;207078;nm0000127;Wes Craven
@@ -983,3 +995,49 @@ Los Abrazos Rotos;2009;2000s;Spain;Drama;127;tt0913425;7;7.2;39089;nm0000264;Ped
 Aniara;2018;2010s;Sweden;SciFi;106;tt7589524;7.25;6.2;7260;nm2445423;Pella Kagerman
 Shogun's Shadow;1989;1980s;Japan;Samurai;114;tt0098322;7.75;7.1;495;nm0299175;Yasuo Furuhata
 Nobody Knows;2004;2000s;Japan;Drama;141;tt0408664;8.5;8.1;25644;nm0466153;Hirokazu Koreeda
+Runaway Train;1985;1980s;USA;Thriller;115;tt0089941;8.25;7.2;27459;nm0464846;Andrey Konchalovskiy
+Carne Tremula;1997;1990s;Spain;Drama;103;tt0118819;7;7.4;29053;nm0000264;Pedro Almodóvar
+The Wind Rises;2013;2010s;Japan;Drama;126;tt2013293;7.25;7.8;76684;nm0594503;Hayao Miyazaki
+The Iron Giant;1999;1990s;USA;Action;86;tt0129167;7.5;8;176349;nm0083348;Brad Bird
+The Brotherhood of War;2004;2000s;South Korea;War;148;tt0386064;8.5;8;38236;nm0437625;Je-kyu Kang
+El Secreto de sus Ojos;2009;2000s;Argentina;Thriller;129;tt1305806;9.25;8.2;197671;nm0002728;Juan José Campanella
+Ford v Ferrari;2019;2010s;USA;Action;152;tt1950186;7.5;8.1;318428;nm0003506;James Mangold
+Seul contre Tous;1998;1990s;France;Drama;93;tt0157016;7.5;7.4;21635;nm0637615;Gaspar Noé
+Ordinary People;1980;1980s;USA;Drama;124;tt0081283;7.75;7.7;48299;nm0000602;Robert Redford
+Relatos Salvajes;2014;2010s;Argentina;Comedy;122;tt3011894;8;8.1;182986;nm1167933;Damián Szifron
+La Historia Oficial;1985;1980s;Argentina;Historical;112;tt0089276;8.25;7.7;8721;nm0699933;Luis Puenzo
+Into the Wild;2007;2000s;USA;Drama;148;tt0758758;8;8.1;586130;nm0000576;Sean Penn
+Au Revoir les Enfants;1987;1980s;France;Drama;104;tt0092593;8;8;31939;nm0001501;Louis Malle
+Not One Less;1999;1990s;China;Drama;106;tt0209189;8;7.7;8375;nm0955443;Yimou Zhang
+Shoplifters;2018;2010s;Japan;Drama;121;tt8075192;8;7.9;67157;nm0466153;Hirokazu Koreeda
+Bang Boom Bang;1999;1990s;Germany;Comedy;110;tt0135790;7.75;7.6;9781;nm0861826;Peter Thorwarth
+Still Walking;2008;2000s;Japan;Drama;115;tt1087578;8;7.9;14497;nm0466153;Hirokazu Koreeda
+When the Wind Blows;1986;1980s;UK;Drama;94;tt0090315;7;7.7;10144;nm0613471;Jimmy T. Murakami
+A Separation;2011;2010s;Iran;Drama;123;tt1832382;9;8.3;226501;nm1410815;Asghar Farhadi
+Savior;1998;1990s;USA;War;103;tt0120070;7.75;7.3;10506;nm0031342;Predrag Antonijevic
+A Moment to Remember;2004;2000s;South Korea;Drama;144;tt0428870;8;8.2;22531;nm0497565;John H. Lee
+O Auto da Compadecida;2000;2000s;Brazil;Comedy;160;tt0271383;8;8.6;12609;nm0037136;Guel Arraes
+Dark Eyes;1987;1980s;Italy;Drama;118;tt0093664;7;7.4;3026;nm0586482;Nikita Mikhalkov
+No Man's Land;2001;2000s;Bosnia and Herzegovina;War;98;tt0283509;8.25;7.9;45387;nm0849786;Danis Tanovic
+Children of Heaven;1997;1990s;Iran;Drama;89;tt0118849;7.75;8.3;69092;nm0006498;Majid Majidi
+In the Heat of the Sun;1994;1990s;China;Drama;134;tt0111786;7.25;8.1;4054;nm0422638;Wen Jiang
+Whiplash;2014;2010s;USA;Drama;106;tt2582802;7.75;8.5;746536;nm3227090;Damien Chazelle
+The Tale of Princess Kaguya;2013;2010s;Japan;Fantasy;137;tt2576852;7.75;8;41073;nm0847223;Isao Takahata
+Milk;2008;2000s;USA;Politics;128;tt1013753;8;7.5;167249;nm0001814;Gus Van Sant
+Roadgames;1981;1980s;Australia;Thriller;101;tt0083000;7.25;6.6;5715;nm0002207;Richard Franklin
+Elephant;2003;2000s;USA;Crime;81;tt0363589;7.5;7.2;87562;nm0001814;Gus Van Sant
+A Silent Voice;2016;2010s;Japan;Drama;130;tt5323662;7.5;8.2;57694;nm2210720;Naoko Yamada
+I, Daniel Blake;2016;2010s;UK;Drama;100;tt5168192;9;7.9;56012;nm0516360;Ken Loach
+Unknown Soldier;2007;2000s;Finland;War;180;tt4065552;7.25;7.8;10044;nm0521803;Aku Louhimies
+Bound;1996;1990s;USA;Crime;109;tt0115736;7.75;7.3;51893;nm0905152.nm0905154;Wachowski Brothers
+Lucky Number Slevin;2006;2000s;USA;Crime;110;tt0425210;7.75;7.7;303267;nm0006476;Paul McGuigan
+Threads;1984;1980s;UK;Dystopia;112;tt0090163;8.25;8;12803;nm0413875;Mick Jackson
+The Boondock Saints;1999;1990s;USA;Crime;108;tt0144117;7.25;7.8;230374;nm0240627;Troy Duffy
+Adaptation.;2002;2000s;USA;Drama;115;tt0268126;7;7.7;182456;nm0005069;Spike Jonze
+A Bronx Tale;1993;1990s;USA;Drama;121;tt0106489;7.5;7.8;131730;nm0000134;Robert De Niro
+Knockin' on Heaven's Door;1997;1990s;Germany;Crime;87;tt0119472;7;7.9;28390;nm0415714;Thomas Jahn
+End Of Watch;2012;2010s;USA;Crime;109;tt1855199;8.5;7.6;232753;nm0043742;David Ayer
+Dead Man's Shoes;2004;2000s;UK;Thriller;90;tt0419677;8.25;7.6;50753;nm0276349;Shane Meadows
+Boyz n the Hood;1991;1990s;USA;Drama;112;tt0101507;7.75;7.8;130328;nm0005436;John Singleton
+What We Do in the Shadows;2014;2010s;New Zealand;Comedy;86;tt3416742;8;7.7;163763;nm0169806;Taika Waititi
+La Migliore Offerta;2013;2010s;Italy;Drama;131;tt1924396;7.25;7.8;111797;nm0868153;Giuseppe Tornatore

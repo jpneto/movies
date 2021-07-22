@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "February -- June, 2021"
+date: "February -- July, 2021"
 output: html_document
 ---
 
@@ -37,7 +37,7 @@ df %>%
   select(-IMDB) -> df
 ```
 
-This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around 40% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
+This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around 45% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
@@ -214,7 +214,7 @@ mat <- matrix(df3$count, ncol=6, byrow=T)
 library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
-barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,200), col=brewer.pal(6, "Blues") )
+barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,250), col=brewer.pal(6, "Blues") )
 legend(.25, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
@@ -275,7 +275,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+10, label=df6$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df6$n+12, label=df6$n, pos=2, cex=0.8, col='blue')
 ```
 
 ## Movies per Country
