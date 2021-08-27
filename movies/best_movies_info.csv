@@ -1,8 +1,11 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+Reminiscence;2021;2020s;USA;SciFi;116;tt3272066;7;5.9;11879;nm2847370;Lisa Joy
+The Green Knight;2021;2020s;USA;Fantasy;130;tt9243804;7.5;7.3;13541;nm1108007;David Lowery
+Pig;2021;2020s;USA;Drama;92;tt11003218;8;7;11412;nm3968825;Michael Sarnoski
 A Classic Horror Story;2021;2020s;Italy;Horror;95;tt12877640;7.5;5.7;5928;nm3248608;Roberto De Feo
 No Sudden Move;2021;2020s;USA;Crime;115;tt11525644;7;6.8;1296;nm0001752;Steven Soderbergh
 Judas and the Black Messiah;2021;2020s;USA;Politics;126;tt9784798;8.25;7.5;50499;nm3489851;Shaka King
-Wrath of Man;2021;2020s;UK;Action;119;tt11083552;7.25;7.4;8726;nm0005363;Guy Ritchie
+Wrath of Man;2021;2020s;UK;Action;119;tt11083552;7.5;7.4;8726;nm0005363;Guy Ritchie
 Promising Young Woman;2020;2020s;USA;Thriller;113;tt9620292;7.5;7.5;105645;nm2193504;Emerald Fennell
 Riders of Justice;2020;2020s;Denmark;Action;116;tt11655202;7.25;7.7;12693;nm0421314;Anders Thomas Jensen
 Archive;2020;2020s;UK;SciFi;109;tt6882604;7;6.4;14320;nm2707210;Gavin Rothery
@@ -157,7 +160,7 @@ Looper;2012;2010s;USA;SciFi;113;tt1276104;8.5;7.4;525127;nm0426059;Rian Johnson
 Pieta;2012;2010s;South Korea;Drama;103;tt2299842;8.5;7.2;12666;nm1104118;Ki-duk Kim
 Hugo;2011;2010s;USA;Drama;126;tt0970179;7;7.5;299021;nm0000217;Martin Scorsese
 The Thing;2011;2010s;USA;Horror;103;tt0905372;7;6.2;122844;nm0374048;Matthijs van Heijningen
-Once Upon a Time in Anatolia;2011;2010s;Turkey;Crime;157;7.25;7.9;43685;nm0149196;Nuri Bilge Ceylan
+Once Upon a Time in Anatolia;2011;2010s;Turkey;Crime;157;tt1827487;7.25;7.9;43685;nm0149196;Nuri Bilge Ceylan
 Margin Call;2011;2010s;USA;Thriller;107;tt1615147;7;7.1;114618;nm1170855;J.C. Chandor
 Carnage;2011;2010s;France;Drama;80;tt1692486;7;7.2;120129;nm0000591;Roman Polanski
 We Need to Talk About Kevin;2011;2010s;USA;Thriller;112;tt1242460;8;7.5;133932;nm0708903;Lynne Ramsay
@@ -373,7 +376,7 @@ The Limey;1999;1990s;USA;Thriller;89;tt0165854;7;7;29470;nm0001752;Steven Soderb
 Boys don't Cry;1999;1990s;USA;Drama;118;tt0171804;7.5;7.5;93397;nm0005303;Kimberly Peirce
 Arlington Road;1999;1990s;USA;Thriller;117;tt0137363;7.5;7.2;82663;nm0671210;Mark Pellington
 The Green Mile;1999;1990s;USA;Drama;189;tt0120689;7.75;8.8;1157950;nm0001104;Frank Darabont
-The Blair Witch Project;1999;1990s;USA;Horror;81;tt0185937;7;6.5;227034;nm0617130;Daniel Myrick
+The Blair Witch Project;1999;1990s;USA;Horror;81;tt0185937;7.75;6.5;227034;nm0617130;Daniel Myrick
 Audition;1999;1990s;Japan;Horror;115;tt0235198;7.5;7.2;71243;nm0586281;Takashi Miike
 Magnolia;1999;1990s;USA;Drama;188;tt0175880;8;8;284112;nm0000759;Paul Thomas Anderson
 Fight Club;1999;1990s;USA;Thriller;139;tt0137523;9;8.8;1802405;nm0000399;David Fincher
@@ -545,7 +548,7 @@ Come and See;1985;1980s;Russia;War;142;tt0091251;9;8.3;59361;nm0459552;Elem Klim
 Ran;1985;1980s;Japan;Samurai;162;tt0089881;9;8.2;108357;nm0000041;Akira Kurosawa
 Ladyhawke;1985;1980s;USA;Fantasy;121;tt0089457;7.5;7;42430;nm0001149;Richard Donner
 The Color Purple;1985;1980s;USA;Drama;154;tt0088939;8.5;7.8;76222;nm0000229;Steven Spielberg
-The Gonnies;1985;1980s;USA;Comedy;114;tt0089218;7.75;7.8;250807;nm0001149;Richard Donner
+The Goonies;1985;1980s;USA;Comedy;114;tt0089218;7.75;7.8;250807;nm0001149;Richard Donner
 The Killing Fields;1984;1980s;USA;War;141;tt0087553;8;7.8;50333;nm0423646;Roland Joffé
 The Neverending Story;1984;1980s;Germany;Fantasy;102;tt0088323;7;7.4;135125;nm0000583;Wolfgang Petersen
 Ghostbusters;1984;1980s;USA;Comedy;105;tt0087332;7.25;7.8;356175;nm0718645;Ivan Reitman
@@ -1044,3 +1047,20 @@ What We Do in the Shadows;2014;2010s;New Zealand;Comedy;86;tt3416742;8;7.7;16376
 La Migliore Offerta;2013;2010s;Italy;Drama;131;tt1924396;7.25;7.8;111797;nm0868153;Giuseppe Tornatore
 Sling Blade;1996;1990s;USA;Drama;135;tt0117666;8.75;8;89065;nm0000671;Billy Bob Thornton
 Nueve Reinas;2000;2000s;Argentina;Crime;114;tt0247586;8.5;7.9;50814;nm0081433;Fabián Bielinsky
+Mommy;2014;2010s;Canada;Drama;139;tt3612616;7.75;8.1;52888;nm0230859;Xavier Dolan
+Monster's Ball;2001;2000s;USA;Drama;111;tt0285742;7.5;7;85495;nm0286975;Marc Forster
+Leaving Las Vegas;1995;1990s;USA;Drama;111;tt0113627;7.5;7.5;117467;nm0001214;Mike Figgis
+The Princess Bride;1987;1980s;USA;Fantasy;98;tt0093779;8.25;8.1;403948;nm0001661;Rob Reiner
+Cromwell;1970;1970s;UK;Historical;139;tt0065593;7.5;6.9;5429;nm0400731;Ken Hughes
+Stand by Me;1986;1980s;USA;Drama;89;tt0092005;7.75;8.1;378072;nm0001661;Rob Reiner
+La Grande Bouffe;1973;1970s;France;Drama;130;tt0070130;7.5;7.2;12648;nm0274659;Marco Ferreri
+Il Deserto dei Tartari;1976;1970s;Italy;War;140;tt0074400;7.5;7.5;2098;nm0958801;Valerio Zurlini
+The Cassandra Crossing;1976;1970s;UK;Thriller;129;tt0074292;7;6.4;8410;nm0181902;George P. Cosmatos
+Only Yesterday;1991;1990s;Japan;Drama;118;tt0102587;7.75;7.6;29246;nm0847223;Isao Takahata
+See no Evil;1971;1970s;UK;Thriller;88;tt0067727;7;6.7;3102;nm0281507;Richard Fleischer
+Milano Calibro 9;1972;1970s;Italy;Crime;100;tt0067429;7.25;7.5;3700;nm0223964;Fernando Di Leo
+Vengeance Is Mine;1979;1970s;Japan;Crime;140;tt0079182;8.5;7.8;6183;nm0408076;Shohei Imamura
+Black Rain;1989;1980s;Japan;Drama;123;tt0097694;8;7.9;3205;nm0408076;Shohei Imamura
+Departures;2008;2000s;Japan;Drama;130;tt1069238;9.25;8.1;50130;nm0847690;Yôjirô Takita
+Jean de Florette;1986;1980s;France;Drama;120;tt0091288;8.25;8;24897;nm0001945;Claude Berri
+Manon des sources;1986;1980s;France;Drama;113;tt0091480;8.25;8;21528;nm0001945;Claude Berri

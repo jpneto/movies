@@ -115,7 +115,7 @@ br()
 ```
 
 
-## Number of Selected Movies per Decade
+
 
 ```{r, echo=FALSE, eval=TRUE}
 rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
@@ -127,8 +127,25 @@ rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
 }
 ```
 
+## Totality of Movies ranked
 
-Again using the same filter as above:
+These numbers include all movies that I ranked at IMDB:
+
+```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
+df.imdb <- read.csv('imdb-ratings.csv', encoding='UTF-8')
+
+df.imdb %>% 
+  mutate(Decade = floor(Year/10)*10) %>% 
+  count(Decade) %>% 
+  arrange(Decade) -> df2
+
+par(mar = c(2.5, .5, .5, .5))
+rotate_x(df2, 'n', df2$Decade, 45)
+```
+
+## Number of Selected Movies per Decade
+
+Using a minimal score of 7, to include only the movies at the initial table:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
 df %>% 
@@ -264,6 +281,52 @@ plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director,
 text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
 ```
 
+The next table sums, for each director, the scores of each film rated here. A film ranked 7 gets 1 point, 7.25 gets 2 points, upto a score 10 that gets 13 points. For the Imdb score, films with score less or equal to 6.5 get negative points.
+
+```{r, echo=FALSE}
+# a 7 receives 1 point, a 10 receives 13 points
+score <- function(rate) {
+  rate*4-27
+}
+
+director.score <- function(rates) {
+  round(sum(as.numeric(Map(score, rates))),2)
+}
+
+df %>% 
+  group_by(Director) %>% 
+  summarize(Score = director.score(Rate)) -> directors
+
+df %>% 
+  group_by(Director) %>% 
+  summarize(Score.Imdb = director.score(Imdb)) -> directors2
+
+directors$Imdb <- directors2$Score.Imdb
+
+directors %>% 
+  arrange(desc(Score)) -> directors
+
+DT::datatable(directors, escape=FALSE) 
+```
+The next table show these scores per decade and director.
+
+```{r, echo=FALSE}
+df %>% 
+  group_by(Director, Decade) %>% 
+  summarize(Score = director.score(Rate)) -> directors
+
+df %>% 
+  group_by(Director, Decade) %>% 
+  summarize(Score.Imdb = director.score(Imdb)) -> directors2
+
+directors$Imdb <- directors2$Score.Imdb
+
+directors %>% 
+  arrange(desc(Score)) -> directors
+
+DT::datatable(directors, escape=FALSE) 
+```
+
 ## Movies per Genre
 
 ```{r, fig.width=12, fig.height=6, echo=FALSE}
@@ -292,7 +355,7 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
                las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+3, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 
@@ -301,4 +364,7 @@ plot(df$Year, df$Rate, pch=20, col='lightgrey')
 fit <- lm(Rate ~ Year, df)
 abline(fit, col='blue')
 ```
+
+
+
 
