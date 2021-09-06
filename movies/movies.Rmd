@@ -359,6 +359,20 @@ text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 
+
+```{r, fig.width=12, fig.height=8, echo=FALSE, eval=FALSE}
+df %>% 
+  filter(Rate >= 9) %>% 
+  count(Country, sort=TRUE)  -> df2
+
+par(mar=c(1,11,1,6))
+plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
+               las=1, xlim=c(0,10+max(df2$n)), xaxt='n')
+text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
+```
+
+
+
 ```{r, echo=FALSE, eval=FALSE}
 plot(df$Year, df$Rate, pch=20, col='lightgrey')
 fit <- lm(Rate ~ Year, df)
