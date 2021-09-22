@@ -1,4 +1,7 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+Old;2021;2020s;USA;Horror;108;tt10954652;7.25;5.8;32394;nm0796117;M. Night Shyamalan
+Candyman;2021;2020s;USA;Horror;91;tt9347730;8;6.4;15354;nm4804442;Nia DaCosta
+Malignant;2021;2020s;USA;Horror;111;tt3811906;7.5;6.4;5900;nm1490123;James Wan
 CODA;2021;2020s;USA;Drama;111;tt10366460;7.75;8.1;13735;nm1571761;Sian Heder
 Don't Breathe 2;2021;2020s;USA;Thriller;98;tt6246322;7;6.2;5900;nm2140186;Rodo Sayagues
 No Man of God;2021;2020s;USA;Drama;100;tt13507778;7.5;6.6;347;nm0780547;Amber Sealey
@@ -40,6 +43,7 @@ Joker;2019;2010s;USA;Drama;122;tt7286456;9.25;8.4;1012226;nm0680846;Todd Phillip
 Dr. Sleep;2019;2010s;USA;Horror;152;tt5606664;8;7.3;154219;nm1093039;Mike Flanagan
 Dolor y Gloria;2019;2010s;Spain;Drama;113;tt8291806;7;7.5;52112;nm0000264;Pedro Almodóvar
 Parasite;2019;2010s;South Korea;Drama;132;tt6751668;9.25;8.6;619889;nm0094435;Bong Joon Ho
+The Hole in the Ground;2019;2010s;Ireland;Horror;90;tt6198946;7;5.7;17306;nm2091846;Lee Cronin
 El Hoyo;2019;2010s;Spain;Dystopia;94;tt8228288;7;7;179163;nm2008067;Galder Gaztelu-Urrutia
 Glass;2019;2010s;USA;Thriller;129;tt6823368;7;6.6;217307;nm0796117;M. Night Shyamalan
 J'Accuse;2019;2010s;France;Historical;132;tt2398149;7.5;7.2;14940;nm0000591;Roman Polanski
@@ -267,6 +271,7 @@ The Fountain;2006;2000s;USA;SciFi;97;tt0414993;8.5;7.2;224805;nm0004716;Darren A
 The Last King of Scotland;2006;2000s;UK;Historical;123;tt0455590;7.5;7.7;175744;nm0531817;Kevin Macdonald
 Children of Men;2006;2000s;USA;Dystopia;109;tt0206634;9.5;7.9;455067;nm0190859;Alfonso Cuarón
 Un Long Dimanche;2004;2000s;France;Drama;133;tt0344510;7.5;7.6;71251;nm0000466;Jean-Pierre Jeunet
+Kung Fu Hustle;2004;2000s;Hong Kong;Comedy;99;tt0373074;7.5;7.7;132527;nm0159507;Stephen Chow
 Primer;2004;2000s;USA;SciFi;77;tt0390384;7.25;6.9;100775;nm1503403;Shane Carruth
 Love and Honor;2006;2000s;Japan;Samurai;122;tt0483578;8;7.7;3517;nm0945282;Yôji Yamada
 The Exorcism of Emily Rose;2005;2000s;USA;Horror;119;tt0404032;7;6.7;116897;nm0220600;Scott Derrickson
@@ -381,7 +386,7 @@ Arlington Road;1999;1990s;USA;Thriller;117;tt0137363;7.5;7.2;82663;nm0671210;Mar
 The Green Mile;1999;1990s;USA;Drama;189;tt0120689;7.75;8.8;1157950;nm0001104;Frank Darabont
 The Blair Witch Project;1999;1990s;USA;Horror;81;tt0185937;7.75;6.5;227034;nm0617130;Daniel Myrick
 Audition;1999;1990s;Japan;Horror;115;tt0235198;7.5;7.2;71243;nm0586281;Takashi Miike
-Magnolia;1999;1990s;USA;Drama;188;tt0175880;8;8;284112;nm0000759;Paul Thomas Anderson
+Magnolia;1999;1990s;USA;Drama;188;tt0175880;8.5;8;284112;nm0000759;Paul Thomas Anderson
 Fight Club;1999;1990s;USA;Thriller;139;tt0137523;9;8.8;1802405;nm0000399;David Fincher
 Man on the Moon;1999;1990s;USA;Drama;118;tt0125664;9;7.4;122031;nm0001232;Milos Forman
 Any Given Sunday;1999;1990s;USA;Drama;162;tt0146838;7.25;6.9;110472;nm0000231;Oliver Stone
@@ -390,7 +395,7 @@ The Sixth Sense;1999;1990s;USA;Horror;107;tt0167404;8;8.1;892352;nm0796117;M. Ni
 Eyes Wide Shut;1999;1990s;USA;Thriller;159;tt0120663;7.75;7.4;293594;nm0000040;Stanley Kubrick
 American Beauty;1999;1990s;USA;Drama;122;tt0169547;8.5;8.3;1046820;nm0005222;Sam Mendes
 Todo sobre mi madre;1999;1990s;Spain;Drama;101;tt0185125;8.5;7.8;86809;nm0000264;Pedro Almodóvar
-The Matrix;1999;1990s;USA;SciFi;136;tt0133093;9.25;8.7;1627351;nm0905152.nm0905154;Wachowski Brothers
+The Matrix;1999;1990s;USA;SciFi;136;tt0133093;9.5;8.7;1627351;nm0905152.nm0905154;Wachowski Brothers
 Sphere;1998;1990s;USA;SciFi;134;tt0120184;7;6.1;97732;nm0001469;Barry Levinson
 The Truman Show;1998;1990s;USA;Drama;103;tt0120382;8;8.1;907288;nm0001837;Peter Weir
 Dark City;1998;1990s;USA;SciFi;100;tt0118929;8;7.6;184822;nm0001639;Alex Proyas
@@ -655,7 +660,7 @@ Serpico;1973;1970s;USA;Crime;130;tt0070666;8.5;7.7;106208;nm0001486;Sidney Lumet
 The Exorcist;1973;1970s;USA;Horror;122;tt0070047;9.5;8;353406;nm0001243;William Friedkin
 Solyaris;1972;1970s;Russia;SciFi;167;tt0069293;8;8.1;77861;nm0001789;Andrei Tarkovsky
 Silent Running;1972;1970s;USA;SciFi;89;tt0067756;7;6.7;27188;nm0874320;Douglas Trumbull
-Mad Max;1979;1970s;Australia;SciFi;88;tt0079501;7;6.9;191715;nm0004306;George Miller
+Mad Max;1979;1970s;Australia;Dystopia;88;tt0079501;7;6.9;191715;nm0004306;George Miller
 The Towering Inferno;1974;1970s;USA;Thriller;165;tt0072308;7.5;7;39452;nm0347086;John Guillermin
 Assault on Precinct 13;1976;1970s;USA;Thriller;91;tt0074156;7.5;7.4;43907;nm0000118;John Carpenter
 La Planète Sauvage;1973;1970s;France;Fantasy;72;tt0070544;7.5;7.8;25204;nm0482537;René Laloux
@@ -1076,3 +1081,20 @@ Call Me by Your Name;2017;2010s;Italy;Drama;132;tt5726616;8;7.9;234354;nm0345174
 '71;2014;2010s;UK;War;99;tt2614684;8;7.2;53505;nm1312919;Yann Demange
 The Fighter;2010;2010s;USA;Drama;116;tt0964517;7.25;7.8;350607;nm0751102;David O. Russell
 Peppermint Candy;1999;1990s;South Korea;Drama;129;tt0247613;7.5;7.7;8640;nm0496969;Chang-dong Lee
+Kukushka;2002;2000s;Russia;War;99;tt0308476;7.25;7.8;7480;nm0737400;Aleksandr Rogozhkin
+Mary and Max;2009;2000s;Australia;Drama;92;tt0978762;7.5;8.1;170138;nm0254178;Adam Elliot
+Eureka;2000;2000s;Japan;Drama;217;tt0243889;7.5;7.8;3673;nm0031888;Shinji Aoyama
+Love Exposure;2008;2000s;Japan;Drama;237;tt1128075;9.25;8.1;12871;nm0814469;Sion Sono
+De Oost;2020;2020s;Netherlands;War;137;tt8639136;8;7;3677;nm2165987;Jim Taihuttu
+God's Own Country;2017;2010s;UK;Drama;104;tt5635086;7.5;7.7;27839;nm0497274;Francis Lee
+Candyman;1992;1990s;USA;Horror;99;tt0103919;7.5;6.7;80088;nm0741262;Bernard Rose
+Cold Fish;2010;2010s;Japan;Horror;146;tt1632547;8.5;7.1;12235;nm0814469;Sion Sono
+Germinal;1993;1990s;France;Drama;160;tt0107002;8;7.1;4995;nm0001945;Claude Berri
+The Medusa Touch;1978;1970s;UK;Thriller;109;tt0077921;7.25;7;6269;nm0324995;Jack Gold
+The Island;2006;2000s;Russia;Drama;112;tt0851577;8;7.9;11533;nm0526732;Pavel Lungin
+Prisoner of the Mountains;1996;1990s;Russia;War;99;tt0116754;7.75;7.5;4390;nm0091076;Sergei Bodrov
+Hunt for the Wilderpeople;2016;2010s;New Zealand;Comedy;101;tt4698684;8;7.9;120157;nm0169806;Taika Waititi
+Contratiempo;2016;2010s;Spain;Crime;106;tt4857264;8;8.1;160201;nm1079062;Oriol Paulo
+Mongol;2007;2000s;Russia;Historical;126;tt0416044;7.25;7.2;45658;nm0091076;Sergei Bodrov
+Rabid Dogs;1974;1970s;Italy;Crime;96;tt0071275;7.25;7.5;4514;nm0000878;Mario Bava
+Tremors;1990;1990s;USA;Horror;96;tt0100814;7.5;7.1;128512;nm0881038;Ron Underwood
