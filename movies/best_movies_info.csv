@@ -1,4 +1,6 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+The Card Counter;2021;2020s;USA;Drama;111;tt11196036;8;6.3;5623;nm0001707;Paul Schrader
+Free Guy;2021;2020s;USA;Comedy;115;tt6264654;7.75;7.5;73005;nm0506613;Shawn Levy
 Old;2021;2020s;USA;Horror;108;tt10954652;7.25;5.8;32394;nm0796117;M. Night Shyamalan
 Candyman;2021;2020s;USA;Horror;91;tt9347730;8;6.4;15354;nm4804442;Nia DaCosta
 Malignant;2021;2020s;USA;Horror;111;tt3811906;7.5;6.4;5900;nm1490123;James Wan
@@ -18,6 +20,7 @@ Archive;2020;2020s;UK;SciFi;109;tt6882604;7;6.4;14320;nm2707210;Gavin Rothery
 Another Round;2020;2020s;Denmark;Drama;117;tt10288566;8.25;7.8;77007;nm0899121;Thomas Vinterberg
 Quo Vadis, Aida?;2020;2020s;Bosnia and Herzegovina;Historical;101;tt8633462;8.25;7.8;15275;nm1120092;Jasmila Zbanic
 Dear Comrades!;2020;2020s;Russia;Historical;121;tt10796286;7.5;7.3;2405;nm0464846;Andrey Konchalovskiy
+Host;2020;2020s;USA;Horror;57;tt12749596;7.25;6.5;23302;nm3699074;Rob Savage
 The Dry;2020;2020s;Australia;Crime;117;tt5144174;7;7;8233;nm0175352;Robert Connolly
 Night in Paradise;2020;2020s;South Korea;Crime;131;tt12792418;7.5;6.7;3333;nm4219902;Park Hoon-Jung
 The Father;2020;2020s;UK;Drama;97;tt10272386;8;8.3;46874;nm1725469;Florian Zeller
@@ -59,7 +62,7 @@ BlacKkKlansman;2018;2010s;USA;Thriller;135;tt7349662;7;7.5;226755;nm0000490;Spik
 Arctic;2018;2010s;USA;Thriller;98;tt6820256;8;6.8;39312;nm1020835;Joe Penna
 The Ballad of Buster Scruggs;2018;2010s;USA;Western;133;tt6412452;8;7.3;114142;nm0001053.nm0001054;Cohen Brothers
 Leave No Trace;2018;2010s;USA;Drama;109;tt3892172;7.5;7.2;46805;nm0335138;Debra Granik
-Destroyer;2018;2010s;USA;Thriller;121;tt7137380;7.5;6.2;23407;nm0476201;Karyn Kusama
+Destroyer;2018;2010s;USA;Thriller;121;tt7137380;7.75;6.2;23407;nm0476201;Karyn Kusama
 Burning;2018;2010s;South Korea;Thriller;148;tt7282468;7.5;7.5;43868;nm0496969;Chang-dong Lee
 Ying, Shadow;2018;2010s;China;Action;116;tt6864046;7.25;7;13443;nm0955443;Yimou Zhang
 The Guilty;2018;2010s;USA;Drama;85;tt6742252;7.5;7.5;39503;nm7546166;Gustav Möller
@@ -70,6 +73,7 @@ The Nightingale;2018;2010s;Australia;Historical;136;tt4068576;9;7.3;17493;nm0448
 First Man;2018;2010s;USA;Drama;141;tt1213641;8.25;7.3;160234;nm3227090;Damien Chazelle
 Roma;2018;2010s;Mexico;Drama;135;tt6155172;8;7.7;135069;nm0190859;Alfonso Cuarón
 Gerald's Game;2017;2010s;USA;Thriller;103;tt3748172;7;6.6;84629;nm1093039;Mike Flanagan
+Happy Death Day;2017;2010s;USA;Horror;96;tt5308322;7.25;6.6;128216;nm0484907;Christopher Landon
 Coco;2017;2010s;USA;Fantasy;105;tt2380307;7.75;8.4;405409;nm0881279;Lee Unkrich
 Blade of the Immortal;2017;2010s;Japan;Samurai;140;tt5084170;7.5;6.8;15198;nm0586281;Takashi Miike
 Three Billboards Outside Ebbing Missouri;2017;2010s;USA;Drama;115;tt5027774;7;8.2;409329;nm1732981;Martin McDonagh
@@ -89,6 +93,7 @@ Logan;2017;2010s;USA;Action;137;tt3315342;8.25;8.1;625083;nm0003506;James Mangol
 Wind River;2017;2010s;USA;Thriller;107;tt5362988;8.5;7.7;194552;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;2010s;USA;SciFi;164;tt1856101;9.5;8;442567;nm0898288;Denis Villeneuve
 The Wailing;2016;2010s;South Korea;Horror;156;tt5215952;7;7.4;46446;nm2947553;Hong-jin Na
+Hush;2016;2010s;USA;Horror;82;tt5022702;7.75;6.6;115922;nm1093039;Mike Flanagan
 Hacksaw Ridge;2016;2010s;USA;War;139;tt2119532;7.25;8.1;454346;nm0000154;Mel Gibson
 Split;2016;2010s;USA;Horror;117;tt4972582;7.5;7.3;406843;nm0796117;M. Night Shyamalan
 Don't Breathe;2016;2010s;USA;Horror;88;tt4160708;8;7.1;211623;nm1793079;Fede Alvarez
@@ -166,6 +171,7 @@ Amour;2012;2010s;France;Drama;127;tt1602620;8;7.9;91380;nm0359734;Michael Haneke
 Looper;2012;2010s;USA;SciFi;113;tt1276104;8.5;7.4;525127;nm0426059;Rian Johnson
 Pieta;2012;2010s;South Korea;Drama;103;tt2299842;8.5;7.2;12666;nm1104118;Ki-duk Kim
 Hugo;2011;2010s;USA;Drama;126;tt0970179;7;7.5;299021;nm0000217;Martin Scorsese
+God Bless America;2011;2010s;USA;Comedy;105;tt1912398;7.25;7.2;68955;nm0001281;Bobcat Goldthwait
 The Thing;2011;2010s;USA;Horror;103;tt0905372;7;6.2;122844;nm0374048;Matthijs van Heijningen
 Once Upon a Time in Anatolia;2011;2010s;Turkey;Crime;157;tt1827487;7.25;7.9;43685;nm0149196;Nuri Bilge Ceylan
 Margin Call;2011;2010s;USA;Thriller;107;tt1615147;7;7.1;114618;nm1170855;J.C. Chandor
@@ -187,6 +193,7 @@ The Raid;2011;2010s;Indonesia;Action;101;tt1899353;8.5;7.6;186778;nm2153088;Gare
 Tinker Tailor Soldier Spy;2011;2010s;UK;Politics;122;tt1340800;8.75;7;183253;nm0019247;Tomas Alfredson
 Thurgood;2011;2010s;USA;Historical;105;tt1844811;8.75;7.8;497;nm0828623;Michael Stevens
 Shutter Island;2010;2010s;USA;Drama;138;tt1130884;7;8.2;1092158;nm0000217;Martin Scorsese
+Insidious;2010;2010s;USA;Horror;103;tt1591095;7.25;6.8;291753;nm1490123;James Wan
 Inception;2010;2010s;USA;Thriller;148;tt1375666;7.5;8.8;2090769;nm0634240;Christopher Nolan
 Predators;2010;2010s;USA;Horror;107;tt1424381;7;6.4;209017;nm0030735;Nimród Antal
 Outrage;2010;2010s;Japan;Thriller;109;tt1462667;7;6.8;11806;nm0001429;Takeshi Kitano
@@ -609,7 +616,7 @@ The Brood;1979;1970s;Canada;Horror;92;tt0078908;7.5;6.9;24570;nm0000343;David Cr
 Stalker;1979;1970s;Russia;SciFi;162;tt0079944;8.25;8.2;111366;nm0001789;Andrei Tarkovsky
 Being There;1979;1970s;UK;Drama;130;tt0078841;8.5;8;64046;nm0000797;Hal Ashby
 Life of Brian;1979;1970s;UK;Comedy;94;tt0079470;8.75;8.1;358313;nm0001402;Terry Jones
-Apocalypse Now;1979;1970s;USA;War;147;tt0078788;9.25;8.4;589184;nm0000338;Francis Ford Coppola
+Apocalypse Now;1979;1970s;USA;War;147;tt0078788;9.5;8.4;589184;nm0000338;Francis Ford Coppola
 The Lord of the Rings;1978;1970s;USA;Fantasy;132;tt0077869;7.25;6.2;28995;nm0000835;Ralph Bakshi
 Halloween;1978;1970s;USA;Horror;91;tt0077651;8;7.8;221797;nm0000118;John Carpenter
 Dawn of the Dead;1978;1970s;USA;Horror;101;tt0363547;7.75;7.9;112347;nm0001681;George A. Romero
@@ -627,7 +634,7 @@ Sorcerer;1977;1970s;USA;Thriller;121;tt0076740;9;7.7;17083;nm0001243;William Fri
 Marathon Man;1976;1970s;USA;Thriller;125;tt0074860;8;7.4;56662;nm0772259;John Schlesinger
 Logan's Run;1976;1970s;USA;SciFi;119;tt0074812;7.5;6.8;50650;nm0027183;Michael Anderson
 The Eagle Has Landed;1976;1970s;USA;War;135;tt0074452;7.5;6.9;18706;nm0836328;John Sturges
-Le locataire;1976;1970s;France;Thriller;126;tt0074811;8.25;7.7;38264;nm0000591;Roman Polanski
+Le Locataire;1976;1970s;France;Thriller;126;tt0074811;8.25;7.7;38264;nm0000591;Roman Polanski
 Brutti, Sporchi e Cattivi;1976;1970s;Italy;Comedy;115;tt0074252;8.25;7.8;7506;nm0778633;Ettore Scola
 Rocky;1976;1970s;USA;Drama;120;tt0075148;8.5;8.1;504982;nm0000814;John G. Avildsen
 All the President's Men;1976;1970s;USA;Thriller;138;tt0074119;8.5;8;99544;nm0001587;Alan J. Pakula
@@ -637,9 +644,9 @@ Dog Day Afternoon;1975;1970s;USA;Drama;125;tt0072890;8;8;230203;nm0001486;Sidney
 The Stepford Wives;1975;1970s;USA;SciFi;115;tt0073747;7.5;6.9;16384;nm0285302;Bryan Forbes
 Dersu Uzala;1975;1970s;Japan;Drama;142;tt0071411;8;8.3;22902;nm0000041;Akira Kurosawa
 Rollerball;1975;1970s;USA;Dystopia;125;tt0073631;7.25;6.6;21876;nm0422484;Norman Jewison
-Jaws;1975;1970s;USA;Horror;124;tt0073195;8.75;8;534693;nm0000229;Steven Spielberg
+Jaws;1975;1970s;USA;Horror;124;tt0073195;9;8;534693;nm0000229;Steven Spielberg
 Monty Python and the Holy Grail;1975;1970s;UK;Comedy;91;tt0071853;8.5;8.2;490505;nm0000416;Terry Gilliam
-Section spéciale;1975;1970s;France;Historical;118;tt0073679;8.5;7.8;1027;nm0002020;Costa-Gavras
+Section Spéciale;1975;1970s;France;Historical;118;tt0073679;8.5;7.8;1027;nm0002020;Costa-Gavras
 Barry Lyndon;1975;1970s;USA;Historical;185;tt0072684;8.75;8.1;144729;nm0000040;Stanley Kubrick
 One Flew Over the Cuckoo's Nest;1975;1970s;USA;Drama;133;tt0073486;9.5;8.7;888729;nm0001232;Milos Forman
 The Texas Chain Saw Massacre;1974;1970s;USA;Horror;83;tt0072271;8;7.5;131888;nm0001361;Tobe Hooper
@@ -655,7 +662,7 @@ WestWorld;1973;1970s;USA;SciFi;88;tt0070909;7.25;7;52527;nm0000341;Michael Crich
 Soylent Green;1973;1970s;USA;Dystopia;97;tt0070723;8;7.1;55872;nm0281507;Richard Fleischer
 Papillon;1973;1970s;USA;Thriller;133;tt5093026;9;7.2;48759;nm1840064;Michael Noer
 Pat Garrett and Billy the Kid;1973;1970s;USA;Western;122;tt0070518;7.5;7.3;17679;nm0001603;Sam Peckinpah
-The Offence;1973;1970s;USA;Drama;112;tt0070468;8.25;7;5488;nm0001486;Sidney Lumet
+The Offence;1973;1970s;USA;Drama;112;tt0070468;8.5;7;5488;nm0001486;Sidney Lumet
 Serpico;1973;1970s;USA;Crime;130;tt0070666;8.5;7.7;106208;nm0001486;Sidney Lumet
 The Exorcist;1973;1970s;USA;Horror;122;tt0070047;9.5;8;353406;nm0001243;William Friedkin
 Solyaris;1972;1970s;Russia;SciFi;167;tt0069293;8;8.1;77861;nm0001789;Andrei Tarkovsky
@@ -1098,3 +1105,10 @@ Contratiempo;2016;2010s;Spain;Crime;106;tt4857264;8;8.1;160201;nm1079062;Oriol P
 Mongol;2007;2000s;Russia;Historical;126;tt0416044;7.25;7.2;45658;nm0091076;Sergei Bodrov
 Rabid Dogs;1974;1970s;Italy;Crime;96;tt0071275;7.25;7.5;4514;nm0000878;Mario Bava
 Tremors;1990;1990s;USA;Horror;96;tt0100814;7.5;7.1;128512;nm0881038;Ron Underwood
+The Sugarland Express;1974;1970s;USA;Crime;110;tt0072226;7.25;6.8;16360;nm0000229;Steven Spielberg
+Framed;1975;1970s;USA;Crime;106;tt0073015;7.75;6.4;597;nm0439597;Phil Karlson
+Amator;1979;1970s;Poland;Politics;112;tt0078763;8;7.9;6870;nm0001425;Krzysztof Kieslowski
+Le Jeu;2018;2010s;France;Drama;90;tt7489816;7.75;6.8;13622;nm0146991;Fred Cavayé
+Heavenly Creatures;1994;1990s;New Zealand;Drama;99;tt0110005;7.5;7.3;61894;nm0001392;Peter Jackson
+The Invitation;2015;2010s;USA;Thriller;100;tt2400463;7.5;6.6;101746;nm0476201;Karyn Kusama
+The Tracker;2002;2000s;Australia;Drama;90;tt0212132;7.75;7.4;2788;nm0208854;Rolf de Heer
