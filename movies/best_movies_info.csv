@@ -1,4 +1,6 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+Titane;2021;2020s;France;Horror;108;tt10944760;7.75;6.8;13061;nm4469445;Julia Ducournau
+Dune;2021;2020s;USA;SciFi;155;tt1160419;9.25;8.3;138311;nm0898288;Denis Villeneuve
 The Card Counter;2021;2020s;USA;Drama;111;tt11196036;8;6.3;5623;nm0001707;Paul Schrader
 Free Guy;2021;2020s;USA;Comedy;115;tt6264654;7.75;7.5;73005;nm0506613;Shawn Levy
 Old;2021;2020s;USA;Horror;108;tt10954652;7.25;5.8;32394;nm0796117;M. Night Shyamalan
@@ -95,6 +97,7 @@ Logan;2017;2010s;USA;Action;137;tt3315342;8.25;8.1;625083;nm0003506;James Mangol
 Wind River;2017;2010s;USA;Thriller;107;tt5362988;8.5;7.7;194552;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;2010s;USA;SciFi;164;tt1856101;9.5;8;442567;nm0898288;Denis Villeneuve
 The Wailing;2016;2010s;South Korea;Horror;156;tt5215952;7;7.4;46446;nm2947553;Hong-jin Na
+Raw;2016;2010s;France;Horror;99;tt4954522;7;7;68491;nm4469445;Julia Ducournau
 A Dark Song;2016;2010s;Ireland;Horror;100;tt4805316;7.25;6.2;16124;nm2201016;Liam Gavin
 Hush;2016;2010s;USA;Horror;82;tt5022702;7.75;6.6;115922;nm1093039;Mike Flanagan
 Hacksaw Ridge;2016;2010s;USA;War;139;tt2119532;7.25;8.1;454346;nm0000154;Mel Gibson
@@ -1123,10 +1126,17 @@ The Tracker;2002;2000s;Australia;Drama;90;tt0212132;7.75;7.4;2788;nm0208854;Rolf
 'Breaker' Morant;1980;1980s;Australia;Historical;107;tt0080310;8.25;7.9;12985;nm0000915;Bruce Beresford
 Gallipoli;1981;1980s;Australia;Historical;110;tt0082432;8;7.4;38433;nm0001837;Peter Weir
 A Girl Walks Home Alone at Night;2014;2010s;Iran;Horror;101;tt2326554;7.75;7;33492;nm3235877;Ana Lily Amirpour
-Near Dark;1987;1980s;USA;Horror;94;tt0093605;7.5;7;36372;nm0000941;Kathryn Bigelow
+Near Dark;1987;1980s;USA;Horror;94;tt0093605;7.5;7;36372;nm0000941;Kathryn Bige⌈low
 Under the Shadow;2016;2010s;Iran;Horror;84;tt4273292;7.75;6.9;26163;nm2035118;Babak Anvari
 Lady Bird;2017;2010s;USA;Drama;94;tt4925292;8;7.4;261757;nm1950086;Greta Gerwig
 Habit;1995;1990s;USA;Horror;112;tt0113241;7;7;1504;nm0275244;Larry Fessenden
 The Artist;2011;2010s;France;Drama;100;tt1655442;7.5;7.9;236284;nm0371890;Michel Hazanavicius
 The Favourite;2018;2010s;Ireland;Historical;119;tt5083738;8.25;7.5;185758;nm0487166;Yorgos Lanthimos
 The Killing of a Sacred Deer;2017;2010s;Ireland;Horror;121;tt5715874;8.75;7;136504;nm0487166;Yorgos Lanthimos
+Il Ladro di Bambini;1992;1990s;Italy;Drama;114;tt0104663;7.75;7.6;2621;nm0002167;Gianni Amelio
+Timbuktu;2014;2010s;Mauritania;Drama;96;tt3409392;8.5;7.2;17045;nm0803066;Abderrahmane Sissako
+La Grande Bellezza;2013;2010s;Italy;Drama;141;tt2358891;9;7.8;84881;nm0815204;Paolo Sorrentino
+Il Postino;1994;1990s;Italy;Drama;108;tt0110877;8.25;7.7;35218;nm0705535;Michael Radford
+Investigation of a Citizen above Suspicion;1970;1970s;Italy;Politics;115;tt0065889;8.75;8.1;10613;nm0677880;Elio Petri
+The Peanut Butter Falcon;2019;2010s;USA;Comedy;97;tt4364194;7.25;7.6;83290;nm2436566;Tyler Nilson
+The Other;1972;1970s;USA;Horror;108;tt0069050;7.5;6.9;6026;nm0612322;Robert Mulligan
