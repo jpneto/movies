@@ -1,4 +1,5 @@
 Title;Year;Decade;Country;Genre;runtimeMinutes;IMDB;Score;averageRating;numVotes;directors;primaryName
+Last Night in Soho;2021;2020s;UK;Horror;116;tt9639470;7.5;7.4;27493;nm0942367;Edgar Wright
 Titane;2021;2020s;France;Horror;108;tt10944760;7.75;6.8;13061;nm4469445;Julia Ducournau
 Dune;2021;2020s;USA;SciFi;155;tt1160419;9.25;8.3;138311;nm0898288;Denis Villeneuve
 The Card Counter;2021;2020s;USA;Drama;111;tt11196036;8;6.3;5623;nm0001707;Paul Schrader
@@ -310,7 +311,6 @@ V for Vendetta;2005;2000s;USA;Dystopia;132;tt0434409;8.75;8.2;1007026;nm0574625;
 Good Night, and Good Luck;2005;2000s;USA;Politics;93;tt0433383;9.25;7.4;92994;nm0000123;George Clooney
 Lady Vengeance;2005;2000s;South Korea;Thriller;115;tt0451094;9.5;7.6;69997;nm0661791;Chan-wook Park
 Taking Lives;2004;2000s;USA;Thriller;103;tt0364045;7;6.3;78804;nm0142286;D.J. Caruso
-The Machinist;2004;2000s;USA;Thriller;101;tt0361862;7.5;7.7;363608;nm0026442;Brad Anderson
 Suspect Zero;2004;2000s;USA;Thriller;99;tt0324127;7;5.8;18727;nm0580729;E. Elias Merhige
 The Libertine;2004;2000s;USA;Historical;114;tt0375920;8;6.3;34344;nm1461380;Laurence Dunmore
 Before Sunset;2004;2000s;USA;Drama;80;tt0381681;7.75;8;241540;nm0000500;Richard Linklater
@@ -321,7 +321,7 @@ The Passion of the Christ;2004;2000s;USA;Historical;127;tt0335345;9;7.2;212068;n
 Troy;2004;2000s;USA;Historical;163;tt0332452;7.75;7.2;478589;nm0000583;Wolfgang Petersen
 Collateral;2004;2000s;USA;Action;120;tt0369339;7.5;7.5;351625;nm0000520;Michael Mann
 Shaun of the Dead;2004;2000s;UK;Comedy;99;tt0365748;7.5;7.9;501173;nm0942367;Edgar Wright
-The Machinist;2004;2000s;Spain;Thriller;101;tt0361862;7.25;7.7;351890;nm0026442;Brad Anderson
+The Machinist;2004;2000s;Spain;Thriller;101;tt0361862;7.5;7.7;351890;nm0026442;Brad Anderson
 La Mala Educación;2004;2000s;Spain;Drama;106;tt0275491;7.5;7.4;54797;nm0000264;Pedro Almodóvar
 Million Dollar Baby;2004;2000s;USA;Drama;132;tt0405159;7.75;8.1;621702;nm0000142;Clint Eastwood
 Mar Adentro;2004;2000s;Spain;Drama;126;tt0369702;8;8;78018;nm0024622;Alejandro Amenábar
@@ -341,7 +341,7 @@ Zatôichi;2003;2000s;Japan;Samurai;116;tt0363226;8.25;7.5;46519;nm0001429;Takesh
 Pirates of the Caribbean;2003;2000s;USA;Fantasy;143;tt0325980;8;8;1002653;nm0893659;Gore Verbinski
 Mystic River;2003;2000s;USA;Thriller;138;tt0327056;7.5;7.9;412226;nm0000142;Clint Eastwood
 Good Bye Lenin!;2003;2000s;Germany;Comedy;121;tt0301357;7.75;7.7;135933;nm0065615;Wolfgang Becker
-Les triplettes de Belleville;2003;2000s;France;Comedy;80;tt0286244;7.25;7.8;49999;nm0158984;Sylvain Chomet
+Les Triplettes de Belleville;2003;2000s;France;Comedy;80;tt0286244;7.25;7.8;49999;nm0158984;Sylvain Chomet
 The Return;2003;2000s;Russia;Drama;110;tt0376968;7.5;8;41436;nm1168657;Andrey Zvyagintsev
 Spring Summer Fall Winter... and Spring;2003;2000s;South Korea;Drama;103;tt0374546;8.25;8;77640;nm1104118;Ki-duk Kim
 The Return of the King;2003;2000s;USA;Fantasy;201;tt0167260;8.75;8.9;1600197;nm0001392;Peter Jackson
@@ -1148,3 +1148,16 @@ Punishment Park;1971;1970s;USA;Politics;91;tt0067633;9;7.8;6769;nm0914386;Peter 
 Cria Corvos;1976;1970s;Spain;Drama;105;tt0074360;7;8;9831;nm0767022;Carlos Saura
 Le Jouet;1976;1970s;France;Comedy;95;tt0074720;7.75;7.5;5057;nm0891554;Francis Veber
 The Entity;1982;1980s;USA;Horror;125;tt0082334;8.25;6.7;15920;nm0002089;Sidney J. Furie
+Il Caso Mattei;1972;1970s;Italy;Politics;116;tt0068346;8;7.6;1949;nm0742940;Francesco Rosi
+Life of Pi;2012;2010s;USA;Drama;127;tt0454876;8.5;7.9;603431;nm0000487;Ang Lee
+Fractured;2019;2010s;USA;Thriller;99;tt4332232;7.5;6.4;65895;nm0026442;Brad Anderson
+Série Noire;1979;1970s;France;Crime;111;tt0079980;7.25;7.6;2880;nm0006734;Alain Corneau
+Scum;1979;1970s;UK;Drama;98;tt0079871;8;7.6;11098;nm0164639;Alan Clarke
+Face to Face;1976;1970s;Sweden;Drama;114;tt0074147;7.5;7.6;5272;nm0000005;Ingmar Bergman
+The Liberation of LB Jones;1970;1970s;USA;Drama;102;tt0065979;8;6.8;858;nm0943758;William Wyler
+La La Land;2016;2010s;USA;Musical;128;tt3783958;8;8;543494;nm3227090;Damien Chazelle
+The Lodge;2019;2010s;UK;Horror;108;tt7347846;8.25;6.1;40366;nm3868633;Severin Fiala
+Ofitsery;1971;1970s;Russia;War;96;tt0067517;8;7.7;1831;nm0737380;Vladimir Rogovoy
+Wake in Fright;1971;1970s;Australia;Thriller;109;tt0067541;7.75;7.7;11665;nm0467646;Ted Kotcheff
+The Silent Partner;1978;1970s;Canada;Crime;106;tt0078269;7.5;7.4;6103;nm0241174;Daryl Duke
+The Enigma of Kaspar Hauser;1974;1970s;Germany;Drama;110;tt0071691;7.5;7.8;17281;nm0001348;Werner Herzog
