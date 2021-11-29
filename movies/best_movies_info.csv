@@ -58,6 +58,7 @@ J'Accuse;2019;2010s;France;Historical;132;tt2398149;7.5;7.2;14940;nm0000591;Roma
 Saint Maud;2019;2010s;UK;Horror;84;tt7557108;7;6.7;19853;nm3819217;Rose Glass
 Richard Jewell;2019;2010s;USA;Historical;131;tt3513548;7.5;7.5;70586;nm0000142;Clint Eastwood
 1917;2019;2010s;USA;War;119;tt8579674;7.5;8.3;466987;nm0005222;Sam Mendes
+Avengers: Infinity War;2018;2010s;USA;Action;149;tt4154756;7.75;8.4;943237;nm0751577;Anthony Russo
 Dylda, aka Beanpole;2019;2010s;Russia;Drama;130;tt10199640;7.5;7.1;9310;nm8921482;Kantemir Balagov
 Mandy;2018;2010s;USA;Horror;121;tt6998518;7;6.6;59150;nm0181903;Panos Cosmatos
 A Simple Favor;2018;2010s;USA;Thriller;117;tt7040874;7;6.8;118312;nm0082450;Paul Feig
@@ -78,6 +79,7 @@ The Nightingale;2018;2010s;Australia;Historical;136;tt4068576;9;7.3;17493;nm0448
 First Man;2018;2010s;USA;Drama;141;tt1213641;8.25;7.3;160234;nm3227090;Damien Chazelle
 Roma;2018;2010s;Mexico;Drama;135;tt6155172;8;7.7;135069;nm0190859;Alfonso Cuarón
 Gerald's Game;2017;2010s;USA;Thriller;103;tt3748172;7;6.6;84629;nm1093039;Mike Flanagan
+Thor: Ragnarok;2017;2010s;USA;Action;130;tt3501632;7.5;7.9;658355;nm0169806;Taika Waititi
 Happy Death Day;2017;2010s;USA;Horror;96;tt5308322;7.25;6.6;128216;nm0484907;Christopher Landon
 Coco;2017;2010s;USA;Fantasy;105;tt2380307;7.75;8.4;405409;nm0881279;Lee Unkrich
 Blade of the Immortal;2017;2010s;Japan;Samurai;140;tt5084170;7.5;6.8;15198;nm0586281;Takashi Miike
@@ -104,6 +106,7 @@ Hush;2016;2010s;USA;Horror;82;tt5022702;7.75;6.6;115922;nm1093039;Mike Flanagan
 Hacksaw Ridge;2016;2010s;USA;War;139;tt2119532;7.25;8.1;454346;nm0000154;Mel Gibson
 Split;2016;2010s;USA;Horror;117;tt4972582;7.5;7.3;406843;nm0796117;M. Night Shyamalan
 Don't Breathe;2016;2010s;USA;Horror;88;tt4160708;8;7.1;211623;nm1793079;Fede Alvarez
+Captain America: Civil War;2016;2010s;USA;Action;147;tt3498820;7.25;7.8;718486;nm0751577;Anthony Russo
 Captain Fantastic;2016;2010s;USA;Comedy;118;tt3553976;8;7.9;181219;nm0743671;Matt Ross
 Anthropoid;2016;2010s;Czech Republic;War;120;tt4190530;7.25;7.2;44898;nm1193346;Sean Ellis
 Geumul;2016;2010s;South Korea;Politics;114;tt5996202;7.25;7.3;2732;nm1104118;Ki-duk Kim
@@ -645,7 +648,7 @@ Marathon Man;1976;1970s;USA;Thriller;125;tt0074860;8;7.4;56662;nm0772259;John Sc
 Logan's Run;1976;1970s;USA;SciFi;119;tt0074812;7.5;6.8;50650;nm0027183;Michael Anderson
 The Eagle Has Landed;1976;1970s;USA;War;135;tt0074452;7.5;6.9;18706;nm0836328;John Sturges
 Le Locataire;1976;1970s;France;Thriller;126;tt0074811;8.25;7.7;38264;nm0000591;Roman Polanski
-Brutti, Sporchi e Cattivi;1976;1970s;Italy;Comedy;115;tt0074252;8.25;7.8;7506;nm0778633;Ettore Scola
+Brutti, Sporchi e Cattivi;1976;1970s;Italy;Comedy;115;tt0074252;8.5;7.8;7506;nm0778633;Ettore Scola
 Rocky;1976;1970s;USA;Drama;120;tt0075148;8.5;8.1;504982;nm0000814;John G. Avildsen
 All the President's Men;1976;1970s;USA;Thriller;138;tt0074119;8.5;8;99544;nm0001587;Alan J. Pakula
 Network;1976;1970s;USA;Drama;121;tt0074958;8.75;8.1;141468;nm0001486;Sidney Lumet
@@ -1161,3 +1164,14 @@ Ofitsery;1971;1970s;Russia;War;96;tt0067517;8;7.7;1831;nm0737380;Vladimir Rogovo
 Wake in Fright;1971;1970s;Australia;Thriller;109;tt0067541;7.75;7.7;11665;nm0467646;Ted Kotcheff
 The Silent Partner;1978;1970s;Canada;Crime;106;tt0078269;7.5;7.4;6103;nm0241174;Daryl Duke
 The Enigma of Kaspar Hauser;1974;1970s;Germany;Drama;110;tt0071691;7.5;7.8;17281;nm0001348;Werner Herzog
+Una Giornata Particolare;1977;1970s;Italy;Drama;106;tt0076085;9;8.1;13323;nm0778633;Ettore Scola
+C'eravamo Tanto Amati;1974;1970s;Italy;Drama;124;tt0075793;8.75;8.1;6140;nm0778633;Ettore Scola
+Alice in the Cities;1974;1970s;Germany;Drama;113;tt0069687;7;8;11145;nm0000694;Wim Wenders
+Uomini Contro;1970;1970s;Italy;War;101;tt0066511;7.75;7.6;1593;nm0742940;Francesco Rosi
+Strategia del Ragno;1970;1970s;Italy;Thriller;100;tt0066413;7;6.9;2719;nm0000934;Bernardo Bertolucci
+Il Giardino dei Finzi Contini;1970;1970s;Italy;Historical;94;tt0065777;7.5;7.4;6583;nm0001120;Vittorio De Sica
+All That Jazz;1979;1970s;USA;Musical;123;tt0078754;8;7.9;30112;nm0002080;Bob Fosse
+The Chant of Jimmie Blacksmith;1978;1970s;Australia;Historical;122;tt0077318;7.75;7.3;2108;nm0770961;Fred Schepisi
+Fox and his Friends;1975;1970s;Germany;Drama;123;tt0072976;7.75;7.7;5792;nm0001202;Rainer Werner Fassbinder
+Profondo Rosso;1975;1970s;Italy;Thriller;127;tt0073582;7.75;7.6;36046;nm0000783;Dario Argento
+L'histoire de Adèle H.;1975;1970s;France;Drama;96;tt0073114;7.5;7.3;7949;nm0000076;François Truffaut
