@@ -23,18 +23,38 @@ library(magrittr)
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
 df$Score <- as.numeric(df$Score)
-df$numVotes <- as.numeric(df$numVotes)
-df$averageRating <- as.numeric(df$averageRating)
-df$runtimeMinutes <- as.numeric(df$runtimeMinutes)
 df$link <- paste0('<a href="https://www.imdb.com/title/', df$IMDB, '" target="_blank">imdb</a>')
 df %>% 
-  rename(Imdb = averageRating) %>% 
   rename(Rate = Score) %>% 
-  rename(Time = runtimeMinutes) %>% 
-  rename(Votes = numVotes) %>% 
   rename(Director = primaryName) %>% 
-  select(-directors) %>% 
-  select(-IMDB) -> df
+  select(-directors) ->df 
+
+### read imdb table
+
+## we'll get imdb rate, movie time and popular votes from IMDB database
+
+df.imdb <- read.csv('imdb-ratings.csv', encoding='UTF-8')
+df.imdb %>% 
+  rename(IMDB = Const) %>% 
+  rename(Time = "Runtime..mins.") %>% 
+  rename(Imdb = IMDb.Rating) %>% 
+  rename(Votes = Num.Votes) %>% 
+  select(-Your.Rating) %>% 
+  select(-Date.Rated) %>% 
+  select(-Title) %>% 
+  select(-URL) %>% 
+  select(-Genres) %>% 
+  select(-Year) %>% 
+  select(-Release.Date) %>% 
+  select(-Directors) %>% 
+  select(-Title.Type) -> df.imdb2
+
+### Join Tables
+
+df.join <- left_join(df, df.imdb2, by=c("IMDB"="IMDB"))
+df.join %>% 
+  select(-IMDB) %>% 
+  select(Title,Year,Decade,Country,Genre,Time,Rate,Imdb,Votes,Director,link) -> df
 ```
 
 This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around 45% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
@@ -132,8 +152,6 @@ rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
 These numbers include all movies that I ranked at IMDB:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
-df.imdb <- read.csv('imdb-ratings.csv', encoding='UTF-8')
-
 df.imdb %>% 
   mutate(Decade = floor(Year/10)*10) %>% 
   count(Decade) %>% 
@@ -240,7 +258,7 @@ legend(.25, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')),
 
 Let's check directors with multiple movies in the list,
 
-```{r, fig.width=12, fig.height=8, echo=FALSE}
+```{r, fig.width=14, fig.height=12, echo=FALSE}
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
