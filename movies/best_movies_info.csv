@@ -1,4 +1,5 @@
 Title;Year;Decade;Country;Genre;IMDB;Score;directors;primaryName
+The Last Duel;2021;2020s;USA;Historical;tt4244994;8.25;nm0000631;Ridley Scott
 Last Night in Soho;2021;2020s;UK;Horror;tt9639470;7.5;nm0942367;Edgar Wright
 Titane;2021;2020s;France;Horror;tt10944760;7.75;nm4469445;Julia Ducournau
 Dune;2021;2020s;USA;SciFi;tt1160419;9.25;nm0898288;Denis Villeneuve
@@ -101,6 +102,7 @@ Logan;2017;2010s;USA;Action;tt3315342;8.25;nm0003506;James Mangold
 Wind River;2017;2010s;USA;Thriller;tt5362988;8.5;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;2010s;USA;SciFi;tt1856101;9.5;nm0898288;Denis Villeneuve
 The Wailing;2016;2010s;South Korea;Horror;tt5215952;7;nm2947553;Hong-jin Na
+Julieta;2016;2010s;Spain;Drama;tt4326444;7.25;nm0000264;Pedro Almodóvar
 Elle;2016;2010s;France;Thriller;tt3716530;7.75;nm0000682;Paul Verhoeven
 Raw;2016;2010s;France;Horror;tt4954522;7;nm4469445;Julia Ducournau
 A Dark Song;2016;2010s;Ireland;Horror;tt4805316;7.25;nm2201016;Liam Gavin
@@ -1187,4 +1189,9 @@ L'enfant Sauvage;1970;1970s;France;Drama;tt0064285;7.5;nm0000076;François Truff
 Ouija: Origin of Evil;2016;2010s;USA;Horror;tt4361050;7.5;nm1093039;Mike Flanagan
 Walkabout;1971;1970s;Australia;Drama;tt0067959;7.25;nm0001676;Nicolas Roeg
 The American Friend;1977;1970s;Germany;Crime;tt0075675;7;nm0000694;Wim Wenders
-L'innocente;1987;1970s;Italy;Drama;tt0074686;7.75;nm0899581;Luchino Visconti
+L'innocente;1976;1970s;Italy;Drama;tt0074686;7.75;nm0899581;Luchino Visconti
+Alice Doesn't Live Here Anymore;1974;1970s;USA;Drama;tt0071115;7.75;nm0000217;Martin Scorsese
+Scenes from a Marriage;1974;1970s;Sweden;Drama;tt6725014;9.25;nm0000005;Ingmar Bergman
+Black Christmas;1974;1970s;USA;Horror;tt0071222;7.25;nm0163706;Bob Clark
+Man of Marble;1977;1970s;Poland;Historical;tt0075902;7.75;nm0906667;Andrzej Wajda
+Moscow does not Believe in Tears;1980;1980s;Russia;Drama;tt0079579;8;nm0579828;Vladimir Menshov
