@@ -33,7 +33,7 @@ df %>%
 
 ## we'll get imdb rate, movie time and popular votes from IMDB database
 
-df.imdb <- read.csv('imdb-ratings.csv', encoding='UTF-8')
+df.imdb <- read.csv('ratings.csv', encoding='UTF-8')
 df.imdb %>% 
   rename(IMDB = Const) %>% 
   rename(Time = "Runtime..mins.") %>% 
@@ -48,6 +48,38 @@ df.imdb %>%
   select(-Release.Date) %>% 
   select(-Directors) %>% 
   select(-Title.Type) -> df.imdb2
+
+toDecade <- function(year) {
+  if (year < 1920) {
+    return("1910s")
+  } else if (year < 1930) {
+    return("1920s")
+  } else if (year < 1940) {
+    return("1930s")
+  } else if (year < 1950) {
+    return("1940s")
+  } else if (year < 1960) {
+    return("1950s")
+  } else if (year < 1970) {
+    return("1960s")
+  } else if (year < 1980) {
+    return("1970s")
+  } else if (year < 1990) {
+    return("1980s")
+  } else if (year < 2000) {
+    return("1990s")
+  } else if (year < 2010) {
+    return("2000s")
+  } else if (year < 2020) {
+    return("2010s")
+  } else if (year < 2030) {
+    return("2020s")
+  } else if (year < 2040) {
+    return("2030s")
+  }
+}
+
+df$Decade <- sapply(df$Year, toDecade)
 
 ### Join Tables
 
