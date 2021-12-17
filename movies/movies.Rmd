@@ -360,7 +360,7 @@ DT::datatable(directors, escape=FALSE)
 ```
 The next table show these scores per decade and director.
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 df %>% 
   group_by(Director, Decade) %>% 
   summarize(Score = director.score(Rate)) -> directors
@@ -388,7 +388,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+12, label=df6$n, pos=2, cex=0.8, col='blue')
+text(y=plt, x=df6$n+15, label=df6$n, pos=2, cex=0.8, col='blue')
 ```
 
 ## Movies per Country

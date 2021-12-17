@@ -1,6 +1,7 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Antlers;2021;USA;Horror;tt7740510;7.5;nm0178376;Scott Cooper
 Benedetta;2021;France;Historical;tt6823148;7.5;nm0000682;Paul Verhoeven
-The Last Duel;2021;USA;Historical;tt4244994;8.25;nm0000631;Ridley Scott
+The Last Duel;2021;USA;Historical;tt4244994;7.75;nm0000631;Ridley Scott
 Last Night in Soho;2021;UK;Horror;tt9639470;7.5;nm0942367;Edgar Wright
 Titane;2021;France;Horror;tt10944760;7.75;nm4469445;Julia Ducournau
 Dune;2021;USA;SciFi;tt1160419;9.25;nm0898288;Denis Villeneuve
@@ -115,7 +116,7 @@ Captain America: Civil War;2016;USA;Action;tt3498820;7.25;nm0751577;Anthony Russ
 Captain Fantastic;2016;USA;Comedy;tt3553976;8;nm0743671;Matt Ross
 Anthropoid;2016;Czech Republic;War;tt4190530;7.25;nm1193346;Sean Ellis
 Geumul;2016;South Korea;Politics;tt5996202;7.25;nm1104118;Ki-duk Kim
-The Salesman;2016;Iran;Drama;tt5186714;7.75;nm1410815;Asghar Farhadi
+The Salesman;2016;Iran;Drama;tt5186714;8;nm1410815;Asghar Farhadi
 Silence;2016;USA;Historical;tt0490215;7.5;nm0000217;Martin Scorsese
 Rogue One;2016;USA;Fantasy;tt3748528;7.75;nm2284484;Gareth Edwards
 The Autopsy of Jane Doe;2016;USA;Horror;tt3289956;7.5;nm0004217;André Øvredal
@@ -783,6 +784,7 @@ Harakiri;1962;Japan;Samurai;tt0056058;9.75;nm0462030;Masaki Kobayashi
 The Trial;1962;France;Dystopia;tt0057427;8;nm0000080;Orson Welles
 Mutiny on the Bounty;1962;USA;Historical;tt0056264;7.75;nm0587277;Lewis Milestone
 The Day the Earth Caught Fire;1961;USA;SciFi;tt0054790;7.5;nm0346436;Val Guest
+West Side Story;1961;USA;Musical;tt0055614;7.5;nm0936404;Robert Wise
 Psycho;1960;USA;Horror;tt0054215;8.75;nm0000033;Alfred Hitchcock
 Spartacus;1960;USA;Historical;tt0054331;8;nm0000040;Stanley Kubrick
 The Magnificent Seven;1960;USA;Western;tt0054047;8;nm0836328;John Sturges
@@ -1202,3 +1204,16 @@ Soldier of Orange;1977;Netherlands;War;tt0076734;7.75;nm0000682;Paul Verhoeven
 The Tree of the Wooden Clogs;1978;Italy;Drama;tt0077138;8.5;nm0647438;Ermanno Olmi
 Bad Times at the El Royale;2018;USA;Thriller;tt6628394;8;nm1206844;Drew Goddard
 Dark Waters;2002;Japan;Horror;tt0308379;7.25;nm0620378;Hideo Nakata
+Hope;2013;South Korea;Drama;tt3153634;9.25;nm1045937;Joon-ik Lee
+Joyeux Noël;2005;France;Historical;tt0424205;7.75;nm0137228;Christian Carion
+Thelma;2017;Norway;Horror;tt6304046;8;nm1258686;Joachim Trier
+Head-On;2004;Turkey;Drama;tt0347048;7.75;nm0015359;Fatih Akin
+Mysterious Skin;2004;USA;Drama;tt0370986;8;nm0000777;Gregg Araki
+Trouble Water;2008;Norway;Drama;tt0948544;8.25;nm0691547;Erik Poppe
+About Elly;2009;Iran;Drama;tt1360860;8.75;nm1410815;Asghar Farhadi
+Eu Hoje Quero Voltar Sozinho;2014;Brazil;Drama;tt1702014;7.25;nm2406154;Daniel Ribeiro
+Adam's Apples;2005;Denmark;Comedy;tt0418455;7.75;nm0421314;Anders Thomas Jensen
+Le Passé;2013;France;Drama;tt2404461;8.5;nm1410815;Asghar Farhadi
+Ernest et Celestine;2012;France;Comedy;tt1816518;7.5;nm0041334;Stéphane Aubier
+La Sconosciuta;2006;Italy;Thriller;tt0494271;7.25;nm0868153;Giuseppe Tornatore
+El Hijo de la Novia;2001;Argentina;Comedy;tt0292542;7.75;nm0002728;Juan José Campanella
