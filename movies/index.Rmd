@@ -89,7 +89,11 @@ df.join %>%
   select(Title,Year,Decade,Country,Genre,Time,Rate,Imdb,Votes,Director,link) -> df
 ```
 
-This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents around 45% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
+```{r}
+
+```
+
+This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
@@ -270,11 +274,11 @@ rotate_x(df2, 'n', df2$Decade, 45)
 
 The next plot shows how different rating ranges are represented by decade,
 
-```{r, fig.width=8, fig.height=6, warning=FALSE, echo=FALSE}
+```{r, fig.width=8, fig.height=6, warning=FALSE, echo=FALSE, message=FALSE}
 df %>% 
   mutate(interval = cut(df$Rate, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
   group_by(Decade, interval, .drop = FALSE) %>% 
-  summarise(count=n()) -> df3
+  summarise(count=n(), .groups = 'drop') -> df3
 
 mat <- matrix(df3$count, ncol=6, byrow=T)
 
