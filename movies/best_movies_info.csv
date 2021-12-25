@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Don't Look Up;2021;USA;Comedy;tt11286314;7.75;nm0570912;Adam McKay
 Antlers;2021;USA;Horror;tt7740510;7.5;nm0178376;Scott Cooper
 Benedetta;2021;France;Historical;tt6823148;7.5;nm0000682;Paul Verhoeven
 The Last Duel;2021;USA;Historical;tt4244994;7.75;nm0000631;Ridley Scott
@@ -126,6 +127,7 @@ Manchester by the Sea;2016;USA;Drama;tt4034228;7.5;nm0518836;Kenneth Lonergan
 Arrival;2016;USA;SciFi;tt2543164;9.25;nm0898288;Denis Villeneuve
 The Handmaiden;2016;South Korea;Drama;tt4016934;9.25;nm0661791;Chan-wook Park
 Spotlight;2015;USA;Politics;tt1895587;7;nm0565336;Tom McCarthy
+The Big Short;USA;Politics;tt1596363;7.5;nm0570912;Adam McKay
 The Visit;2015;USA;Horror;tt3567288;7;nm0796117;M. Night Shyamalan
 The Walk;2015;USA;Historical;tt3488710;7.75;nm0000709;Robert Zemeckis
 Macbeth;2015;USA;Historical;tt2884018;7;nm0997291;Justin Kurzel
@@ -1225,3 +1227,6 @@ Lavoura Arcaica;2001;Brazil;Drama;tt0241663;7.75;nm0142461;Luiz Fernando Carvalh
 Masquerade;2012;South Korea;Drama;tt2290840;7.75;nm2039220;Chang-min Choo
 My Way;2011;South Korea;War;tt1606384;7.25;nm0437625;Je-kyu Kang
 Searching;2018;USA;Thriller;tt7668870;7.5;nm3792134;Aneesh Chaganty
+Victoria;2015;Germany;Crime;tt4226388;7.75;nm0771923;Sebastian Schipper
+Cell 211;2009;Spain;Thriller;tt1242422;7.75;nm0600409;Daniel Monzón
+Billy Elliot;2000;UK;Drama;tt0249462;8.25;nm0197636;Stephen Daldry
