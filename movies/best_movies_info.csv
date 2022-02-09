@@ -1,4 +1,16 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Nightmare Alley;2021;USA;Thriller;tt7740496;7.5;nm0868219;Guillermo del Toro
+A Hero;2021;Iran;Drama;tt11777738;8.25;nm1410815;Asghar Farhadi
+Wheel of Fortune and Fantasy;2021;Japan;Drama;tt14034966;8;nm3152327;Ryûsuke Hamaguchi
+Drive my Car;2021;Japan;Drama;tt14039582;9;nm3152327;Ryûsuke Hamaguchi
+The Tragedy of Macbeth;2021;USA;Drama;tt10095582;7.75;nm0001054;Joel Coen
+The Innocents;2021;Norway;Horror;tt4028464;7.25;nm1258777;Eskil Vogt
+Being the Ricardos;2021;USA;Drama;tt4995540;7.5;nm0815070;Aaron Sorkin
+The Power of the Dog;2021;UK;Drama;tt10293406;7.25;nm0001005;Jane Campion
+Belfast;2021;UK;Drama;tt12789558;8.5;nm0000110;Kenneth Branagh
+C'mon C'mon;2021;USA;Drama;tt10986222;8.25;nm0590122;Mike Mills
+The Mauritanian;2021;UK;Politics;tt4761112;8;nm0531817;Kevin Macdonald
+The French Dispatch;2021;USA;Comedy;tt8847712;7.25;nm0027572;Wes Anderson
 Don't Look Up;2021;USA;Comedy;tt11286314;7.75;nm0570912;Adam McKay
 Antlers;2021;USA;Horror;tt7740510;7.5;nm0178376;Scott Cooper
 Benedetta;2021;France;Historical;tt6823148;7.5;nm0000682;Paul Verhoeven
@@ -15,7 +27,7 @@ CODA;2021;USA;Drama;tt10366460;7.75;nm1571761;Sian Heder
 Don't Breathe 2;2021;USA;Thriller;tt6246322;7;nm2140186;Rodo Sayagues
 No Man of God;2021;USA;Drama;tt13507778;7.5;nm0780547;Amber Sealey
 Reminiscence;2021;USA;SciFi;tt3272066;7;nm2847370;Lisa Joy
-The Green Knight;2021;USA;Fantasy;tt9243804;7.5;nm1108007;David Lowery
+The Green Knight;2021;USA;Fantasy;tt9243804;7.75;nm1108007;David Lowery
 Pig;2021;USA;Drama;tt11003218;8;nm3968825;Michael Sarnoski
 A Classic Horror Story;2021;Italy;Horror;tt12877640;7.5;nm3248608;Roberto De Feo
 No Sudden Move;2021;USA;Crime;tt11525644;7;nm0001752;Steven Soderbergh
@@ -31,6 +43,7 @@ Dear Comrades!;2020;Russia;Historical;tt10796286;7.5;nm0464846;Andrey Konchalovs
 Host;2020;USA;Horror;tt12749596;7.25;nm3699074;Rob Savage
 The Dry;2020;Australia;Crime;tt5144174;7;nm0175352;Robert Connolly
 Night in Paradise;2020;South Korea;Crime;tt12792418;7.5;nm4219902;Park Hoon-Jung
+The Empty Man;2020;USA;Horror;tt5867314;7.75;nm0697936;David Prior
 The Father;2020;UK;Drama;tt10272386;8;nm1725469;Florian Zeller
 Alone;2020;USA;Thriller;tt7711170;7.75;nm0404882;John Hyams
 Mank;2020;USA;Drama;tt10618286;7.75;nm0000399;David Fincher
@@ -48,7 +61,7 @@ John Wick 3;2019;USA;Action;tt6146586;7.5;nm0821432;Chad Stahelski
 Ad Astra;2019;USA;SciFi;tt2935510;7.5;nm0336695;James Gray
 Bacurau;2019;Brazil;Dystopia;tt2762506;7.5;nm2207625;Kleber Mendonça Filho
 Jojo Rabbit;2019;USA;Comedy;tt2584384;7.5;nm0169806;Taika Waititi
-The Lighthouse;2019;USA;Horror;tt7984734;8.25;nm3211470;Robert Eggers
+The Lighthouse;2019;USA;Horror;tt7984734;8.5;nm3211470;Robert Eggers
 Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;8.5;nm0000233;Quentin Tarantino
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
 Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
@@ -84,6 +97,7 @@ The Nightingale;2018;Australia;Historical;tt4068576;9;nm0448768;Jennifer Kent
 First Man;2018;USA;Drama;tt1213641;8.25;nm3227090;Damien Chazelle
 Roma;2018;Mexico;Drama;tt6155172;8;nm0190859;Alfonso Cuarón
 Gerald's Game;2017;USA;Thriller;tt3748172;7;nm1093039;Mike Flanagan
+It Comes at Night;2017;USA;Horror;tt4695012;7;nm4099092;Trey Edward Shults
 Thor: Ragnarok;2017;USA;Action;tt3501632;7.5;nm0169806;Taika Waititi
 Happy Death Day;2017;USA;Horror;tt5308322;7.25;nm0484907;Christopher Landon
 Coco;2017;USA;Fantasy;tt2380307;7.75;nm0881279;Lee Unkrich
@@ -91,7 +105,8 @@ Blade of the Immortal;2017;Japan;Samurai;tt5084170;7.5;nm0586281;Takashi Miike
 Three Billboards Outside Ebbing Missouri;2017;USA;Drama;tt5027774;7;nm1732981;Martin McDonagh
 Baby Driver;2017;USA;Crime;tt3890160;7.25;nm0942367;Edgar Wright
 Get Out;2017;USA;Horror;tt5052448;8;nm1443502;Jordan Peele
-The Shape of Water;2017;USA;Drama;tt5580390;8;nm0868219;Guillermo del Toro
+Dunkirk;2017;UK;War;tt5013056;7.5;nm0634240;Christopher Nolan
+The Shape of Water;2017;USA;Drama;tt5580390;8.25;nm0868219;Guillermo del Toro
 One Cut of the Dead;2017;Japan;Comedy;tt7914416;8.5;nm7643451;Yûya Nakaizumi
 The Villainess;2017;South Korea;Action;tt6777338;7.5;nm3468066;Byung-gil Jung
 Brawl In Cell Block 99;2017;USA;Action;tt5657856;8;nm0951975;S. Craig Zahler
@@ -127,7 +142,8 @@ Manchester by the Sea;2016;USA;Drama;tt4034228;7.5;nm0518836;Kenneth Lonergan
 Arrival;2016;USA;SciFi;tt2543164;9.25;nm0898288;Denis Villeneuve
 The Handmaiden;2016;South Korea;Drama;tt4016934;9.25;nm0661791;Chan-wook Park
 Spotlight;2015;USA;Politics;tt1895587;7;nm0565336;Tom McCarthy
-The Big Short;USA;Politics;tt1596363;7.5;nm0570912;Adam McKay
+Shaun the Sheep;2015;UK;Comedy;tt2872750;7.5;nm0123666;Mark Burton
+The Big Short;2015;USA;Politics;tt1596363;7.5;nm0570912;Adam McKay
 The Visit;2015;USA;Horror;tt3567288;7;nm0796117;M. Night Shyamalan
 The Walk;2015;USA;Historical;tt3488710;7.75;nm0000709;Robert Zemeckis
 Macbeth;2015;USA;Historical;tt2884018;7;nm0997291;Justin Kurzel
@@ -144,6 +160,7 @@ Son of Saul;2015;Hungary;War;tt3808342;7.5;nm1841577;László Nemes
 Room;2015;USA;Thriller;tt3170832;8.25;nm1049433;Lenny Abrahamson
 Mad Max: Fury Road;2015;USA;Dystopia;tt1392190;9.5;nm0004306;George Miller
 Gone Girl;2014;USA;Thriller;tt2267998;7.5;nm0000399;David Fincher
+White Christmas;2014;UK;SciFi;tt3973198;9;nm3393440;Carl Tibbetts
 Boyhood;2014;USA;Drama;tt1065073;7.5;nm0000500;Richard Linklater
 Interstellar;2014;USA;SciFi;tt0816692;8;nm0634240;Christopher Nolan
 Leviathan;2014;Russia;Drama;tt2802154;7;nm1168657;Andrey Zvyagintsev
@@ -212,6 +229,7 @@ The Raid;2011;Indonesia;Action;tt1899353;8.5;nm2153088;Gareth Evans
 Tinker Tailor Soldier Spy;2011;UK;Politics;tt1340800;8.75;nm0019247;Tomas Alfredson
 Thurgood;2011;USA;Historical;tt1844811;8.75;nm0828623;Michael Stevens
 Shutter Island;2010;USA;Drama;tt1130884;7;nm0000217;Martin Scorsese
+Kick-Ass;2010;USA;Action;tt1250777;7.5;nm0891216;Matthew Vaughn
 The Social Network;2010;USA;Drama;tt1285016;7.25;nm0000399;David Fincher
 Insidious;2010;USA;Horror;tt1591095;7.25;nm1490123;James Wan
 Inception;2010;USA;Thriller;tt1375666;7.5;nm0634240;Christopher Nolan
@@ -240,9 +258,11 @@ Watchmen;2009;USA;Dystopia;tt0409459;8.5;nm0811583;Zack Snyder
 Moon;2009;USA;SciFi;tt1182345;8.5;nm1512910;Duncan Jones
 Inglourious Basterds;2009;USA;War;tt0361748;8.5;nm0000233;Quentin Tarantino
 Gran Torino;2008;USA;Drama;tt1205489;7.5;nm0000142;Clint Eastwood
+Der Baader Meinhof Komplex;2008;Germany;Politics;tt0765432;7.5;nm0248942;Uli Edel
 Ip Man;2008;Hong Kong;Action;tt1220719;7;nm0948159;Wilson Yip
 Slumdog Millionaire;2008;India;Drama;tt1010048;7.75;nm0000965;Danny Boyle
 Taken;2008;USA;Action;tt0936501;7;nm0603628;Pierre Morel
+The Dark Knight;2008;USA;Action;tt0468569;7.75;nm0634240;Christopher Nolan
 Martyrs;2008;France;Horror;tt1029234;8;nm1052791;Pascal Laugier
 Let the Right One In;2008;Sweden;Horror;tt1139797;8;nm0019247;Tomas Alfredson
 Die Welle;2008;Germany;Politics;tt1063669;7.5;nm0304541;Dennis Gansel
@@ -259,6 +279,7 @@ Doubt;2008;USA;Politics;tt0918927;8.5;nm0788234;John Patrick Shanley
 Hunger;2008;Ireland;Politics;tt0986233;8.5;nm2588606;Steve McQueen
 The Wrestler;2008;USA;Drama;tt1125849;8.75;nm0004716;Darren Aronofsky
 The Diving Bell and the Butterfly;2007;France;Drama;tt0401383;7;nm0773603;Julian Schnabel
+4 Months, 3 Weeks and 2 Days;2007;Romania;Drama;tt1032846;7.5;nm0612816;Cristian Mungiu
 Persepolis;2007;France;Drama;tt0808417;8;nm1749112;Vincent Paronnaud
 The Kite Runner;2007;USA;Drama;tt0419887;7;nm0286975;Marc Forster
 Rescue Dawn;2007;USA;Drama;tt0462504;7;nm0001348;Werner Herzog
@@ -284,7 +305,7 @@ Zwartboek, Black Book;2006;Netherlands;War;tt0389557;7.5;nm0000682;Paul Verhoeve
 Babel;2006;USA;Drama;tt0449467;7.25;nm0327944;Alejandro G. Iñárritu
 This is England;2006;UK;Drama;tt0480025;8;nm0276349;Shane Meadows
 The Fall;2006;USA;Fantasy;tt0460791;7;nm0802248;Tarsem Singh
-The Host;2006;USA;Horror;tt0468492;7;nm0094435;Bong Joon Ho
+The Host;2006;South Korea;Horror;tt0468492;8;nm0094435;Bong Joon Ho
 Inside Man;2006;USA;Thriller;tt0454848;7.25;nm0000490;Spike Lee
 Shi Gan (Time);2006;South Korea;Drama;tt0497986;8;nm1104118;Ki-duk Kim
 Volver;2006;Spain;Drama;tt0441909;8;nm0000264;Pedro Almodóvar
@@ -303,6 +324,7 @@ Kung Fu Hustle;2004;Hong Kong;Comedy;tt0373074;7.5;nm0159507;Stephen Chow
 Primer;2004;USA;SciFi;tt0390384;7.25;nm1503403;Shane Carruth
 Love and Honor;2006;Japan;Samurai;tt0483578;8;nm0945282;Yôji Yamada
 The Exorcism of Emily Rose;2005;USA;Horror;tt0404032;7;nm0220600;Scott Derrickson
+War of the Worlds;2005;USA;SciFi;tt0407304;7.5;nm0000229;Steven Spielberg
 Jarhead;2005;USA;War;tt0418763;7;nm0005222;Sam Mendes
 A History of Violence;2005;Canada;Thriller;tt0399146;7.5;nm0000343;David Cronenberg
 The Proposition;2005;Australia;Western;tt0421238;7;nm0384825;John Hillcoat
@@ -343,6 +365,7 @@ Vera Drake;2004;UK;Drama;tt0383694;8.75;nm0005139;Mike Leigh
 Kill Bill vol.2;2004;USA;Action;tt0378194;8.75;nm0000233;Quentin Tarantino
 Der Untergang;2004;Germany;War;tt0363163;9.25;nm0386570;Oliver Hirschbiegel
 Haute tension;2003;France;Horror;tt0338095;7;nm0014960;Alexandre Aja
+Lost in Translation;2003;USA;Drama;tt0335266;7;nm0001068;Sofia Coppola
 A Tale of Two Sisters;2003;USA;Horror;tt0365376;7;nm0453518;Jee-woon Kim
 21 Grams;2003;USA;Drama;tt0315733;8;nm0327944;Alejandro G. Iñárritu
 Master and Commander;2003;USA;Historical;tt0311113;9;nm0001837;Peter Weir
@@ -381,6 +404,7 @@ Cidade de Deus;2002;Brazil;Drama;tt0317248;8.5;nm0576987;Fernando Meirelles
 Irréversible;2002;France;Drama;tt0290673;8.5;nm0637615;Gaspar Noé
 Sympathy for Mr.Vengeance;2002;South Korea;Thriller;tt0310775;8.75;nm0661791;Chan-wook Park
 Artificial Intelligence;2001;USA;SciFi;tt0212720;7;nm0000229;Steven Spielberg
+Training Day;2001;USA;Crime;tt0139654;7.25;nm0298807;Antoine Fuqua
 Donnie Darko;2001;USA;Drama;tt0246578;7.5;nm0446819;Richard Kelly
 La Stanza del Figlio;2001;Italy;Drama;tt0208990;7.5;nm0604335;Nanni Moretti
 Ichi the Killer;2001;Japan;Action;tt0296042;8;nm0586281;Takashi Miike
@@ -541,6 +565,7 @@ Do the Right Thing;1989;USA;Drama;tt0097216;8.25;nm0000490;Spike Lee
 The Cook, the Thief, His Wife & Her Lover;1989;UK;Horror;tt0097108;8.5;nm0000425;Peter Greenaway
 Kiki's Delivery Service;1989;Japan;Fantasy;tt0097814;7.75;nm0594503;Hayao Miyazaki
 High Hopes;1988;UK;Drama;tt0095302;7;nm0005139;Mike Leigh
+Rain Man;1988;USA;Drama;tt0095953;7.5;nm0001469;Barry Levinson
 Dangerous Liaisons;1988;USA;Drama;tt0094947;7.25;nm0001241;Stephen Frears
 The Accused;1988;USA;Drama;tt0094608;7;nm0438279;Jonathan Kaplan
 Mississippi Burning;1988;USA;Thriller;tt0095647;8;nm0000570;Alan Parker
@@ -682,6 +707,7 @@ Chinatown;1974;USA;Crime;tt0071315;9.25;nm0000591;Roman Polanski
 The Conversation;1974;USA;Thriller;tt0071360;9.25;nm0000338;Francis Ford Coppola
 The Godfather: Part II;1974;USA;Drama;tt0071562;9.75;nm0000338;Francis Ford Coppola
 Don't Look Now;1973;USA;Horror;tt0069995;7;nm0001676;Nicolas Roeg
+Robin Hood;1973;USA;Comedy;tt0070608;7.25;nm0718627;Wolfgang Reitherman
 The Wicker Man;1973;USA;Thriller;tt0070917;7.5;nm0362736;Robin Hardy
 WestWorld;1973;USA;SciFi;tt0070909;7.25;nm0000341;Michael Crichton
 Soylent Green;1973;USA;Dystopia;tt0070723;8;nm0281507;Richard Fleischer
@@ -691,6 +717,9 @@ The Offence;1973;USA;Drama;tt0070468;8.5;nm0001486;Sidney Lumet
 Serpico;1973;USA;Crime;tt0070666;8.5;nm0001486;Sidney Lumet
 The Exorcist;1973;USA;Horror;tt0070047;9.5;nm0001243;William Friedkin
 Solyaris;1972;Russia;SciFi;tt0069293;8;nm0001789;Andrei Tarkovsky
+Z.P.G.;1972;USA;SciFi;tt0069530;7;nm0133384;Michael Campus
+Ultimo Tango a Parigi;1972;Italy;Drama;tt0070849;7;nm0000934;Bernardo Bertolucci
+The Way of the Dragon;1972;Hong Kong;Action;tt0068935;7.5;nm0000045;Bruce Lee
 Silent Running;1972;USA;SciFi;tt0067756;7;nm0874320;Douglas Trumbull
 Mad Max;1979;Australia;Dystopia;tt0079501;7;nm0004306;George Miller
 The Towering Inferno;1974;USA;Thriller;tt0072308;7.5;nm0347086;John Guillermin
@@ -788,12 +817,12 @@ The Trial;1962;France;Dystopia;tt0057427;8;nm0000080;Orson Welles
 Mutiny on the Bounty;1962;USA;Historical;tt0056264;7.75;nm0587277;Lewis Milestone
 The Day the Earth Caught Fire;1961;USA;SciFi;tt0054790;7.5;nm0346436;Val Guest
 West Side Story;1961;USA;Musical;tt0055614;7.5;nm0936404;Robert Wise
-Psycho;1960;USA;Horror;tt0054215;8.75;nm0000033;Alfred Hitchcock
+Psycho;1960;USA;Horror;tt0054215;9;nm0000033;Alfred Hitchcock
 Spartacus;1960;USA;Historical;tt0054331;8;nm0000040;Stanley Kubrick
 The Magnificent Seven;1960;USA;Western;tt0054047;8;nm0836328;John Sturges
 The Time Machine;1960;USA;SciFi;tt0054387;7.75;nm0657162;George Pal
-Peeping Tom;1960;UK;Thriller;tt0054167;8;nm0003836;Michael Powell
-Inherit the Wind;1960;USA;Historical;tt0053946;8.5;nm0006452;Stanley Kramer
+Peeping Tom;1960;UK;Thriller;tt0054167;8.5;nm0003836;Michael Powell
+Inherit the Wind;1960;USA;Historical;tt0053946;9;nm0006452;Stanley Kramer
 Village of the Damned;1960;UK;Horror;tt0054443;7.5;nm0727211;Wolf Rilla
 12 Angry Men;1957;USA;Drama;tt0050083;10;nm0001486;Sidney Lumet
 The Incredible Shrinking Man;1957;USA;SciFi;tt0050539;7.75;nm0000791;Jack Arnold
@@ -988,7 +1017,7 @@ Ryan's Daughter;1970;UK;Drama;tt0066319;8.5;nm0000180;David Lean
 Fiddler on the Roof;1971;USA;Musical;tt0067093;8;nm0422484;Norman Jewison
 Yojimbo;1961;Japan;Samurai;tt0055630;9;nm0000041;Akira Kurosawa
 Sanjuro;1962;Japan;Samurai;tt0056443;7.75;nm0000041;Akira Kurosawa
-Throne of Blood;1957;Japan;Samurai;tt0050613;8.5;nm0000041;Akira Kurosawa
+Throne of Blood;1957;Japan;Samurai;tt0050613;8.75;nm0000041;Akira Kurosawa
 The Deadly Affair;1967;UK;Thriller;tt0061556;7.25;nm0001486;Sidney Lumet
 Onibaba;1964;Japan;Horror;tt0058430;9;nm0793881;Kaneto Shindô
 The Manchurian Candidate;1962;USA;Thriller;tt0056218;8.75;nm0001239;John Frankenheimer
@@ -1230,3 +1259,86 @@ Searching;2018;USA;Thriller;tt7668870;7.5;nm3792134;Aneesh Chaganty
 Victoria;2015;Germany;Crime;tt4226388;7.75;nm0771923;Sebastian Schipper
 Cell 211;2009;Spain;Thriller;tt1242422;7.75;nm0600409;Daniel Monzón
 Billy Elliot;2000;UK;Drama;tt0249462;8.25;nm0197636;Stephen Daldry
+Poetry;2010;South Korea;Drama;tt1287878;8;nm0496969;Chang-dong Lee
+Pixote;1980;Brazil;Drama;tt0082912;8.25;nm0002199;Hector Babenco
+Eat Drink Man Woman;1994;Taiwan;Drama;tt0111797;8;nm0000487;Ang Lee
+The Secret of Kells;2009;Ireland;Fantasy;tt0485601;7.25;nm1119079;Tomm Moore
+Tokyo Godfathers;2003;Japan;Comedy;tt0388473;8;nm0464804;Satoshi Kon
+Carandiru;2003;Brazil;Historical;tt0293007;8.5;nm0002199;Hector Babenco
+Beasts of no Nation;2015;USA;War;tt1365050;8.75;nm1560977;Cary Joji Fukunaga
+Office Romance;1977;Russia;Comedy;tt0076727;8.25;nm0752922;Eldar Ryazanov
+The Death of Mr. Lazarescu;2005;Romania;Drama;tt0456149;7.5;nm1090998;Cristi Puiu
+American Graffiti;1973;USA;Comedy;tt0069704;7.5;nm0000184;George Lucas
+I want to Eat your Pancreas;2018;Japan;Drama;tt7236034;8;nm9026707;Shin'ichirô Ushijima
+Sleepers;1996;USA;Crime;tt0117665;8;nm0001469;Barry Levinson
+Lord of War;2005;USA;Crime;tt0399295;7.5;nm0629272;Andrew Niccol
+American Hustle;2013;USA;Crime;tt1800241;7.75;nm0751102;David O. Russell
+Moneyball;2011;USA;Drama;tt1210166;8;nm0587955;Bennett Miller
+Breaking Away;1979;USA;Comedy;tt0078902;7;nm0946811;Peter Yates
+What's Up, Doc?;1972;USA;Comedy;tt0069495;8;nm0000953;Peter Bogdanovich
+The Imitation Game;2014;UK;Historical;tt2084970;7.75;nm0878763;Morten Tyldum
+Blow;2001;USA;Crime;tt0221027;7.25;nm0001130;Ted Demme
+The World's End;2013;UK;Comedy;tt1213663;7;nm0942367;Edgar Wright
+A Time to Kill;1996;USA;Drama;tt0117913;7;nm0001708;Joel Schumacher
+Nocturnal Animals;2016;USA;Thriller;tt4550098;7.75;nm1053530;Tom Ford
+The Fault in our Stars;2014;USA;Drama;tt2582846;7.5;nm1837748;Josh Boone
+The Reader;2008;Germany;Drama;tt0976051;8;nm0197636;Stephen Daldry
+Bicho de Sete Cabeças;2000;Brazil;Drama;tt0263124;7.25;nm1738698;Laís Bodanzky
+A Royal Affair;2012;Denmark;Historical;tt1276419;8;nm1064048;Nikolaj Arcel
+Office Space;1999;USA;Comedy;tt0151804;7.75;nm0431918;Mike Judge
+Shooting Dogs;2005;UK;Historical;tt0420901;7.5;nm0001994;Michael Caton-Jones
+Boy A;2007;UK;Drama;tt1078188;8;nm1259871;John Crowley
+Solace;2015;USA;Thriller;tt1291570;7;nm4139472;Afonso Poyart
+Experimenter;2015;USA;Historical;tt3726704;7.5;nm0021899;Michael Almereyda
+Creep;2014;USA;Horror;tt2428170;7.25;nm2674307;Patrick Brice
+Sword of the Stranger;2007;Japan;Samurai;tt1121794;7.5;nm1622836;Masahiro Andô
+Klass;2007;Estonia;Drama;tt0988108;8;nm0704664;Ilmar Raag
+Short Term 12;2013;USA;Drama;tt2370248;8.75;nm2308774;Destin Daniel Cretton
+Nebraska;2013;USA;Comedy;tt1821549;8;nm0668247;Alexander Payne
+Wheels;2014;USA;Drama;tt2170667;9;nm2871077;Tim Gagliardo
+Just Mercy;2019;USA;Historical;tt4916630;7.75;nm2308774;Destin Daniel Cretton
+Pride;2014;UK;Politics;tt3169706;8.5;nm0911334;Matthew Warchus
+Fences;2016;USA;Drama;tt2671706;8;nm0000243;Denzel Washington
+The Great Debaters;2007;USA;Politics;tt0427309;7.5;nm0000243;Denzel Washington
+Selma;2014;USA;Historical;tt1020072;8.25;nm1148550;Ava DuVernay
+Voces Inocentes;2004;Mexico;War;tt0387914;7.25;nm0001502;Luis Mandoki
+Of Mice and Men;1992;USA;Drama;tt0105046;7;nm0000641;Gary Sinise
+Klaus;2019;Spain;Comedy;tt4729430;8.25;nm0655053;Sergio Pablos
+The Bird with the Crystal Plumage;1970;Italy;Thriller;tt0065143;7;nm0000783;Dario Argento
+Straight Time;1978;USA;Crime;tt0078326;7.5;nm0343260;Ulu Grosbard
+Little Big Man;1970;USA;Western;tt0065988;8.25;nm0671957;Arthur Penn
+Lenny;1974;USA;Politics;tt0071746;8.75;nm0002080;Bob Fosse
+Tenchi, Samurai Astronomer;2012;Japan;Historical;tt1834303;7.75;nm0847690;Yôjirô Takita
+Life and a Day;2016;Iran;Drama;tt5460658;8.25;nm7920254;Saeed Roustayi
+Yi Yi;2000;Taiwan;Drama;tt0244316;8.75;nm0945981;Edward Yang
+Le Trou;1960;France;Crime;tt0054407;8.75;nm0065442;Jacques Becker
+La Maschera del Demonio;1960;Italy;Horror;tt0054067;7.5;nm0000878;Mario Bava
+Classe tous Risques;1960;France;Crime;tt0052698;7.75;nm0767110;Claude Sautet
+House of Usher;1960;USA;Horror;tt0053925;7;nm0000339;Roger Corman
+Hanyo, The Handmaiden;1960;South Korea;Horror;tt0150980;8.25;nm0453579;Kim Ki-young
+The Naked Island;1960;Japan;Drama;tt0056049;7.5;nm0793881;Kaneto Shindô
+Pollyanna;1960;USA;Comedy;tt0054195;7.25;nm0842582;David Swift
+Les Yeux sans Visage;1960;France;Horror;tt0053459;8;nm0290802;Georges Franju
+Plein Soleil;1960;France;Thriller;tt0054189;8.25;nm0167496;René Clément
+Tirez sur le Pianiste;1960;France;Crime;tt0054389;7.5;nm0000076;François Truffaut
+Elmer Gantry;1960;USA;Drama;tt0053793;9;nm0112218;Richard Brooks
+The Virgin Spring;1960;Sweden;Drama;tt0053976;9;nm0000005;Ingmar Bergman
+Late Autumn;1960;Japan;Drama;tt0053579;7.25;nm0654868;Yasujirô Ozu
+Unset Letter;1960;Russia;Drama;tt0053106;7.75;nm0435563;Mikhail Kalatozov
+The Bad Sleep Well;1960;Japan;Thriller;tt0054460;8.5;nm0000041;Akira Kurosawa
+The 1000 eyes of Dr Mabuse;1960;German;Thriller;tt0054371;7;nm0000485;Fritz Lang
+L'avventura;1960;Italy;Drama;tt0053619;7.5;nm0000774;Michelangelo Antonioni
+Macario;1960;Mexico;Fantasy;tt0054042;8.25;nm0310449;Roberto Gavaldón
+Rocco e i suoi Fratelli;1960;Italy;Drama;tt0054248;9.5;nm0899581;Luchino Visconti
+Sergeant Rutledge;1960;USA;Western;tt0054292;8;nm0000406;John Ford
+Tunes of Glory;1960;UK;Drama;tt0054412;7.5;nm0623768;Ronald Neame
+When a Woman Ascends the Stairs;1960;Japan;Drama;tt0054144;8.25;nm0621540;Mikio Naruse
+La Ciociara, Two Women;1960;Italy;Drama;tt0054749;8.75;nm0001120;Vittorio De Sica
+Lá Verité;1960;France;Crime;tt0054452;8.5;nm0167241;Henri-Georges Clouzot
+La Dolce Vita;1960;Italy;Drama;tt0053779;7;nm0000019;Federico Fellini
+Kapò;1960;Italy;War;tt0052961;8;nm0690597;Gillo Pontecorvo
+The Young One;1960;Mexico;Drama;tt0053967;7.75;nm0000320;Luis Buñuel
+Devi, The Goddess;1960;India;Drama;tt0053765;8;nm0006249;Satyajit Ray
+The Devil's Eye;1960;Sweden;Comedy;tt0053772;7.5;nm0000005;Ingmar Bergman
+The Ear;1970;Czechoslovakia;Dystopia;tt0066498;7.25;nm0434189;Karel Kachyna
+Saturday Night and Sunday Morning;1960;UK;Drama;tt0054269;7.5;nm0718554;Karel Reisz
