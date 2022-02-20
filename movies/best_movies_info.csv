@@ -1,4 +1,8 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Madres Paralelas;2021;Spain;Drama;tt12618926;7.75;nm0000264;Pedro Almodóvar
+Licorice Pizza;2021;USA;Drama;tt11271038;7;nm0000759;Paul Thomas Anderson
+Flee;2021;Denmark;Drama;tt8430054;8;nm1853542;Jonas Poher Rasmussen 
+È Stata la Mano di Dio;2021;Italy;Drama;tt12680684;8.25;nm0815204;Paolo Sorrentino
 Nightmare Alley;2021;USA;Thriller;tt7740496;7.5;nm0868219;Guillermo del Toro
 A Hero;2021;Iran;Drama;tt11777738;8.25;nm1410815;Asghar Farhadi
 Wheel of Fortune and Fantasy;2021;Japan;Drama;tt14034966;8;nm3152327;Ryûsuke Hamaguchi
@@ -97,6 +101,7 @@ The Nightingale;2018;Australia;Historical;tt4068576;9;nm0448768;Jennifer Kent
 First Man;2018;USA;Drama;tt1213641;8.25;nm3227090;Damien Chazelle
 Roma;2018;Mexico;Drama;tt6155172;8;nm0190859;Alfonso Cuarón
 Gerald's Game;2017;USA;Thriller;tt3748172;7;nm1093039;Mike Flanagan
+Phantom Thread;2017;USA;Drama;tt5776858;7;nm0000759;Paul Thomas Anderson
 It Comes at Night;2017;USA;Horror;tt4695012;7;nm4099092;Trey Edward Shults
 Thor: Ragnarok;2017;USA;Action;tt3501632;7.5;nm0169806;Taika Waititi
 Happy Death Day;2017;USA;Horror;tt5308322;7.25;nm0484907;Christopher Landon
@@ -815,7 +820,7 @@ The Man Who Shot Liberty Valance;1962;USA;Western;tt0056217;8.5;nm0000406;John F
 Harakiri;1962;Japan;Samurai;tt0056058;9.75;nm0462030;Masaki Kobayashi
 The Trial;1962;France;Dystopia;tt0057427;8;nm0000080;Orson Welles
 Mutiny on the Bounty;1962;USA;Historical;tt0056264;7.75;nm0587277;Lewis Milestone
-The Day the Earth Caught Fire;1961;USA;SciFi;tt0054790;7.5;nm0346436;Val Guest
+The Day the Earth Caught Fire;1961;USA;SciFi;tt0054790;7.75;nm0346436;Val Guest
 West Side Story;1961;USA;Musical;tt0055614;7.5;nm0936404;Robert Wise
 Psycho;1960;USA;Horror;tt0054215;9;nm0000033;Alfred Hitchcock
 Spartacus;1960;USA;Historical;tt0054331;8;nm0000040;Stanley Kubrick
@@ -1015,7 +1020,7 @@ Where is the Friend's House;1987;Iran;Drama;tt0093342;7.5;nm0452102;Abbas Kiaros
 When Father was Away on Business;1985;Yoguslavia;Drama;tt0089748;7.5;nm0001437;Emir Kusturica
 Ryan's Daughter;1970;UK;Drama;tt0066319;8.5;nm0000180;David Lean
 Fiddler on the Roof;1971;USA;Musical;tt0067093;8;nm0422484;Norman Jewison
-Yojimbo;1961;Japan;Samurai;tt0055630;9;nm0000041;Akira Kurosawa
+Yojimbo;1961;Japan;Samurai;tt0055630;9.25;nm0000041;Akira Kurosawa
 Sanjuro;1962;Japan;Samurai;tt0056443;7.75;nm0000041;Akira Kurosawa
 Throne of Blood;1957;Japan;Samurai;tt0050613;8.75;nm0000041;Akira Kurosawa
 The Deadly Affair;1967;UK;Thriller;tt0061556;7.25;nm0001486;Sidney Lumet
@@ -1339,6 +1344,44 @@ La Dolce Vita;1960;Italy;Drama;tt0053779;7;nm0000019;Federico Fellini
 Kapò;1960;Italy;War;tt0052961;8;nm0690597;Gillo Pontecorvo
 The Young One;1960;Mexico;Drama;tt0053967;7.75;nm0000320;Luis Buñuel
 Devi, The Goddess;1960;India;Drama;tt0053765;8;nm0006249;Satyajit Ray
-The Devil's Eye;1960;Sweden;Comedy;tt0053772;7.5;nm0000005;Ingmar Bergman
+The Devil's Eye;1960;Sweden;Comedy;tt0053772;7.25;nm0000005;Ingmar Bergman
 The Ear;1970;Czechoslovakia;Dystopia;tt0066498;7.25;nm0434189;Karel Kachyna
 Saturday Night and Sunday Morning;1960;UK;Drama;tt0054269;7.5;nm0718554;Karel Reisz
+Adua e le Compagne;1960;Italy;Drama;tt0053570;8;nm0682881;Antonio Pietrangeli
+The Cloud-Capped Star;1960;India;Drama;tt0054073;8;nm0315547;Ritwik Ghatak
+El Esqueleto de la Señora Morales;1960;Mexico;Comedy;tt0052784;8.25;nm0327950;Rogelio A. González
+Judgment at Nuremberg;1961;USA;Historical;tt0055031;9.5;nm0006452;Stanley Kramer
+One, Two, Three;1961;USA;Comedy;tt0055256;8;nm0000697;Billy Wilder
+Children's Hour;1961;USA;Drama;tt0054743;8.75;nm0943758;William Wyler
+El Día de la Bestia;1995;Spain;Comedy;tt0112922;7.5;nm0407067;Álex de la Iglesia
+A Short Film about Killing;1988;Poland;Crime;tt0095468;7;nm0001425;Krzysztof Kieslowski
+A Short Film about Love;1988;Poland;Drama;tt0095467;7.25;nm0001425;Krzysztof Kieslowski
+King of New York;1990;USA;Crime;tt0099939;7;nm0001206;Abel Ferrara
+Mother Joan of the Angels;1961;Poland;Drama;tt0055153;7.25;nm0442819;Jerzy Kawalerowicz
+Through a Glass Darkly;1961;Sweden;Drama;tt0055499;8.25;nm0000005;Ingmar Bergman
+Marmoulak, aka The Lizard;2004;Iran;Comedy;tt0416960;7.75;nm0846092;Kamal Tabrizi
+Blood In, Blood Out;1993;USA;Crime;tt0106469;8;nm0000431;Taylor Hackford
+Capharnaüm;2018;Lebanon;Drama;tt8267604;9.5;nm1701024;Nadine Labaki
+Kolya;1996;Czech Republic;Drama;tt0116790;7.75;nm0841232;Jan Sverák
+Bedevilled;2010;South Korea;Horror;tt1646959;7.5;nm1564550;Cheol-soo Jang
+Taste of Fear;1961;UK;Thriller;tt0055505;7.5;nm0392519;Seth Holt
+Un Taxi pour Tobrouk;1961;France;War;tt0054425;7.5;nm0478800;Denys de La Patellière
+The Hustler;1961;USA;Drama;tt0054997;8.75;nm0744035;Robert Rossen
+Boat People;1982;Hong Kong;Drama;tt0084807;7.75;nm0401176;Ann Hui
+The Misfits;1961;USA;Drama;tt0055184;7;nm0001379;John Huston
+Victim;1961;UK;Drama;tt0055597;8;nm0213136;Basil Dearden
+La Notte;1961;Italy;Drama;tt0054130;7.25;nm0000774;Michelangelo Antonioni
+The Innocents;1961;UK;Horror;tt0055018;8.5;nm0002338;Jack Clayton
+A Raisin in the Sun;1961;USA;Drama;tt0055353;8.25;nm0677951;Daniel Petrie
+Pigs and Battleships;1961;Japan;Drama;tt0054709;7.75;nm0408076;Shohei Imamura
+The Guns of Navarone;1961;UK;War;tt0054953;7.25;nm0496746;J. Lee Thompson
+Cash on Demand;1961;UK;Crime;tt0054731;7.75;nm0492974;Quentin Lawrence
+The Pit and the Pendulum;1961;USA;Horror;tt0055304;7.5;nm0000339;Roger Corman
+Opening Night;1977;USA;Drama;tt0079672;7.75;nm0001023;John Cassavetes
+Homicidal;1961;USA;Thriller;tt0054988;7;nm0145336;William Castle
+Town Without Pity;1961;USA;Crime;tt0055539;7.25;nm0718106;Gottfried Reinhardt
+Voyage to the Bottom of the Sea;1961;USA;SciFi;tt0055608;7.25;nm0000740;Irwin Allen
+The Devil at 4 O'Clock;1961;USA;Drama;tt0054805;7.5;nm0503777;Mervyn LeRoy
+Underworld U.S.A.;1961;USA;Crime;tt0055571;7.5;nm0002087;Samuel Fuller
+The Fool;2014;Russia;Drama;tt3560686;8.5;nm4021775;Yuriy Bykov
+Tristana;1970;Spain;Drama;tt0066491;7.5;nm0000320;Luis Buñuel
