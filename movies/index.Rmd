@@ -408,6 +408,28 @@ plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
 text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
+## All rated movies on Imdb
+
+This table includes all movies that I rated on Imdb, including those with less than a rate of 7. On imdb the valid rates are only integer from 1 to 10.
+
+```{r, echo=FALSE}
+df.imdb %>% 
+  rename(Rate = Your.Rating) %>% 
+  rename(Imdb = IMDb.Rating) %>% 
+  rename(Votes = Num.Votes) %>% 
+  rename(Time = Runtime..mins.) %>% 
+  rename(Date = Release.Date) %>% 
+  select(-Const) %>% 
+  select(-URL) %>% 
+  select(-Title.Type) %>% 
+  select(-Date.Rated) %>% 
+  select(Title,Date,Genres,Time,Directors,Rate,Imdb,Votes) -> df.imdb3
+
+df.imdb3$link <- paste0('<a href="', df.imdb$URL, '" target="_blank">imdb</a>')
+
+DT::datatable(df.imdb3, escape=FALSE) 
+```
+
 
 
 ```{r, fig.width=12, fig.height=10, echo=FALSE, eval=FALSE}
