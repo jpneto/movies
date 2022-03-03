@@ -395,7 +395,7 @@ text(y=plt, x=df6$n+15, label=df6$n, pos=2, cex=0.8, col='blue')
 
 Most movies I see are from Hollywood, but let's check how others countries are represented:
 
-```{r, fig.width=14, fig.height=8, warning=FALSE, echo=FALSE}
+```{r, fig.width=14, fig.height=10, warning=FALSE, echo=FALSE}
 df %>% 
   filter(Rate >= 7) %>% 
   filter (Country!='USA') %>% 
@@ -403,14 +403,14 @@ df %>%
   arrange( desc(Country) ) -> df2
 
 par(mar=c(1,11,1,6))
-plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country, 
+plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,15+max(df2$n)), xaxt='n')
 text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## All rated movies on Imdb
 
-This table includes all movies that I rated on Imdb, including those with less than a rate of 7. On imdb the valid rates are only integer from 1 to 10.
+This table includes all movies I rated on Imdb, including those with less than a rate of 7. On imdb the only allowed rates are integers from 1 to 10.
 
 ```{r, echo=FALSE}
 df.imdb %>% 
