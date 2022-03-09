@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+After Yang;2021;USA;SciFi;tt8633464;7.75;nm3226379;Kogonada
 Madres Paralelas;2021;Spain;Drama;tt12618926;7.75;nm0000264;Pedro Almodóvar
 Licorice Pizza;2021;USA;Drama;tt11271038;7;nm0000759;Paul Thomas Anderson
 Flee;2021;Denmark;Drama;tt8430054;8;nm1853542;Jonas Poher Rasmussen 
@@ -813,6 +814,7 @@ A Shot in the Dark;1964;UK;Comedy;tt0058586;7.5;nm0001175;Blake Edwards
 The Train;1964;USA;War;tt0059825;9;nm0001239;John Frankenheimer
 Fail Safe;1964;USA;War;tt0058083;9.5;nm0001486;Sidney Lumet
 The Great Escape;1963;USA;War;tt0057115;8.25;nm0836328;John Sturges
+Jason and the Argonauts;1963;USA;Fantasy;tt0057197;7.25;nm0149548;Don Chaffey
 The Birds;1963;USA;Thriller;tt0056869;8;nm0000033;Alfred Hitchcock
 The Haunting;1963;USA;Horror;tt0057129;9;nm0936404;Robert Wise
 Shock Corridor;1963;USA;Drama;tt0057495;7.75;nm0002087;Samuel Fuller
@@ -1422,3 +1424,12 @@ Oslo, 31. August;2011;Norway;Drama;tt1736633;8.25;nm1258686;Joachim Trier
 Moolaadé;2004;Senegal;Politics;tt0416991;7.75;nm0783733;Ousmane Sembene
 Nanjing!, Nanjing!;2009;China;War;tt1124052;9.25;nm1283651;Chuan Lu
 Monsieur Hire;1989;France;Crime;tt0097904;8.5;nm0496312;Patrice Leconte
+Manila in the Claws of Light;1975;Philippines;Drama;tt0073363;7.75;nm0110653;Lino Brocka
+The Inheritance;1962;Japan;Crime;tt0056135;8;nm0462030;Masaki Kobayashi
+Birdman of Alcatraz;1962;USA;Drama;tt0055798;9;nm0001239;John Frankenheimer
+Advise & Consent;1962;USA;Politics;tt0055728;7.75;nm0695937;Otto Preminger
+El Ángel Exterminador;1962;Mexico;Horror;tt0056732;8.25;nm0000320;Luis Buñuel
+Cléo de 5 à 7;1962;France;Drama;tt0055852;8.5;nm0889513;Agnès Varda
+Experiment in Terror;1962;USA;Thriller;tt0055972;7.25;nm0001175;Blake Edwards
+Chopper;2000;Australia;Crime;tt0221073;7.75;nm0231596;Andrew Dominik
+The Magdalene Sisters;2002;Ireland;Historical;tt0318411;8;nm0611932;Peter Mullan
