@@ -127,6 +127,7 @@ Logan;2017;USA;Action;tt3315342;8.25;nm0003506;James Mangold
 Wind River;2017;USA;Thriller;tt5362988;8.5;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;USA;SciFi;tt1856101;9.5;nm0898288;Denis Villeneuve
 The Wailing;2016;South Korea;Horror;tt5215952;7;nm2947553;Hong-jin Na
+Imperium;2016;USA;Thriller;tt4781612;7;nm2495732;Daniel Ragussis
 Julieta;2016;Spain;Drama;tt4326444;7.25;nm0000264;Pedro Almodóvar
 Elle;2016;France;Thriller;tt3716530;7.75;nm0000682;Paul Verhoeven
 Raw;2016;France;Horror;tt4954522;7;nm4469445;Julia Ducournau
@@ -167,6 +168,7 @@ Son of Saul;2015;Hungary;War;tt3808342;7.5;nm1841577;László Nemes
 Room;2015;USA;Thriller;tt3170832;8.25;nm1049433;Lenny Abrahamson
 Mad Max: Fury Road;2015;USA;Dystopia;tt1392190;9.5;nm0004306;George Miller
 Gone Girl;2014;USA;Thriller;tt2267998;7.5;nm0000399;David Fincher
+Still Alice;2014;USA;Drama;tt3316960;7;nm0322144;Richard Glatzer
 White Christmas;2014;UK;SciFi;tt3973198;9;nm3393440;Carl Tibbetts
 Boyhood;2014;USA;Drama;tt1065073;7.5;nm0000500;Richard Linklater
 Interstellar;2014;USA;SciFi;tt0816692;8;nm0634240;Christopher Nolan
@@ -799,7 +801,7 @@ Up;2009;USA;Drama;tt1049413;8.5;nm0230032;Pete Docter
 Wall-E;2008;USA;SciFi;tt0910970;8.75;nm0004056;Andrew Stanton
 Ratatouille;2007;USA;Drama;tt0382932;7.75;nm0083348;Brad Bird
 Anne of the Thousand Days;1969;UK;Historical;tt0064030;7.75;nm0418986;Charles Jarrott
-Le Boucher;1970;France;Thriller;tt0064106;7.25;nm0001031;Claude Chabrol
+Le Boucher;1970;France;Thriller;tt0064106;7.5;nm0001031;Claude Chabrol
 Fahrenheit 451;1966;UK;Dystopia;tt0060390;8.25;nm0000076;François Truffaut
 Fantastic Voyage;1966;USA;SciFi;tt0060397;7.5;nm0281507;Richard Fleischer
 La battaglia di Algeri;1966;Algeria;Historical;tt0058946;8.5;nm0690597;Gillo Pontecorvo
@@ -1428,8 +1430,47 @@ Manila in the Claws of Light;1975;Philippines;Drama;tt0073363;7.75;nm0110653;Lin
 The Inheritance;1962;Japan;Crime;tt0056135;8;nm0462030;Masaki Kobayashi
 Birdman of Alcatraz;1962;USA;Drama;tt0055798;9;nm0001239;John Frankenheimer
 Advise & Consent;1962;USA;Politics;tt0055728;7.75;nm0695937;Otto Preminger
-El Ángel Exterminador;1962;Mexico;Horror;tt0056732;8.25;nm0000320;Luis Buñuel
+El Ángel Exterminador;1962;Mexico;Horror;tt0056732;8.5;nm0000320;Luis Buñuel
 Cléo de 5 à 7;1962;France;Drama;tt0055852;8.5;nm0889513;Agnès Varda
 Experiment in Terror;1962;USA;Thriller;tt0055972;7.25;nm0001175;Blake Edwards
 Chopper;2000;Australia;Crime;tt0221073;7.75;nm0231596;Andrew Dominik
-The Magdalene Sisters;2002;Ireland;Historical;tt0318411;8;nm0611932;Peter Mullan
+The Magdalene Sisters;2002;Ireland;Historical;tt0318411;7.75;nm0611932;Peter Mullan
+Knife in the Water;1962;Poland;Drama;tt0056291;7;nm0000591;Roman Polanski
+Pressure Point;1962;USA;Drama;tt0056370;7.5;nm0180369;Hubert Cornfield
+Air Doll;2019;Japan;Fantasy;tt1371630;8.5;nm0466153;Hirokazu Koreeda
+Le Fils;2002;France;Drama;tt0291172;8;nm0201094;Jean-Pierre Dardenne
+Polytechnique;2009;Canada;Historical;tt1194238;7.75;nm0898288;Denis Villeneuve
+Sideways;2004;USA;Comedy;tt0375063;8;nm0668247;Alexander Payne
+Il Sorpasso;1962;Italy;Comedy;tt0056512;8.5;nm0728271;Dino Risi
+Asmaa;2011;Egypt;Drama;tt1826603;8.75;nm1782844;Amr Salamah
+Fruitvale Station;2013;USA;Drama;tt2334649;7.75;nm3363032;Ryan Coogler
+Tangerines;2013;Estonia;War;tt2991224;8.5;nm0882203;Zaza Urushadze
+Boy;2010;New Zealand;Comedy;tt1560139;7.5;nm0169806;Taika Waititi
+Burn, Witch, Burn;1962;UK;Horror;tt0056279;7;nm0370868;Sidney Hayers
+Il Divo;2008;Italy;Historical;tt1023490;7;nm0815204;Paolo Sorrentino
+Jules et Jim;1962;France;Drama;tt0055032;7.5;nm0000076;François Truffaut
+Billy Budd;1962;UK;Drama;tt0055796;8.5;nm0001811;Peter Ustinov
+Pagador de Promessas;1962;Brazil;Drama;tt0056322;8.25;nm0239063;Anselmo Duarte
+To Kill a Mockingbird;1962;USA;Drama;tt0056592;7.75;nm0612322;Robert Mulligan
+Kanchenjungha;1962;India;Drama;tt0056134;7.5;nm0006249;Satyajit Ray
+Panic in Year Zero!;1962;USA;Dystopia;tt0056331;7;nm0001537;Ray Milland
+Les Dimanches de Ville d'Avray;1962;France;Drama;tt0055910;8.25;nm0099984;Serge Bourguignon
+An Autumn Afternoon;1962;Japan;Drama;tt0056444;7.5;nm0654868;Yasujirô Ozu
+Electra;1962;Greece;Drama;tt0055950;8.25;nm0128050;Michael Cacoyannis
+Vivre sa Vie;1962;France;Drama;tt0056663;7.25;nm0000419;Jean-Luc Godard
+The Creation of the Humanoids;1962;USA;SciFi;tt0055872;7;nm0058191;Wesley Barry
+The Miracle Worker;1962;USA;Drama;tt0056241;9;nm0671957;Arthur Penn
+The Intruder;1962;USA;Politics;tt0055019;7.25;nm0000339;Roger Corman
+Mud;2012;USA;Drama;tt1935179;7.75;nm2158772;Jeff Nichols
+The Longest Day;1962;USA;War;tt0056197;7.75;nm0002175;Ken Annakin
+What Ever Happened to Baby Jane?;1962;USA;Horror;tt0056687;7.5;nm0000736;Robert Aldrich
+Requiem for a Heavyweight;1962;USA;Drama;tt0056406;7.75;nm0625680;Ralph Nelson
+Days of Wine and Roses;1962;USA;Drama;tt0055895;8.5;nm0001175;Blake Edwards
+The Loneliness of the Long Distance Runner;1962;UK;Drama;tt0056194;7.25;nm0724798;Tony Richardson
+The Ninth Circle;1960;Yoguslavia;Drama;tt0053764;7.75;nm0830150;France Stiglic
+Immortal Love;1961;Japan;Drama;tt0054845;8.75;nm0455839;Keisuke Kinoshita
+Chûshingura, 47 Samurai;1962;Japan;Samurai;tt0055850;7.5;nm0408348;Hiroshi Inagaki
+Long Day's Journey Into Night;1962;USA;Drama;tt0056196;7;nm0001486;Sidney Lumet
+Term of Trial;1962;UK;Drama;tt0056568;7;nm0322706;Peter Glenville
+Tales of Terror;1962;USA;Horror;tt0056552;7;nm0000339;Roger Corman
+Phaedra;1962;Greece;Drama;Drama;tt0056346;7.75;nm0202088;Jules Dassin
