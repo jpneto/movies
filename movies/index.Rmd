@@ -379,16 +379,19 @@ DT::datatable(directors, escape=FALSE)
 
 ## Movies per Genre
 
-```{r, fig.width=12, fig.height=6, echo=FALSE}
+The most represented genre is drama, an umbrella for many different types of movie. The remaining genres are:
+
+```{r, fig.width=10, fig.height=4, echo=FALSE}
 df %>% 
   #filter(Score >= min.score) %>% 
+  filter (Genre!='Drama') %>% 
   count(Genre) %>% 
   arrange( desc(Genre) ) -> df6
 
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+15, label=df6$n, pos=2, cex=0.8, col='blue')
+text(y=plt, x=df6$n+8, label=df6$n, pos=2, cex=0.8, col='blue')
 ```
 
 ## Movies per Country

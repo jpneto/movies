@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+You Are Not My Mother;2021;Ireland;Horror;tt10406596;7;nm3951005;Kate Dolan
 After Yang;2021;USA;SciFi;tt8633464;7.75;nm3226379;Kogonada
 Madres Paralelas;2021;Spain;Drama;tt12618926;7.75;nm0000264;Pedro Almodóvar
 Licorice Pizza;2021;USA;Drama;tt11271038;7;nm0000759;Paul Thomas Anderson
@@ -11,7 +12,7 @@ Drive my Car;2021;Japan;Drama;tt14039582;9;nm3152327;Ryûsuke Hamaguchi
 The Tragedy of Macbeth;2021;USA;Drama;tt10095582;7.75;nm0001054;Joel Coen
 The Innocents;2021;Norway;Horror;tt4028464;7.25;nm1258777;Eskil Vogt
 Being the Ricardos;2021;USA;Drama;tt4995540;7.5;nm0815070;Aaron Sorkin
-The Power of the Dog;2021;UK;Drama;tt10293406;7.25;nm0001005;Jane Campion
+The Power of the Dog;2021;UK;Drama;tt10293406;7.5;nm0001005;Jane Campion
 Belfast;2021;UK;Drama;tt12789558;8.5;nm0000110;Kenneth Branagh
 C'mon C'mon;2021;USA;Drama;tt10986222;8.25;nm0590122;Mike Mills
 The Mauritanian;2021;UK;Politics;tt4761112;8;nm0531817;Kevin Macdonald
@@ -127,6 +128,7 @@ Logan;2017;USA;Action;tt3315342;8.25;nm0003506;James Mangold
 Wind River;2017;USA;Thriller;tt5362988;8.5;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;USA;SciFi;tt1856101;9.5;nm0898288;Denis Villeneuve
 The Wailing;2016;South Korea;Horror;tt5215952;7;nm2947553;Hong-jin Na
+São Jorge;2016;Portugal;Drama;tt4895668;7.25;nm0554076;Marco Martins
 Imperium;2016;USA;Thriller;tt4781612;7;nm2495732;Daniel Ragussis
 Julieta;2016;Spain;Drama;tt4326444;7.25;nm0000264;Pedro Almodóvar
 Elle;2016;France;Thriller;tt3716530;7.75;nm0000682;Paul Verhoeven
@@ -172,7 +174,7 @@ Still Alice;2014;USA;Drama;tt3316960;7;nm0322144;Richard Glatzer
 White Christmas;2014;UK;SciFi;tt3973198;9;nm3393440;Carl Tibbetts
 Boyhood;2014;USA;Drama;tt1065073;7.5;nm0000500;Richard Linklater
 Interstellar;2014;USA;SciFi;tt0816692;8;nm0634240;Christopher Nolan
-Leviathan;2014;Russia;Drama;tt2802154;7;nm1168657;Andrey Zvyagintsev
+Leviathan;2014;Russia;Drama;tt2802154;7.25;nm1168657;Andrey Zvyagintsev
 Mr Turner;2014;UK;Historical;tt2473794;7;nm0005139;Mike Leigh
 The Raid 2. Berandal;2014;Indonesia;Action;tt2265171;8;nm2153088;Gareth Evans
 Rosewater;2014;USA;Politics;tt2752688;7.5;nm0829537;Jon Stewart
@@ -346,7 +348,7 @@ Munich;2005;USA;Thriller;tt0408306;8;nm0000229;Steven Spielberg
 13 Tzameti;2005;France;Horror;tt0475169;8;nm1201875;Géla Babluani
 The New World;2005;USA;Historical;tt0402399;9;nm0000517;Terrence Malick
 King Kong;2005;USA;Action;tt0360717;7.5;nm0001392;Peter Jackson
-Alice;2005;Portugal;Drama;tt0459072;7.5;nm0554076;Marco Martins
+Alice;2005;Portugal;Drama;tt0459072;8;nm0554076;Marco Martins
 Caché;2005;Germany;Thriller;tt0387898;7.5;nm0359734;Michael Haneke
 Wolf Creek;2005;Australia;Horror;tt0416315;7.5;nm0572562;Greg McLean
 Gang Street Hooligans;2005;USA;Thriller;tt0385002;7.75;nm0591994;Lexi Alexander
@@ -388,7 +390,7 @@ Pirates of the Caribbean;2003;USA;Fantasy;tt0325980;8;nm0893659;Gore Verbinski
 Mystic River;2003;USA;Thriller;tt0327056;7.5;nm0000142;Clint Eastwood
 Good Bye Lenin!;2003;Germany;Comedy;tt0301357;7.75;nm0065615;Wolfgang Becker
 Les Triplettes de Belleville;2003;France;Comedy;tt0286244;7.25;nm0158984;Sylvain Chomet
-The Return;2003;Russia;Drama;tt0376968;7.5;nm1168657;Andrey Zvyagintsev
+The Return;2003;Russia;Drama;tt0376968;8;nm1168657;Andrey Zvyagintsev
 Spring Summer Fall Winter... and Spring;2003;South Korea;Drama;tt0374546;8.25;nm1104118;Ki-duk Kim
 The Return of the King;2003;USA;Fantasy;tt0167260;8.75;nm0001392;Peter Jackson
 Old Boy;2003;South Korea;Thriller;tt0364569;8.5;nm0661791;Chan-wook Park
@@ -497,6 +499,7 @@ Trainspotting;1996;UK;Drama;tt0117951;8.5;nm0000965;Danny Boyle
 Fargo;1996;USA;Crime;tt0116282;8.5;nm0001053.nm0001054;Cohen Brothers
 The Crucible;1996;USA;Historical;tt0115988;8.75;nm0405336;Nicholas Hytner
 Richard III;1995;UK;Historical;tt0114279;7;nm0518644;Richard Loncraine
+A Comédia de Deus;1995;Portugal;Comedy;tt0112710;7.25;nm0599214;João César Monteiro
 Se7en;1995;USA;Thriller;tt0114369;9;nm0000399;David Fincher
 Before Sunrise;1995;USA;Drama;tt0112471;8;nm0000500;Richard Linklater
 Dead Man;1995;USA;Western;tt0112817;9;nm0000464;Jim Jarmusch
@@ -701,7 +704,7 @@ All the President's Men;1976;USA;Thriller;tt0074119;8.5;nm0001587;Alan J. Pakula
 Network;1976;USA;Drama;tt0074958;8.75;nm0001486;Sidney Lumet
 Taxi Driver;1976;USA;Drama;tt0075314;9.25;nm0000217;Martin Scorsese
 Dog Day Afternoon;1975;USA;Drama;tt0072890;8;nm0001486;Sidney Lumet
-The Stepford Wives;1975;USA;SciFi;tt0073747;7.5;nm0285302;Bryan Forbes
+The Stepford Wives;1975;USA;SciFi;tt0073747;7.75;nm0285302;Bryan Forbes
 Dersu Uzala;1975;Japan;Drama;tt0071411;8;nm0000041;Akira Kurosawa
 Rollerball;1975;USA;Dystopia;tt0073631;7.25;nm0422484;Norman Jewison
 Jaws;1975;USA;Horror;tt0073195;9;nm0000229;Steven Spielberg
@@ -817,7 +820,7 @@ The Train;1964;USA;War;tt0059825;9;nm0001239;John Frankenheimer
 Fail Safe;1964;USA;War;tt0058083;9.5;nm0001486;Sidney Lumet
 The Great Escape;1963;USA;War;tt0057115;8.25;nm0836328;John Sturges
 Jason and the Argonauts;1963;USA;Fantasy;tt0057197;7.25;nm0149548;Don Chaffey
-The Birds;1963;USA;Thriller;tt0056869;8;nm0000033;Alfred Hitchcock
+The Birds;1963;USA;Thriller;tt0056869;8.25;nm0000033;Alfred Hitchcock
 The Haunting;1963;USA;Horror;tt0057129;9;nm0936404;Robert Wise
 Shock Corridor;1963;USA;Drama;tt0057495;7.75;nm0002087;Samuel Fuller
 The Bedford Incident;1965;USA;War;tt0058962;7.5;nm0364805;James B. Harris
@@ -946,7 +949,7 @@ Grave of the Fireflies;1988;Japan;Drama;tt0095327;8.5;nm0847223;Isao Takahata
 The Day of the Jackal;1973;UK;Thriller;tt0069947;7.75;nm0003593;Fred Zinnemann
 Cobra Verde;1987;Germany;Fantasy;tt0094888;7.25;nm0001348;Werner Herzog
 A Bridge too Far;1977;UK;War;tt0075784;7.25;nm0000277;Richard Attenborough
-The Killers;2014;Indonesia;Horror;tt2409300;8;nm3464186;Timo Tjahjanto 
+The Killers;2014;Indonesia;Crime;tt2409300;8;nm3464186;Timo Tjahjanto 
 High Plains Drifter;1973;USA;Western;tt0068699;7.5;nm0000142;Clint Eastwood
 The Taking of Pelham 123;1974;USA;Crime;tt0072251;7.75;nm0765121;Joseph Sargent
 The Devils;1971;UK;Historical;tt0066993;9;nm0001692;Ken Russell
@@ -963,7 +966,7 @@ True Grit;2010;USA;Western;tt1403865;7.75;nm0001053.nm0001054;Cohen Brothers
 Panic in Needle Park;1971;USA;Drama;tt0067549;7.5;nm0770234;Jerry Schatzberg
 Dallas Buyers Club;2013;USA;Drama;tt0790636;8;nm0885249;Jean-Marc Vallée
 Samurai Rebellion;1967;Japan;Samurai;tt0061847;9.25;nm0462030;Masaki Kobayashi
-Days of Heaven;1978;USA;Drama;tt0077405;7;nm0000517;Terrence Malick
+Days of Heaven;1978;USA;Drama;tt0077405;7.25;nm0000517;Terrence Malick
 Hard Boiled;1992;Hong Kong;Crime;tt0104684;7;nm0000247;John Woo
 Nausicaa of the Valley of the Wind;1984;Japan;Fantasy;tt0087544;8.25;nm0594503;Hayao Miyazaki
 The Omen;1976;USA;Horror;tt0075005;7;nm0001149;Richard Donner
@@ -1043,7 +1046,7 @@ Cape Fear;1962;USA;Thriller;tt0055824;8.25;nm0496746;J. Lee Thompson
 La 317ème section;1965;France;War;tt0058863;7.75;nm0006954;Pierre Schoendoerffer
 The Night of the Iguana;1964;USA;Drama;tt0058404;8.25;nm0001379;John Huston
 Samurai Assassin;1965;Japan;Samurai;tt0059673;7.25;nm0645477;Kihachi Okamoto
-Winter Light;1963;Sweden;Drama;tt0057358;7.5;nm0000005;Ingmar Bergman
+Winter Light;1963;Sweden;Drama;tt0057358;7.75;nm0000005;Ingmar Bergman
 Ratcatcher;1999;UK;Drama;tt0171685;8;nm0708903;Lynne Ramsay
 Jonas qui aura 25 Ans en l'An 2000;1976;Switzerland;Drama;tt0074718;7.25;nm0849609;Alain Tanner
 Wild River;1960;USA;Drama;tt0054476;8;nm0001415;Elia Kazan
@@ -1473,4 +1476,42 @@ Chûshingura, 47 Samurai;1962;Japan;Samurai;tt0055850;7.5;nm0408348;Hiroshi Inag
 Long Day's Journey Into Night;1962;USA;Drama;tt0056196;7;nm0001486;Sidney Lumet
 Term of Trial;1962;UK;Drama;tt0056568;7;nm0322706;Peter Glenville
 Tales of Terror;1962;USA;Horror;tt0056552;7;nm0000339;Roger Corman
-Phaedra;1962;Greece;Drama;Drama;tt0056346;7.75;nm0202088;Jules Dassin
+Phaedra;1962;Greece;Drama;tt0056346;7.75;nm0202088;Jules Dassin
+The Counterfeit Traitor;1962;USA;Thriller;tt0055871;7.5;nm0780833;George Seaton
+Le Quattro Giornate di Napoli;1962;Italy;War;tt0056389;8.75;nm0523439;Nanni Loy
+Lonely Are the Brave;1962;USA;Western;tt0056195;7.25;nm0588183;David Miller
+Sweet Bird of Youth;1962;USA;Drama;tt0056541;7.5;nm0112218;Richard Brooks
+Nymphomaniac: Vol. I;2013;Denmark;Erotic;tt1937390;8.25;nm0001885;Lars von Trier
+Mafioso;1962;Italy;Crime;tt0056210;8.75;nm0490444;Alberto Lattuada
+Nymphomaniac: Vol. II;2013;Denmark;Erotic;tt2382009;7.75;nm0001885;Lars von Trier
+Avril et le Monde Truqué;2015;France;Fantasy;tt3422078;7.5;nm2903634;Christian Desmares
+Baran;2001;Iran;Drama;tt0233841;8.25;nm0006498;Majid Majidi
+Arrugas;2011;Spain;Drama;tt1407052;8.5;nm1282993;Ignacio Ferreras
+Ida;2013;Poland;Drama;tt2718492;7.75;nm0667734;Pawel Pawlikowski
+La Región Salvaje;2016;Mexico;Horror;tt5265960;7.5;nm1661334;Amat Escalante
+My Dinner with Andre;1981;USA;Drama;tt0082783;8.25;nm0001501;Louis Malle
+Strange Circus;2005;Japan;Horror;tt0492784;8;nm0814469;Sion Sono
+The Canal;2014;Ireland;Horror;tt2517658;7.25;nm2830839;Ivan Kavanagh 
+The Death of Stalin;2017;UK;Comedy;tt4686844;8;nm0406334;Armando Iannucci 
+The Song of Sparrows;2008;Iran;Drama;tt0997246;7.5;nm0006498;Majid Majidi
+The Insult;2017;Lebanon;Drama;tt7048622;8.75;nm0234780;Ziad Doueiri
+The Banishment;2007;Russia;Drama;tt0488905;8.25;nm1168657;Andrey Zvyagintsev
+The Grey Zone;2001;USA;War;tt0252480;7.75;nm0625789;Tim Blake Nelson
+Guilty of Romance;2011;Japan;Horror;tt1743724;7.5;nm0814469;Sion Sono
+A Taxi Driver;2017;South Korea;Historical;tt6878038;7.75;nm1922242;Hun Jang
+Wadjda;2012;Saudi Arabia;Drama;tt2258858;7.75;nm2223783;Haifaa Al-Mansour
+King of Devil's Island;2010;Norway;Historical;tt1332134;8.25;nm0392319;Marius Holst
+Les Innocents;2016;France;War;tt4370784;9.25;nm0284774;Anne Fontaine
+You're Next;2011;USA;Horror;tt1853739;7.5;nm1417392;Adam Wingard
+The Girl with the Dragon Tattoo;2011;USA;Thriller;tt1568346;7.75;nm0000399;David Fincher
+In Bloom;2013;Georgia;Drama;tt2741806;7;nm2206574;Nana Ekvtimishvili
+High and Low;1963;Japan;Crime;tt0057565;8.5;nm0000041;Akira Kurosawa
+Jigsaw;1962;UK;Crime;tt0056121;7;nm0346436;Val Guest
+Il Gattopardo;1963;Italy;Drama;tt0057091;8.5;nm0899581;Luchino Visconti
+The Servant;1963;UK;Drama;tt0057490;8.25;nm0521334;Joseph Losey
+The Organizer;1963;Italy;Politics;tt0056945;8.75;nm0598102;Mario Monicelli
+13 Assassins;1963;Japan;Samurai;tt0057212;7.75;nm0473791;Eiichi Kudô
+Hud;1963;USA;Drama;tt0057163;8;nm0728688;Martin Ritt
+Il Boom;1963;Italy;Comedy;tt0056883;8;nm0001120;Vittorio De Sica
+Os Verdes Anos;1963;Portugal;Drama;tt0057642;7;nm0733846;Paulo Rocha
+Cleopatra;1963;USA;Historical;tt0056937;7;nm0000581;Joseph L. Mankiewicz
