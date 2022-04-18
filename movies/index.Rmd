@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "February, 2021 -- February, 2022"
+date: "2021, 2022"
 output: html_document
 ---
 
@@ -407,7 +407,7 @@ df %>%
 
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
-               las=1, xlim=c(0,15+max(df2$n)), xaxt='n')
+               las=1, xlim=c(0,16+max(df2$n)), xaxt='n')
 text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 

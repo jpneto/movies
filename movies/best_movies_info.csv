@@ -1,4 +1,7 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Batman;2022;USA;Action;tt1877830;7.75;nm0716257;Matt Reeves
+Against the Ice;2022;Denmark;Historical;tt13873302;7.5;nm0282425;Peter Flinth
+X;2022;USA;Horror;tt13560574;8;nm1488800;Ti West
 You Are Not My Mother;2021;Ireland;Horror;tt10406596;7;nm3951005;Kate Dolan
 After Yang;2021;USA;SciFi;tt8633464;7.75;nm3226379;Kogonada
 Madres Paralelas;2021;Spain;Drama;tt12618926;7.75;nm0000264;Pedro Almodóvar
@@ -64,7 +67,7 @@ Us;2019;USA;Horror;tt6857112;7;nm1443502;Jordan Peele
 Uncut Gems;2019;USA;Thriller;tt5727208;7;nm1509478;Safdie Brothers
 Light of My Life;2019;USA;Dystopia;tt6063090;8;nm0000729;Casey Affleck
 John Wick 3;2019;USA;Action;tt6146586;7.5;nm0821432;Chad Stahelski
-Ad Astra;2019;USA;SciFi;tt2935510;7.5;nm0336695;James Gray
+Ad Astra;2019;USA;SciFi;tt2935510;8;nm0336695;James Gray
 Bacurau;2019;Brazil;Dystopia;tt2762506;7.5;nm2207625;Kleber Mendonça Filho
 Jojo Rabbit;2019;USA;Comedy;tt2584384;7.5;nm0169806;Taika Waititi
 The Lighthouse;2019;USA;Horror;tt7984734;8.5;nm3211470;Robert Eggers
@@ -1515,3 +1518,20 @@ Hud;1963;USA;Drama;tt0057163;8;nm0728688;Martin Ritt
 Il Boom;1963;Italy;Comedy;tt0056883;8;nm0001120;Vittorio De Sica
 Os Verdes Anos;1963;Portugal;Drama;tt0057642;7;nm0733846;Paulo Rocha
 Cleopatra;1963;USA;Historical;tt0056937;7;nm0000581;Joseph L. Mankiewicz
+The Sadist;1963;USA;Horror;tt0057465;7.25;nm0484824;James Landis
+Il Demonio;1963;Italy;Horror;tt0167886;7.75;nm0740021;Brunello Rondi
+Dementia 13;1963;USA;Horror;tt0056983;7.25;nm0000338;Francis Ford Coppola
+Two Half-Times in Hell;1961;Hungary;War;tt0056160;8.25;nm0299586;Zoltán Fábri
+El Verdugo;1963;Spain;Comedy;tt0057643;8.25;nm0305557;Luis García Berlanga
+Vidas Secas;1963;Brazil;Drama;tt0057654;7;nm0673051;Nelson Pereira dos Santos 
+The Comedy of Terrors;1963;USA;Comedy;tt0056943;7.75;nm0869664;Jacques Tourneur
+Youth of the Beast;1963;Japan;Crime;tt0057697;7.75;nm0840671;Seijun Suzuki
+Charade;1963;USA;Comedy;tt0056923;7.25;nm0002045;Stanley Donen
+Sinister;2012;USA;Horror;tt1922777;7.75;nm0220600;Scott Derrickson
+The Silence;1963;Sweden;Drama;tt0057611;7.5;nm0000005;Ingmar Bergman
+Twilight of Honor;1963;USA;Drama;tt0057609;7.25;nm0755963;Boris Sagal
+America America;1963;USA;Drama;tt0056825;9;nm0001415;Elia Kazan
+Black Sabbath;1963;Italy;Horror;tt0057603;7.5;nm0000878;Mario Bava
+I Fidanzati;1963;Italy;Drama;tt0055981;7.75;nm0647438;Ermanno Olmi
+La Baie des Anges;1963;France;Drama;tt0056846;8;nm0218840;Jacques Demy
+Mahanagar, The Big City;1963;India;Drama;tt0057277;8;nm0006249;Satyajit Ray
