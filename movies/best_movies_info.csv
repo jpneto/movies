@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Northman;2022;USA;Action;tt11138512;8.25;nm3211470;Robert Eggers
 The Batman;2022;USA;Action;tt1877830;7.75;nm0716257;Matt Reeves
 Against the Ice;2022;Denmark;Historical;tt13873302;7.5;nm0282425;Peter Flinth
 X;2022;USA;Horror;tt13560574;8;nm1488800;Ti West
@@ -783,7 +784,7 @@ The Dresser;1983;UK;Drama;tt0085461;8.25;nm0946811;Peter Yates
 Bonnie and Cyde;1967;USA;Thriller;tt0061418;8;nm0671957;Arthur Penn
 Cool Hand Luke;1967;USA;Drama;tt0061512;8.25;nm0742341;Stuart Rosenberg
 Dance of the Vampires;1967;USA;Comedy;tt0061655;7;nm0000591;Roman Polanski
-Le samourai;1967;France;Crime;tt0062229;7.75;nm0578483;Jean-Pierre Melville
+Le Samourai;1967;France;Crime;tt0062229;8;nm0578483;Jean-Pierre Melville
 The Incident;1967;USA;Thriller;tt0061814;7.75;nm0670282;Larry Peerce
 La vingt-cinquiéme heure;1967;France;War;tt0062445;8.5;nm0894577;Henri Verneuil
 The Long Good Friday;1980;UK;Thriller;tt0081070;7.75;nm0533334;John Mackenzie
@@ -1535,3 +1536,17 @@ Black Sabbath;1963;Italy;Horror;tt0057603;7.5;nm0000878;Mario Bava
 I Fidanzati;1963;Italy;Drama;tt0055981;7.75;nm0647438;Ermanno Olmi
 La Baie des Anges;1963;France;Drama;tt0056846;8;nm0218840;Jacques Demy
 Mahanagar, The Big City;1963;India;Drama;tt0057277;8;nm0006249;Satyajit Ray
+L'Aîné des Ferchaux;1963;France;Crime;tt0056845;7.25;nm0578483;Jean-Pierre Melville
+The Cardinal;1963;USA;Drama;tt0056907;7.5;nm0695937;Otto Preminger
+An Actor's Revenge;1963;Japan;Samurai;tt0057710;7.5;nm0406728;Kon Ichikawa
+Hands over the City;1963;Italy;Politics;tt0057286;8.25;nm0742940;Francesco Rosi
+Paranoiac;1963;UK;Thriller;tt0057401;7.25;nm0005711;Freddie Francis
+The Red Lanterns;1963;Greece;Drama;tt0057229;8.25;nm0313745;Vasilis Georgiadis
+The Girl who Knew too Much;1963;Italy;Thriller;tt0057443;7.5;nm0000878;Mario Bava
+Les Tontons Flingueurs;1963;France;Comedy;tt0057591;7.5;nm0491626;Georges Lautner
+Lilies of the Field;1963;USA;Drama;tt0057251;7.25;nm0625680;Ralph Nelson
+Lord of the Flies;1963;UK;Drama;tt0057261;7.5;nm0111656;Peter Brook
+A Child Is Waiting;1963;USA;Drama;tt0056930;8;nm0001023;John Cassavetes
+Le Feu Follet;1963;France;Drama;tt0057058;7.5;nm0001501;Louis Malle
+The Symbol of a Man;1963;Japan;Crime;tt6414490;7;nm0559602;Akinori Matsuo
+Irma la Douce;1963;USA;Comedy;tt0057187;7.75;nm0000697;Billy Wilder
