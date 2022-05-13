@@ -89,7 +89,7 @@ df.join %>%
   select(Title,Year,Decade,Country,Genre,Time,Rate,Imdb,Votes,Director,link) -> df
 ```
 
-This table includes movies I think show an above than average quality in either plot, main themes and overall cinematography. This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all the movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
+This table includes movies I think have a higher than average quality in either plot, main themes and overall cinematography. This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
@@ -179,9 +179,9 @@ rotate_x <- function(data, column_to_plot, labels_vec, rot_angle) {
 }
 ```
 
-## Totality of Movies ranked
+## Total ranked movies
 
-These numbers include all movies that I ranked at IMDB:
+These numbers include all movies I ranked at IMDB:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
 df.imdb %>% 
@@ -195,7 +195,7 @@ rotate_x(df2, 'n', df2$Decade, 45)
 
 ## Number of Selected Movies per Decade
 
-Using a minimal score of 7, to include only the movies at the initial table:
+Number of movies with a score of at least 7:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
 df %>% 
@@ -244,7 +244,7 @@ par(mar = c(2.5, .5, .5, .5))
 rotate_x(df2, 'n', df2$Decade, 45)
 ```
 
-And how many great films (rating at least 9) each decade produced,
+And how many great films (rating at least 9) per decade,
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 df %>% 
@@ -294,7 +294,7 @@ Let's check directors with multiple movies in the list,
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
-  filter(n>4) -> df4
+  filter(n>5) -> df4
 
 par(mar=c(1,11,1,6))
 plt <- barplot(df4$n, col='steelblue', horiz=TRUE, names.arg=df4$Director, 
@@ -379,7 +379,7 @@ DT::datatable(directors, escape=FALSE)
 
 ## Movies per Genre
 
-The most represented genre is drama, an umbrella for many different types of movie. The remaining genres are:
+The most represented genre is drama, an umbrella category for many different types of movie. The remaining genres are:
 
 ```{r, fig.width=10, fig.height=4, echo=FALSE}
 df %>% 
@@ -396,7 +396,7 @@ text(y=plt, x=df6$n+8, label=df6$n, pos=2, cex=0.8, col='blue')
 
 ## Movies per Country
 
-Most movies I see are from Hollywood, but let's check how others countries are represented:
+Most movies I see are from Hollywood, but let's check how other countries are represented:
 
 ```{r, fig.width=14, fig.height=10, warning=FALSE, echo=FALSE}
 df %>% 
@@ -408,7 +408,7 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,16+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+4, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+5, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## All rated movies on Imdb

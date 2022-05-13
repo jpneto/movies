@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+You Won't Be Alone;2022;Serbia;Horror;tt8296030;7.75;nm3301836;Goran Stolevski
 The Northman;2022;USA;Action;tt11138512;8.25;nm3211470;Robert Eggers
 The Batman;2022;USA;Action;tt1877830;7.75;nm0716257;Matt Reeves
 Against the Ice;2022;Denmark;Historical;tt13873302;7.5;nm0282425;Peter Flinth
@@ -72,7 +73,7 @@ Ad Astra;2019;USA;SciFi;tt2935510;8;nm0336695;James Gray
 Bacurau;2019;Brazil;Dystopia;tt2762506;7.5;nm2207625;Kleber Mendonça Filho
 Jojo Rabbit;2019;USA;Comedy;tt2584384;7.5;nm0169806;Taika Waititi
 The Lighthouse;2019;USA;Horror;tt7984734;8.5;nm3211470;Robert Eggers
-Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;8.5;nm0000233;Quentin Tarantino
+Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;8.75;nm0000233;Quentin Tarantino
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
 Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
 Dolor y Gloria;2019;Spain;Drama;tt8291806;7;nm0000264;Pedro Almodóvar
@@ -815,6 +816,7 @@ La battaglia di Algeri;1966;Algeria;Historical;tt0058946;8.5;nm0690597;Gillo Pon
 The Hill;1965;UK;War;tt0059274;8.75;nm0001486;Sidney Lumet
 The Sound of Music;1965;USA;Musical;tt0059742;8;nm0936404;Robert Wise
 Alphaville;1965;France;Crime;tt0058898;7;nm0000419;Jean-Luc Godard
+The War Game;1966;UK;War;tt0059894;8;nm0914386;Peter Watkins
 Chimes at Midnight;1965;Switzerland;Historical;tt0059012;7.5;nm0000080;Orson Welles
 Mary Poppins;1964;USA;Musical;tt0058331;7.5;nm0829038;Robert Stevenson
 Dr. Strangelove;1964;USA;Comedy;tt0057012;9.5;nm0000040;Stanley Kubrick
@@ -1550,3 +1552,31 @@ A Child Is Waiting;1963;USA;Drama;tt0056930;8;nm0001023;John Cassavetes
 Le Feu Follet;1963;France;Drama;tt0057058;7.5;nm0001501;Louis Malle
 The Symbol of a Man;1963;Japan;Crime;tt6414490;7;nm0559602;Akinori Matsuo
 Irma la Douce;1963;USA;Comedy;tt0057187;7.75;nm0000697;Billy Wilder
+The Florida Project;2017;USA;Drama;tt5649144;7.5;nm0048918;Sean Baker
+The White Tiger;2021;India;Crime;tt6571548;8.25;nm1023919;Ramin Bahrani
+Tabu;2012;Portugal;Drama;tt2153963;8.5;nm0326937;Miguel Gomes
+Byzantium;2012;UK;Fantasy;tt1531901;7.75;nm0001403;Neil Jordan
+Breathless;2008;South Korea;Drama;tt1373120;9;nm3344655;Yang Ik-joon
+Sorry We Missed You;2019;UK;Drama;tt8359816;8.5;nm0516360;Ken Loach
+Lesson of the Evil;2012;Japan;Horror;tt2294473;7;nm0586281;Takashi Miike
+Housebound;2014;New Zealand;Comedy;tt3504048;7.25;nm2067421;Gerard Johnstone
+Portrait de la Jeune Fille en Feu;2019;France;Drama;tt8613070;9;nm1780037;Céline Sciamma
+Mientras Duermes;2011;Spain;Thriller;tt1437358;7.75;nm0049371;Jaume Balagueró
+Headhunters;2011;Norway;Thriller;tt1614989;7.5;nm0878763;Morten Tyldum
+War Hunt;1962;USA;War;tt0056675;7;nm0761522;Denis Sanders
+Serge;1960;Russia;Drama;tt0054293;7.25;nm0199381;Georgiy Daneliya
+The L-Shaped Room;1962;UK;Drama;tt0057239;7.5;nm0285302;Bryan Forbes
+The Disciple;2020;India;Drama;tt11423784;7.5;nm4058904;Chaitanya Tamhane
+Monsieur Lazhar;2011;Canada;Drama;tt2011971;7.5;nm0265852;Philippe Falardeau
+Frantz;2016;France;Drama;tt5029608;7.75;nm0654830;François Ozon
+Beyond the Hills;2012;Romania;Drama;tt2258281;7.5;nm0612816;Cristian Mungiu
+Intentions of Murder;1964;Japan;Drama;tt0057829;7.5;nm0408076;Shôhei Imamura
+À Meia Noite Levarei Sua Alma;1964;Brazil;Horror;tt0059440;7;nm0596261;José Mojica Marins
+El Extraño Viaje;1964;Spain;Crime;tt0061633;7.5;nm0273178;Fernando Fernán Gómez
+The Battle of Culloden;1964;UK;Historical;tt0057982;8.25;nm0914386;Peter Watkins
+It Happened Here;1964;UK;Dystopia;tt0055024;7.5;nm0002206;Kevin Brownlow
+Woman in the Dunes;1964;Japan;Horror;tt0058625;9.25;nm0856267;Hiroshi Teshigahara
+Sedotta e Abbandonata;1964;Italy;Comedy;tt0058564;8;nm0314584;Pietro Germi
+Marnie;1964;USA;Drama;tt0058329;7;nm0000033;Alfred Hitchcock
+The Pawnbroker;1964;USA;Drama;tt0059575;8;nm0001486;Sidney Lumet
+Becket;1964;UK;Historical;tt0057877;8.25;nm0322706;Peter Glenville
