@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Everything Everywhere All at Once;2022;USA;Action;tt6710474;7.5;nm3453283;Dan Kwan
+The Sadness;2021;Taiwan;Horror;tt13872248;7.5;nm5983101;Rob Jabbaz
 You Won't Be Alone;2022;Serbia;Horror;tt8296030;7.75;nm3301836;Goran Stolevski
 The Northman;2022;USA;Action;tt11138512;8.25;nm3211470;Robert Eggers
 The Batman;2022;USA;Action;tt1877830;7.75;nm0716257;Matt Reeves
@@ -66,6 +68,7 @@ Mangrove;2020;UK;Historical;tt10551100;9;nm2588606;Steve McQueen
 The Swordsman;2020;South Korea;Action;tt7035004;7.25;nm9075613;Jae-Hoon Choi
 Nomadland;2020;USA;Drama;tt9770150;7.25;nm2125482;Chloé Zhao
 Us;2019;USA;Horror;tt6857112;7;nm1443502;Jordan Peele
+Avengers: Endgame;2019;USA;Action;tt4154796;7;nm0751577;Anthony Russo
 Uncut Gems;2019;USA;Thriller;tt5727208;7;nm1509478;Safdie Brothers
 Light of My Life;2019;USA;Dystopia;tt6063090;8;nm0000729;Casey Affleck
 John Wick 3;2019;USA;Action;tt6146586;7.5;nm0821432;Chad Stahelski
@@ -504,6 +507,7 @@ Trainspotting;1996;UK;Drama;tt0117951;8.5;nm0000965;Danny Boyle
 Fargo;1996;USA;Crime;tt0116282;8.5;nm0001053.nm0001054;Cohen Brothers
 The Crucible;1996;USA;Historical;tt0115988;8.75;nm0405336;Nicholas Hytner
 Richard III;1995;UK;Historical;tt0114279;7;nm0518644;Richard Loncraine
+Braveheart;1995;USA;Historical;tt0112573;7.25;nm0000154;Mel Gibson
 A Comédia de Deus;1995;Portugal;Comedy;tt0112710;7.25;nm0599214;João César Monteiro
 Se7en;1995;USA;Thriller;tt0114369;9;nm0000399;David Fincher
 Before Sunrise;1995;USA;Drama;tt0112471;8;nm0000500;Richard Linklater
@@ -516,6 +520,7 @@ Casino;1995;USA;Thriller;tt0112641;8.5;nm0000217;Martin Scorsese
 Ghost in the Shell;1995;Japan;SciFi;tt0113568;8.75;nm0651900;Mamoru Oshii
 Underground;1995;Yoguslavia;Historical;tt0114787;8.75;nm0001437;Emir Kusturica
 The Crow;1994;USA;Fantasy;tt0109506;7;nm0001639;Alex Proyas
+Forrest Gump;1994;USA;Comedy;tt0109830;7;nm0000709;Robert Zemeckis
 Quiz Show;1994;USA;Drama;tt0110932;7;nm0000602;Robert Redford
 Shallow Grave;1994;UK;Thriller;tt0111149;7;nm0000965;Danny Boyle
 Interview with the Vampire;1994;USA;Horror;tt0110148;8;nm0001403;Neil Jordan
@@ -1580,3 +1585,31 @@ Sedotta e Abbandonata;1964;Italy;Comedy;tt0058564;8;nm0314584;Pietro Germi
 Marnie;1964;USA;Drama;tt0058329;7;nm0000033;Alfred Hitchcock
 The Pawnbroker;1964;USA;Drama;tt0059575;8;nm0001486;Sidney Lumet
 Becket;1964;UK;Historical;tt0057877;8.25;nm0322706;Peter Glenville
+Three Outlaw Samurai;1964;Japan;Samurai;tt0058652;7.75;nm0331471;Hideo Gosha
+Dead Ringer;1964;USA;Crime;tt0057997;7.5;nm0002134;Paul Henreid
+Zulu;1964;UK;Historical;tt0058777;8;nm0256831;Cy Endfield
+Hamlet;1964;Russia;Drama;tt0058126;8.5;nm0468882;Grigoriy Kozintsev
+The Gorgon;1964;UK;Horror;tt0058155;7.5;nm0279807;Terence Fisher
+Court;2014;India;Politics;tt3717068;8;nm4058904;Chaitanya Tamhane
+Os Fuzis;1964;Brazil;Drama;tt0058122;7.75;nm0346087;Ruy Guerra
+Les Amitiés Particulières;1964;France;Drama;tt0057842;8;nm0216381;Jean Delannoy
+The Brig;1964;USA;War;tt0057899;7.75;nm0577263;Jonas Mekas
+The Killers;1964;USA;Crime;tt0058262;7.25;nm0796923;Don Siegel
+The Visit;1964;USA;Thriller;tt0058724;7.75;nm0926919;Bernhard Wicki
+Strait-Jacket;1964;USA;Thriller;tt0058620;7.25;nm0145336;William Castle
+Hush...Hush, Sweet Charlotte;1964;USA;Thriller;tt0058213;7.5;nm0000736;Robert Aldrich
+Seven Days in May;1964;USA;Thriller;tt0058576;8.25;nm0001239;John Frankenheimer
+Blood and Black Lace;1964;Italy;Thriller;tt0058567;7.25;nm0000878;Mario Bava
+Nothing but a Man;1964;USA;Drama;tt0058414;9.25;nm0736394;Michael Roemer
+Yearning;1964;Japan;Drama;tt0058349;8.25;nm0621540;Mikio Naruse
+Matrimonio all'Italiana;1964;Italy;Comedy;tt0058335;8;nm0001120;Vittorio De Sica
+King & Country;1964;UK;War;tt0058263;7.5;nm0521334;Joseph Losey
+Seance on a Wet Afternoon;1964;UK;Thriller;tt0058557;7.75;nm0285302;Bryan Forbes
+Il Vangelo Secondo Matteo;1964;Italy;Drama;tt0058715;8.5;nm0001596;Pier Paolo Pasolini
+Father of a Soldier;1964;Russia;War;tt0169828;8.25;nm0158523;Rezo Chkheidze
+Pale Flower;1964;Japan;Crime;tt0056327;8.5;nm0793983;Masahiro Shinoda
+36 Hours;1964;USA;War;tt0057809;7.25;nm0780833;George Seaton
+Behold a Pale Horse;1964;USA;War;tt0057879;7.25;nm0003593;Fred Zinnemann
+The Best Man;1964;USA;Politics;tt0057883;7.5;nm0769874;Franklin J. Schaffner
+The Soft Skin;1964;France;Drama;tt0058458;8;nm0000076;François Truffaut
+Soy Cuba;1964;Cuba;Politics;tt0058604;8.5;nm0435563;Mikhail Kalatozov
