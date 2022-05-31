@@ -75,7 +75,7 @@ John Wick 3;2019;USA;Action;tt6146586;7.5;nm0821432;Chad Stahelski
 Ad Astra;2019;USA;SciFi;tt2935510;8;nm0336695;James Gray
 Bacurau;2019;Brazil;Dystopia;tt2762506;7.5;nm2207625;Kleber Mendonça Filho
 Jojo Rabbit;2019;USA;Comedy;tt2584384;7.5;nm0169806;Taika Waititi
-The Lighthouse;2019;USA;Horror;tt7984734;8.5;nm3211470;Robert Eggers
+The Lighthouse;2019;USA;Horror;tt7984734;8.75;nm3211470;Robert Eggers
 Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;8.75;nm0000233;Quentin Tarantino
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
 Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
@@ -90,6 +90,7 @@ Saint Maud;2019;UK;Horror;tt7557108;7;nm3819217;Rose Glass
 Richard Jewell;2019;USA;Historical;tt3513548;7.5;nm0000142;Clint Eastwood
 1917;2019;USA;War;tt8579674;7.5;nm0005222;Sam Mendes
 Avengers: Infinity War;2018;USA;Action;tt4154756;7.75;nm0751577;Anthony Russo
+Solo: A Star Wars Story;2018;USA;Action;tt3778644;7.25;nm0000165;Ron Howard
 Dylda, aka Beanpole;2019;Russia;Drama;tt10199640;7.5;nm8921482;Kantemir Balagov
 Mandy;2018;USA;Horror;tt6998518;7;nm0181903;Panos Cosmatos
 A Simple Favor;2018;USA;Thriller;tt7040874;7;nm0082450;Paul Feig
@@ -539,7 +540,7 @@ Groundhog Day;1993;USA;Comedy;tt0107048;8;nm0000601;Harold Ramis
 Sonatine;1993;Japan;Thriller;tt0108188;8;nm0001429;Takeshi Kitano
 A Perfect World;1993;USA;Drama;tt0107808;7.25;nm0000142;Clint Eastwood
 The Piano;1993;New Zealand;Historical;tt0107822;7.5;nm0001005;Jane Campion
-Naked;1993;UK;Drama;tt0107653;7.5;nm0005139;Mike Leigh
+Naked;1993;UK;Drama;tt0107653;7.75;nm0005139;Mike Leigh
 Schindler's List;1993;USA;War;tt0108052;8.5;nm0000229;Steven Spielberg
 In the Name of the Father;1993;Ireland;War;tt0107207;8.5;nm0006487;Jim Sheridan
 Braindead;1992;New Zealand;Comedy;tt0103873;7;nm0001392;Peter Jackson
@@ -1583,7 +1584,7 @@ It Happened Here;1964;UK;Dystopia;tt0055024;7.5;nm0002206;Kevin Brownlow
 Woman in the Dunes;1964;Japan;Horror;tt0058625;9.25;nm0856267;Hiroshi Teshigahara
 Sedotta e Abbandonata;1964;Italy;Comedy;tt0058564;8;nm0314584;Pietro Germi
 Marnie;1964;USA;Drama;tt0058329;7;nm0000033;Alfred Hitchcock
-The Pawnbroker;1964;USA;Drama;tt0059575;8;nm0001486;Sidney Lumet
+The Pawnbroker;1964;USA;Drama;tt0059575;8.25;nm0001486;Sidney Lumet
 Becket;1964;UK;Historical;tt0057877;8.25;nm0322706;Peter Glenville
 Three Outlaw Samurai;1964;Japan;Samurai;tt0058652;7.75;nm0331471;Hideo Gosha
 Dead Ringer;1964;USA;Crime;tt0057997;7.5;nm0002134;Paul Henreid
@@ -1613,3 +1614,24 @@ Behold a Pale Horse;1964;USA;War;tt0057879;7.25;nm0003593;Fred Zinnemann
 The Best Man;1964;USA;Politics;tt0057883;7.5;nm0769874;Franklin J. Schaffner
 The Soft Skin;1964;France;Drama;tt0058458;8;nm0000076;François Truffaut
 Soy Cuba;1964;Cuba;Politics;tt0058604;8.5;nm0435563;Mikhail Kalatozov
+Les Parapluies de Cherbourg;1964;France;Musical;tt0058450;7.75;nm0218840;Jacques Demy
+Charulata;1964;India;Drama;tt0057935;8.5;nm0006249;Satyajit Ray
+Le Journal d'une Femme de Chambre;1964;France;Crime;tt0058249;7.5;nm0000320;Luis Buñuel
+Alexis Zorba;1964;Greece;Drama;tt0057831;7;nm0128050;Michael Cacoyannis
+Gertrud;1964;Denmark;Drama;tt0058138;7.5;nm0003433;Carl Theodor Dreyer
+Who Was She?;1964;India;Crime;tt0232960;7.5;nm0451846;Raj Khosla
+All Fall Down;1962;USA;Drama;tt0055738;7.75;nm0001239;John Frankenheimer
+The Young Savages;1961;USA;Crime;tt0055633;7;nm0001239;John Frankenheimer
+Aferim!;2015;Romania;Drama;tt4374460;7.75;nm1257492; Radu Jude 
+Krisha;2015;USA;Drama;tt4266638;7.25;nm4099092;Trey Edward Shults
+Monsoon Wedding;2001;India;Drama;tt0265343;8;nm0619762;Mira Nair
+Salaam Bombay!;1988;India;Drama;tt0096028;8.75;nm0619762;Mira Nair
+The Lunchbox;2013;India;Drama;tt2350496;8.25;nm3592235;Ritesh Batra
+Vale Abraão;1993;Portugal;Drama;tt0108471;7.25;nm0210701;Manoel de Oliveira
+The Kid on the Bike;2011;France;Drama;tt1827512;7.5;nm0201094;Jean-Pierre Dardenne
+Black Friday;2004;India;Historical;tt0400234;8.5;nm0440604;Anurag Kashyap
+Gett;2014;Israel;Drama;tt3062880;8.75;nm0253813;Ronit Elkabetz
+I've Loved You for so Long;2008;France;Drama;tt1068649;8;nm1061623;Philippe Claudel
+An Elephant Sitting Still;2018;China;Drama;tt8020896;9.5;nm9636804;Bo Hu
+Tiempo de Valientes;2005;Argentina;Comedy;tt0462570;7.5;nm1167933;Damián Szifron
+Animal Kingdom;2010;Australia;Crime;tt1313092;7.75;nm2391575;David Michôd
