@@ -171,7 +171,7 @@ Sicario;2015;USA;Drama;tt3397884;7.5;nm0898288;Denis Villeneuve
 Green Room;2015;USA;Horror;tt4062536;7.5;nm1099918;Jeremy Saulnier
 Land of Mine;2015;USA;War;tt3841424;7;nm1324710;Martin Zandvliet
 The Revenant;2015;USA;Drama;tt1663202;8;nm0327944;Alejandro G. Iñárritu
-Bone Tomahawk;2015;USA;Horror;tt2494362;8;nm0951975;S. Craig Zahler
+Bone Tomahawk;2015;USA;Horror;tt2494362;8.25;nm0951975;S. Craig Zahler
 The Hateful Eight;2015;USA;Western;tt3460252;8;nm0000233;Quentin Tarantino
 The Witch;2015;USA;Horror;tt4263482;9;nm3211470;Robert Eggers
 Creed;2015;USA;Drama;tt3076658;7.5;nm3363032;Ryan Coogler
@@ -1614,7 +1614,7 @@ Behold a Pale Horse;1964;USA;War;tt0057879;7.25;nm0003593;Fred Zinnemann
 The Best Man;1964;USA;Politics;tt0057883;7.5;nm0769874;Franklin J. Schaffner
 The Soft Skin;1964;France;Drama;tt0058458;8;nm0000076;François Truffaut
 Soy Cuba;1964;Cuba;Politics;tt0058604;8.5;nm0435563;Mikhail Kalatozov
-Les Parapluies de Cherbourg;1964;France;Musical;tt0058450;7.75;nm0218840;Jacques Demy
+Les Parapluies de Cherbourg;1964;France;Musical;tt0058450;8;nm0218840;Jacques Demy
 Charulata;1964;India;Drama;tt0057935;8.5;nm0006249;Satyajit Ray
 Le Journal d'une Femme de Chambre;1964;France;Crime;tt0058249;7.5;nm0000320;Luis Buñuel
 Alexis Zorba;1964;Greece;Drama;tt0057831;7;nm0128050;Michael Cacoyannis
@@ -1635,3 +1635,26 @@ I've Loved You for so Long;2008;France;Drama;tt1068649;8;nm1061623;Philippe Clau
 An Elephant Sitting Still;2018;China;Drama;tt8020896;9.5;nm9636804;Bo Hu
 Tiempo de Valientes;2005;Argentina;Comedy;tt0462570;7.5;nm1167933;Damián Szifron
 Animal Kingdom;2010;Australia;Crime;tt1313092;7.75;nm2391575;David Michôd
+After the Storm;2016;Japan;Drama;tt5294966;8;nm0466153;Hirokazu Koreeda
+Marriage Story;2019;USA;Drama;tt7653254;8;nm0000876;Noah Baumbach
+Little Women;2019;USA;Drama;tt3281548;7.25;nm1950086;Greta Gerwig
+Coming Home;2014;China;Drama;tt3125472;8;nm0955443;Yimou Zhang
+Cherry Blossoms;2008;Germany;Drama;tt0910559;8.5;nm0246903;Doris Dörrie
+The Namesake;2006;India;Drama;tt0433416;7.75;nm0619762;Mira Nair
+No;2012;Chile;Politics;tt2059255;7.25;nm1883257;Pablo Larraín
+Omkara;2006;India;Drama;tt0488414;8.25;nm0080235;Vishal Bhardwaj
+Castle in the Sky;1986;Japan;Fantasy;tt0092067;8.25;nm0594503;Hayao Miyazaki
+La Vie d'Adèle;2013;France;Drama;tt2278871;8;nm0444244;Abdellatif Kechiche
+Green Book;2018;USA;Drama;tt6966692;7.75;nm0268380;Peter Farrelly
+Silver Linings Playbook;2012;USA;Comedy;tt1045658;7.5;nm0751102;David O. Russell
+Dragged Across Concrete;2018;USA;Crime;tt6491178;8;nm0951975;S. Craig Zahler
+Asylum Blackout;2011;USA;Horror;tt1027820;7;nm2035216;Alexandre Courtès
+Sword of the Beast;1965;Japan;Samurai;tt0200768;7.75;nm0331471;Hideo Gosha
+Red Beard;1965;Japan;Drama;tt0058888;8.5;nm0000041;Akira Kurosawa
+Compartiment Tueurs;1965;France;Crime;tt0059050;8;nm0002020;Costa-Gavras
+The Nanny;1965;UK;Thriller;tt0059496;7.75;nm0392519;Seth Holt
+Seisaku's Wife;1965;Japan;Drama;tt0140542;8;nm0557945;Yasuzô Masumura
+Repulsion;1965;UK;Horror;tt0059646;8;nm0000591;Roman Polanski
+Morituri;1965;USA;War;tt0059470;7.5;nm0926919;Bernhard Wicki
+A Fugitive from the Past;1965;Japan;Crime;tt0279901;8;nm0879755;Tomu Uchida
+The Coward;1965;India;Drama;tt0059348;8;nm0006249;Satyajit Ray

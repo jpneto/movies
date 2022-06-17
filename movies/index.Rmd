@@ -281,7 +281,7 @@ mat <- matrix(df3$count, ncol=6, byrow=T)
 library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
-barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,300), col=brewer.pal(6, "Blues") )
+barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,350), col=brewer.pal(6, "Blues") )
 legend(.25, 180, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
@@ -304,7 +304,7 @@ text(y=plt, x=df4$n+0.8, label=df4$n, pos = 2, cex = 0.8, col='blue')
 
 Directors with movies with a rating of at least 8.5,
 
-```{r, fig.width=12, fig.height=6, echo=FALSE}
+```{r, fig.width=14, fig.height=10, echo=FALSE}
 df %>% 
   filter(Rate >= 8.5) %>% 
   count(Director, sort=TRUE) %>% 
@@ -319,7 +319,7 @@ text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
 
 And finally who made the masterpieces (>=9.5),
 
-```{r, fig.width=12, fig.height=6, echo=FALSE}
+```{r, fig.width=14, fig.height=10, echo=FALSE}
 df %>% 
   filter(Rate >= 9.5) %>% 
   count(Director, sort=TRUE) %>% 
