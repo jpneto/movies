@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Men;2022;UK;Horror;tt13841850;7;nm0307497;Alex Garland
+Crimes of the Future;2022;USA;SciFi;tt14549466;7.25;nm0000343;David Cronenberg
 Everything Everywhere All at Once;2022;USA;Action;tt6710474;7.5;nm3453283;Dan Kwan
 The Sadness;2021;Taiwan;Horror;tt13872248;7.5;nm5983101;Rob Jabbaz
 You Won't Be Alone;2022;Serbia;Horror;tt8296030;7.75;nm3301836;Goran Stolevski
@@ -92,7 +94,8 @@ Richard Jewell;2019;USA;Historical;tt3513548;7.5;nm0000142;Clint Eastwood
 Avengers: Infinity War;2018;USA;Action;tt4154756;7.75;nm0751577;Anthony Russo
 Solo: A Star Wars Story;2018;USA;Action;tt3778644;7.25;nm0000165;Ron Howard
 Dylda, aka Beanpole;2019;Russia;Drama;tt10199640;7.5;nm8921482;Kantemir Balagov
-Mandy;2018;USA;Horror;tt6998518;7;nm0181903;Panos Cosmatos
+Mandy;2018;USA;Horror;tt6998518;7.25;nm0181903;Panos Cosmatos
+Annihilation;2018;USA;Horror;tt2798920;7;nm0307497;Alex Garland
 A Simple Favor;2018;USA;Thriller;tt7040874;7;nm0082450;Paul Feig
 Upgrade;2018;USA;Action;tt6499752;7;nm1191481;Leigh Whannell
 Hereditary;2018;USA;Horror;tt7784604;8;nm4170048;Ari Aster
@@ -241,7 +244,7 @@ Intouchables;2011;France;Drama;tt1675434;8;nm0619923;Olivier Nakache
 Killer Joe;2011;USA;Thriller;tt1726669;8;nm0001243;William Friedkin
 Harakiri;2011;Japan;Samurai;tt1728196;9;nm0586281;Takashi Miike
 Drive;2011;USA;Action;tt0780504;7.75;nm0716347;Nicolas Winding Refn
-The Cabin in the Woods;2011;USA;Horror;tt1259521;7.25;nm1206844;Drew Goddard
+The Cabin in the Woods;2011;USA;Horror;tt1259521;7.5;nm1206844;Drew Goddard
 Rise of the Planet of the Apes;2011;USA;SciFi;tt1318514;7.5;nm1012501;Rupert Wyatt
 The Grey;2011;USA;Thriller;tt1601913;8.5;nm0138620;Joe Carnahan
 Super 8;2011;USA;SciFi;tt1650062;7;nm0009190;J.J. Abrams
@@ -826,7 +829,7 @@ The War Game;1966;UK;War;tt0059894;8;nm0914386;Peter Watkins
 Chimes at Midnight;1965;Switzerland;Historical;tt0059012;7.5;nm0000080;Orson Welles
 Mary Poppins;1964;USA;Musical;tt0058331;7.5;nm0829038;Robert Stevenson
 Dr. Strangelove;1964;USA;Comedy;tt0057012;9.5;nm0000040;Stanley Kubrick
-Per un pugno di dollari;1964;Italy;Western;tt0058461;8.75;nm0001466;Sergio Leone
+Per un Pugno di Dollari;1964;Italy;Western;tt0058461;8.75;nm0001466;Sergio Leone
 A Shot in the Dark;1964;UK;Comedy;tt0058586;7.5;nm0001175;Blake Edwards
 The Train;1964;USA;War;tt0059825;9;nm0001239;John Frankenheimer
 Fail Safe;1964;USA;War;tt0058083;9.5;nm0001486;Sidney Lumet
@@ -1513,7 +1516,7 @@ Guilty of Romance;2011;Japan;Horror;tt1743724;7.5;nm0814469;Sion Sono
 A Taxi Driver;2017;South Korea;Historical;tt6878038;7.75;nm1922242;Hun Jang
 Wadjda;2012;Saudi Arabia;Drama;tt2258858;7.75;nm2223783;Haifaa Al-Mansour
 King of Devil's Island;2010;Norway;Historical;tt1332134;8.25;nm0392319;Marius Holst
-Les Innocents;2016;France;War;tt4370784;9.25;nm0284774;Anne Fontaine
+Les Innocents;2016;France;War;tt4370784;9;nm0284774;Anne Fontaine
 You're Next;2011;USA;Horror;tt1853739;7.5;nm1417392;Adam Wingard
 The Girl with the Dragon Tattoo;2011;USA;Thriller;tt1568346;7.75;nm0000399;David Fincher
 In Bloom;2013;Georgia;Drama;tt2741806;7;nm2206574;Nana Ekvtimishvili
@@ -1649,7 +1652,7 @@ Green Book;2018;USA;Drama;tt6966692;7.75;nm0268380;Peter Farrelly
 Silver Linings Playbook;2012;USA;Comedy;tt1045658;7.5;nm0751102;David O. Russell
 Dragged Across Concrete;2018;USA;Crime;tt6491178;8;nm0951975;S. Craig Zahler
 Asylum Blackout;2011;USA;Horror;tt1027820;7;nm2035216;Alexandre Courtès
-Sword of the Beast;1965;Japan;Samurai;tt0200768;7.75;nm0331471;Hideo Gosha
+Sword of the Beast;1965;Japan;Samurai;tt0200768;8;nm0331471;Hideo Gosha
 Red Beard;1965;Japan;Drama;tt0058888;8.5;nm0000041;Akira Kurosawa
 Compartiment Tueurs;1965;France;Crime;tt0059050;8;nm0002020;Costa-Gavras
 The Nanny;1965;UK;Thriller;tt0059496;7.75;nm0392519;Seth Holt
@@ -1659,3 +1662,39 @@ Morituri;1965;USA;War;tt0059470;7.5;nm0926919;Bernhard Wicki
 A Fugitive from the Past;1965;Japan;Crime;tt0279901;8;nm0879755;Tomu Uchida
 The Coward;1965;India;Drama;tt0059348;8;nm0006249;Satyajit Ray
 The Spy Who Came in from the Cold;1965;UK;Thriller;tt0059749;8.75;nm0728688;Martin Ritt
+Intimate Lightning;1965;Czech Republic;Comedy;tt0060543;7;nm0664852;Ivan Passer
+Pleasures of the Flesh;1965;Japan;Crime;tt0059159;7.5;nm0651915;Nagisa Ôshima
+Le Vampire de Düsseldorf;1965;France;Crime;tt0058922;8;nm0396136;Robert Hossein
+The Naked Prey;1965;South Africa;Action;tt0060736;7.75;nm0664273;Cornel Wilde
+São Paulo, Sociedade Anônima;1965;Brazil;Drama;tt0195324;7.75;nm0675502;Luiz Sérgio Person
+The Collector;1965;UK;Thriller;tt0059043;8.25;nm0943758;William Wyler
+The Flight of the Phoenix;1965;USA;Action;tt0059183;7.5;nm0000736;Robert Aldrich
+Signore & Signori;1965;Italy;Comedy;tt0062271;7.75;nm0314584;Pietro Germi
+A Patch of Blue;1965;USA;Drama;tt0059573;8;nm0337885;Guy Green
+Le Bonheur;1965;France;Drama;tt0058985;8;nm0889513;Agnès Varda
+Story of a Prostitute;1965;Japan;War;tt0059715;7.5;nm0840671;Seijun Suzuki
+Mirage;1965;USA;Thriller;tt0059448;8.5;nm0229424;Edward Dmytryk
+Il Mostro;1994;Italy;Comedy;tt0110570;7.5;nm0000905;Roberto Benigni
+The Slender Thread;1965;USA;Drama;tt0059729;8;nm0001628;Sydney Pollack
+Loves of a Blonde;1965;Czechoslovakia;Comedy;tt0060802;7;nm0001232;Milos Forman
+The First Teacher;1965;Russia;Drama;tt0059585;7.5;nm0464846;Andrey Konchalovskiy
+Le Soldatesse;1965;Italy;War;tt0059732;7.75;nm0958801;Valerio Zurlini
+Tatooed Life;1965;Japan;Crime;tt0059320;7.5;nm0840671;Seijun Suzuki
+Terrore nello Spazio;1965;Italy;Horror;tt0059792;7.5;nm0000878;Mario Bava
+Shenandoah;1965;USA;War;tt0059711;7.25;nm0572132;Andrew V. McLaglen
+Subarnarekha, The Golden Thread;1965;India;Drama;tt0056537;7.5;nm0315547;Ritwik Ghatak
+In Harm's Way;1965;USA;War;tt0059309;8;nm0695937;Otto Preminger
+The War Lord;1965;USA;Action;tt0059896;7.75;nm0769874;Franklin J. Schaffner
+The Agony and the Ecstasy;1965;USA;Historical;tt0058886;7.5;nm0715346;Carol Reed
+Darling;1965;UK;Drama;tt0059084;7.75;nm0772259;John Schlesinger
+Major Dundee;1965;USA;Western;tt0059418;7;nm0001603;Sam Peckinpah
+A Thousand Clowns;1965;USA;Comedy;tt0059798;8;nm0168641;Fred Coe
+Bunny Lake Is Missing;1965;UK;Thriller;tt0058997;7.5;nm0695937;Otto Preminger
+Io la Conoscevo Bene;1965;Italy;Drama;tt0060545;7;nm0682881;Antonio Pietrangeli
+The Shop on Main Street;1965;Czechoslovakia;War;tt0059527;8.5;nm0434443;Ján Kadár
+Othello;1965;UK;Drama;tt0059555;7.5;nm0121169;Stuart Burge
+The Saragossa Manuscript;1965;Poland;Fantasy;tt0059643;8.5;nm0367860;Wojciech Has
+Guide;1965;India;Drama;tt0059246;8.25;nm0025629;Vijay Anand
+Per Qualche Dollaro in Più;1965;Italy;Western;tt0059578;8.25;nm0001466;Sergio Leone
+War and Peace I;1965;Russia;War;tt0063794;7.75;nm0094083;Sergey Bondarchuk
+Deus e o Diabo na Terra do Sol;1964;Brazil;Drama;tt0058006;7.5;nm0733790;Glauber Rocha
