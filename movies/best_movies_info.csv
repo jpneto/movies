@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Bull;2021;UK;Thriller;tt13266998;7.75;nm1440314;Paul Andrew Williams
+Prey;2022;USA;Action;tt11866324;7.75;tt11866324;Dan Trachtenberg
 The Book of Fish;2021;South Korea;Drama;tt14371900;7.5;nm1045937;Joon-ik Lee
 The Black Phone;2021;USA;Horror;tt7144666;7.75;nm0220600;Scott Derrickson
 Men;2022;UK;Horror;tt13841850;7;nm0307497;Alex Garland
@@ -234,7 +236,7 @@ Pieta;2012;South Korea;Drama;tt2299842;8.5;nm1104118;Ki-duk Kim
 Hugo;2011;USA;Drama;tt0970179;7;nm0000217;Martin Scorsese
 God Bless America;2011;USA;Comedy;tt1912398;7.25;nm0001281;Bobcat Goldthwait
 The Thing;2011;USA;Horror;tt0905372;7;nm0374048;Matthijs van Heijningen
-Once Upon a Time in Anatolia;2011;Turkey;Crime;tt1827487;7.25;nm0149196;Nuri Bilge Ceylan
+Once Upon a Time in Anatolia;2011;Turkey;Crime;tt1827487;7.5;nm0149196;Nuri Bilge Ceylan
 Margin Call;2011;USA;Thriller;tt1615147;7;nm1170855;J.C. Chandor
 Carnage;2011;France;Drama;tt1692486;7;nm0000591;Roman Polanski
 We Need to Talk About Kevin;2011;USA;Thriller;tt1242460;8;nm0708903;Lynne Ramsay
@@ -465,7 +467,7 @@ The Green Mile;1999;USA;Drama;tt0120689;7.75;nm0001104;Frank Darabont
 The Blair Witch Project;1999;USA;Horror;tt0185937;7.75;nm0617130;Daniel Myrick
 Audition;1999;Japan;Horror;tt0235198;7.5;nm0586281;Takashi Miike
 Magnolia;1999;USA;Drama;tt0175880;8.5;nm0000759;Paul Thomas Anderson
-Fight Club;1999;USA;Thriller;tt0137523;9;nm0000399;David Fincher
+Fight Club;1999;USA;Thriller;tt0137523;9.25;nm0000399;David Fincher
 Man on the Moon;1999;USA;Drama;tt0125664;9;nm0001232;Milos Forman
 Any Given Sunday;1999;USA;Drama;tt0146838;7.25;nm0000231;Oliver Stone
 Ghost Dog;1999;USA;Drama;tt0165798;7.25;nm0000464;Jim Jarmusch
@@ -1719,3 +1721,24 @@ Omar;2013;Palestine;Drama;tt2852406;8;nm0009463;Hany Abu-Assad
 Winter Sleep;2014;Turkey;Drama;tt2758880;9;nm0149196;Nuri Bilge Ceylan
 Three Monkeys;2008;Turkey;Drama;tt1233381;8.25;nm0149196;Nuri Bilge Ceylan
 The Willow Tree;2005;Iran;Drama;tt0415607;7.25;nm0006498;Majid Majidi
+La Mort de Louis XIV;2016;France;Historical;tt5129510;7.5;nm2247200;Albert Serra
+Irezumi;1966;Japan;Drama;tt0200740;8;nm0557945;Yasuzô Masumura
+Eleven Samurai;1967;Japan;Drama;tt0123127;7.25;nm0473791;Eiichi Kudô
+War and Peace II;1966;Russia;War;tt0061162;7.25;nm0094083;Sergey Bondarchuk
+Seconds;1966;USA;Thriller;tt0060955;8;nm0001239;John Frankenheimer
+The Sand Pebbles;1966;USA;War;tt0060934;8.75;nm0936404;Robert Wise
+La Muerte de un Burócrata;1966;Cuba;Comedy;tt0060722;7.5;nm0349425;Tomás Gutiérrez Alea
+Django;1966;Italy;Western;tt0060315;7.5;nm0179281;Sergio Corbucci
+The Face of Another;1966;Japan;SciFi;tt0061065;7.5;nm0856267;Hiroshi Teshigahara
+El Dorado;1966;USA;Western;tt0061619;7.75;nm0001328;Howard Hawks
+Blow-Up;1966;UK;Thriller;tt0060176;8;nm0000774;Michelangelo Antonioni
+Come Drink with Me;1966;Hong Kong;Action;tt0059079;7.25;nm0002254;King Hu
+Cul-de-Sac;1966;UK;Comedy;tt0060268;8;nm0000591;Roman Polanski
+The Professionals;1966;USA;Action;tt0060862;8.25;nm0112218;Richard Brooks
+This Property is Condemned;1966;USA;Drama;tt0061089;7.25;nm0001628;Sydney Pollack
+La Religieuse;1966;France;Drama;tt0060891;9;nm0729626;Jacques Rivette
+Young Torless;1966;Germany;Drama;tt0060574;8;nm0772522;Volker Schlöndorff
+Watch out for the Automobile;1966;Russia;Comedy;tt0060161;7.25;nm0752922;Eldar Ryazanov
+La Grande Vadrouille;1966;France;Comedy;tt0060474;7;nm0653620;Gérard Oury
+Who's Afraid of Virginia Woolf?;1966;USA;Drama;tt0061184;9.5;nm0001566;Mike Nichols
+The Wild Pear Tree;2018;Turkey;Drama;tt6628102;8.5;nm0149196;Nuri Bilge Ceylan
