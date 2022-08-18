@@ -461,6 +461,7 @@ Crouching Tiger, Hidden Dragon;2000;China;Action;tt0190332;8.5;nm0000487;Ang Lee
 JSA;2000;South Korea;Thriller;tt0260991;8;nm0661791;Chan-wook Park
 Amores Perros;2000;Mexico;Drama;tt0245712;9.25;nm0327944;Alejandro G. Iñárritu
 The Limey;1999;USA;Thriller;tt0165854;7;nm0001752;Steven Soderbergh
+Molokh;1999;Russia;Drama;tt0199777;7.5;nm0812546;Aleksandr Sokurov
 Boys don't Cry;1999;USA;Drama;tt0171804;7.5;nm0005303;Kimberly Peirce
 Arlington Road;1999;USA;Thriller;tt0137363;7.5;nm0671210;Mark Pellington
 The Green Mile;1999;USA;Drama;tt0120689;7.75;nm0001104;Frank Darabont
@@ -491,6 +492,7 @@ American History X;1998;USA;Thriller;tt0120586;8.25;nm0443411;Tony Kaye
 The Big Lebowski;1998;USA;Comedy;tt0118715;8.25;nm0001054.nm0001053;Cohen Brothers
 Saving Private Ryan;1998;USA;War;tt0120815;8.5;nm0000229;Steven Spielberg
 Event Horizon;1997;USA;SciFi;tt0119081;7;nm0027271;Paul W.S. Anderson
+Snow White: A Tale of Terror;1997;USA;Horror;tt0119227;7.5;nm0169931;Michael Cohn
 La Vita è Bella;1997;Italy;Drama;tt0118799;7.5;nm0000905;Roberto Benigni
 The Game;1997;USA;Thriller;tt0119174;7.25;nm0000399;David Fincher
 As Good as it Gets;1997;USA;Comedy;tt0119822;7.25;nm0000985;James L. Brooks
@@ -603,7 +605,7 @@ Mississippi Burning;1988;USA;Thriller;tt0095647;8;nm0000570;Alan Parker
 Time of the Gypsies;1988;Yoguslavia;Drama;tt0097223;8;nm0001437;Emir Kusturica
 Akira;1988;Japan;SciFi;tt0094625;8;nm0960028;Katsuhiro Ôtomo
 The Last Temptation of Christ;1988;USA;Historical;tt0095497;7.5;nm0000217;Martin Scorsese
-Spoorloos;1988;Netherlands;Thriller;tt0096163;7.5;nm0806293;George Sluizer
+Spoorloos;1988;Netherlands;Thriller;tt0096163;8;nm0806293;George Sluizer
 Dead Ringers;1988;USA;Horror;tt0094964;7.5;nm0000343;David Cronenberg
 They Live;1988;USA;SciFi;tt0096256;8.25;nm0000118;John Carpenter
 Die Hard;1988;USA;Thriller;tt0095016;7.75;nm0001532;John McTiernan
@@ -742,7 +744,7 @@ Robin Hood;1973;USA;Comedy;tt0070608;7.25;nm0718627;Wolfgang Reitherman
 The Wicker Man;1973;USA;Thriller;tt0070917;7.5;nm0362736;Robin Hardy
 WestWorld;1973;USA;SciFi;tt0070909;7.25;nm0000341;Michael Crichton
 Soylent Green;1973;USA;Dystopia;tt0070723;8;nm0281507;Richard Fleischer
-Papillon;1973;USA;Thriller;tt5093026;9;nm1840064;Michael Noer
+Papillon;1973;USA;Thriller;tt0070511;9;nm0769874;Franklin J. Schaffner
 Pat Garrett and Billy the Kid;1973;USA;Western;tt0070518;7.5;nm0001603;Sam Peckinpah
 The Offence;1973;USA;Drama;tt0070468;8.5;nm0001486;Sidney Lumet
 Serpico;1973;USA;Crime;tt0070666;8.5;nm0001486;Sidney Lumet
@@ -809,7 +811,7 @@ Un Prophète;2009;France;Crime;tt1235166;9;nm0002191;Jacques Audiard
 Abril Despedaçado;2001;Brazil;Drama;tt0291003;7.5;nm0758574;Walter Salles
 Memories of Murder;2003;South Korea;Thriller;tt0353969;7.5;nm0094435;Bong Joon Ho
 The Chaser;2008;South Korea;Thriller;tt1190539;8;nm2947553;Hong-jin Na
-A Man for All Seasons;1966;UK;Historical;tt0060665;8.75;nm0003593;Fred Zinnemann
+A Man for All Seasons;1966;UK;Historical;tt0060665;9;nm0003593;Fred Zinnemann
 The Good, the Bad and the Ugly;1966;Italy;Western;tt0060196;9.5;nm0001466;Sergio Leone
 Spirited Away;2001;Japan;Fantasy;tt0245429;9.25;nm0594503;Hayao Miyazaki
 My Friend Totoro;1988;Japan;Fantasy;tt0096283;8.5;nm0594503;Hayao Miyazaki
@@ -825,7 +827,7 @@ Anne of the Thousand Days;1969;UK;Historical;tt0064030;7.75;nm0418986;Charles Ja
 Le Boucher;1970;France;Thriller;tt0064106;7.5;nm0001031;Claude Chabrol
 Fahrenheit 451;1966;UK;Dystopia;tt0060390;8.25;nm0000076;François Truffaut
 Fantastic Voyage;1966;USA;SciFi;tt0060397;7.5;nm0281507;Richard Fleischer
-La battaglia di Algeri;1966;Algeria;Historical;tt0058946;8.5;nm0690597;Gillo Pontecorvo
+La Battaglia di Algeri;1966;Algeria;Historical;tt0058946;9;nm0690597;Gillo Pontecorvo
 The Hill;1965;UK;War;tt0059274;8.75;nm0001486;Sidney Lumet
 The Sound of Music;1965;USA;Musical;tt0059742;8;nm0936404;Robert Wise
 Alphaville;1965;France;Crime;tt0058898;7;nm0000419;Jean-Luc Godard
@@ -1054,7 +1056,7 @@ Throne of Blood;1957;Japan;Samurai;tt0050613;8.75;nm0000041;Akira Kurosawa
 The Deadly Affair;1967;UK;Thriller;tt0061556;7.25;nm0001486;Sidney Lumet
 Onibaba;1964;Japan;Horror;tt0058430;9;nm0793881;Kaneto Shindô
 The Manchurian Candidate;1962;USA;Thriller;tt0056218;8.75;nm0001239;John Frankenheimer
-Persona;1966;Sweden;Drama;tt0060827;7.5;nm0000005;Ingmar Bergman
+Persona;1966;Sweden;Drama;tt0060827;8;nm0000005;Ingmar Bergman
 Lolita;1962;USA;Drama;tt0056193;7.75;nm0000040;Stanley Kubrick
 Le Doulos;1962;France;Crime;tt0054821;7.75;nm0578483;Jean-Pierre Melville
 The Tale of Zatoichi;1962;Japan;Samurai;tt0056714;8.5;nm0593014;Kenji Misumi
@@ -1742,3 +1744,12 @@ Watch out for the Automobile;1966;Russia;Comedy;tt0060161;7.25;nm0752922;Eldar R
 La Grande Vadrouille;1966;France;Comedy;tt0060474;7;nm0653620;Gérard Oury
 Who's Afraid of Virginia Woolf?;1966;USA;Drama;tt0061184;9.5;nm0001566;Mike Nichols
 The Wild Pear Tree;2018;Turkey;Drama;tt6628102;8.5;nm0149196;Nuri Bilge Ceylan
+Andrei Rublev;1966;Russia;Historical;tt0060107;8.25;nm0001789;Andrei Tarkovsky
+The Big Gundown;1967;Italy;Western;tt0063501;7.75;nm0813177;Sergio Sollima
+La Noire;1966;Senegal;Drama;tt0060758;7.5;nm0783733;Ousmane Sembene
+Uccellacci e Uccellini;1966;Italy;Comedy;tt0061132;7.25;nm0001596;Pier Paolo Pasolini
+Masculin féminin;1966;France;Drama;tt0060675;7.5;nm0000419;Jean-Luc Godard
+Closely Watched Trains;1966;Czechoslovakia;Comedy;tt0060802;8.25;nm0579954;Jirí Menzel
+Island of Terror;1966;UK;Horror;tt0060548;7;nm0279807;Terence Fisher
+Operazione Paura;1966;Italy;Horror;tt0060794;7;nm0000878;Mario Bava
+La Guerre est Finie;1966;France;Politics;tt0060481;7.5;nm0720297;Alain Resnais
