@@ -391,9 +391,15 @@ text(y=plt, x=df6$n+8, label=df6$n, pos=2, cex=0.8, col='blue')
 
 ## Movies per Country
 
-Most movies I see are from Hollywood, but let's check how other countries are represented:
+```{r, warning=FALSE, echo=FALSE}
+df %>% 
+  filter(Rate >= 7) %>% 
+  filter (Country=='USA') -> df.us
+```
 
-```{r, fig.width=14, fig.height=10, warning=FALSE, echo=FALSE}
+Hollywood is highly represented with a current total of `r nrow(df.us)` American movies. Let's check how other countries are represented:
+
+```{r, fig.width=14, fig.height=12, warning=FALSE, echo=FALSE}
 df %>% 
   filter(Rate >= 7) %>% 
   filter (Country!='USA') %>% 
@@ -403,7 +409,7 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,16+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+5, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+5.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## All rated movies on Imdb
