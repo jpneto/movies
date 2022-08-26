@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Nope;2022;USA;Horror;tt10954984;8;nm1443502;Jordan Peele
 Decision to Leave;2022;South Korea;Crime;tt12477480;7.25;nm0661791;Chan-wook Park
 Bull;2021;UK;Thriller;tt13266998;7.75;nm1440314;Paul Andrew Williams
 Prey;2022;USA;Action;tt11866324;7.75;tt11866324;Dan Trachtenberg
@@ -74,7 +75,7 @@ His House;2020;UK;Horror;tt8508734;7.5;nm3676311;Remi Weekes
 Mangrove;2020;UK;Historical;tt10551100;9;nm2588606;Steve McQueen
 The Swordsman;2020;South Korea;Action;tt7035004;7.25;nm9075613;Jae-Hoon Choi
 Nomadland;2020;USA;Drama;tt9770150;7.25;nm2125482;Chloé Zhao
-Us;2019;USA;Horror;tt6857112;7;nm1443502;Jordan Peele
+Us;2019;USA;Horror;tt6857112;7.5;nm1443502;Jordan Peele
 Avengers: Endgame;2019;USA;Action;tt4154796;7;nm0751577;Anthony Russo
 Uncut Gems;2019;USA;Thriller;tt5727208;7;nm1509478;Safdie Brothers
 Light of My Life;2019;USA;Dystopia;tt6063090;8;nm0000729;Casey Affleck
@@ -1759,7 +1760,7 @@ La Caza;1966;Spain;Drama;tt0060223;8;nm0767022;Carlos Saura
 Le Deuxième Souffle;1966;France;Crime;tt0060305;9;nm0578483;Jean-Pierre Melville
 How to Steal a Million;1966;USA;Comedy;tt0060522;8;nm0943758;William Wyler
 Mademoiselle;1966;UK;Drama;tt0060648;9.5;nm0724798;Tony Richardson
-The Trap;1966;UK;Adventure;tt0061115;8;nm0370868;Sidney Hayers
+The Trap;1966;UK;Action;tt0061115;8;nm0370868;Sidney Hayers
 The Round-Up;1966;Hungary;War;tt0059776;7.25;nm0417352;Miklós Jancsó
 The Red Angel;1966;Japan;War;tt0139820;9;nm0557945;Yasuzô Masumura
 Incompreso;1966;Italy;Drama;tt0060538;8;nm0173728;Luigi Comencini
@@ -1768,3 +1769,13 @@ Nevada Smith;1966;USA;Western;tt0060748;7;nm0368871;Henry Hathaway
 Un Homme et Une Femme;1966;France;Drama;tt0061138;7.5;nm0500988;Claude Lelouch
 Nayak, The Hero;1966;India;Drama;tt0060742;8;nm0006249;Satyajit Ray
 Gambit;1966;USA;Comedy;tt0060445;7.5;nm0623768;Ronald Neame
+Faraon;1966;Poland;Historical;tt0060401;8.25;nm0442819;Jerzy Kawalerowicz
+La Ligne de Démarcation;1966;France;War;tt0060630;7.25;nm0001031;Claude Chabrol
+L'Armata Brancaleone;1966;Italy;Comedy;tt0060125;8;nm0598102;Mario Monicelli
+Paris Brûle-t-il?;1966;France;Historical;tt0060814;7.5;nm0167496;René Clément
+Carriage to Vienna;1966;Czechoslovakia;War;tt0060597;8;nm0434189;Karel Kachyna
+The Dacians;1966;Romania;Historical;tt0060482;7.5;nm0630197;Sergiu Nicolaescu
+Adauchi, Revenge;1966;Japan;Samurai;tt0185842;8.25;nm0408033;Tadashi Imai
+The Caretaker;1963;UK;Drama;tt0058164;7;nm0232795;Clive Donner
+Sult;1966;Denmark;Drama;tt0061042;8;nm0137830;Henning Carlsen
+Bushido;1963;Japan;Samurai;tt0055816;8.5;nm0408033;Tadashi Imai

@@ -18,12 +18,22 @@ knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(magrittr)
 ```
+```{r, echo=FALSE, message=FALSE, warning=FALSE, results='hide'}
+movie.emote    <- utf8::utf8_print('\U0001F3A5')
+director.emote <- utf8::utf8_print('\U0001F3AC')
+```
 
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 df <- read.csv2('best_movies_info.csv', encoding='UTF-8')
 df$Score <- as.numeric(df$Score)
-df$link <- paste0('<a href="https://www.imdb.com/title/', df$IMDB, '" target="_blank">imdb</a>')
+
+# df$link <- paste0('<a href="https://www.imdb.com/title/', df$IMDB, '" target="_blank">imdb</a>')
+
+# df$link.director <- paste0('<a href="https://www.imdb.com/filmosearch/?role=',df$directors,'&ref_=filmo_ref_job_typ&mode=detail&page=1&title_type=movie&sort=moviemeter,asc&job_type=director" target="_blank">',df$primaryName,'</a>')
+
+df$links <- paste0('<a href="https://www.imdb.com/title/', df$IMDB, '" target="_blank">',movie.emote,'</a><a href="https://www.imdb.com/filmosearch/?role=',df$directors,'&ref_=filmo_ref_job_typ&mode=detail&page=1&title_type=movie&sort=moviemeter,asc&job_type=director" target="_blank">',director.emote,'</a>')
+
 df %>% 
   rename(Rate = Score) %>% 
   rename(Director = primaryName) %>% 
@@ -86,7 +96,7 @@ df$Decade <- sapply(df$Year, toDecade)
 df.join <- left_join(df, df.imdb2, by=c("IMDB"="IMDB"))
 df.join %>% 
   select(-IMDB) %>% 
-  select(Title,Year,Decade,Country,Genre,Time,Rate,Imdb,Votes,Director,link) -> df
+  select(Title,Year,Decade,Country,Genre,Time,Rate,Imdb,Votes,Director,links) -> df
 ```
 
 This table includes movies I think have a higher than average quality in either plot, main themes and overall cinematography. This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
@@ -312,7 +322,7 @@ plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director,
 text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
 ```
 
-And finally who made the masterpieces (>=9.5),
+And, finally, who made the masterpieces (≥9.5),
 
 ```{r, fig.width=14, fig.height=10, echo=FALSE}
 df %>% 
@@ -386,7 +396,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+8, label=df6$n, pos=2, cex=0.8, col='blue')
+text(y=plt, x=df6$n+9, label=df6$n, pos=2, cex=0.8, col='blue')
 ```
 
 ## Movies per Country
@@ -429,7 +439,7 @@ df.imdb %>%
   select(-Date.Rated) %>% 
   select(Title,Date,Genres,Time,Directors,Rate,Imdb,Votes) -> df.imdb3
 
-df.imdb3$link <- paste0('<a href="', df.imdb$URL, '" target="_blank">imdb</a>')
+df.imdb3$link <- paste0('<a href="', df.imdb$URL, '" target="_blank">',movie.emote,'</a>')
 
 DT::datatable(df.imdb3, escape=FALSE) 
 ```
