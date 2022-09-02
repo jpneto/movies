@@ -1,4 +1,9 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Resurrection;2022;USA;Horror;tt11540726;7.5;nm1187064;Andrew Semans 
+Hit the Road;2021;Iran;Drama;tt14812782;8.25;nm9824984;Panah Panahi
+Broker;2022;South Korea;Drama;tt13056052;7;nm0466153;Hirokazu Koreeda
+Great Freedom;2021;Germany;Drama;tt14775784;8;nm2098964;Sebastian Meise
+Vortex;2021;France;Drama;tt14821150;7.5;nm0637615;Gaspar Noé
 Nope;2022;USA;Horror;tt10954984;8;nm1443502;Jordan Peele
 Decision to Leave;2022;South Korea;Crime;tt12477480;7.25;nm0661791;Chan-wook Park
 Bull;2021;UK;Thriller;tt13266998;7.75;nm1440314;Paul Andrew Williams
@@ -829,7 +834,7 @@ Anne of the Thousand Days;1969;UK;Historical;tt0064030;7.75;nm0418986;Charles Ja
 Le Boucher;1970;France;Thriller;tt0064106;7.5;nm0001031;Claude Chabrol
 Fahrenheit 451;1966;UK;Dystopia;tt0060390;8.25;nm0000076;François Truffaut
 Fantastic Voyage;1966;USA;SciFi;tt0060397;7.5;nm0281507;Richard Fleischer
-La Battaglia di Algeri;1966;Algeria;Historical;tt0058946;9;nm0690597;Gillo Pontecorvo
+La Battaglia di Algeri;1966;Algeria;Historical;tt0058946;9.25;nm0690597;Gillo Pontecorvo
 The Hill;1965;UK;War;tt0059274;8.75;nm0001486;Sidney Lumet
 The Sound of Music;1965;USA;Musical;tt0059742;8;nm0936404;Robert Wise
 Alphaville;1965;France;Crime;tt0058898;7;nm0000419;Jean-Luc Godard
@@ -1464,7 +1469,7 @@ The Magdalene Sisters;2002;Ireland;Historical;tt0318411;7.75;nm0611932;Peter Mul
 Knife in the Water;1962;Poland;Drama;tt0056291;7;nm0000591;Roman Polanski
 Pressure Point;1962;USA;Drama;tt0056370;7.5;nm0180369;Hubert Cornfield
 Air Doll;2019;Japan;Fantasy;tt1371630;8.5;nm0466153;Hirokazu Koreeda
-Le Fils;2002;France;Drama;tt0291172;8;nm0201094;Jean-Pierre Dardenne
+Le Fils;2002;Belgium;Drama;tt0291172;8;nm0201094;Jean-Pierre Dardenne
 Polytechnique;2009;Canada;Historical;tt1194238;7.75;nm0898288;Denis Villeneuve
 Sideways;2004;USA;Comedy;tt0375063;8;nm0668247;Alexander Payne
 Il Sorpasso;1962;Italy;Comedy;tt0056512;8.5;nm0728271;Dino Risi
@@ -1639,7 +1644,7 @@ Monsoon Wedding;2001;India;Drama;tt0265343;8;nm0619762;Mira Nair
 Salaam Bombay!;1988;India;Drama;tt0096028;8.75;nm0619762;Mira Nair
 The Lunchbox;2013;India;Drama;tt2350496;8.25;nm3592235;Ritesh Batra
 Vale Abraão;1993;Portugal;Drama;tt0108471;7.25;nm0210701;Manoel de Oliveira
-The Kid on the Bike;2011;France;Drama;tt1827512;7.5;nm0201094;Jean-Pierre Dardenne
+The Kid on the Bike;2011;Belgium;Drama;tt1827512;7.5;nm0201094;Jean-Pierre Dardenne
 Black Friday;2004;India;Historical;tt0400234;8.5;nm0440604;Anurag Kashyap
 Gett;2014;Israel;Drama;tt3062880;8.75;nm0253813;Ronit Elkabetz
 I've Loved You for so Long;2008;France;Drama;tt1068649;8;nm1061623;Philippe Claudel
@@ -1744,7 +1749,7 @@ La Religieuse;1966;France;Drama;tt0060891;9;nm0729626;Jacques Rivette
 Young Torless;1966;Germany;Drama;tt0060574;8;nm0772522;Volker Schlöndorff
 Watch out for the Automobile;1966;Russia;Comedy;tt0060161;7.25;nm0752922;Eldar Ryazanov
 La Grande Vadrouille;1966;France;Comedy;tt0060474;7;nm0653620;Gérard Oury
-Who's Afraid of Virginia Woolf?;1966;USA;Drama;tt0061184;9.5;nm0001566;Mike Nichols
+Who's Afraid of Virginia Woolf?;1966;USA;Drama;tt0061184;9.25;nm0001566;Mike Nichols
 The Wild Pear Tree;2018;Turkey;Drama;tt6628102;8.5;nm0149196;Nuri Bilge Ceylan
 Andrei Rublev;1966;Russia;Historical;tt0060107;8.25;nm0001789;Andrei Tarkovsky
 The Big Gundown;1967;Italy;Western;tt0063501;7.75;nm0813177;Sergio Sollima
@@ -1777,5 +1782,23 @@ Carriage to Vienna;1966;Czechoslovakia;War;tt0060597;8;nm0434189;Karel Kachyna
 The Dacians;1966;Romania;Historical;tt0060482;7.5;nm0630197;Sergiu Nicolaescu
 Adauchi, Revenge;1966;Japan;Samurai;tt0185842;8.25;nm0408033;Tadashi Imai
 The Caretaker;1963;UK;Drama;tt0058164;7;nm0232795;Clive Donner
-Sult;1966;Denmark;Drama;tt0061042;8;nm0137830;Henning Carlsen
+Sult;1966;Denmark;Drama;tt0061042;8.5;nm0137830;Henning Carlsen
 Bushido;1963;Japan;Samurai;tt0055816;8.5;nm0408033;Tadashi Imai
+My Way Home;1965;Hungary;War;tt0058787;7.5;nm0417352;Miklós Jancsó
+La Vieille Dame Indigne;1965;France;Drama;tt0059875;7.5;nm0021392;René Allio
+Danza Macabra;1964;Italy;Horror;tt0057993;7.25;nm0546672;Antonio Margheriti
+Foxtrot;2017;Israel;Drama;tt6896536;7.75;nm1413443;Samuel Maoz
+Bloody Sunday;2002;Ireland;Historical;tt0280491;8.5;nm0339030;Paul Greengrass
+L'Enfant;2005;Belgium;Drama;tt0456396;8;nm0201094;Jean-Pierre Dardenne
+Deux Jours, Une Nuit;2014;Belgium;Drama;tt2737050;8.75;nm0201094;Jean-Pierre Dardenne
+As Mil e Uma Noites vol.I;2015;Portugal;Drama;tt3284178;7.5;nm0326937;Miguel Gomes
+Visaaranai;2015;India;Drama;tt4991384;8.25;nm4274575;Vetrimaaran
+As Mil e Uma Noites vol.II;2015;Portugal;Drama;tt4692234;7.5;nm0326937;Miguel Gomes
+The Chase;1966;USA;Drama;tt0060232;8;nm0671957;Arthur Penn
+Sanbul;1967;South Korea;War;tt0328354;7;nm0453678;Kim Soo-yong
+The Taste of Tea;2004;Japan;Comedy;tt0413893;8;nm0411002;Katsuhito Ishii
+1987, When the Day Comes;2017;South Korea;Historical;tt6493286;7.75;nm2287741;Joon-Hwan Jang
+Hatari!;1962;USA;Comedy;tt0056059;7;nm0001328;Howard Hawks
+The Road Home;1999;China;Drama;tt0235060;7.75;nm0955443;Yimou Zhang
+A Wednesday;2008;India;Thriller;tt1280558;7.75;nm3109770;Neeraj Pandey
+Marathon;2005;South Korea;Drama;tt0448621;8;nm1924976;Yoon-Chul Jung
