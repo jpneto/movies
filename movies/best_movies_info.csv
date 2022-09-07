@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Jai Bhim;2021;India;Politics;tt15097216;8.5;nm4377096;T.J. Gnanavel
+Fall;2022;USA;Thriller;tt15325794;7;nm1470993;Scott Mann
 Resurrection;2022;USA;Horror;tt11540726;7.5;nm1187064;Andrew Semans 
 Hit the Road;2021;Iran;Drama;tt14812782;8.25;nm9824984;Panah Panahi
 Broker;2022;South Korea;Drama;tt13056052;7;nm0466153;Hirokazu Koreeda
@@ -791,7 +793,7 @@ Z;1969;France;Drama;tt0065234;8.5;nm0002020;Costa-Gavras
 Take the Money and Run;1969;USA;Comedy;tt0065063;7.25;nm0000095;Woody Allen
 THX 1138;1971;USA;Dystopia;tt0066434;7;nm0000184;George Lucas
 2001, A Space Odissey;1968;USA;SciFi;tt0062622;9.75;nm0000040;Stanley Kubrick
-Bullit;1968;USA;Crime;tt0062765;7.75;nm0946811;Peter Yates
+Bullitt;1968;USA;Crime;tt0062765;7.75;nm0946811;Peter Yates
 Once Upon a Time in the West;1968;Italy;Western;tt0064116;9.5;nm0001466;Sergio Leone
 Rosemary's baby;1968;USA;Horror;tt0063522;8.5;nm0000591;Roman Polanski
 Planet of the Apes;1968;USA;Dystopia;tt0063442;7.5;nm0769874;Franklin J. Schaffner
@@ -1802,3 +1804,15 @@ Hatari!;1962;USA;Comedy;tt0056059;7;nm0001328;Howard Hawks
 The Road Home;1999;China;Drama;tt0235060;7.75;nm0955443;Yimou Zhang
 A Wednesday;2008;India;Thriller;tt1280558;7.75;nm3109770;Neeraj Pandey
 Marathon;2005;South Korea;Drama;tt0448621;8;nm1924976;Yoon-Chul Jung
+King of Masks;1996;China;Drama;tt0115669;7.75;nm0943177;Tian-Ming Wu
+Always;2011;South Korea;Drama;tt2082180;7.5;nm0814271;Il-gon Song
+Happy Hour;2015;Japan;Drama;tt4780662;8;nm3152327;Ryûsuke Hamaguchi
+War and Peace III;1967;Russia;War;tt0062455;7;nm0094083;Sergey Bondarchuk
+War and Peace IV;1967;Russia;War;tt0062456;7;nm0094083;Sergey Bondarchuk
+Anna Karenina;1967;Russia;Drama;tt0061359;7.25;nm0953516;Aleksandr Zarkhi
+Mouchette;1967;France;Drama;tt0061996;7;nm0000975;Robert Bresson
+La Collectionneuse;1967;France;Drama;tt0061495;7.5;nm0006445;Éric Rohmer
+Games;1967;USA;Thriller;tt0061696;7.25;nm0364252;Curtis Harrington
+Robbery;1967;UK;Crime;tt0062207;7.25;nm0946811;Peter Yates
+A Ciascuno il Suo;1967;Italy;Crime;tt0061320;7.5;nm0677880;Elio Petri
+The Firemen's Ball;1967;Czechoslovakia;Comedy;tt0061781;7;nm0001232;Milos Forman
