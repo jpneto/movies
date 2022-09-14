@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+3000 Years of Longing;2022;Australia;Fantasy;tt9198364;8.75;nm0004306;George Miller
+The Cathedral;2021;USA;Drama;tt13658076;7;nm4818880;Ricky D'Ambrose
 Jai Bhim;2021;India;Politics;tt15097216;8.5;nm4377096;T.J. Gnanavel
 Fall;2022;USA;Thriller;tt15325794;7;nm1470993;Scott Mann
 Resurrection;2022;USA;Horror;tt11540726;7.5;nm1187064;Andrew Semans 
@@ -1065,7 +1067,7 @@ Throne of Blood;1957;Japan;Samurai;tt0050613;8.75;nm0000041;Akira Kurosawa
 The Deadly Affair;1967;UK;Thriller;tt0061556;7.25;nm0001486;Sidney Lumet
 Onibaba;1964;Japan;Horror;tt0058430;9;nm0793881;Kaneto Shindô
 The Manchurian Candidate;1962;USA;Thriller;tt0056218;8.75;nm0001239;John Frankenheimer
-Persona;1966;Sweden;Drama;tt0060827;8;nm0000005;Ingmar Bergman
+Persona;1966;Sweden;Drama;tt0060827;8.25;nm0000005;Ingmar Bergman
 Lolita;1962;USA;Drama;tt0056193;7.75;nm0000040;Stanley Kubrick
 Le Doulos;1962;France;Crime;tt0054821;7.75;nm0578483;Jean-Pierre Melville
 The Tale of Zatoichi;1962;Japan;Samurai;tt0056714;8.5;nm0593014;Kenji Misumi
@@ -1270,7 +1272,7 @@ L'enfant Sauvage;1970;France;Drama;tt0064285;7.5;nm0000076;François Truffaut
 Ouija: Origin of Evil;2016;USA;Horror;tt4361050;7.5;nm1093039;Mike Flanagan
 Walkabout;1971;Australia;Drama;tt0067959;7.25;nm0001676;Nicolas Roeg
 The American Friend;1977;Germany;Crime;tt0075675;7;nm0000694;Wim Wenders
-L'innocente;1976;Italy;Drama;tt0074686;7.75;nm0899581;Luchino Visconti
+L'Innocente;1976;Italy;Drama;tt0074686;7.75;nm0899581;Luchino Visconti
 Alice Doesn't Live Here Anymore;1974;USA;Drama;tt0071115;7.75;nm0000217;Martin Scorsese
 Scenes from a Marriage;1974;Sweden;Drama;tt6725014;9.25;nm0000005;Ingmar Bergman
 Black Christmas;1974;USA;Horror;tt0071222;7.25;nm0163706;Bob Clark
@@ -1816,3 +1818,16 @@ Games;1967;USA;Thriller;tt0061696;7.25;nm0364252;Curtis Harrington
 Robbery;1967;UK;Crime;tt0062207;7.25;nm0946811;Peter Yates
 A Ciascuno il Suo;1967;Italy;Crime;tt0061320;7.5;nm0677880;Elio Petri
 The Firemen's Ball;1967;Czechoslovakia;Comedy;tt0061781;7;nm0001232;Milos Forman
+Face to Face;1967;Italy;Western;tt0061636;8;nm0813177;Sergio Sollima
+Japan's Longest Day;1967;Japan;Historical;tt0062041;8.75;nm0645477;Kihachi Okamoto
+In Cold Blood;1967;USA;Crime;tt0061809;9;nm0112218;Richard Brooks
+Marketa Lazarová;1967;Czechoslovakia;Drama;tt0063278;8;nm0900712;Frantisek Vlácil
+The Dirty Dozen;1967;USA;War;tt0061578;7.75;nm0000736;Robert Aldrich
+Who's that Knocking at My Door;1967;USA;Drama;tt0063803;7.25;nm0000217;Martin Scorsese
+Lo Straniero;1967;Italy;Drama;tt0062310;7.25;nm0899581;Luchino Visconti
+The Night of the Generals;1967;UK;Crime;tt0062038;7.5;nm0514822;Anatole Litvak
+The Graduate;1967;USA;Comedy;tt0061722;8;nm0001566;Mike Nichols
+The One-Armed Swordsman;1967;Hong Kong;Action;tt0061597;7.25;nm0151653;Cheh Chang
+Dragon Inn;1967;Taiwan;Action;tt0060635;8.25;nm0002254;King Hu
+Edipo Re;1967;Italy;Drama;tt0061613;8.25;nm0001596;Pier Paolo Pasolini
+The Producers;1967;USA;Comedy;tt0063462;8.25;nm0000316;Mel Brooks
