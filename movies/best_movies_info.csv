@@ -1,4 +1,15 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Fresh;2022;USA;Horror;tt13403046;7;nm6470216;Mimi Cave
+The Worst Person in the World;2021;Norway;Drama;tt10370710;7;nm1258686;Joachim Trier
+Vesper;2021;France;SciFi;tt20225374;7.75;nm3043504;Kristina Buozyte
+Spencer;2021;UK;Drama;tt12536294;8;nm1883257;Pablo Larraín
+Pleasure;2021;Sweden;Drama;tt8550054;8;nm5679126;Ninja Thyberg
+Top Gun: Maverick;2022;USA;Action;tt1745960;7.5;nm2676052;Joseph Kosinski
+Rise Roar Revolt;2022;India;Action;tt8178634;8.5;nm1442514;S.S. Rajamouli
+The Kashmir Files;2022;India;Politics;tt10811166;8.25;nm1892252;Vivek Agnihotri
+Athena;2022;France;Politics;tt15445056;8;nm0310615;Romain Gavras
+Saloum;2022;Senegal;Horror;tt10756184;7.5;nm2699094;Jean Luc Herbulot 
+Bodies Bodies Bodies;2022;USA;Comedy;tt8110652;7.5;nm0717603;Halina Reijn
 Speak no Evil;2022;Denmark;Horror;tt14253846;7.75;nm0846369;Christian Tafdrup
 3000 Years of Longing;2022;Australia;Fantasy;tt9198364;8.75;nm0004306;George Miller
 The Cathedral;2021;USA;Drama;tt13658076;7;nm4818880;Ricky D'Ambrose
@@ -800,7 +811,7 @@ Bullitt;1968;USA;Crime;tt0062765;7.75;nm0946811;Peter Yates
 Once Upon a Time in the West;1968;Italy;Western;tt0064116;9.5;nm0001466;Sergio Leone
 Rosemary's baby;1968;USA;Horror;tt0063522;8.5;nm0000591;Roman Polanski
 Planet of the Apes;1968;USA;Dystopia;tt0063442;7.5;nm0769874;Franklin J. Schaffner
-Night of the Living Dead;1968;USA;Horror;tt0063350;7.5;nm0001681;George A. Romero
+Night of the Living Dead;1968;USA;Horror;tt0063350;7.75;nm0001681;George A. Romero
 The Lion in the Winter;1968;UK;Historical;tt0063227;8;nm0367431;Anthony Harvey
 Faces;1968;USA;Drama;tt0062952;7.5;nm0001023;John Cassavetes
 Targets;1968;USA;Thriller;tt0063671;7.5;nm0000953;Peter Bogdanovich
@@ -813,7 +824,7 @@ Bonnie and Cyde;1967;USA;Thriller;tt0061418;8;nm0671957;Arthur Penn
 Cool Hand Luke;1967;USA;Drama;tt0061512;8.25;nm0742341;Stuart Rosenberg
 Dance of the Vampires;1967;USA;Comedy;tt0061655;7;nm0000591;Roman Polanski
 Le Samourai;1967;France;Crime;tt0062229;8;nm0578483;Jean-Pierre Melville
-The Incident;1967;USA;Thriller;tt0061814;7.75;nm0670282;Larry Peerce
+The Incident;1967;USA;Thriller;tt0061814;8;nm0670282;Larry Peerce
 La vingt-cinquiéme heure;1967;France;War;tt0062445;8.5;nm0894577;Henri Verneuil
 The Long Good Friday;1980;UK;Thriller;tt0081070;7.75;nm0533334;John Mackenzie
 Babette's Feast;1987;Denmark;Drama;tt0092603;8.25;nm0002196;Gabriel Axel
@@ -1169,7 +1180,7 @@ Monster's Ball;2001;USA;Drama;tt0285742;7.5;nm0286975;Marc Forster
 Leaving Las Vegas;1995;USA;Drama;tt0113627;7.5;nm0001214;Mike Figgis
 The Princess Bride;1987;USA;Fantasy;tt0093779;8.25;nm0001661;Rob Reiner
 Cromwell;1970;UK;Historical;tt0065593;7.5;nm0400731;Ken Hughes
-Stand by Me;1986;USA;Drama;tt0092005;7.75;nm0001661;Rob Reiner
+Stand by Me;1986;USA;Drama;tt0092005;8;nm0001661;Rob Reiner
 La Grande Bouffe;1973;France;Drama;tt0070130;7.5;nm0274659;Marco Ferreri
 Il Deserto dei Tartari;1976;Italy;War;tt0074400;7.5;nm0958801;Valerio Zurlini
 The Cassandra Crossing;1976;UK;Thriller;tt0074292;7;nm0181902;George P. Cosmatos
@@ -1267,7 +1278,7 @@ L'histoire de Adèle H.;1975;France;Drama;tt0073114;7.5;nm0000076;François Truf
 Coming Home;1978;USA;Drama;tt0077362;7.75;nm0000797;Hal Ashby
 The King of Comedy;1982;USA;Crime;tt0085794;8.5;nm0000217;Martin Scorsese
 Big Jake;1971;USA;Western;tt0066831;7;nm0792450;George Sherman
-The Wishing Tree;1976;Russia;Drama;tt0075963;8;nm0002156;Tengiz Abuladze
+The Wishing Tree;1976;Georgia;Drama;tt0075963;8;nm0002156;Tengiz Abuladze
 L'argent de Poche;1976;France;Drama;tt0074152;7.25;nm0000076;François Truffaut
 L'enfant Sauvage;1970;France;Drama;tt0064285;7.5;nm0000076;François Truffaut
 Ouija: Origin of Evil;2016;USA;Horror;tt4361050;7.5;nm1093039;Mike Flanagan
@@ -1833,7 +1844,7 @@ Dragon Inn;1967;Taiwan;Action;tt0060635;8.25;nm0002254;King Hu
 Edipo Re;1967;Italy;Drama;tt0061613;8.25;nm0001596;Pier Paolo Pasolini
 The Producers;1967;USA;Comedy;tt0063462;8.25;nm0000316;Mel Brooks
 Hombre;1967;USA;Western;tt0061770;8.5;nm0728688;Martin Ritt
-The Red and the White;1967;Hungary;War;tt0061537;7.75;nm0417352;Miklós Jancsó
+The Red and the White;1967;Hungary;War;tt0061537;8.25;nm0417352;Miklós Jancsó
 The Wife of Seishu Hanaoka;1967;Japan;Drama;tt0140093;7.25;nm0557945;Yasuzô Masumura
 Marat Sade;1967;UK;Politics;tt0060668;8.5;nm0111656;Peter Brook
 Death Rides a Horse;1967;Italy;Western;tt0064208;7.25;nm0678101;Giulio Petroni
@@ -1841,6 +1852,7 @@ The Two of Us;1967;France;Drama;tt0063771;8.25;nm0001945;Claude Berri
 Komissar;1967;Russia;War;tt0061876;7.75;nm0039487;Aleksandr Askoldov
 Quién Sabe?;1967;Italy;Western;tt0061429;7;nm0198765;Damiano Damiani
 Privilege;1967;UK;Dystopia;tt0062155;7.5;nm0914386;Peter Watkins
+Wait Until Dark;1967;USA;Thriller;tt0062467;8;nm0950109;Terence Young
 Belle de Jour;1967;France;Drama;tt0061395;8.25;nm0000320;Luis Buñuel
 Les Demoiselles de Rochefort;1967;France;Musical;tt0062873;8;nm0218840;Jacques Demy
 To Sir, with Love;1967;UK;Drama;tt0062376;7.5;nm0165412;James Clavell
@@ -1852,3 +1864,36 @@ Station Six Sahara;1967;UK;Drama;tt0057527;7;nm0392519;Seth Holt
 O Caso dos Irmãos Naves;1967;Brazil;Historical;tt0139927;8;nm0675502;Luiz Sérgio Person
 Guess Who's Coming to Dinner;1967;USA;Drama;tt0061735;7.75;nm0006452;Stanley Kramer
 Fort Graveyard;1965;Japan;War;tt0057941;7.25;nm0645477;Kihachi Okamoto
+A View from the Bridge;1962;Italy;Drama;tt0056668;7.75;nm0001486;Sidney Lumet
+The Outrage;1964;USA;Western;tt0058437;7.5;nm0728688;Martin Ritt
+Sands of the Kalahari;1965;UK;Action;tt0059675;7.75;nm0256831;Cy Endfield
+Uptight;1968;USA;Crime;tt0063748;7.75;nm0202088;Jules Dassin
+The Swimmer;1968;USA;Drama;tt0063663;8.5;nm0675068;Frank Perry
+The Corporal and the Others;1965;Hungary;Comedy;tt0059812;7.75;nm0445454;Márton Keleti
+La Chinoise;1967;France;Politics;tt0061473;7;nm0000419;Jean-Luc Godard
+Le Corniaud;1965;France;Comedy;tt0057967;7.25;nm0653620;Gérard Oury
+Me, Grandma, Iliko and Ilarion;1965;Georgia;Drama;tt0057695;7.75;nm0002156;Tengiz Abuladze
+Hour of the Wolf;1968;Sweden;Horror;tt0063759;7.75;nm0000005;Ingmar Bergman
+Black Cat;1968;Japan;Horror;tt0122136;8.5;nm0793881;Kaneto Shindô
+King Rat;1965;USA;War;tt0059358;8;nm0285302;Bryan Forbes
+Witchfinder General;1968;UK;Horror;tt0063285;7.5;nm0716262;Michael Reeves
+Valley of the Bees;1968;Czechoslovakia;Drama;tt0122770;8.5;nm0900712;Frantisek Vlácil
+The Devil Rides Out;1968;UK;Horror;tt0062885;7.75;nm0279807;Terence Fisher
+The Boston Strangler;1968;USA;Crime;tt0062755;7.5;nm0281507;Richard Fleischer
+Mandabi;1968;Senegal;Drama;tt0063268;7.25;nm0783733;Ousmane Sembene
+L'enfance Nue;1968;France;Drama;tt0065695;7.5;nm0681207;Maurice Pialat
+Hymn to a Tired Man;1968;Japan;Drama;tt0134849;7.75;nm0462030;Masaki Kobayashi
+Hasta el Viento Tiene Miedo;1968;Mexico;Horror;tt0061752;7.25;nm0846010;Carlos Enrique Taboada
+The Boys of Paul Street;1968;Hungary;Drama;tt0062164;7.25;nm0299586;Zoltán Fábri
+La Mariée Était en Noir;1968;France;Crime;tt0061955;7.25;nm0000076;François Truffaut
+Oliver!;1968;UK;Musical;tt0063385;7.25;nm0715346;Carol Reed
+The Human Bullet;1968;Japan;War;tt0175755;8;nm0645477;Kihachi Okamoto
+Romeo and Juliet;1968;UK;Drama;tt0063518;8;nm0001874;Franco Zeffirelli
+Where Eagles Dare;1968;UK;War;tt0065207;8.25;nm0404606;Brian G. Hutton
+Shame;1968;Sweden;War;tt0063611;8.75;nm0000005;Ingmar Bergman
+Il Grande Silenzio;1968;Italy;Western;tt0063032;7.75;nm0179281;Sergio Corbucci
+Charly;1968;USA;SciFi;tt0062794;7;nm0625680;Ralph Nelson
+The Scalphunters;1968;USA;Western;tt0063557;7.25;nm0001628;Sydney Pollack
+The Taming of the Shrew;1967;Italy;Comedy;tt0061407;7;nm0001874;Franco Zeffirelli
+Tobruk;1967;USA;War;tt0062377;7.25;nm0002137;Arthur Hiller
+The Detective;1968;USA;Crime;tt0062883;;nm0235066;Gordon Douglas

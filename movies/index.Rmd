@@ -286,8 +286,8 @@ mat <- matrix(df3$count, ncol=6, byrow=T)
 library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
-barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,375), col=brewer.pal(6, "Blues") )
-legend(.25, 350, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
+barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,500), col=brewer.pal(6, "Blues") )
+legend(.25, 400, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
 
