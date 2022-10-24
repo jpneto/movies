@@ -1,4 +1,8 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Terrifier 2;2022;USA;Horror;tt10403420;8;nm2093171;Damien Leone
+Halloween Ends;2022;USA;Horror;tt10665342;7;nm0337773;David Gordon Green
+Hellraiser;2022;USA;Horror;tt0887261;7;nm1410159;David Bruckner
+DeadStream;2022;USA;Horror;tt12788488;7.25;nm3234892;Joseph Winter
 Fresh;2022;USA;Horror;tt13403046;7;nm6470216;Mimi Cave
 The Worst Person in the World;2021;Norway;Drama;tt10370710;7;nm1258686;Joachim Trier
 Vesper;2021;France;SciFi;tt20225374;7.75;nm3043504;Kristina Buozyte
@@ -1896,4 +1900,19 @@ Charly;1968;USA;SciFi;tt0062794;7;nm0625680;Ralph Nelson
 The Scalphunters;1968;USA;Western;tt0063557;7.25;nm0001628;Sydney Pollack
 The Taming of the Shrew;1967;Italy;Comedy;tt0061407;7;nm0001874;Franco Zeffirelli
 Tobruk;1967;USA;War;tt0062377;7.25;nm0002137;Arthur Hiller
-The Detective;1968;USA;Crime;tt0062883;;nm0235066;Gordon Douglas
+The Detective;1968;USA;Crime;tt0062883;8;nm0235066;Gordon Douglas
+The Odd Couple;1968;USA;Comedy;tt0063374;8.25;nm0757256;Gene Saks
+The Golden Calf;1968;Russia;Comedy;tt0063845;7.25;nm0796073;Mikhail Shvejtser
+The Fixer;1968;USA;Politics;tt0062977;8;nm0001239;John Frankenheimer
+Death by Hanging;1968;Japan;Drama;tt0063198;8;nm0651915;Nagisa Ôshima
+Three Poplars in Plyushchikhe St.;1968;Russia;Drama;tt0062393;8;nm0513400;Tatyana Lioznova
+Adieu l'Ami;1968;France;Crime;tt0062639;7.25;nm0379150;Jean Herman
+The Heart is a Lonely Hunter;1968;USA;Drama;tt0063050;8.25;nm0589228;Robert Ellis Miller
+Un Tranquillo Posto di Campagna;1968;Italy;Drama;tt0065119;7.5;nm0677880;Elio Petri
+Kill;1968;Japan;Samurai;tt0063186;7.5;nm0645477;Kihachi Okamoto
+If....;1968;UK;Politics;tt0063850;8.25;nm0000755;Lindsay Anderson
+Memorias del Subdesarrollo;1968;Cuba;Politics;tt0063291;7.5;nm0349425;Tomás Gutiérrez Alea
+Two Comrades Serving;1968;Russia;War;tt0063615;7.75;nm0439149;Yevgeni Karelov
+Hell in the Pacific;1968;USA;War;tt0063056;7.75;nm0000958;John Boorman
+Profound Desires of the Gods;1968;Japan;Drama;tt0063173;8.5;nm0408076;Shôhei Imamura
+We'll Live Till Monday;1968;Russia;Drama;tt0062907;8;nm0744612;Stanislav Rostotskiy
