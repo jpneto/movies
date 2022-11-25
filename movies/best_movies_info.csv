@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Smile;2022;USA;Horror;tt15474916;7.5;nm6475689;Parker Finn
+The Woman King;2022;USA;War;tt8093700;7.75;nm0697656;Gina Prince-Bythewood
 Pearl;2022;USA;Horror;tt18925334;7.25;nm1488800;Ti West
 The Stranger;2022;Australia;Crime;tt11897478;7.25;nm0942876;Thomas M. Wright
 What Josiah Saw;2021;USA;Horror;tt3097396;7;nm1159083;Vincent Grashaw 
@@ -1093,7 +1095,7 @@ Le Doulos;1962;France;Crime;tt0054821;7.75;nm0578483;Jean-Pierre Melville
 The Tale of Zatoichi;1962;Japan;Samurai;tt0056714;8.5;nm0593014;Kenji Misumi
 The Sword of Doom;1966;Japan;Samurai;tt0060277;8.5;nm0645477;Kihachi Okamoto
 Kwaidan;1964;Japan;Horror;tt0058279;7.75;nm0462030;Masaki Kobayashi
-8½;1963;Italy;Drama;tt0056801;7;nm0000019;Federico Fellini
+8½;1963;Italy;Drama;tt0056801;7.25;nm0000019;Federico Fellini
 Cape Fear;1962;USA;Thriller;tt0055824;8.25;nm0496746;J. Lee Thompson
 La 317ème section;1965;France;War;tt0058863;7.75;nm0006954;Pierre Schoendoerffer
 The Night of the Iguana;1964;USA;Drama;tt0058404;8.25;nm0001379;John Huston
@@ -1401,7 +1403,7 @@ Tunes of Glory;1960;UK;Drama;tt0054412;7.5;nm0623768;Ronald Neame
 When a Woman Ascends the Stairs;1960;Japan;Drama;tt0054144;8.25;nm0621540;Mikio Naruse
 La Ciociara, Two Women;1960;Italy;Drama;tt0054749;8.75;nm0001120;Vittorio De Sica
 Lá Verité;1960;France;Crime;tt0054452;8.5;nm0167241;Henri-Georges Clouzot
-La Dolce Vita;1960;Italy;Drama;tt0053779;7;nm0000019;Federico Fellini
+La Dolce Vita;1960;Italy;Drama;tt0053779;7.5;nm0000019;Federico Fellini
 Kapò;1960;Italy;War;tt0052961;8;nm0690597;Gillo Pontecorvo
 The Young One;1960;Mexico;Drama;tt0053967;7.75;nm0000320;Luis Buñuel
 Devi, The Goddess;1960;India;Drama;tt0053765;8;nm0006249;Satyajit Ray
@@ -1929,3 +1931,25 @@ The Walled In;1969;Yoguslavia;Drama;tt0181180;8.5;nm0707604;Vojislav 'Kokan' Rak
 Blind Beast;1969;Japan;Horror;tt0140384;7.75;nm0557945;Yasuzô Masumura
 La Sirene du Mississipi;1969;France;Crime;tt0064990;8.25;nm0000076;François Truffaut
 The Sea Gull;1968;UK;Drama;tt0063569;7;nm0001486;Sidney Lumet
+La Femme Infidèle;1969;France;Crime;tt0064323;8.25;nm0001031;Claude Chabrol
+Goyokin;1969;Japan;Samurai;tt0064387;8.5;nm0331471;Hideo Gosha
+Une Femme Douce;1969;France;Drama;tt0065152;7.5;nm0001031;Claude Chabrol
+El Chacal de Nahueltoro;1969;Chile;Politics;tt0064147;7.75;nm0514493;Miguel Littin
+Hitokiri;1969;Japan;Samurai;tt0200710;7.5;nm0331471;Hideo Gosha
+The Cow;1969;Iran;Drama;tt0064356;8.5;nm0576529;Dariush Mehrjui
+The Witness;1969;Hungary;Politics;tt0065067;8.25;nm0045880;Péter Bacsó
+Kevade, Spring;1969;Estonia;Drama;tt0064542;7.25;nm0472937;Arvo Kruusement
+True Grit;1969;USA;Western;tt0065126;8.25;nm0368871;Henry Hathaway
+Al-Mummia;1969;Egypt;Drama;tt0064703;7.25;nm0008147;Chadi Abdel Salam
+Model Shop;1969;USA;Drama;tt0064679;7.25;nm0218840;Jacques Demy
+The Damned;1969;Italy;Drama;tt0064118;7.5;nm0899581;Luchino Visconti
+Last Summer;1969;USA;Drama;tt0064573;7;nm0675068;Frank Perry
+Double Suicide;1969;Japan;Drama;tt0064975;8.5;nm0793983;Masahiro Shinoda
+Satyricon;1969;Italy;Fantasy;tt0064940;7.5;nm0000019;Federico Fellini
+Topaz;1969;USA;Thriller;tt0065112;7;nm0000033;Alfred Hitchcock
+The Strange Thing About the Johnsons;2011;USA;Horror;tt1772398;8.25;nm4170048;Ari Aster
+Ma Nuit chez Maud;1969;France;Drama;tt0064612;8.75;nm0006445;Éric Rohmer
+Eros plus Massacre;1969;Japan;Drama;tt0064296;7.25;nm0948950;Yoshishige Yoshida
+The Passion of Anna;1969;Sweden;Drama;tt0064793;8.25;nm0000005;Ingmar Bergman
+Ådalen 31;1969;Sweden;Historical;tt0065261;7.5;nm0927090;Bo Widerberg
+The Joke;1969;Czechoslovakia;Drama;tt0065241;7.75;nm0423180;Jaromil Jires
