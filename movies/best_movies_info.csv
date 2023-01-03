@@ -1,4 +1,15 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Fallout;2021;USA;Drama;tt11847410;7.5;nm1177914;Megan Park
+Bones and All;2022;USA;Horror;tt10168670;8.25;nm0345174;Luca Guadagnino
+Glass Onion;2022;USA;Comedy;tt11564570;7.5;nm0426059;Rian Johnson
+A Quiet Girl;2022;Ireland;Drama;tt15109082;8;nm2128139;Colm Bairéad
+Nanny;2022;USA;Horror;tt10931784;7;nm2762302;Nikyatu Jusu
+Pinocchio;2022;USA;Fantasy;tt1488589;8.25;nm0868219;Guillermo del Toro
+Petite Maman;2021;France;Fantasy;tt13204490;7.5;nm1780037;Céline Sciamma
+Avatar: The Way of Water;2022;USA;Action;tt1630029;7.75;nm0000116;James Cameron
+Sagasu, Missing;2021;Japan;Crime;tt15482370;7.75;nm4293909;Shinzô Katayama
+The Banshees of Inisherin;2022;Ireland;Drama;tt11813216;8.25;nm1732981;Martin McDonagh
+Holy Spider;2022;Denmark;Thriller;tt18550140;7.75;nm4389150;Ali Abbasi
 Triangle of Sadness;2022;USA;Comedy;tt7322224;8.5;nm1128037;Ruben Östlund
 All Quiet on the Western Front;2022;Germany;War;tt1016150;8.25;nm0074163;Edward Berger
 Smile;2022;USA;Horror;tt15474916;7.5;nm6475689;Parker Finn
@@ -16,7 +27,7 @@ The Worst Person in the World;2021;Norway;Drama;tt10370710;7;nm1258686;Joachim T
 Vesper;2021;France;SciFi;tt20225374;7.75;nm3043504;Kristina Buozyte
 Spencer;2021;UK;Drama;tt12536294;8;nm1883257;Pablo Larraín
 Pleasure;2021;Sweden;Drama;tt8550054;8;nm5679126;Ninja Thyberg
-Top Gun: Maverick;2022;USA;Action;tt1745960;7.5;nm2676052;Joseph Kosinski
+Top Gun: Maverick;2022;USA;Action;tt1745960;8;nm2676052;Joseph Kosinski
 Rise Roar Revolt;2022;India;Action;tt8178634;8.5;nm1442514;S.S. Rajamouli
 The Kashmir Files;2022;India;Politics;tt10811166;8.25;nm1892252;Vivek Agnihotri
 Athena;2022;France;Politics;tt15445056;8;nm0310615;Romain Gavras
@@ -1975,3 +1986,6 @@ Alfie;1966;UK;Drama;tt0060086;7.5;nm0318150;Lewis Gilbert
 Hang 'Em High;1968;USA;Western;tt0061747;7.5;nm0692872;Ted Post
 Funny Girl;1969;USA;Musical;tt0062994;7.25;nm0943758;William Wyler
 Kes;1969;UK;Drama;tt0064541;8.5;nm0516360;Ken Loach
+The Seventh Juror;1962;France;Drama;tt0188195;8;nm0491626;Georges Lautner
+Akitsu Springs;1962;Japan;Drama;tt0055732;7.5;nm0948950;Yoshishige Yoshida
+Le Silence de Lorna;2008;Belgium;Drama;tt1186369;7.5;nm0201094;Jean-Pierre Dardenne
