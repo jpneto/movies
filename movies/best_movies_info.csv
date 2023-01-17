@@ -1,7 +1,11 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Red Post on Escher St;2020;Japan;Comedy;tt13245934;7.5;nm0814469;Sion Sono
+Sick;2022;USA;Horror;tt14642626;7;nm0404882;John Hyams
+There is no Evil;2020;Iran;Drama;tt11697844;8;nm1488024;Mohammad Rasoulof
+Bullet Train;2022;USA;Comedy;tt12593682;7;nm0500610;David Leitch
 The Pale Blue Eye;2022;USA;Crime;tt14138650;7.25;nm0178376;Scott Cooper
 Farha;2022;Jordan;Historical;tt11555492;8;nm4627221;Darin J. Sallam
-The Fabelmans;2022;USA;Drama;tt14208870;7;nm0000229;Steven Spielberg
+The Fabelmans;2022;USA;Drama;tt14208870;7.25;nm0000229;Steven Spielberg
 The Menu;2022;USA;Horror;tt9764362;7.5;nm0617042;Mark Mylod
 Argentina, 1985;2022;Argentina;Historical;tt15301048;8.25;nm1377207;Santiago Mitre
 Falls;2021;Taiwan;Drama;tt15119668;7.75;nm3010935;Mong-Hong Chung
@@ -2004,3 +2008,4 @@ The Devil's Trap;1962;Czechoslovakia;Drama;tt0054780;7.5;nm0900712;Frantisek Vl√
 Time to Love;1966;Turkey;Drama;tt0167400;8.25;nm0259499;Metin Erksan
 Ken;1964;Japan;Drama;tt0366668;7.5;nm0593014;Kenji Misumi
 Oh, Sun;1967;Mauritania;Politics;tt0062285;7.25;nm0393124;Med Hondo
+Strongroom;1962;UK;Thriller;tt0055484;8;nm0786607;Vernon Sewell

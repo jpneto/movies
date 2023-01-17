@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "2021, 2022"
+date: "2021--2023"
 output: html_document
 ---
 
@@ -286,7 +286,7 @@ mat <- matrix(df3$count, ncol=6, byrow=T)
 library(RColorBrewer)
 par(mar = c(2.5, 2.5, 1.5, 1.5))
 # https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/
-barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,500), col=brewer.pal(6, "Blues") )
+barplot(mat %>% t, names.arg=unique(df3$Decade), ylim=c(0,600), col=brewer.pal(6, "Blues") )
 legend(.25, 400, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')), 
        col=rev(brewer.pal(7, "Blues")), pch=15)
 ```
@@ -299,7 +299,7 @@ Let's check directors with multiple movies in the list,
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
-  filter(n>5) -> df4
+  filter(n>7) -> df4
 
 par(mar=c(1,11,1,6))
 plt <- barplot(df4$n, col='steelblue', horiz=TRUE, names.arg=df4$Director, 
@@ -419,7 +419,7 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,16+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+5.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+6.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## All rated movies on Imdb
