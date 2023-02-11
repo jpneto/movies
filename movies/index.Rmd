@@ -99,7 +99,9 @@ df.join %>%
   select(Title,Year,Decade,Country,Genre,Time,Rate,Imdb,Votes,Director,links) -> df
 ```
 
-This table includes movies I think have a higher than average quality in either plot, main themes and overall cinematography. This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
+This table includes movies I think have a higher than average quality in either plot, main themes and overall cinematography. I'll keep inserting recent movies at the top of the table, and older movies at the end of the table.
+
+This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
@@ -113,19 +115,62 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score`. The list of movies I wanted to see from 1970-2019 is (somewhat) complete. 
+Showing movies with a minimal rating of `r min.score` (blue) and the rest (orange). The list of movies I wanted to see from 1960-2019 is (somewhat) complete. 
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
   filter(Rate >= min.score) %>% 
   count(Year, sort=TRUE) %>% 
-  filter(Year >= 1970) %>%
+  filter(Year >= 1960) %>%
+  filter(Year < 1990) %>%
   arrange( Year ) -> df2
 
+df.imdb %>% 
+  count(Year) %>% 
+  filter(Year >= 1960) %>%
+  filter(Year < 1990) %>%
+  arrange(Year) -> df2.imdb
+
+data <- matrix(c(df2$n, df2.imdb$n-df2$n), nrow=2, byrow=TRUE)
+#data <- matrix(c(df2$n), nrow=1)
+
 par(mar=c(3,1,1,1))
-plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
-text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
+#plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color,
+#ylim=c(0,max(df2$n)*1.25), yaxt="n")
+
+plt <- barplot(data, names.arg=df2$Year, las=2, col=c(my.color, 'orange'),
+ ylim=c(0,110), yaxt="n")
+
+text(x=plt, y=df2$n,      label=df2$n,      pos=3, cex=0.8, col='blue')
+text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=3, cex=0.8, col='blue')
 ```
+
+```{r, fig.width=12, echo=FALSE, eval=TRUE}
+df %>% 
+  filter(Rate >= min.score) %>% 
+  count(Year, sort=TRUE) %>% 
+  filter(Year >= 1990) %>%
+  arrange( Year ) -> df2
+
+df.imdb %>% 
+  count(Year) %>% 
+  filter(Year >= 1990) %>%
+  arrange(Year) -> df2.imdb
+
+data <- matrix(c(df2$n, df2.imdb$n-df2$n), nrow=2, byrow=TRUE)
+#data <- matrix(c(df2$n), nrow=1)
+
+par(mar=c(3,1,1,1))
+#plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color,
+#ylim=c(0,max(df2$n)*1.25), yaxt="n")
+
+plt <- barplot(data, names.arg=df2$Year, las=2, col=c(my.color, 'orange'),
+ ylim=c(0,110), yaxt="n")
+
+text(x=plt, y=df2$n,      label=df2$n,      pos=3, cex=0.8, col='blue')
+text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=3, cex=0.8, col='blue')
+```
+
 
 There are hundreds still to see from the 1920s to the 1950s, and these are the respective wish-lists:
 
@@ -137,17 +182,7 @@ There are hundreds still to see from the 1920s to the 1950s, and these are the r
 
 + [wishlist from the 1950s](https://www.imdb.com/list/ls089830524/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=G8MGE7R65T5SR6M8362N&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
-```{r, fig.width=12, echo=FALSE, eval=TRUE}
-df %>% 
-  filter(Rate >= min.score) %>% 
-  count(Year, sort=TRUE) %>% 
-  filter(Year < 1970) %>%
-  arrange( Year ) -> df2
 
-par(mar=c(3,1,1,1))
-plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
-text(x=plt, y=df2$n, label=df2$n, pos=3, cex=0.8, col='blue')
-```
 
 ```{r, echo=FALSE, eval=FALSE}
 inputPanel(
@@ -170,8 +205,6 @@ output$g1 <- renderPlot({
 plotOutput("g1", height="400px")
 br()
 ```
-
-
 
 
 ```{r, echo=FALSE, eval=TRUE}
@@ -396,7 +429,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+9, label=df6$n, pos=2, cex=0.8, col='blue')
+text(y=plt, x=df6$n+12, label=df6$n, pos=2, cex=0.8, col='blue')
 ```
 
 ## Movies per Country

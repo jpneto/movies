@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Babylon;2022;USA;Drama;tt10640346;7.5;nm3227090;Damien Chazelle
+M3gan;2022;USA;Horror;tt8760708;7.75;nm2067421;Gerard Johnstone
 Possessor;2020;USA;SciFi;tt5918982;7.25;nm0188722;Brandon Cronenberg
 As Bestas;2022;Spain;Drama;tt15006566;8.25;nm2507695;Rodrigo Sorogoyen
 Otac, Father;2020;Serbia;Drama;tt9048802;8.75;nm0326740;Srdan Golubovic
@@ -862,6 +864,7 @@ Bonnie and Cyde;1967;USA;Thriller;tt0061418;8;nm0671957;Arthur Penn
 Cool Hand Luke;1967;USA;Drama;tt0061512;8.25;nm0742341;Stuart Rosenberg
 Dance of the Vampires;1967;USA;Comedy;tt0061655;7;nm0000591;Roman Polanski
 Le Samourai;1967;France;Crime;tt0062229;8;nm0578483;Jean-Pierre Melville
+My Fair Lady;1964;USA;Musical;tt0058385;7.5;nm0002030;George Cukor
 The Incident;1967;USA;Thriller;tt0061814;8;nm0670282;Larry Peerce
 La vingt-cinquiéme heure;1967;France;War;tt0062445;8.5;nm0894577;Henri Verneuil
 The Long Good Friday;1980;UK;Thriller;tt0081070;7.75;nm0533334;John Mackenzie
@@ -1414,7 +1417,7 @@ House of Usher;1960;USA;Horror;tt0053925;7;nm0000339;Roger Corman
 Hanyo, The Handmaiden;1960;South Korea;Horror;tt0150980;8.25;nm0453579;Kim Ki-young
 The Naked Island;1960;Japan;Drama;tt0056049;7.5;nm0793881;Kaneto Shindô
 Pollyanna;1960;USA;Comedy;tt0054195;7.25;nm0842582;David Swift
-Les Yeux sans Visage;1960;France;Horror;tt0053459;8;nm0290802;Georges Franju
+Les Yeux sans Visage;1960;France;Horror;tt0053459;8.25;nm0290802;Georges Franju
 Plein Soleil;1960;France;Thriller;tt0054189;8.25;nm0167496;René Clément
 Tirez sur le Pianiste;1960;France;Crime;tt0054389;7.5;nm0000076;François Truffaut
 Elmer Gantry;1960;USA;Drama;tt0053793;9;nm0112218;Richard Brooks
@@ -2020,3 +2023,10 @@ The New Land;1972;Sweden;Drama;tt0069035;8.75;nm0873296;Jan Troell
 Witchhammer;1970;Czechoslovakia;Historical;tt0064546;8.5;nm0904706;Otakar Vávra
 R.P.M.;1970;USA;Politics;tt0066273;7.5;nm0006452;Stanley Kramer
 A Hatchet for the Honeymoon;1970;Italy;Horror;tt0064904;7;nm0000878;Mario Bava
+The Land;1970;Egypt;Politics;tt0064038;8.25;nm0149631;Youssef Chahine
+I Girasoli;1970;Italy;Drama;tt0065782;7.4;nm0001120;Vittorio De Sica
+Days and Nights in the Forest;1970;India;Drama;tt0065417;7.25;nm0006249;Satyajit Ray
+The Brick And The Mirror;1965;Iran;Drama;tt0122130;7;nm0326448;Ebrahim Golestan
+Thérèse Desqueyroux;1962;France;Drama;tt0056581;8;nm0290802;Georges Franju
+The Savage Innocents;1960;USA;Drama;tt0053244;7;nm0712947;Nicholas Ray
+One-Eyed Jacks;1961;USA;Western;tt0055257;7.25;nm0000008;Marlon Brando
