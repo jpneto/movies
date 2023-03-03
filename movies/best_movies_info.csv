@@ -1,4 +1,11 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Whale;2022;USA;Drama;tt13833688;9;nm0004716;Darren Aronofsky
+Illusions Perdues;2021;France;Drama;tt10505316;8.5;nm0316306;Xavier Giannoli
+Women Talking;2022;USA;Drama;tt13669038;7;nm0001631;Sarah Polley
+Corsage;2022;Germany;Historical;tt11992694;7.25;nm1001232;Marie Kreutzer
+Knock at the Cabin;2023;USA;Thriller;tt15679400;7;nm0796117;M. Night Shyamalan
+Return to Dust;2022;China;Drama;tt17097088;8.5;nm4772581;Ruijun Li
+Infinity Pool;2023;USA;Horror;tt10365998;7.5;nm0188722;Brandon Cronenberg
 Babylon;2022;USA;Drama;tt10640346;7.5;nm3227090;Damien Chazelle
 M3gan;2022;USA;Horror;tt8760708;7.75;nm2067421;Gerard Johnstone
 Possessor;2020;USA;SciFi;tt5918982;7.25;nm0188722;Brandon Cronenberg
@@ -18,7 +25,7 @@ L'événement;2021;France;Drama;tt13880104;8;nm1604976;Audrey Diwan
 After Love;2020;UK;Drama;tt10692788;7.75;nm2746993;Aleem Khan
 The Fallout;2021;USA;Drama;tt11847410;7.5;nm1177914;Megan Park
 Bones and All;2022;USA;Horror;tt10168670;8.25;nm0345174;Luca Guadagnino
-Glass Onion;2022;USA;Comedy;tt11564570;7.5;nm0426059;Rian Johnson
+Glass Onion;2022;USA;Comedy;tt11564570;7.25;nm0426059;Rian Johnson
 A Quiet Girl;2022;Ireland;Drama;tt15109082;8;nm2128139;Colm Bairéad
 Nanny;2022;USA;Horror;tt10931784;7;nm2762302;Nikyatu Jusu
 Pinocchio;2022;USA;Fantasy;tt1488589;8.25;nm0868219;Guillermo del Toro
@@ -45,7 +52,7 @@ Vesper;2021;France;SciFi;tt20225374;7.75;nm3043504;Kristina Buozyte
 Spencer;2021;UK;Drama;tt12536294;8;nm1883257;Pablo Larraín
 Pleasure;2021;Sweden;Drama;tt8550054;8;nm5679126;Ninja Thyberg
 Top Gun: Maverick;2022;USA;Action;tt1745960;8;nm2676052;Joseph Kosinski
-Rise Roar Revolt;2022;India;Action;tt8178634;8.5;nm1442514;S.S. Rajamouli
+Rise Roar Revolt;2022;India;Action;tt8178634;9;nm1442514;S.S. Rajamouli
 The Kashmir Files;2022;India;Politics;tt10811166;8.25;nm1892252;Vivek Agnihotri
 Athena;2022;France;Politics;tt15445056;8;nm0310615;Romain Gavras
 Saloum;2022;Senegal;Horror;tt10756184;7.5;nm2699094;Jean Luc Herbulot 
@@ -367,7 +374,7 @@ Entre les Murs;2008;France;Drama;tt1068646;7.5;nm0134559;Laurent Cantet
 Bronson;2008;UK;Drama;tt1172570;8.5;nm0716347;Nicolas Winding Refn
 Doubt;2008;USA;Politics;tt0918927;8.5;nm0788234;John Patrick Shanley
 Hunger;2008;Ireland;Politics;tt0986233;8.5;nm2588606;Steve McQueen
-The Wrestler;2008;USA;Drama;tt1125849;8.75;nm0004716;Darren Aronofsky
+The Wrestler;2008;USA;Drama;tt1125849;9;nm0004716;Darren Aronofsky
 The Diving Bell and the Butterfly;2007;France;Drama;tt0401383;7;nm0773603;Julian Schnabel
 4 Months, 3 Weeks and 2 Days;2007;Romania;Drama;tt1032846;7.5;nm0612816;Cristian Mungiu
 Persepolis;2007;France;Drama;tt0808417;8;nm1749112;Vincent Paronnaud
@@ -2030,3 +2037,19 @@ The Brick And The Mirror;1965;Iran;Drama;tt0122130;7;nm0326448;Ebrahim Golestan
 Thérèse Desqueyroux;1962;France;Drama;tt0056581;8;nm0290802;Georges Franju
 The Savage Innocents;1960;USA;Drama;tt0053244;7;nm0712947;Nicholas Ray
 One-Eyed Jacks;1961;USA;Western;tt0055257;7.25;nm0000008;Marlon Brando
+Bandini;1963;India;Drama;tt0056850;8;nm0746950;Bimal Roy
+The Landlord;1970;USA;Drama;tt0065963;7;nm0000797;Hal Ashby
+Anna and the Wolves;1973;Spain;Drama;tt0068207;7.25;nm0767022;Carlos Saura
+Domicile Conjugal;1970;France;Comedy;tt0065651;7.5;nm0000076;François Truffaut
+This Transient Life;1970;Japan;Drama;tt0128364;8.5;nm0423228;Akio Jissôji
+King Lear, Korol Lir;1970;Russia;Drama;tt0064553;7.5;nm0468882;Grigoriy Kozintsev
+The Adversary;1970;India;Drama;tt0066237;7.75;nm0006249;Satyajit Ray
+Uski Roti;1970;India;Drama;tt0066514;7;nm0002411;Mani Kaul
+The Boys in the Band;1970;USA;Drama;tt0065488;9;nm0001243;William Friedkin
+The Molly Maguires;1970;USA;Drama;tt0066090;7.5;nm0728688;Martin Ritt
+The Great White Hope;1970;USA;Drama;tt0065797;7.5;nm0728688;Martin Ritt
+Pusher 2;2004;Denmark;Crime;tt0396184;7.5;nm0716347;Nicolas Winding Refn
+Les Diaboliques;1955;France;Crime;tt0046911;8;nm0167241;Henri-Georges Clouzot
+King Lear;1970;UK;Drama;tt0067306;8.5;nm0111656;Peter Brook
+Bartleby;1970;UK;Drama;tt0065452;7.25;nm0295145;Anthony Friedman
+Galpa Holeo Satyi;1966;India;Comedy;tt0366505;7.75;nm0802377;Tapan Sinha
