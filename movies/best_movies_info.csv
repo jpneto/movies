@@ -1,14 +1,21 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
-The Whale;2022;USA;Drama;tt13833688;9;nm0004716;Darren Aronofsky
+I See You;2023;USA;Thriller;tt6079516;7.5;nm1726691;Adam Randall
+D&D: Honor Among Thieves;2023;USA;Fantasy;tt2906216;7.5;nm0197855;John Francis Daley
+Kill Boksoon;2023;South Korea;Action;tt16900880;7;nm2604863;Sung-hyun Byun
+John Wick 4;2023;USA;Action;tt10366206;8.25;nm0821432;Chad Stahelski
+Close;2022;Belgium;Drama;tt9660502;8;nm4080113;Lukas Dhont
+Living;2022;UK;Drama;tt9051908;8;nm3564996;Oliver Hermanus
+Wife of a Spy;2020;Japan;War;tt11917942;8;nm0475905;Kiyoshi Kurosawa
+The Whale;2022;USA;Drama;tt13833688;8.75;nm0004716;Darren Aronofsky
 Illusions Perdues;2021;France;Drama;tt10505316;8.5;nm0316306;Xavier Giannoli
 Women Talking;2022;USA;Drama;tt13669038;7;nm0001631;Sarah Polley
 Corsage;2022;Germany;Historical;tt11992694;7.25;nm1001232;Marie Kreutzer
 Knock at the Cabin;2023;USA;Thriller;tt15679400;7;nm0796117;M. Night Shyamalan
 Return to Dust;2022;China;Drama;tt17097088;8.5;nm4772581;Ruijun Li
-Infinity Pool;2023;USA;Horror;tt10365998;7.5;nm0188722;Brandon Cronenberg
+Infinity Pool;2023;Canada;Horror;tt10365998;7.5;nm0188722;Brandon Cronenberg
 Babylon;2022;USA;Drama;tt10640346;7.5;nm3227090;Damien Chazelle
 M3gan;2022;USA;Horror;tt8760708;7.75;nm2067421;Gerard Johnstone
-Possessor;2020;USA;SciFi;tt5918982;7.25;nm0188722;Brandon Cronenberg
+Possessor;2020;Canada;SciFi;tt5918982;7.25;nm0188722;Brandon Cronenberg
 As Bestas;2022;Spain;Drama;tt15006566;8.25;nm2507695;Rodrigo Sorogoyen
 Otac, Father;2020;Serbia;Drama;tt9048802;8.75;nm0326740;Srdan Golubovic
 Red Post on Escher St;2020;Japan;Comedy;tt13245934;7.5;nm0814469;Sion Sono
@@ -516,7 +523,7 @@ Mulholland Dr.;2001;USA;Drama;tt0166924;8.25;nm0000186;David Lynch
 The Others;2001;USA;Horror;tt0230600;8.25;nm0024622;Alejandro Amenábar
 Enemy at the Gates;2001;Ireland;War;tt0215750;8.5;nm0000269;Jean-Jacques Annaud
 Le fabuleux destin d'Amélie Poulain;2001;France;Comedy;tt0211915;9.75;nm0000466;Jean-Pierre Jeunet
-Requiem for a Dream;2000;USA;Drama;tt0180093;7;nm0004716;Darren Aronofsky
+Requiem for a Dream;2000;USA;Drama;tt0180093;7.5;nm0004716;Darren Aronofsky
 Castaway;2000;USA;Drama;tt0162222;7.5;nm0000709;Robert Zemeckis
 Battle Royale;2000;Japan;Dystopia;tt0266308;7.75;nm0297935;Kinji Fukasaku
 The Cell;2000;USA;Fantasy;tt0209958;7;nm0802248;Tarsem Singh
@@ -627,7 +634,7 @@ Basic Instinct;1992;USA;Thriller;tt0103772;7;nm0000682;Paul Verhoeven
 Bad Lieutenant;1992;USA;Crime;tt0103759;7;nm0001206;Abel Ferrara
 Alien 3;1992;USA;Horror;tt0103644;8;nm0000399;David Fincher
 Glengarry Glen Ross;1992;USA;Drama;tt0104348;8;nm0001226;James Foley
-The Player;1992;USA;Drama;tt0105151;8;nm0000265;Robert Altman
+The Player;1992;USA;Drama;tt0105151;8.25;nm0000265;Robert Altman
 Unforgiven;1992;USA;Western;tt0105695;7.75;nm0000142;Clint Eastwood
 Dracula;1992;USA;Horror;tt0103874;8.5;nm0000338;Francis Ford Coppola
 Reservoir Dogs;1992;USA;Thriller;tt0105236;8.75;nm0000233;Quentin Tarantino
@@ -755,7 +762,7 @@ Mad Max 2, The Road Warrior;1981;Australia;Dystopia;tt0082694;7.75;nm0004306;Geo
 Raiders of the Lost Ark;1981;USA;Action;tt0082971;9.25;nm0000229;Steven Spielberg
 Das Boot;1981;Germany;War;tt0082096;9.5;nm0000583;Wolfgang Petersen
 The Changeling;1980;USA;Horror;tt0080516;7;nm0575389;Peter Medak
-Cruising;1980;USA;Drama;tt0080569;7;nm0001243;William Friedkin
+Cruising;1980;USA;Drama;tt0080569;7.25;nm0001243;William Friedkin
 Airplane!;1980;USA;Comedy;tt0080339;7.5;nm0000720;Jim Abrahams
 The Fog;1980;USA;Horror;tt0080749;8;nm0000118;John Carpenter
 The Empire Strikes Back;1980;USA;Fantasy;tt0080684;9;nm0449984;Irvin Kershner
@@ -2053,3 +2060,41 @@ Les Diaboliques;1955;France;Crime;tt0046911;8;nm0167241;Henri-Georges Clouzot
 King Lear;1970;UK;Drama;tt0067306;8.5;nm0111656;Peter Brook
 Bartleby;1970;UK;Drama;tt0065452;7.25;nm0295145;Anthony Friedman
 Galpa Holeo Satyi;1966;India;Comedy;tt0366505;7.75;nm0802377;Tapan Sinha
+Antiviral;2012;Canada;Horror;tt2099556;7.75;nm0188722;Brandon Cronenberg
+Chinmoku, Silence;1971;Japan;Historical;tt0067755;7.5;nm0793983;Masahiro Shinoda
+Le Jetée;1962;France;SciFi;tt0056119;8.25;nm0003408;Chris Marker
+Les Lèvres Rouges;1971;Belgium;Horror;tt0067690;7;nm0478176;Harry Kümel
+Dosti;1964;India;Drama;tt0146645;7.5;nm0097899;Satyen Bose
+Il Decameron;1971;Italy;Drama;tt0065622;7;nm0001596;Pier Paolo Pasolini
+Como Era Gostoso o Meu Francês;1971;Brazil;Historical;tt0066936;7.5;nm0673051;Nelson Pereira dos Santos
+Seemabaddha;1971;India;Drama;tt0067729;7.5;nm0006249;Satyajit Ray
+Szerelem, Love;1971;Hungary;Drama;tt0067814;8.25;nm0538652;Károly Makk
+Les Deux Anglaises et le Continent;1971;France;Drama;tt0066989;7.75;nm0000076;François Truffaut
+Mary Queen of Scots;1971;UK;Historical;tt0067402;7.75;nm0418986;Charles Jarrott
+Bleak Moments;1971;UK;Drama;tt0066842;7;nm0005139;Mike Leigh
+The Third Part of the Night;1971;Poland;Drama;tt0067885;7;nm0958558;Andrzej Zulawski
+Johnny Got His Gun;1971;USA;Drama;tt0067277;7.75;nm0874308;Dalton Trumbo
+The Horsemen;1971;USA;Drama;tt0067216;7.5;nm0001239;John Frankenheimer
+The Touch;1971;Sweden;Drama;tt0066826;7.5;nm0000005;Ingmar Bergman
+Two-Lane Blacktop;1971;USA;Drama;tt0067893;8;nm0375494;Monte Hellman
+Gishiki, The Cerimony;1971;Japan;Drama;tt0066639;7.25;nm0651915;Nagisa Ôshima
+La classe Operaia va in Paradiso;1971;Italy;Politics;tt0066919;8.5;nm0677880;Elio Petri
+Anand;1971;India;Drama;tt0066763;8;nm0611531;Hrishikesh Mukherjee
+In Nome del Popolo Italiano;1971;Italy;Drama;tt0067242;7.75;nm0728271;Dino Risi
+Sacco e Vanzetti;1971;Italy;Politics;tt0067698;8;nm0598855;Giuliano Montaldo
+The Beguiled;1971;USA;Thriller;tt0066819;7.75;nm0796923;Don Siegel
+Horror Express;1972;UK;Horror;tt0068713;7.5;nm0554632;Eugenio Martín
+Siddhartha;1972;India;Drama;tt0070689;7.5;nm0740270;Conrad Rooks
+The Asphyx;1972;UK;SciFi;tt0069738;7;nm0627684;Peter Newbrook
+The Night Stalker;1972;USA;Thriller;tt0067490;7.5;nm0610303;John Llewellyn Moxey
+Images;1972;USA;Horror;tt0068732;7.5;nm0000265;Robert Altman
+Cu Mâinile Curate, With Clean Hands;1972;Romania;Crime;tt0068431;7.5;nm0630197;Sergiu Nicolaescu
+Sounder;1972;USA;Drama;tt0069303;8;nm0728688;Martin Ritt
+Then I Sentenced All to Death;1972;Romania;Drama;tt0126449;7.25;nm0630197;Sergiu Nicolaescu
+Koziyat Rog, The Goat Horn;1972;Bulgaria;Drama;tt0068814;8.25;nm0027975;Metodi Andonov
+L'Amour, l'après-midi;1972;France;Drama;tt0068205;8;nm0006445;Éric Rohmer
+Sbatti il Mostro in Prima Pagina;1972;Italy;Politics;tt0070641;8;nm0069166;Marco Bellocchio
+Female Prisoner Scorpion;1972;Japan;Crime;tt0226874;7;nm0411746;Shun'ya Itô
+Under the Flag of the Rising Sun;1972;Japan;War;tt0289782;8.5;nm0297935;Kinji Fukasaku
+Fat City;1972;USA;Drama;tt0068575;7.75;nm0001379;John Huston
+La Più Bella Serata della Mia Vita;1972;Italy;Comedy;tt0069094;7;nm0778633;Ettore Scola

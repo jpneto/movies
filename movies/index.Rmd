@@ -2,7 +2,10 @@
 title: "My Movies"
 author: "João Neto"
 date: "2021--2023"
-output: html_document
+output: 
+  html_document:
+    includes:
+      in_header: header.html
 ---
 
 <!--  To run shiny server place this above
