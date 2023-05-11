@@ -1,4 +1,14 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Covenant;2023;USA;War;tt4873118;8.25;nm0005363;Guy Ritchie
+Evil Dead Rise;2023;USA;Horror;tt13345606;7;nm2091846;Lee Cronin
+How to Blow Up a Pipeline;2022;USA;Politics;tt21440780;7.75;nm3771823;Daniel Goldhaber
+The Artifice Girl;2022;USA;SciFi;tt20859464;7.25;nm6135474;Franklin Ritch
+R.M.N.;2022;Romania;Drama;tt18550182;7.75;nm0612816;Cristian Mungiu
+No Bears;2022;Iran;Drama;tt20205236;7.5;nm9824984;Panah Panahi
+Suzume;2022;Japan;Fantasy;tt16428256;7;nm1396121;Makoto Shinkai
+Tori et Lokita;2022;Belgium;Drama;tt18317064;7.75;nm0201094;Jean-Pierre Dardenne
+Chor Nikal Ke Bhaga;2023;India;Crime;tt22297828;7.25;nm3675099;Ajay Singh
+Man of God;2021;Greece;Historical;tt6060964;7.5;nm0660528;Yelena Popovic
 The Goat and her three Kids;2023;Romania;Horror;tt12981538;8;nm5970946;Victor Canache
 I See You;2023;USA;Thriller;tt6079516;7.5;nm1726691;Adam Randall
 D&D: Honor Among Thieves;2023;USA;Fantasy;tt2906216;7.5;nm0197855;John Francis Daley
@@ -160,7 +170,7 @@ Ad Astra;2019;USA;SciFi;tt2935510;8;nm0336695;James Gray
 Bacurau;2019;Brazil;Dystopia;tt2762506;7.5;nm2207625;Kleber Mendonça Filho
 Jojo Rabbit;2019;USA;Comedy;tt2584384;7.5;nm0169806;Taika Waititi
 The Lighthouse;2019;USA;Horror;tt7984734;8.75;nm3211470;Robert Eggers
-Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;8.75;nm0000233;Quentin Tarantino
+Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;9;nm0000233;Quentin Tarantino
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
 Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
 Dolor y Gloria;2019;Spain;Drama;tt8291806;7;nm0000264;Pedro Almodóvar
@@ -404,7 +414,7 @@ Zodiac;2007;USA;Thriller;tt0443706;8.25;nm0000399;David Fincher
 The Mist;2007;USA;Horror;tt0884328;8.5;nm0001104;Frank Darabont
 No Country for Old Men;2007;USA;Drama;tt0477348;8.75;nm0001054.nm0001053;Cohen Brothers
 There Will Be Blood;2007;USA;Drama;tt0469494;8.75;nm0000759;Paul Thomas Anderson
-Little Miss Sunshine;2006;USA;Comedy;tt0449059;7.25;nm0206760;Jonathan Dayton
+Little Miss Sunshine;2006;USA;Comedy;tt0449059;7.5;nm0206760;Jonathan Dayton
 The Prestige;2006;USA;Thriller;tt0482571;7;nm0634240;Christopher Nolan
 Blood Diamond;2006;USA;Thriller;tt0450259;7.5;nm0001880;Edward Zwick
 Zwartboek, Black Book;2006;Netherlands;War;tt0389557;7.5;nm0000682;Paul Verhoeven
@@ -477,6 +487,7 @@ A Tale of Two Sisters;2003;USA;Horror;tt0365376;7;nm0453518;Jee-woon Kim
 Master and Commander;2003;USA;Historical;tt0311113;9;nm0001837;Peter Weir
 Ong-Bak;2003;Thailand;Action;tt0368909;8;nm1272773;Prachya Pinkaew
 Matrix Revolutions;2003;USA;SciFi;tt0242653;7.25;nm0905152.nm0905154;Wachowski Brothers
+Dogville;2003;Denmark;Drama;tt0276919;7;nm0001885;Lars von Trier
 Matrix Reloaded;2003;USA;SciFi;tt0234215;7.5;nm0905152.nm0905154;Wachowski Brothers
 Os Imortais;2003;Portugal;Crime;tt0367878;7.5;nm0890367;António-Pedro Vasconcelos
 Zatôichi;2003;Japan;Samurai;tt0363226;8.25;nm0001429;Takeshi Kitano
@@ -573,6 +584,7 @@ Event Horizon;1997;USA;SciFi;tt0119081;7;nm0027271;Paul W.S. Anderson
 Snow White: A Tale of Terror;1997;USA;Horror;tt0119227;7.5;nm0169931;Michael Cohn
 La Vita è Bella;1997;Italy;Drama;tt0118799;7.5;nm0000905;Roberto Benigni
 The Game;1997;USA;Thriller;tt0119174;7.25;nm0000399;David Fincher
+Alien Resurrection;1997;USA;Horror;tt0118583;7.5;nm0000466;Jean-Pierre Jeunet
 As Good as it Gets;1997;USA;Comedy;tt0119822;7.25;nm0000985;James L. Brooks
 Cube;1997;USA;Horror;tt0123755;7.25;nm0622112;Vincenzo Natali
 Funny Games;1997;USA;Horror;tt0119167;8;nm0359734;Michael Haneke
@@ -2103,3 +2115,38 @@ Lo Scopone Scientifico;1972;Italy;Comedy;tt0069235;8.25;nm0173728;Luigi Comencin
 Sambizanga;1972;Angola;Politics;tt0069214;7.25;nm0539275;Sarah Maldoror
 Fratello Sole, Sorella Luna;1972;Italy;Historical;tt0069824;7.75;nm0001874;Franco Zeffirelli
 Tomorrow;1972;USA;Drama;tt0069393;9;nm0030917;Joseph Anthony
+Cargo 200;2007;Russia;Crime;tt0847880;7.5;nm0049326;Aleksey Balabanov
+Umut, Hope;1970;Turkey;Drama;tt0066500;7.25;nm0351566;Yilmaz Güney
+Edmond;2018;France;Comedy;tt7201846;7.5;nm1119022;Alexis Michalik
+Infierno;2010;Mexico;Crime;tt1692190;8.25;nm0261840;Luis Estrada
+Little England;2013;Greece;Drama;tt3253650;8;nm0903837;Pantelis Voulgaris
+45 Years;2015;UK;Drama;tt3544082;7.5;nm0354091;Andrew Haigh
+A Hidden Life;2019;USA;War;tt5827916;8.75;nm0000517;Terrence Malick
+The King;2019;UK;Historical;tt7984766;8;nm2391575;David Michôd
+Just 6.5;2019;Iran;Crime;tt9817070;8.5;nm7920254;Saeed Roustayi
+The Farewell;2019;USA;Drama;tt8637428;7.5;nm2304675;Lulu Wang
+Dark Waters;2019;USA;Politics;tt9071322;7.25;nm0001331;Todd Haynes
+The Role;2013;Russia;Drama;tt2972828;7;nm0520283;Konstantin Lopushanskiy
+Enclave;2015;Serbia;Drama;tt2886632;7.25;nm0705813;Goran Radovanovic
+Why Me?;2015;Romania;Politics;tt4016994;7.75;nm0321363;Tudor Giurgiu
+Turtles can Fly;2004;Iran;Drama;tt0424227;8;nm0315842;Bahman Ghobadi
+Ce que le Jour doit à la Nuit;2012;France;Drama;tt1934205;8;nm0002178;Alexandre Arcady
+Ode to my Father;2014;South Korea;Drama;tt3812366;8;nm1082740;JK Youn
+Metro Manila;2013;Philippines;Crime;tt1845838;8.25;nm1193346;Sean Ellis
+Fireworks Wednesday;2006;Iran;Drama;tt0845439;8;nm1410815;Asghar Farhadi
+A Simple Life;2011;Hong Kong;Drama;tt2008006;8;nm0401176;Ann Hui
+Todos lo Saben;2018;Spain;Thriller;tt4964788;7.5;nm1410815;Asghar Farhadi
+Out Little Sister;2015;Japan;Drama;tt3756788;8;nm0466153;Hirokazu Koreeda
+A Sun;2019;Taiwan;Drama;tt10883506;9.25;nm3010935;Mong-Hong Chung
+Il Vigile;1960;Italy;Comedy;tt0054442;7.5;nm0952737;Luigi Zampa
+Ne le Dis à Personne;2006;France;Thriller;tt0362225;8;nm0133899;Guillaume Canet
+The Castle of Purity;1973;Mexico;Horror;tt0068348;7.5;nm0728149;Arturo Ripstein
+Distant Thunder;1973;India;Drama;tt0069737;8;nm0006249;Satyajit Ray
+La Maman et la Putain;1973;France;Drama;tt0070359;8.5;nm0262402;Jean Eustache
+L'invitation;1973;Switzerland;Comedy;tt0070224;7;nm0330848;Claude Goretta
+Matatabi, The Wanderers;1973;Japan;Comedy;tt0070365;7;nm0406728;Kon Ichikawa
+Una Breve Vacanza;1973;Italy;Drama;tt0069823;7.75;nm0001120;Vittorio De Sica
+Ludwig;1973;Italy;Historical;tt0068883;7.75;nm0899581;Luchino Visconti
+The Last of Sheila;1973;USA;Crime;tt0070291;7.75;nm0006889;Herbert Ross
+The Iceman Cometh;1973;USA;Drama;tt0070212;8;nm0001239;John Frankenheimer
+Bad Company;1972;USA;Western;tt0068245;8.25;nm0000914;Robert Benton
