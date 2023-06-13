@@ -1,4 +1,16 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Spider-Man: Across the Spider-Verse;2023;USA;Action;tt9362722;8.5;nm1690966;Joaquim Dos Santos
+World War III;2022;Iran;Drama;tt21378744;8.25;nm1982933;Houman Seyyedi
+Alcarràs;2022;Spain;Drama;tt11930126;7;nm3427032;Carla Simón
+Great Yarmouth: Provisional Figures;2022;Portugal;Drama;tt14888898;7.5;nm0554076;Marco Martins
+A New Old Play;2021;China;Drama;tt14864160;7.25;nm4392117;Qiu Jiongjiong
+Burning Days;2022;Turkey;Thriller;tt14859416;8;nm1625220;Emin Alper
+A Thousand and One;2023;USA;Drama;tt12427158;7.75;nm5690427;A.V. Rockwell
+Sick of Myself;2022;Norway;Drama;tt18816518;8;nm5589501;Kristoffer Borgli
+Sisu;2022;Finland;Action;tt14846026;7.75;nm1118351;Jalmari Helander
+Leila's Brothers;2022;Iran;Drama;tt19653180;9.25;nm7920254;Saeed Roustayi
+Le Bleu du Caftan;2022;Morocco;Drama;tt17679584;8.25;nm5685112;Maryam Touzani
+Guardians of the Galaxy;2023;USA;Action;tt6791350;8;nm0348181;James Gunn
 The Covenant;2023;USA;War;tt4873118;8.25;nm0005363;Guy Ritchie
 Evil Dead Rise;2023;USA;Horror;tt13345606;7;nm2091846;Lee Cronin
 How to Blow Up a Pipeline;2022;USA;Politics;tt21440780;7.75;nm3771823;Daniel Goldhaber
@@ -283,7 +295,7 @@ Mr Turner;2014;UK;Historical;tt2473794;7;nm0005139;Mike Leigh
 The Raid 2. Berandal;2014;Indonesia;Action;tt2265171;8;nm2153088;Gareth Evans
 Rosewater;2014;USA;Politics;tt2752688;7.5;nm0829537;Jon Stewart
 Nightcrawler;2014;USA;Thriller;tt2872718;7.5;nm0319659;Dan Gilroy
-Guardians of the Galaxy;2014;USA;Action;tt2015381;8.25;nm0348181;James Gunn
+Guardians of the Galaxy;2014;USA;Action;tt2015381;8;nm0348181;James Gunn
 Calvary;2014;Ireland;Politics;tt2234003;8.25;nm0567620;John Michael McDonagh
 The Grand Budapest Hotel;2014;Germany;Comedy;tt2278388;8.25;nm0027572;Wes Anderson
 Dawn of the Planet of the Apes;2014;USA;SciFi;tt2103281;8;nm0716257;Matt Reeves
@@ -661,7 +673,7 @@ Barton Fink;1991;USA;Drama;tt0101410;8;nm0001053.nm0001054;Cohen Brothers
 Delicatessen;1991;USA;Comedy;tt0101700;7.75;nm0001988;Marc Caro
 Europa;1991;USA;War;tt0101829;7.5;nm0001885;Lars von Trier
 Terminator 2: Judgment Day;1991;USA;SciFi;tt0103064;8.5;nm0000116;James Cameron
-The Silence of the Lambs;1991;USA;Thriller;tt0102926;9.25;nm0001129;Jonathan Demme
+The Silence of the Lambs;1991;USA;Thriller;tt0102926;9.5;nm0001129;Jonathan Demme
 Jacob's Ladder;1990;USA;Horror;tt0099871;7;nm0001490;Adrian Lyne
 Awakenings;1990;USA;Drama;tt0099077;7.75;nm0001508;Penny Marshall
 Total Recall;1990;USA;SciFi;tt0100802;7.5;nm0000682;Paul Verhoeven
@@ -717,6 +729,7 @@ Predator;1987;USA;Horror;tt0093773;8.25;nm0001532;John McTiernan
 House of Games;1987;USA;Thriller;tt0093223;8.25;nm0000519;David Mamet
 Empire of the Sun;1987;USA;War;tt0092965;8.25;nm0000229;Steven Spielberg
 Full Metal Jacket;1987;USA;War;tt0093058;8.75;nm0000040;Stanley Kubrick
+Indiana Jones and the Last Crusade;1987;USA;Action;tt0097576;7.25;nm0000229;Steven Spielberg
 The Hitcher;1986;USA;Horror;tt0091209;7;nm0363553;Robert Harmon
 Der Name der Rose;1986;Germany;Historical;tt0091605;8;nm0000269;Jean-Jacques Annaud
 The Fly;1986;USA;Horror;tt0091064;8;nm0000343;David Cronenberg
@@ -993,7 +1006,7 @@ The Adventures of Robin Hood;1938;USA;Action;tt0029843;8.25;nm0002031;Michael Cu
 Les Misérables;2019;France;Drama;tt10199590;7.5;nm1868177;Lady Ly
 The Apartment;1960;USA;Comedy;tt0053604;8.25;nm0000697;Billy Wilder
 After the Wedding;2006;Denmark;Drama;tt0457655;7.75;nm0081540;Susanne Bier
-Paper Moon;1973;USA;Drama;tt0070510;8.25;nm0000953;Peter Bogdanovich
+Paper Moon;1973;USA;Drama;tt0070510;8.5;nm0000953;Peter Bogdanovich
 The Stoning of Soraya M.;2008;USA;Drama;tt1277737;7.75;nm0637493;Cyrus Nowrasteh
 Hard Eight;1996;USA;Drama;tt0119256;7.25;nm0000759;Paul Thomas Anderson
 The General;1998;Ireland;Drama;tt0120706;7.75;nm0000958;John Boorman
@@ -2150,3 +2163,44 @@ Ludwig;1973;Italy;Historical;tt0068883;7.75;nm0899581;Luchino Visconti
 The Last of Sheila;1973;USA;Crime;tt0070291;7.75;nm0006889;Herbert Ross
 The Iceman Cometh;1973;USA;Drama;tt0070212;8;nm0001239;John Frankenheimer
 Bad Company;1972;USA;Western;tt0068245;8.25;nm0000914;Robert Benton
+Blue Valentine;2010;USA;Drama;tt1120985;7.5;nm0161834;Derek Cianfrance
+Joaquim;2017;Brazil;Historical;tt4895628;7;nm1103123;Marcelo Gomes
+Young Frankenstein;1974;USA;Comedy;tt0072431;7.75;nm0000316;Mel Brooks
+Edvard Munch;1974;Sweden;Historical;tt0074462;7;nm0914386;Peter Watkins
+Brother nº8;1974;Japan;Drama;tt0073654;8.25;nm0474743;Kei Kumai
+The Odessa File;1974;UK;Thriller;tt0071935;7.5;nm0623768;Ronald Neame
+Lacombe Lucien;1974;France;Politics;tt0071733;8.25;nm0001501;Louis Malle
+Swept Away;1974;Italy;Politics;tt0073817;8.75;nm0921631;Lina Wertmüller
+The Deer;1974;Iran;Drama;tt0074565;8;nm0453953;Masud Kimiai
+The Front Page;1974;USA;Comedy;tt0071524;8;nm0000697;Billy Wilder
+The Castle Sand;1974;Japan;Crime;tt0202604;7.5;nm0634607;Yoshitarô Nomura
+La Patagonia Rebelde;1974;Argentina;Politics;tt0071976;8.25;nm0647055;Héctor Olivera
+Le Pélican;1974;France;Drama;tt0070580;7.5;nm0086116;Gérard Blain
+Ankur, The Seedling;1974;India;Drama;tt0071145;8;nm0070867;Shyam Benegal
+Profumo di Donna;1974;Italy;Comedy;tt0072037;7.25;nm0728271;Dino Risi
+Pane e Cioccolata;1974;Italy;Comedy;tt0070506;7.5;nm0116663;Franco Brusati
+Un Comisar Acuza;1974;Romania;Action;tt0069909;7.25;nm0630197;Sergiu Nicolaescu
+Le Fantôme de la Liberté;1974;France;Comedy;tt0071487;7.25;nm0000320;Luis Buñuel
+Pink Flamingos;1974;USA;Comedy;tt0069089;7;nm0000691;John Waters
+Potop, The Deluge;1974;Poland;Historical;tt0072021;8;nm0388956;Jerzy Hoffman
+And Now for Something Completely Different;1971;UK;Comedy;tt0066765;8;nm0534084;Ian MacNaughton
+The Abominable Dr. Phibes;1971;UK;Horror;tt0066740;7.75;nm0297523;Robert Fuest
+The Big Boss;1971;Hong Kong;Action;tt0067824;7;nm0516344;Wei Lo
+The Poseidon Adventure;1972;USA;Action;tt0069113;7.75;nm0623768;Ronald Neame
+Tora! Tora! Tora!;1970;Japan;Historical;tt0066473;7.75;nm0281507;Richard Fleischer
+So Long my Son;2019;China;Drama;tt9581076;9;nm0911075;Xiaoshuai Wang
+The Great Killing;1964;Japan;Samurai;tt0186939;8;nm0473791;Eiichi Kudô
+A False Student;1960;Japan;Politics;tt0054124;7.75;nm0557945;Yasuzô Masumura
+The Hospital;1971;USA;Comedy;tt0067217;8.5;nm0002137;Arthur Hiller
+Champagne for Savages;1964;France;Drama;tt0057930;8;nm0160108;Christian-Jaque
+Puzzle of a Downfall Child;1970;USA;Drama;tt0066262;7.25;nm0770234;Jerry Schatzberg
+The Love Eterne;1963;Hong Kong;Musical;tt0057248;7.75;nm0497379;Han Hsiang Li
+I Walk the Line;1970;USA;Crime;tt0065874;7;nm0001239;John Frankenheimer
+The Fugitive Kind;1960;USA;Drama;tt0052832;7.5;nm0001486;Sidney Lumet
+The Rocky Horror Picture Show;1975;USA;Musical;tt0073629;7.75;nm0788940;Jim Sharman
+Stop Making Sense;1984;USA;Musical;tt0088178;7.75;nm0001129;Jonathan Demme
+Afonya;1975;Russia;Drama;tt0072613;7.25;nm0199381;Georgiy Daneliya
+Kai, Oar;1985;Japan;Drama;tt0202936;7.5;nm0331471;Hideo Gosha
+Jana Aranya. The Middleman;1975;India;Drama;tt0074710;7.75;nm0006249;Satyajit Ray
+Night Moves;1975;USA;Crime;tt0073453;7;nm0671957;Arthur Penn
+Hard Times;1975;USA;Drama;tt0073092;8;nm0001353;Walter Hill
