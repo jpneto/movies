@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Master Gardener;2022;USA;Drama;tt15342244;7.5;nm0001707;Paul Schrader
 Spider-Man: Across the Spider-Verse;2023;USA;Action;tt9362722;8.5;nm1690966;Joaquim Dos Santos
 World War III;2022;Iran;Drama;tt21378744;8.25;nm1982933;Houman Seyyedi
 Alcarràs;2022;Spain;Drama;tt11930126;7;nm3427032;Carla Simón
@@ -675,6 +676,7 @@ Europa;1991;USA;War;tt0101829;7.5;nm0001885;Lars von Trier
 Terminator 2: Judgment Day;1991;USA;SciFi;tt0103064;8.5;nm0000116;James Cameron
 The Silence of the Lambs;1991;USA;Thriller;tt0102926;9.5;nm0001129;Jonathan Demme
 Jacob's Ladder;1990;USA;Horror;tt0099871;7;nm0001490;Adrian Lyne
+I Love You to Death;1990;USA;Comedy;tt0099819;7.5;nm0001410;Lawrence Kasdan
 Awakenings;1990;USA;Drama;tt0099077;7.75;nm0001508;Penny Marshall
 Total Recall;1990;USA;SciFi;tt0100802;7.5;nm0000682;Paul Verhoeven
 The Godfather: Part III;1990;USA;Drama;tt0099674;8;nm0000338;Francis Ford Coppola
@@ -2204,3 +2206,23 @@ Kai, Oar;1985;Japan;Drama;tt0202936;7.5;nm0331471;Hideo Gosha
 Jana Aranya. The Middleman;1975;India;Drama;tt0074710;7.75;nm0006249;Satyajit Ray
 Night Moves;1975;USA;Crime;tt0073453;7;nm0671957;Arthur Penn
 Hard Times;1975;USA;Drama;tt0073092;8;nm0001353;Walter Hill
+Sholay;1975;India;Western;tt0073707;8;nm0802693;Ramesh Sippy
+The Promised Land;1975;Poland;Drama;tt0072446;8;nm0906667;Andrzej Wajda
+Under the Blossoming Cherry Trees;1975;Japan;Horror;tt0073841;7;nm0793983;Masahiro Shinoda
+Overlord;1975;UK;War;tt0073502;7.5;nm0003837;Stuart Cooper
+Kaseki, The Fossil;1974;Japan;Drama;tt0135496;7.25;nm0462030;Masaki Kobayashi
+Más Negro que la Noche;1975;Mexico;Horror;tt0223777;7.25;nm0846010;Carlos Enrique Taboada
+Volchok;2009;Russia;Drama;tt1446206;7.5;nm3384558;Vasiliy Sigarev
+Mother Kuster goes to Heaven;1975;Germany;Politics;tt0073424;7.25;nm0001202;Rainer Werner Fassbinder
+They Fought for their Country;1975;Russia;War;tt0073488;7.5;nm0094083;Sergey Bondarchuk
+Beyond the Infinite Two Minutes;2020;Japan;Comedy;tt14500584;nm8195027;Junta Yamaguchi
+Amici Miei;1975;Italy;Comedy;tt0072637;8.25;nm0598102;Mario Monicelli
+The Wind and the Lion;1975;USA;Action;tt0073906;7;nm0587518;John Milius
+The Lost Honor of Katharina Blum;1975;Germany;Politics;tt0073858;7;nm0772522;Volker Schlöndorff
+Le Vieux Fusil;1975;France;War;tt0073864;7.75;nm0257992;Robert Enrico
+Martha;1975;Germany;Thriller;tt0070374;7.75;nm0001202;Rainer Werner Fassbinder
+Fear of Fear;1974;Germany;Drama;tt0072648;7.25;nm0001202;Rainer Werner Fassbinder
+Sweeney Todd;2007;USA;Horror;tt0408236;7.75;nm0000318;Tim Burton
+La Cara Oculta;2011;Spain;Thriller;tt1772250;7.75;nm1223381;Andrés Baiz
+Tucker and Dale vs Evil;2010;USA;Comedy;tt1465522;7.75;nm0185848;Eli Craig
+Maîtresse;1976;France;Erotic;tt0074883;7.5;nm0775447;Barbet Schroeder
