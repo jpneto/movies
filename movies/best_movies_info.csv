@@ -1,4 +1,7 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+A Man;2022;Japan;Drama;tt20251822;7.5;nm2502457;Kei Ishikawa
+Le Otto Montagne;2022;Italy;Drama;tt14641542;8.5;nm0886976;Felix van Groeningen
+Cairo Conspiracy;2022;Egypt;Thriller;tt15452062;7.75;nm0757975;Tarik Saleh
 Master Gardener;2022;USA;Drama;tt15342244;7.5;nm0001707;Paul Schrader
 Spider-Man: Across the Spider-Verse;2023;USA;Action;tt9362722;8.5;nm1690966;Joaquim Dos Santos
 World War III;2022;Iran;Drama;tt21378744;8.25;nm1982933;Houman Seyyedi
@@ -290,7 +293,7 @@ Gone Girl;2014;USA;Thriller;tt2267998;7.5;nm0000399;David Fincher
 Still Alice;2014;USA;Drama;tt3316960;7;nm0322144;Richard Glatzer
 White Christmas;2014;UK;SciFi;tt3973198;9;nm3393440;Carl Tibbetts
 Boyhood;2014;USA;Drama;tt1065073;7.5;nm0000500;Richard Linklater
-Interstellar;2014;USA;SciFi;tt0816692;8;nm0634240;Christopher Nolan
+Interstellar;2014;USA;SciFi;tt0816692;8.25;nm0634240;Christopher Nolan
 Leviathan;2014;Russia;Drama;tt2802154;7.25;nm1168657;Andrey Zvyagintsev
 Mr Turner;2014;UK;Historical;tt2473794;7;nm0005139;Mike Leigh
 The Raid 2. Berandal;2014;Indonesia;Action;tt2265171;8;nm2153088;Gareth Evans
@@ -943,7 +946,7 @@ Mary Poppins;1964;USA;Musical;tt0058331;7.5;nm0829038;Robert Stevenson
 Dr. Strangelove;1964;USA;Comedy;tt0057012;9.5;nm0000040;Stanley Kubrick
 Per un Pugno di Dollari;1964;Italy;Western;tt0058461;8.75;nm0001466;Sergio Leone
 A Shot in the Dark;1964;UK;Comedy;tt0058586;7.5;nm0001175;Blake Edwards
-The Train;1964;USA;War;tt0059825;9;nm0001239;John Frankenheimer
+The Train;1964;USA;War;tt0059825;9.25;nm0001239;John Frankenheimer
 Fail Safe;1964;USA;War;tt0058083;9.5;nm0001486;Sidney Lumet
 The Great Escape;1963;USA;War;tt0057115;8.25;nm0836328;John Sturges
 Jason and the Argonauts;1963;USA;Fantasy;tt0057197;7.25;nm0149548;Don Chaffey
@@ -2215,7 +2218,7 @@ Más Negro que la Noche;1975;Mexico;Horror;tt0223777;7.25;nm0846010;Carlos Enriq
 Volchok;2009;Russia;Drama;tt1446206;7.5;nm3384558;Vasiliy Sigarev
 Mother Kuster goes to Heaven;1975;Germany;Politics;tt0073424;7.25;nm0001202;Rainer Werner Fassbinder
 They Fought for their Country;1975;Russia;War;tt0073488;7.5;nm0094083;Sergey Bondarchuk
-Beyond the Infinite Two Minutes;2020;Japan;Comedy;tt14500584;nm8195027;Junta Yamaguchi
+Beyond the Infinite Two Minutes;2020;Japan;Comedy;tt14500584;7.75;nm8195027;Junta Yamaguchi
 Amici Miei;1975;Italy;Comedy;tt0072637;8.25;nm0598102;Mario Monicelli
 The Wind and the Lion;1975;USA;Action;tt0073906;7;nm0587518;John Milius
 The Lost Honor of Katharina Blum;1975;Germany;Politics;tt0073858;7;nm0772522;Volker Schlöndorff
@@ -2226,3 +2229,46 @@ Sweeney Todd;2007;USA;Horror;tt0408236;7.75;nm0000318;Tim Burton
 La Cara Oculta;2011;Spain;Thriller;tt1772250;7.75;nm1223381;Andrés Baiz
 Tucker and Dale vs Evil;2010;USA;Comedy;tt1465522;7.75;nm0185848;Eli Craig
 Maîtresse;1976;France;Erotic;tt0074883;7.5;nm0775447;Barbet Schroeder
+Insiang;1976;Philippines;Drama;tt0077740;7.5;nm0110653;Lino Brocka
+Novecento;1976;Italy;Drama;tt0074084;8.75;nm0000934;Bernardo Bertolucci
+The Fifth Seal;1976;Hungary;War;tt0075467;8.25;nm0299586;Zoltán Fábri
+Die Marquise von O.;1976;Germany;Drama;tt0074870;7.25;nm0006445;Éric Rohmer
+Chess of the Wind;1976;Iran;Thriller;tt0318069;7.5;nm1170241;Mohammad Reza Aslani
+Napoli Violenta;1976;Italy;Crime;tt0074952;7.25;nm0502391;Umberto Lenzi
+Cadaveri Eccellenti;1976;Italy;Crime;tt0074262;7.25;nm0742940;Francesco Rosi
+Burnt Offerings;1976;USA;Horror;tt0074258;7.75;nm0193303;Dan Curtis
+The Little Girl Who Lives Down the Lane;1976;USA;Thriller;tt0074806;8;nm0004654;Nicolas Gessner
+The Sailor Who Fell from Grace with the Sea;1976;UK;Drama;tt0075161;7.25;nm0137573;Lewis John Carlino
+Todo Modo;1976;Italy;Politics;tt0075335;7;nm0677880;Elio Petri
+Sybil;1976;USA;Drama;tt0075296;9;nm0677951;Daniel Petrie
+Anima Persa;1977;Italy;Drama;tt0075682;7.5;nm0728271;Dino Risi
+Sette Note in Nero;1977;Italy;Thriller;tt0075614;8;nm0002086;Lucio Fulci
+L'Homme qui Aimait les Femmes;1977;France;Drama;tt0076155;8.25;nm0000076;François Truffaut
+The Chess Players;1977;India;Drama;tt0076696;7.5;nm0006249;Satyajit Ray
+Providence;1977;UK;Drama;tt0076574;7.5;nm0720297;Alain Resnais
+The Lacemaker;1977;France;Drama;tt0075932;7.5;nm0330848;Claude Goretta
+Black Sunday;1977;USA;Thriller;tt0075765;8;nm0001239;John Frankenheimer
+The Consequence;1977;Germany;Drama;tt0076280;8.25;nm0000583;Wolfgang Petersen
+Padre Padrone;1977;Italy;Drama;tt0076517;7.5;nm0851752;Paolo Taviani
+Short Eyes;1977;USA;Drama;tt0076706;8.5;nm0950001;Robert M. Young
+Ifigeneia;1977;Greece;Drama;tt0076208;9.5;nm0128050;Michael Cacoyannis
+The Last Wave;1977;Australia;Fantasy;tt0076299;7;nm0001837;Peter Weir
+La Vie Devant Soi;1977;France;Drama;tt0076348;8.25;nm0594624;Moshé Mizrahi
+Twenty Days without War;1977;Russia;War;tt0074447;7.25;nm0314516;Aleksey German
+Un Borghese Piccolo Piccolo;1977;Italy;Drama;tt0129794;8.5;nm0598102;Mario Monicelli
+The Yellow Handkerchief;1977;Japan;Drama;tt0076935;7.5;nm0945282;Yôji Yamada
+Ballad of Orin;1977;Japan;Drama;tt0076124;8.5;nm0793983;Masahiro Shinoda
+L'Une Chante L'Autre Pas;1977;France;Drama;tt0076855;7.5;nm0889513;Agnès Varda
+Zana;2019;Kosovo;Drama;tt6463320;7;nm4138958;Antoneta Kastrati
+Saraband;2003;Sweden;Drama;tt0299478;8.5;nm0000005;Ingmar Bergman
+I Cento Passi;2000;Italy;Politics;tt0238891;8.25;nm0320285;Marco Tullio Giordana
+My Girl;2003;Thailand;Comedy;tt0399040;7.25;nm1585207;Vijjapat Kojiw
+Josee the Tiger and the Fish;2003;Japan;Drama;tt0416881;7.5;nm0409459;Isshin Inudô
+Faithless;2000;Sweden;Drama;tt0157122;8.25;nm0880521;Liv Ullmann
+Open Range;2003;USA;Western;tt0316356;7.25;nm0000126;Kevin Costner
+Flickering Lights;2000;Denmark;Comedy;tt0236027;7;nm0421314;Anders Thomas Jensen
+Go;2001;Japan;Drama;tt0299937;7.5;nm0950834;Isao Yukisada
+American Splendor;2003;USA;Comedy;tt0305206;8.75;nm0075849;Shari Springer Berman
+Lilja 4-ever;2002;Sweden;Drama;tt0300140;7.5;nm0600546;Lukas Moodysson
+Kichiku, The Demon;1978;Japan;Horror;tt0202434;8.25;nm0634607;Yoshitarô Nomura
+Magic;1978;USA;Horror;tt0077889;7;nm0000277;Richard Attenborough
