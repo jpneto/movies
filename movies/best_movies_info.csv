@@ -1,4 +1,9 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Godland;2022;Denmark;Drama;tt19623228;7.75;nm6249843;Hlynur Pálmason
+The Boogeyman;2023;USA;Horror;tt3427252;7;nm3699074;Rob Savage
+Corner Office;2022;USA;Comedy;tt13849558;7.75;nm3629315;Joachim Back
+The Last Voyage of the Demeter;2023;USA;Horror;tt1001520;7.5;nm0004217;André Øvredal
+Oppenheimer;2023;USA;Drama;tt15398776;8.5;nm0634240;Christopher Nolan
 A Man;2022;Japan;Drama;tt20251822;7.5;nm2502457;Kei Ishikawa
 Le Otto Montagne;2022;Italy;Drama;tt14641542;8.5;nm0886976;Felix van Groeningen
 Cairo Conspiracy;2022;Egypt;Thriller;tt15452062;7.75;nm0757975;Tarik Saleh
@@ -206,7 +211,7 @@ Mandy;2018;USA;Horror;tt6998518;7.25;nm0181903;Panos Cosmatos
 Annihilation;2018;USA;Horror;tt2798920;7;nm0307497;Alex Garland
 A Simple Favor;2018;USA;Thriller;tt7040874;7;nm0082450;Paul Feig
 Upgrade;2018;USA;Action;tt6499752;7;nm1191481;Leigh Whannell
-Hereditary;2018;USA;Horror;tt7784604;8;nm4170048;Ari Aster
+Hereditary;2018;USA;Horror;tt7784604;8.5;nm4170048;Ari Aster
 BlacKkKlansman;2018;USA;Thriller;tt7349662;7;nm0000490;Spike Lee
 Arctic;2018;USA;Thriller;tt6820256;8;nm1020835;Joe Penna
 The Ballad of Buster Scruggs;2018;USA;Western;tt6412452;8;nm0001053.nm0001054;Cohen Brothers
@@ -238,7 +243,7 @@ The Shape of Water;2017;USA;Drama;tt5580390;8.25;nm0868219;Guillermo del Toro
 One Cut of the Dead;2017;Japan;Comedy;tt7914416;8.5;nm7643451;Yûya Nakaizumi
 The Villainess;2017;South Korea;Action;tt6777338;7.5;nm3468066;Byung-gil Jung
 Brawl In Cell Block 99;2017;USA;Action;tt5657856;8;nm0951975;S. Craig Zahler
-First Reformed;2017;USA;Politics;tt6053438;7.75;nm0001707;Paul Schrader
+First Reformed;2017;USA;Politics;tt6053438;8.25;nm0001707;Paul Schrader
 Valerian, the City of a 1000 Planets;2017;France;Action;tt2239822;7.25;nm0000108;Luc Besson
 The Captain;2017;Germany;War;tt6763252;7.5;nm0777881;Robert Schwentke
 Atomic Blonde;2017;USA;Action;tt2406566;7.5;nm0500610;David Leitch
@@ -334,6 +339,7 @@ Jagten, The Hunt;2012;Denmark;Drama;tt2106476;8;nm0899121;Thomas Vinterberg
 Maniac;2012;France;Horror;tt2103217;7.75;nm0451076;Franck Khalfoun
 Django Unchained;2012;USA;Western;tt1853728;7.5;nm0000233;Quentin Tarantino
 The Master;2012;USA;Drama;tt1560747;7.75;nm0000759;Paul Thomas Anderson
+An Unexpected Journey;2012;USA;Fantasy;tt0903624;7;nm0001392;Peter Jackson
 Amour;2012;France;Drama;tt1602620;8;nm0359734;Michael Haneke
 Looper;2012;USA;SciFi;tt1276104;8.5;nm0426059;Rian Johnson
 Pieta;2012;South Korea;Drama;tt2299842;8.5;nm1104118;Ki-duk Kim
@@ -2272,3 +2278,97 @@ American Splendor;2003;USA;Comedy;tt0305206;8.75;nm0075849;Shari Springer Berman
 Lilja 4-ever;2002;Sweden;Drama;tt0300140;7.5;nm0600546;Lukas Moodysson
 Kichiku, The Demon;1978;Japan;Horror;tt0202434;8.25;nm0634607;Yoshitarô Nomura
 Magic;1978;USA;Horror;tt0077889;7;nm0000277;Richard Attenborough
+Perceval le Gallois;1978;France;Drama;tt0078073;7.75;nm0006445;Éric Rohmer
+El Lugar sin Límites;1978;Mexico;Drama;tt0076336;7;nm0728149;Arturo Ripstein
+Empire of Passion;1978;Japan;Horror;tt0077132;7.25;nm0651915;Nagisa Ôshima
+Wodzirej;1978;Poland;Drama;tt0078507;7.75;nm0266138;Feliks Falk
+The Driver;1978;USA;Crime;tt0077474;7.5;nm0001353;Walter Hill
+Magyarok;1978;Hungary;War;tt0077891;7.25;nm0299586;Zoltán Fábri
+Beauty and the Beast;1978;Czechoslovakia;Fantasy;tt0078054;7;nm0381228;Juraj Herz
+Shiiku, The Catch;1961;Japan;War;tt0055441;7;nm0651915;Nagisa Ôshima
+Across 110th Street;1972;USA;Crime;tt0068168;7.5;nm0790395;Barry Shear
+Gohatto, Taboo;1999;Japan;Samurai;tt0213682;7.5;nm0651915;Nagisa Ôshima
+Osen, The Autumn;1974;Russia;Drama;tt0071951;7;nm0807033;Andrey Smirnov
+Lyubovnik, The Lover;2002;Russia;Drama;tt0332224;7;nm0865422;Valeriy Todorovskiy
+La Meglio Gioventù;2003;Italy;Drama;tt0346336;9;nm0320285;Marco Tullio Giordana
+La Luna;1979;Italy;Drama;tt0079495;7;nm0000934;Bernardo Bertolucci
+Zombie;1979;Italy;Horror;tt0080057;7.25;nm0002086;Lucio Fulci
+Buio Omega;1979;Italy;Horror;tt0078916;7.5;nm0001090;Joe D'Amato
+Norma Rae;1979;USA;Politics;tt0079638;7.75;nm0728688;Martin Ritt
+I... comme Icare;1979;France;Thriller;tt0079322;8.25;nm0894577;Henri Verneuil
+Tall Shadows of the Wind;1979;Iran;Horror;tt0320423;7;nm0267715;Bahman Farmanara
+Pusher 3;2005;Denmark;Crime;tt0425379;8;nm0716347;Nicolas Winding Refn
+Five Evenings;1979;Russia;Drama;tt0079764;7.25;nm0586482;Nikita Mikhalkov
+Vlad Tepes;1979;Romania;Historical;tt0141966;7.5;nm2161296;Dumitru Fernoaga
+Cristo si è Fermato a Eboli;1979;Italy;Drama;tt0079010;9.25;nm0742940;Francesco Rosi
+Tess;1979;UK;Drama;tt0080009;7;nm0000591;Roman Polanski
+Un Mauvais Fils;1980;France;Drama;tt0081678;7.5;nm0767110;Claude Sautet
+The Man Who Fell to Earth;1976;USA;SciFi;tt0074851;7;nm0001676;Nicolas Roeg
+Khubsoorat;1980;India;Comedy;tt0244585;7.75;nm0611531;Hrishikesh Mukherjee
+Death Watch;1980;France;SciFi;tt0081182;7.25;nm0851724;Bertrand Tavernier
+Stardust Memories;1980;USA;Comedy;tt0081554;7.75;nm0000095;Woody Allen
+The Big Red One;1980;USA;War;tt0080437;7;nm0002087;Samuel Fuller
+Le Dernier Métro;1980;France;Drama;tt0080610;7.5;nm0000076;François Truffaut
+American Gigolo;1980;USA;Crime;tt0080365;7.5;nm0001707;Paul Schrader
+Christiane F.;1980;Germany;Drama;tt0082176;7.75;nm0248942;Uli Edel
+La Pelle;1981;Italy;War;tt0082893;7.5;nm0146960;Liliana Cavani
+The French Lieutenant's Woman;1981;UK;Drama;tt0082416;7;nm0718554;Karel Reisz
+Blancanieves;2012;Spain;Horror;tt1854513;7.5;nm0074311;Pablo Berger
+Man of Iron;1981;Poland;Politics;tt0082222;8.5;nm0906667;Andrzej Wajda
+Il Marchese del Grillo;1981;Italy;Comedy;tt0082714;8.25;nm0598102;Mario Monicelli
+Dead & Buried;1981;USA;Horror;tt0082242;7;nm0792446;Gary Sherman
+Southern Comfort;1981;USA;Action;tt0083111;7.5;nm0001353;Walter Hill
+Malevil;1981;France;Drama;tt0082701;7.25;nm0150057;Christian de Chalonge
+Kisapmata;1981;Philippines;Drama;tt0221322;8.75;nm0209672;Mike De Leon
+Passione d'Amore;1981;Italy;Drama;tt0082883;9.25;nm0778633;Ettore Scola
+The Boat is Full;1981;Switzerland;Drama;tt0082095;7.75;nm0408195;Markus Imhoof
+Tiempo de Revancha;1981;Argentina;Politics;tt0083203;8;nm0034899;Adolfo Aristarain
+Prince of the City;1981;USA;Crime;tt0082945;8.25;nm0001486;Sidney Lumet
+Der Bockerer;1981;Austria;Drama;tt0082087;7.25;nm0030762;Franz Antel
+Lola;1981;Germany;Drama;tt0082671;7.75;nm0001202;Rainer Werner Fassbinder
+Vabank;1981;Poland;Crime;tt0083271;7.75;nm0532702;Juliusz Machulski
+Coup de Torchon;1981;France;Comedy;tt0082206;8.5;nm0851724;Bertrand Tavernier
+Elippathayam, Rat Trap;1982;India;Drama;tt0082318;7.5;nm0329715;Adoor Gopalakrishnan
+Onimasa;1982;Japan;Drama;tt0163777;7.25;nm0331471;Hideo Gosha
+Rodnya, Family Relations;1982;Russia;Comedy;tt0083004;7.5;nm0586482;Nikita Mikhalkov
+The Simple-Minded Murderer;1982;Sweden;Drama;tt0083888;7.75;nm0019244;Hans Alfredson
+Cat People;1982;USA;Horror;tt0083722;7.25;nm0001707;Paul Schrader
+La Nuit de Varennes;1982;France;Drama;tt0084423;7.75;nm0778633;Ettore Scola
+Yol;1982;Turkey;Drama;tt0084934;8.25;nm0351566;Yilmaz Güney
+The Year of Living Dangerously;1982;Australia;Politics;tt0086617;7.75;nm0001837;Peter Weir
+Znachor, The Quack;1982;Poland;Drama;tt0084953;7.5;nm0388956;Jerzy Hoffman
+Querelle;1982;Germany;Drama;tt0084565;7;nm0001202;Rainer Werner Fassbinder
+Blue Mountains or Unbelievable Story;1983;Russia;Comedy;tt0087349;8;nm0791542;Eldar Shengelaia
+Something Wicked this Way Comes;1983;USA;Fantasy;tt0086336;7;nm0002338;Jack Clayton
+Hanna K.;1983;Israel;Politics;tt0085642;7;nm0002020;Costa-Gavras
+Le Bal;1983;France;Comedy;tt0085213;7.25;nm0778633;Ettore Scola
+Cujo;1983;USA;Horror;tt0085382;7;nm0853546;Lewis Teague
+Yôkirô;1983;Japan;Drama;tt0203224;7;nm0331471;Hideo Gosha
+El Norte;1983;Mexico;Drama;tt0085482;7.25;nm0622695;Gregory Nava
+El Sur;1983;Spain;Drama;tt0084740;7.5;nm0258977;Víctor Erice
+The Fourth Man;1983;Netherlands;Horror;tt0086543;7.5;nm0000682;Paul Verhoeven
+Katha;1983;India;Comedy;tt0085776;7.75;nm0660936;Sai Paranjape
+Silkwood;1983;USA;Drama;tt0086312;7.75;nm0001566;Mike Nichols
+Daniel;1983;USA;Politics;tt0085398;7.5;nm0001486;Sidney Lumet
+L'argent;1983;France;Drama;tt0085180;7;nm0000975;Robert Bresson
+Zeder;1983;Italy;Horror;tt0086636;7.25;nm0002194;Pupi Avati
+Mo, The Boxer's Omen;1983;Hong Kong;Fantasy;tt0085951;7.25;nm0346640;Chih-Hung Kuei
+E la Nave Va;1983;Italy;Drama;tt0087188;7;nm0000019;Federico Fellini
+Zatoichi and the Chess Expert;1965;Japan;Samurai;tt0059942;7.5;nm0593014;Kenji Misumi
+Repentance;1984;Georgia;Politics;tt0093754;8.25;nm0002156;Tengiz Abuladze
+Voyage to Cythera;1984;Greece;Drama;tt0088241;7;nm0000766;Theodoros Angelopoulos
+Starman;1984;USA;SciFi;tt0088172;8;nm0000118;John Carpenter
+A Summer at Grandpa's;1984;Taiwan;Drama;tt0087164;7.75;nm0396284;Hsiao-Hsien Hou
+¿Qué he Hecho Yo para Merecer Esto!;1984;Spain;Comedy;tt0088461;7.5;nm0000264;Pedro Almodóvar
+The Hit;1984;UK;Crime;tt0087414;7.5;nm0001241;Stephen Frears
+Dangerous Charm;1984;Bulgaria;Comedy;tt0283524;7.25;nm0027974;Ivan Andonov
+Sexmission;1984;Poland;SciFi;tt0088083;7.5;nm0532702;Juliusz Machulski
+This is Spinal Tap;1984;USA;Comedy;tt0088258;7.5;nm0001661;Rob Reiner
+Gahre Baire;1984;India;Drama;tt0087328;8.5;nm0006249;Satyajit Ray
+Un Dimanche à la Campagne;1984;France;Drama;tt0088318;8;nm0851724;Bertrand Tavernier
+Birdy;1984;USA;Drama;tt0086969;7.25;nm0000570;Alan Parker
+Los Santos Inocentes;1984;Spain;Drama;tt0088040;8;nm0133426;Mario Camus
+After the Rehearsal;1984;Sweden;Drama;tt0087193;8.25;nm0000005;Ingmar Bergman
+Where the Green Ants Dream;1984;Australia;Drama;tt0088412;8;nm0001348;Werner Herzog
+Iceman;1984;USA;SciFi;tt0087452;7.5;nm0770961;Fred Schepisi
+Tsar;2009;Russia;Historical;tt1424431;7.25;nm0526732;Pavel Lungin
