@@ -1,4 +1,9 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Barbie;2023;USA;Fantasy;tt1517268;8;nm1950086;Greta Gerwig
+Talk to Me;2022;USA;Horror;tt10638522;8;nm4053334;Danny Philippou
+Sun and Cement;2023;Germany;Crime;tt13273800;7.75;nm1177494;David Wnendt
+Past Lives;2023;South Korea;Drama;tt13238346;8.0;nm10227660;Celine Song
+Captain Volkogorov Escapes;2021;Russia;Thriller;tt13322726;8.5;nm5237286;Natasha Merkulova
 Godland;2022;Denmark;Drama;tt19623228;7.75;nm6249843;Hlynur Pálmason
 The Boogeyman;2023;USA;Horror;tt3427252;7;nm3699074;Rob Savage
 Corner Office;2022;USA;Comedy;tt13849558;7.75;nm3629315;Joachim Back
@@ -195,7 +200,7 @@ Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;9;nm0000233;Quentin Taran
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
 Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
 Dolor y Gloria;2019;Spain;Drama;tt8291806;7;nm0000264;Pedro Almodóvar
-Midsommar;2019;USA;Horror;tt8772262;7;nm4170048;Ari Aster
+Midsommar, Director's Cut;2019;USA;Horror;tt8772262;7.75;nm4170048;Ari Aster
 Parasite;2019;South Korea;Drama;tt6751668;9.25;nm0094435;Bong Joon Ho
 The Hole in the Ground;2019;Ireland;Horror;tt6198946;7;nm2091846;Lee Cronin
 El Hoyo;2019;Spain;Dystopia;tt8228288;7;nm2008067;Galder Gaztelu-Urrutia
@@ -316,6 +321,8 @@ Song of the Sea;2014;Ireland;Fantasy;tt1865505;8;nm1119079;Tomm Moore
 Ex Machina;2014;USA;SciFi;tt0470752;8.5;nm0307497;Alex Garland
 It Follows;2014;USA;Horror;tt3235888;8.75;nm1379002;David Robert Mitchell
 Gravity;2013;USA;Action;tt1454468;8;nm0190859;Alfonso Cuarón
+Under the Skin;2013;UK;Horror;tt1441395;7.5;nm0322242;Jonathan Glazer
+Enemy;2013;Canada;Drama;tt2316411;8;nm0898288;Denis Villeneuve
 Inside Llewyn Davis;2013;USA;Musical;tt2042568;7.5;nm0001054.nm0001053;Cohen Brothers
 12 Years a Slave;2013;USA;Drama;tt2024544;8;nm2588606;Steve McQueen
 Her;2013;USA;SciFi;tt1798709;9;nm0005069;Spike Jonze
@@ -356,7 +363,7 @@ Melancholia;2011;Denmark;Drama;tt1527186;8;nm0001885;Lars von Trier
 Midnight in Paris;2011;France;Comedy;tt1605783;7.5;nm0000095;Woody Allen
 Intouchables;2011;France;Drama;tt1675434;8;nm0619923;Olivier Nakache
 Killer Joe;2011;USA;Thriller;tt1726669;8;nm0001243;William Friedkin
-Harakiri;2011;Japan;Samurai;tt1728196;9;nm0586281;Takashi Miike
+Hara-Kiri;2011;Japan;Samurai;tt1728196;9;nm0586281;Takashi Miike
 Drive;2011;USA;Action;tt0780504;7.75;nm0716347;Nicolas Winding Refn
 The Cabin in the Woods;2011;USA;Horror;tt1259521;7.5;nm1206844;Drew Goddard
 Rise of the Planet of the Apes;2011;USA;SciFi;tt1318514;7.5;nm1012501;Rupert Wyatt
@@ -443,6 +450,7 @@ Zwartboek, Black Book;2006;Netherlands;War;tt0389557;7.5;nm0000682;Paul Verhoeve
 Babel;2006;USA;Drama;tt0449467;7.25;nm0327944;Alejandro G. Iñárritu
 This is England;2006;UK;Drama;tt0480025;8;nm0276349;Shane Meadows
 The Fall;2006;USA;Fantasy;tt0460791;7;nm0802248;Tarsem Singh
+12:08 East of Bucharest;2006;Comedy;Romania;tt0809407;7;nm1717949;Corneliu Porumboiu
 The Host;2006;South Korea;Horror;tt0468492;8;nm0094435;Bong Joon Ho
 Inside Man;2006;USA;Thriller;tt0454848;7.25;nm0000490;Spike Lee
 Shi Gan (Time);2006;South Korea;Drama;tt0497986;8;nm1104118;Ki-duk Kim
@@ -478,7 +486,7 @@ Alice;2005;Portugal;Drama;tt0459072;8;nm0554076;Marco Martins
 Caché;2005;Germany;Thriller;tt0387898;7.5;nm0359734;Michael Haneke
 Wolf Creek;2005;Australia;Horror;tt0416315;7.5;nm0572562;Greg McLean
 Gang Street Hooligans;2005;USA;Thriller;tt0385002;7.75;nm0591994;Lexi Alexander
-Kingdom of Heaven;2005;USA;Historical;tt0320661;8.25;nm0000631;Ridley Scott
+Kingdom of Heaven, Director's Cut;2005;USA;Historical;tt0320661;8.25;nm0000631;Ridley Scott
 The Descent;2005;USA;Horror;tt0435625;8.5;nm0551076;Neil Marshall
 V for Vendetta;2005;USA;Dystopia;tt0434409;8.75;nm0574625;James McTeigue
 Good Night, and Good Luck;2005;USA;Politics;tt0433383;9.25;nm0000123;George Clooney
@@ -962,7 +970,7 @@ Shock Corridor;1963;USA;Drama;tt0057495;7.75;nm0002087;Samuel Fuller
 The Bedford Incident;1965;USA;War;tt0058962;7.5;nm0364805;James B. Harris
 Lawrence of Arabia;1962;UK;Historical;tt0056172;10;nm0000180;David Lean
 The Man Who Shot Liberty Valance;1962;USA;Western;tt0056217;8.5;nm0000406;John Ford
-Harakiri;1962;Japan;Samurai;tt0056058;9.75;nm0462030;Masaki Kobayashi
+Seppuku;1962;Japan;Samurai;tt0056058;9.75;nm0462030;Masaki Kobayashi
 The Trial;1962;France;Dystopia;tt0057427;8;nm0000080;Orson Welles
 Mutiny on the Bounty;1962;USA;Historical;tt0056264;7.75;nm0587277;Lewis Milestone
 The Day the Earth Caught Fire;1961;USA;SciFi;tt0054790;7.75;nm0346436;Val Guest
@@ -2372,3 +2380,34 @@ After the Rehearsal;1984;Sweden;Drama;tt0087193;8.25;nm0000005;Ingmar Bergman
 Where the Green Ants Dream;1984;Australia;Drama;tt0088412;8;nm0001348;Werner Herzog
 Iceman;1984;USA;SciFi;tt0087452;7.5;nm0770961;Fred Schepisi
 Tsar;2009;Russia;Historical;tt1424431;7.25;nm0526732;Pavel Lungin
+L'Homme du Train;2002;France;Drama;tt0301414;8;nm0496312;Patrice Leconte
+A Delicate Balance;1973;USA;Drama;tt0069958;7.5;nm0724798;Tony Richardson
+California Split;1974;USA;Drama;tt0071269;7.5;nm0000265;Robert Altman
+Elvira Madigan;1967;Denmark;Drama;tt0061620;7.0;nm0927090;Bo Widerberg
+The Gambler;1974;USA;Crime;tt0071532;7.75;nm0718554;Karel Reisz
+Farewell, My Lovely;1975;USA;Crime;tt0072973;7.0;nm0724059;Dick Richards
+J'ai épousé une Ombre;1983;France;Thriller;tt0084158;7.75;nm0205370;Robin Davis
+Wildwechsel, Jail Bait;1972;Germany;Crime;tt0069502;7.25;nm0001202;Rainer Werner Fassbinder
+Heartland;1979;USA;Western;tt0082508;7.5;nm0669004;Richard Pearce
+Il commissario;1962;Italy;Comedy;tt0055861;7.75;nm0173728;Luigi Comencini
+Frankenstein;2011;UK;Drama;tt1795369;8.0;nm0000965;Danny Boyle
+Marie Antoinette;2006;USA;Historical;tt0422720;7.5;nm0001068;Sofia Coppola
+A Passage to India;1984;UK;Drama;tt0087892;7.0;nm0000180;David Lean
+The Edge of Heaven;2007;Germany;Drama;tt0880502;8.75;nm0015359;Fatih Akin
+Vagabond;1985;France;Drama;tt0089960;8;nm0889513;Agnès Varda
+Esperando la Carroza;1985;Argentina;Comedy;tt0089108;7;nm0233608;Alejandro Doria
+The Empty Table;1985;Japan;Drama;tt0122709;7.75;nm0462030;Masaki Kobayashi
+La Messa è Finita;1985;Italy;Drama;tt0089584;7.25;nm0604335;Nanni Moretti
+Dance with a Stranger;1985;UK;Drama;tt0088987;7.5;nm0001565;Mike Newell
+No End;1985;Poland;Drama;tt0086961;7.75;nm0001425;Krzysztof Kieslowski
+The Falcon and the Snowman;1985;USA;Politics;tt0087231;7.75;nm0772259;John Schlesinger
+The Trip to Bountiful;1985;USA;Drama;tt0090203;8.5;nm0557751;Peter Masterson
+Taipei Story;1985;Taiwan;Drama;tt0089866;7.5;nm0945981;Edward Yang
+Year of the Dragon;1985;USA;Crime;tt0090350;7.25;nm0001047;Michael Cimino
+The Innocent;1986;Egypt;Politics;tt3084114;7.75;nm0246986;Atef El-Tayeb
+Fright Night;1985;USA;Horror;tt0089175;7.5;nm0276169;Tom Holland
+Repo Man;1984;USA;Comedy;tt0087995;7.5;nm0007182;Alex Cox
+The Return of Godzilla;1984;Japan;Horror;tt9015178;7;nm0368057;Koji Hashimoto
+The Return of the Living Dead;1985;USA;Comedy;tt0089907;7.75;nm0639321;Dan O'Bannon
+Variola Vera;1982;Yoguslavia;Thriller;tt0083275;7.5;nm0548648;Goran Markovic
+Extremities;1986;USA;Thriller;tt0091024;7.5;nm0950001;Robert M. Young

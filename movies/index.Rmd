@@ -118,7 +118,7 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score` (blue) and the rest (orange). The list of movies I want to see from 1960-1984 and 2000-2022 is (somewhat) complete. My current goal is to do the same from the remaining years up to the end of the 1990s. *Then* I will move to the 1950s.
+Showing movies with a minimal rating of `r min.score` (blue) and the rest (orange). The list of movies I want to see from 1960-1985 and 2000-2022 is (somewhat) complete. My current goal is to do the same from the remaining years up to the end of the 1990s. *Then* I will move to the 1950s.
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
@@ -168,7 +168,7 @@ par(mar=c(3,1,1,1))
 #ylim=c(0,max(df2$n)*1.25), yaxt="n")
 
 plt <- barplot(data, names.arg=df2$Year, las=2, col=c(my.color, 'orange'),
- ylim=c(0,115), yaxt="n")
+ ylim=c(0,125), yaxt="n")
 
 text(x=plt, y=df2$n,      label=df2$n,      pos=3, cex=0.8, col='blue')
 text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=3, cex=0.8, col='blue')
@@ -443,7 +443,7 @@ df %>%
   filter (Country=='USA') -> df.us
 ```
 
-Hollywood is highly represented with a current total of `r nrow(df.us)` American movies. Let's check how other countries are represented:
+The next plot shows only movies with 7+ rating. Hollywood is highly represented with a current total of `r nrow(df.us)` American movies. Let's check how other countries are represented:
 
 ```{r, fig.width=14, fig.height=12, warning=FALSE, echo=FALSE}
 df %>% 
@@ -501,6 +501,70 @@ fit <- lm(Rate ~ Year, df)
 abline(fit, col='blue')
 ```
 
+<!-- Search IMDB movies using several parameters -->
 
+<script>
+  function showCityName() { 
+    let url = "https://www.imdb.com/search/title/?title_type=feature&view=simple&sort=num_votes,desc";
+    
+    let genre = document.forms["imdb"]["genre"].value;
+    if (genre != null && genre != "") {
+      url = url + "&genres=" + genre;
+    }
+    
+    let min_rating = document.forms["imdb"]["min_rating"].value;
+    if (min_rating != null && min_rating != "") {
+      url = url + "&user_rating=" + min_rating + ",10.0";
+    }   
+    
+    let min_votes = document.forms["imdb"]["min_votes"].value;
+    if (min_votes != null && min_votes != "") {
+      url = url + "&num_votes=" + min_votes + ",";
+    }
 
+    let start_date = document.forms["imdb"]["start_date"].value;
+    let end_date   = document.forms["imdb"]["end_date"].value;
+    if (start_date != null && start_date != "") {
+      url = url + "&year=" + start_date + ",";   // start at start date
+      if (end_date != null && end_date != "") {   
+        url = url + end_date                     // define end date
+      }
+    } else {
+      if (end_date != null && end_date != "") {  // upto end date
+        url = url + "&year=," + end_date
+      }
+    }
 
+    let countries = document.forms["imdb"]["countries"].value;
+    if (countries != null && countries != "") {
+      url = url + "&countries=" + countries + ",";
+    }
+
+    let language = document.forms["imdb"]["language"].value;
+    if (language != null && language != "") {
+      url = url + "&primary_language=" + language + ",";
+    }
+       
+    // alert(url);
+
+    window.open(url, "_blank");  // open new tab in browser
+  }
+</script>
+
+<!-- onsubmit does not reload original page -->
+
+<form name='imdb' onsubmit="return false"> 
+    <label>Search movies at IMDB </label>
+    <input type="submit" value="🎥" onclick="showCityName()" />
+  <br>genres:     <input type="text" id="genres"     name="genre"  size="15"/> (e.g., horror,sci-fi,!animation)
+  <br>min rating: <input type="text" id="rating"     name="min_rating" value="7.5" size="5"/>
+  <br>min votes:  <input type="text" id="min_votes"  name="min_votes"  value="1000"  size="5"/>
+  <br>start date: <input type="text" id="start_date" name="start_date" value="2021-01-01" size="10"/>
+      end date:   <input type="text" id="end_date"   name="end_date"   value="2023-12-31" size="10"/>
+  <br><a href="https://help.imdb.com/article/contribution/other-submission-guides/country-codes/G99K4LFRMSC37DCN#" target='_blank'>countries</a>
+  <input type="text" id="countries"  name="countries"  value="!pk,!bd,!in,!tr"  size="15"/> 
+  <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" target='_blank'>language</a>
+  <input type="text" id="language"  name="language"  value="" size="10"/> 
+</form>
+
+<br>
