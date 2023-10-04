@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Wonderful Story of Henry Sugar;2023;UK;Comedy;tt16968450;8.5;nm0027572;Wes Anderson
 Barbie;2023;USA;Fantasy;tt1517268;8;nm1950086;Greta Gerwig
 Talk to Me;2022;USA;Horror;tt10638522;8;nm4053334;Danny Philippou
 Sun and Cement;2023;Germany;Crime;tt13273800;7.75;nm1177494;David Wnendt
@@ -233,6 +234,7 @@ The Nightingale;2018;Australia;Historical;tt4068576;9;nm0448768;Jennifer Kent
 First Man;2018;USA;Drama;tt1213641;8.25;nm3227090;Damien Chazelle
 Roma;2018;Mexico;Drama;tt6155172;8;nm0190859;Alfonso Cuarón
 Gerald's Game;2017;USA;Thriller;tt3748172;7;nm1093039;Mike Flanagan
+Alien: Covenant;2017;USA;Horror;tt2316204;7;nm0000631;Ridley Scott
 War for the Planet of the Apes;2017;USA;SciFi;tt3450958;7.5;nm0716257;Matt Reeves
 Phantom Thread;2017;USA;Drama;tt5776858;7;nm0000759;Paul Thomas Anderson
 It Comes at Night;2017;USA;Horror;tt4695012;7;nm4099092;Trey Edward Shults
@@ -450,7 +452,7 @@ Zwartboek, Black Book;2006;Netherlands;War;tt0389557;7.5;nm0000682;Paul Verhoeve
 Babel;2006;USA;Drama;tt0449467;7.25;nm0327944;Alejandro G. Iñárritu
 This is England;2006;UK;Drama;tt0480025;8;nm0276349;Shane Meadows
 The Fall;2006;USA;Fantasy;tt0460791;7;nm0802248;Tarsem Singh
-12:08 East of Bucharest;2006;Comedy;Romania;tt0809407;7;nm1717949;Corneliu Porumboiu
+12:08 East of Bucharest;2006;Romania;Comedy;tt0809407;7;nm1717949;Corneliu Porumboiu
 The Host;2006;South Korea;Horror;tt0468492;8;nm0094435;Bong Joon Ho
 Inside Man;2006;USA;Thriller;tt0454848;7.25;nm0000490;Spike Lee
 Shi Gan (Time);2006;South Korea;Drama;tt0497986;8;nm1104118;Ki-duk Kim
@@ -2411,3 +2413,37 @@ The Return of Godzilla;1984;Japan;Horror;tt9015178;7;nm0368057;Koji Hashimoto
 The Return of the Living Dead;1985;USA;Comedy;tt0089907;7.75;nm0639321;Dan O'Bannon
 Variola Vera;1982;Yoguslavia;Thriller;tt0083275;7.5;nm0548648;Goran Markovic
 Extremities;1986;USA;Thriller;tt0091024;7.5;nm0950001;Robert M. Young
+The Pied Piper of Hamelin;1986;Czechoslovakia;Horror;tt0174834;8;nm0126598;Jirí Barta
+Dead Man's Letters;1986;Russia;SciFi;tt0091759;7.75;nm0520283;Konstantin Lopushanskiy
+Veneno para las Hadas;1986;Mexico;Horror;tt0135033;7.25;nm0846010;Carlos Enrique Taboada
+Trial on the Road;1986;Russia;War;tt0067625;8;nm0314516;Aleksey German
+Mirch Masala;1986;India;Thriller;tt0089599;8.5;nm0576559;Ketan Mehta
+The Terrorizers;1986;Taiwan;Drama;tt0091355;7.75;nm0945981;Edward Yang
+The Big Easy;1986;USA;Comedy;tt0092654;7.5;nm0564319;Jim McBride
+Dust in the Wind;1986;Taiwan;Drama;tt0091406;7.5;nm0396284;Hsiao-Hsien Hou
+Children of a Lesser God;1986;USA;Drama;tt0090830;7.75;nm0354279;Randa Haines
+A Better Tomorrow;1986;Hong Kong;Crime;tt0092263;7.5;nm0000247;John Woo
+The Assault;1986;Netherlands;War;tt0090576;8.25;nm0705444;Fons Rademakers
+She's Gotta Have It;1986;USA;Drama;tt0091939;7.25;nm0000490;Spike Lee
+The Sea and the Poison;1986;Japan;War;tt0092128;8.75;nm0474743;Kei Kumai
+Down by Law;1986;USA;Comedy;tt0090967;7.25;nm0000464;Jim Jarmusch
+In a Glass Cage;1986;Spain;Horror;tt0090197;7.5;nm0898063;Agustí Villaronga
+Hombre Mirando al Sudeste;1986;Argentina;Drama;tt0091214;8;nm0836949;Eliseo Subiela
+Mona Lisa;1986;UK;Crime;tt0091538;8;nm0001403;Neil Jordan
+Tree without Leaves;1986;Japan;Drama;tt0091823;7.5;nm0793881;Kaneto Shindô
+Matador;1986;Spain;Thriller;tt0091495;7;nm0000264;Pedro Almodóvar
+A Time to Live and a Time to Die;1985;Taiwan;Drama;tt0090185;7.5;nm0396284;Hsiao-Hsien Hou
+El Libro de Piedra;1969;Mexico;Horror;tt0242601;7.5;nm0846010;Carlos Enrique Taboada
+What Have They Done to your Daughters;1974;Italy;Crime;tt0072007;7;nm0198014;Massimo Dallamano
+Apart from Life;1970;Japan;Drama;tt0222974;7.25;nm0474743;Kei Kumai
+¿Quién Puede Matar a un Niño?;1976;Spain;Horror;tt0075462;7.75;nm0406654;Narciso Ibáñez Serrador
+Cosa avete fatto a Solange?;1972;Italy;Thriller;tt0068416;7.25;nm0198014;Massimo Dallamano
+The Long Darkness;1972;Japan;Drama;tt0069260;8;nm0474743;Kei Kumai
+The Japanese Archipelago;1969;Japan;Crime;tt0059508;8;nm0474743;Kei Kumai
+Yeelen, Light;1987;Mali;Fantasy;tt0094349;7.25;nm0162878;Souleymane Cissé
+Tomorrow was the War;1987;Russia;Politics;tt0094369;8.75;nm0438671;Yuriy Kara
+The Belly of an Architect;1987;UK;Drama;tt0092637;7;nm0000425;Peter Greenaway
+Sous le Soleil de Satan;1987;France;Drama;tt0094011;7.25;nm0681207;Maurice Pialat
+Pushpaka Vimana;1987;India;Comedy;tt0251355;7.5;nm0801870;Singeetam Srinivasa Rao
+A Chinese Ghost Story;1987;Hong Kong;Fantasy;tt0093978;7;nm0155642;Siu-Tung Ching
+Nayakan;1987;India;Crime;tt0093603;8.25;nm0711745;Mani Ratnam

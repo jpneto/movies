@@ -118,7 +118,7 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score` (blue) and the rest (orange). The list of movies I want to see from 1960-1985 and 2000-2022 is (somewhat) complete. My current goal is to do the same from the remaining years up to the end of the 1990s. *Then* I will move to the 1950s.
+Showing movies with a minimal rating of `r min.score` (blue) and the rest (orange). The list of movies I want to see from 1960-1986 and 2000-2022 is (somewhat) complete. My current goal is to do the same from the remaining years up to the end of the 1990s. *Then* I will move to the 1950s.
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
@@ -544,6 +544,15 @@ abline(fit, col='blue')
     if (language != null && language != "") {
       url = url + "&primary_language=" + language + ",";
     }
+    
+    let keywords = document.forms["imdb"]["keywords"].value;
+    if (keywords != null && keywords != "") {
+      url = url + "&keywords=" + keywords + ",";
+    }
+    
+    if (document.forms["imdb"]["mymovies"].checked) {
+      url = url + "&my_ratings=restrict";    
+    }
        
     // alert(url);
 
@@ -553,18 +562,19 @@ abline(fit, col='blue')
 
 <!-- onsubmit does not reload original page -->
 
+<hr/>
+<p><b>Quick movie search at IMDB</b></p>
 <form name='imdb' onsubmit="return false"> 
-    <label>Search movies at IMDB </label>
-    <input type="submit" value="🎥" onclick="showCityName()" />
-  <br>genres:     <input type="text" id="genres"     name="genre"  size="15"/> (e.g., horror,sci-fi,!animation)
+   genres: <input type="text" id="genres"     name="genre"  size="15"/> <font size=2>(e.g., horror,sci-fi,!animation)</font>
   <br>min rating: <input type="text" id="rating"     name="min_rating" value="7.5" size="5"/>
-  <br>min votes:  <input type="text" id="min_votes"  name="min_votes"  value="1000"  size="5"/>
-  <br>start date: <input type="text" id="start_date" name="start_date" value="2021-01-01" size="10"/>
-      end date:   <input type="text" id="end_date"   name="end_date"   value="2023-12-31" size="10"/>
-  <br><a href="https://help.imdb.com/article/contribution/other-submission-guides/country-codes/G99K4LFRMSC37DCN#" target='_blank'>countries</a>
+  <br>min votes: <input type="text" id="min_votes"  name="min_votes"  value="1000"  size="5"/>
+  <br>date: from <input type="text" id="start_date" name="start_date" value="2021-01-01" size="10"/> to <input type="text" id="end_date"   name="end_date"   value="2023-12-31" size="10"/>
+  <br><a href="https://help.imdb.com/article/contribution/other-submission-guides/country-codes/G99K4LFRMSC37DCN#" target='_blank'>countries:</a>
   <input type="text" id="countries"  name="countries"  value="!pk,!bd,!in,!tr"  size="15"/> 
-  <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" target='_blank'>language</a>
-  <input type="text" id="language"  name="language"  value="" size="10"/> 
+  <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" target='_blank'>
+  language:</a> <input type="text" id="language"  name="language"  value="" size="10"/> 
+  <br>keywords: <input type="text" id="keywords"  name="keywords"  value="" size="10"/> <font size=2>(e.g., superhero,!marvel)</font>
+  <br>just my movies: <input type="checkbox" id="mymovies" name="mymovies" />
+  <br><input type="submit" value="Search 🎥" onclick="showCityName()" /> <font size=2>[<a href="https://www.imdb.com/search/title/" target='_blank'>advanced search</a>]</font>
 </form>
-
-<br>
+<hr/>
