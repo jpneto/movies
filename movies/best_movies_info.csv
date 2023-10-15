@@ -1,4 +1,8 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Anatomie d'une Chute;2023;France;Drama;tt17009710;8.5;nm2630323;Justine Triet
+The Conference;2022;Germany;Historical;tt14321668;7;nm0315117;Matti Geschonneck
+The Bone Woman;2022;Mexico;Horror;tt11718516;7.25;nm5582325;Michelle Garza Cervera
+Totally Killer;2023;USA;Comedy;tt11426232;7;nm0451274;Nahnatchka Khan
 The Wonderful Story of Henry Sugar;2023;UK;Comedy;tt16968450;8.5;nm0027572;Wes Anderson
 Barbie;2023;USA;Fantasy;tt1517268;8;nm1950086;Greta Gerwig
 Talk to Me;2022;USA;Horror;tt10638522;8;nm4053334;Danny Philippou
@@ -126,7 +130,7 @@ You Won't Be Alone;2022;Serbia;Horror;tt8296030;7.75;nm3301836;Goran Stolevski
 The Northman;2022;USA;Action;tt11138512;8.25;nm3211470;Robert Eggers
 The Batman;2022;USA;Action;tt1877830;7.75;nm0716257;Matt Reeves
 Against the Ice;2022;Denmark;Historical;tt13873302;7.5;nm0282425;Peter Flinth
-X;2022;USA;Horror;tt13560574;8;nm1488800;Ti West
+X;2022;USA;Horror;tt13560574;7.75;nm1488800;Ti West
 You Are Not My Mother;2021;Ireland;Horror;tt10406596;7;nm3951005;Kate Dolan
 After Yang;2021;USA;SciFi;tt8633464;7.75;nm3226379;Kogonada
 Madres Paralelas;2021;Spain;Drama;tt12618926;7.75;nm0000264;Pedro Almodóvar
@@ -513,6 +517,7 @@ Vera Drake;2004;UK;Drama;tt0383694;8.75;nm0005139;Mike Leigh
 Kill Bill vol.2;2004;USA;Action;tt0378194;8.75;nm0000233;Quentin Tarantino
 Der Untergang;2004;Germany;War;tt0363163;9.25;nm0386570;Oliver Hirschbiegel
 Haute tension;2003;France;Horror;tt0338095;7;nm0014960;Alexandre Aja
+Finding Nemo;2003;USA;Comedy;tt0266543;7.25;nm0004056;Andrew Stanton
 Lost in Translation;2003;USA;Drama;tt0335266;7;nm0001068;Sofia Coppola
 A Tale of Two Sisters;2003;USA;Horror;tt0365376;7;nm0453518;Jee-woon Kim
 21 Grams;2003;USA;Drama;tt0315733;8;nm0327944;Alejandro G. Iñárritu
@@ -781,6 +786,7 @@ Once Upon a Time in America;1984;USA;Drama;tt0087843;8.5;nm0001466;Sergio Leone
 The Terminator;1984;USA;SciFi;tt0088247;8.5;nm0000116;James Cameron
 Amadeus;1984;USA;Historical;tt0086879;9.25;nm0001232;Milos Forman
 The Day After;1983;UK;Dystopia;tt0085404;8;nm0583292;Nicholas Meyer
+The Big Chill;1983;USA;Drama;tt0085244;7;nm0001410;Lawrence Kasdan
 Videodrome;1983;USA;SciFi;tt0086541;8;nm0000343;David Cronenberg
 Return of the Jedi;1983;USA;Fantasy;tt0086190;8;nm0549658;Richard Marquand
 The Meaning of Life;1983;UK;Comedy;tt0085959;8;nm0001402.nm0000416;Terry Gilliam
@@ -2447,3 +2453,33 @@ Sous le Soleil de Satan;1987;France;Drama;tt0094011;7.25;nm0681207;Maurice Piala
 Pushpaka Vimana;1987;India;Comedy;tt0251355;7.5;nm0801870;Singeetam Srinivasa Rao
 A Chinese Ghost Story;1987;Hong Kong;Fantasy;tt0093978;7;nm0155642;Siu-Tung Ching
 Nayakan;1987;India;Crime;tt0093603;8.25;nm0711745;Mani Ratnam
+Hibiscus Town;1987;China;Drama;tt0087301;8.5;nm0944527;Jin Xie
+Maurice;1987;UK;Drama;tt0093512;7.25;nm0412465;James Ivory
+Gardens of Stone;1987;USA;War;tt0093073;7;nm0000338;Francis Ford Coppola
+Broadcast News;1987;USA;Comedy;tt0092699;8;nm0000985;James L. Brooks
+L'Ami de mon Amie;1987;France;Comedy;tt0092550;7;nm0006445;Éric Rohmer
+Blind Chance;1987;Poland;Politics;tt0084549;7.75;nm0001425;Krzysztof Kieslowski
+La Ley del Deseo;1987;Spain;Drama;tt0093412;7.25;nm0000264;Pedro Almodóvar
+The Castle of Cagliostro;1979;Japan;Action;tt0079833;7.25;nm0594503;Hayao Miyazaki
+Le Souffle au Coeur;1971;France;Comedy;tt0067778;8.25;nm0001501;Louis Malle
+Teahouse;1982;China;Drama;tt1395030;7.5;nm1303218;Tian Xie
+Terms of Endearment;1983;USA;Comedy;tt0086425;8.25;nm0000985;James L. Brooks
+Mountain Patrol;2004;China;Historical;tt0386651;8.75;nm1283651;Chuan Lu
+Requiem;2006;Germany;Drama;tt0454931;7.5;nm0772691;Hans-Christian Schmid
+Raven's End;1963;Sweden;Drama;tt0057237;7.5;nm0927090;Bo Widerberg
+Otesánek, Little Otik;1963;Czech Republic;Horror;tt0228687;7.5;nm0840905;Jan Svankmajer
+Atanarjuat, The Fast Runner;2001;Canada;Drama;tt0285441;7.75;nm0994348;Zacharias Kunuk
+The Sea is Watching;2002;Japan;Drama;tt0316829;7;nm0474743;Kei Kumai
+Fido;2006;USA;Comedy;tt0457572;7.5;nm0192933;Andrew Currie
+The Message;1976;Lebanon;Historical;tt0074896;7.5;nm0002160;Moustapha Akkad
+Almost Famous;2000;USA;Drama;tt0181875;8.25;nm0001081;Cameron Crowe
+Pin;1988;USA;Horror;tt0095871;7;nm0827839;Sandor Stern
+Une Affaire de Femmes;1988;France;Drama;tt0096336;8.25;nm0001031;Claude Chabrol
+Bird;1988;USA;Drama;tt0094747;7;nm0000142;Clint Eastwood
+Landscape on the Mist;1988;Greece;Drama;tt0096288;7.75;nm0000766;Theodoros Angelopoulos
+Betrayed;1988;USA;Thriller;tt0094731;7;nm0002020;Costa-Gavras
+Patty Hearst;1988;USA;Historical;tt0095836;7.25;nm0001707;Paul Schrader
+Things Change;1988;USA;Comedy;tt0096259;7.5;nm0000519;David Mamet
+The Beast;1988;USA;War;tt0094716;7.75;nm0721817;Kevin Reynolds
+Torch Song Trilogy;1988;USA;Drama;tt0096289;9;nm0091575;Paul Bogart
+Beautiful City;2004;Iran;Drama;tt0424434;7.5;nm1410815;Asghar Farhadi
