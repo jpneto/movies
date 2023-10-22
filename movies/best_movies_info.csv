@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Paradise;2023;Germany;SciFi;tt21308888;7;nm2853069;Boris Kunz
 Anatomie d'une Chute;2023;France;Drama;tt17009710;8.5;nm2630323;Justine Triet
 The Conference;2022;Germany;Historical;tt14321668;7;nm0315117;Matti Geschonneck
 The Bone Woman;2022;Mexico;Horror;tt11718516;7.25;nm5582325;Michelle Garza Cervera
@@ -327,6 +328,7 @@ Song of the Sea;2014;Ireland;Fantasy;tt1865505;8;nm1119079;Tomm Moore
 Ex Machina;2014;USA;SciFi;tt0470752;8.5;nm0307497;Alex Garland
 It Follows;2014;USA;Horror;tt3235888;8.75;nm1379002;David Robert Mitchell
 Gravity;2013;USA;Action;tt1454468;8;nm0190859;Alfonso Cuarón
+The Wolf of Wall Street;2013;USA;Crime;tt0993846;7;nm0000217;Martin Scorsese
 Under the Skin;2013;UK;Horror;tt1441395;7.5;nm0322242;Jonathan Glazer
 Enemy;2013;Canada;Drama;tt2316411;8;nm0898288;Denis Villeneuve
 Inside Llewyn Davis;2013;USA;Musical;tt2042568;7.5;nm0001054.nm0001053;Cohen Brothers
@@ -2194,7 +2196,7 @@ Blue Valentine;2010;USA;Drama;tt1120985;7.5;nm0161834;Derek Cianfrance
 Joaquim;2017;Brazil;Historical;tt4895628;7;nm1103123;Marcelo Gomes
 Young Frankenstein;1974;USA;Comedy;tt0072431;7.75;nm0000316;Mel Brooks
 Edvard Munch;1974;Sweden;Historical;tt0074462;7;nm0914386;Peter Watkins
-Brother nº8;1974;Japan;Drama;tt0073654;8.25;nm0474743;Kei Kumai
+Brothel nº8;1974;Japan;Drama;tt0073654;8.25;nm0474743;Kei Kumai
 The Odessa File;1974;UK;Thriller;tt0071935;7.5;nm0623768;Ronald Neame
 Lacombe Lucien;1974;France;Politics;tt0071733;8.25;nm0001501;Louis Malle
 Swept Away;1974;Italy;Politics;tt0073817;8.75;nm0921631;Lina Wertmüller
@@ -2483,3 +2485,18 @@ Things Change;1988;USA;Comedy;tt0096259;7.5;nm0000519;David Mamet
 The Beast;1988;USA;War;tt0094716;7.75;nm0721817;Kevin Reynolds
 Torch Song Trilogy;1988;USA;Drama;tt0096289;9;nm0091575;Paul Bogart
 Beautiful City;2004;Iran;Drama;tt0424434;7.5;nm1410815;Asghar Farhadi
+The Pumpkin Eater;1964;UK;Drama;tt0058500;7;nm0002338;Jack Clayton
+Dead Calm;1989;Australia;Thriller;tt0097162;7.25;nm0637518;Phillip Noyce
+O Sangue;1989;Portugal;Drama;tt0098252;7;nm0182276;Pedro Costa
+Splendor;1989;Italy;Drama;tt0096160;7.25;nm0778633;Ettore Scola
+Rojo Amanecer;1989;Mexico;Historical;tt0098214;8.25;nm0284639;Jorge Fons
+Rikyû;1989;Japan;Historical;tt0098204;7.75;nm0856267;Hiroshi Teshigahara
+Drugstore Cowboy;1989;USA;Drama;tt0097240;7.75;nm0001814;Gus Van Sant
+A Dry White Season;1989;South Africa;Politics;tt0097243;7.5;nm0657484;Euzhan Palcy
+Fat Man and Little Boy;1989;USA;Historical;tt0097336;7;nm0423646;Roland Joffé
+The Interrogation;1989;Poland;Historical;tt0084548;8.75;nm0003794;Ryszard Bugajski
+Death of a Tea Master;1989;Japan;Drama;tt0098287;7.75;nm0474743;Kei Kumai
+Distant Voices, Still Lives;1988;UK;Drama;tt0095037;7.5;nm0203993;Terence Davies
+The Fabulous Baker Boys;1989;USA;Drama;tt0097322;7.5;nm0460141;Steve Kloves
+'night, Mother;1986;USA;Drama;tt0090556;8.75;nm0601963;Tom Moore
+State Buoni se Potete;1983;Italy;Comedy;tt0086358;8;nm0536238;Luigi Magni
