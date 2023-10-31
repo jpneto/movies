@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Hermana Muerte;2023;Spain;Horror;tt19175696;7.25;nm0687042;Paco Plaza
 Paradise;2023;Germany;SciFi;tt21308888;7;nm2853069;Boris Kunz
 Anatomie d'une Chute;2023;France;Drama;tt17009710;8.5;nm2630323;Justine Triet
 The Conference;2022;Germany;Historical;tt14321668;7;nm0315117;Matti Geschonneck
@@ -833,7 +834,7 @@ Being There;1979;UK;Drama;tt0078841;8.5;nm0000797;Hal Ashby
 Life of Brian;1979;UK;Comedy;tt0079470;8.75;nm0001402;Terry Jones
 Apocalypse Now;1979;USA;War;tt0078788;9.5;nm0000338;Francis Ford Coppola
 The Lord of the Rings;1978;USA;Fantasy;tt0077869;7.25;nm0000835;Ralph Bakshi
-Halloween;1978;USA;Horror;tt0077651;8;nm0000118;John Carpenter
+Halloween;1978;USA;Horror;tt0077651;8.25;nm0000118;John Carpenter
 Dawn of the Dead;1978;USA;Horror;tt0363547;7.75;nm0001681;George A. Romero
 The Boys from Brazil;1978;USA;Thriller;tt0077269;7.5;nm0769874;Franklin J. Schaffner
 Invasion of the Body Snatchers;1978;USA;SciFi;tt0077745;7.75;nm0442241;Philip Kaufman
@@ -2504,3 +2505,16 @@ Atlantic City;1980;USA;Crime;tt0080388;7.5;nm0001501;Louis Malle
 Victor/Victoria;1982;UK;Comedy;tt0084865;7.75;nm0001175;Blake Edwards
 Tri;1965;Yoguslavia;War;tt0059829;7.75;nm0678249;Aleksandar Petrovic
 The Man from Earth;2007;USA;Fantasy;tt0756683;8;nm0770942;Richard Schenkman
+Lone Wolf and Cub, at River Styx;1972;Japan;Fantasy;tt0068816;7.5;nm0593014;Kenji Misumi
+Family Life;1971;UK;Drama;tt0068569;8;nm0516360;Ken Loach
+Crime and Punishment;1970;Russia;Drama;tt0064839;8.25;nm0474528;Lev Kulidzhanov
+Love and Anarchy;1973;Italy;Drama;tt0070061;8;nm0921631;Lina Wertmüller
+The Judge and the Assassin;1976;France;Drama;tt0073219;8.5;nm0851724;Bertrand Tavernier
+The Man Who Stole the Sun;1979;Japan;Comedy;tt0194426;8.25;nm0367926;Kazuhiko Hasegawa
+Man on the Roof;1976;Sweden;Crime;tt0074857;7.5;nm0927090;Bo Widerberg
+Fantozzi;1975;Italy;Comedy;tt0071486;7.5;nm0757790;Luciano Salce
+Samurai Banners;1969;Japan;Drama;tt0064353;7;nm0408348;Hiroshi Inagaki
+Alanis;2017;Argentina;Drama;tt7297954;7.25;nm1318393;Anahí Berneri
+Madar, Mother;1990;Iran;Drama;tt0102369;7.5;nm0368688;Ali Hatami
+Mathilukal, The Walls;1990;India;Drama;7.5;nm0329715;Adoor Gopalakrishnan
+Night of the Living Dead;1990;USA;Horror;7.75;nm0767741;Tom Savini
