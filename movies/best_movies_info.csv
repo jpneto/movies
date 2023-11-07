@@ -1,8 +1,9 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Hell House, The Carmichael Manor;2023;USA;Horror;tt22796890;7;nm3192191;Stephen Cognetti
 Hermana Muerte;2023;Spain;Horror;tt19175696;7.25;nm0687042;Paco Plaza
 Paradise;2023;Germany;SciFi;tt21308888;7;nm2853069;Boris Kunz
 Anatomie d'une Chute;2023;France;Drama;tt17009710;8.5;nm2630323;Justine Triet
-The Conference;2022;Germany;Historical;tt14321668;7;nm0315117;Matti Geschonneck
+The Conference;2022;Germany;Historical;tt14321668;7.25;nm0315117;Matti Geschonneck
 The Bone Woman;2022;Mexico;Horror;tt11718516;7.25;nm5582325;Michelle Garza Cervera
 Totally Killer;2023;USA;Comedy;tt11426232;7;nm0451274;Nahnatchka Khan
 The Wonderful Story of Henry Sugar;2023;UK;Comedy;tt16968450;8.5;nm0027572;Wes Anderson
@@ -2516,8 +2517,15 @@ Fantozzi;1975;Italy;Comedy;tt0071486;7.5;nm0757790;Luciano Salce
 Samurai Banners;1969;Japan;Drama;tt0064353;7;nm0408348;Hiroshi Inagaki
 Alanis;2017;Argentina;Drama;tt7297954;7.25;nm1318393;Anahí Berneri
 Madar, Mother;1990;Iran;Drama;tt0102369;7.5;nm0368688;Ali Hatami
-Mathilukal, The Walls;1990;India;Drama;7.5;nm0329715;Adoor Gopalakrishnan
-Night of the Living Dead;1990;USA;Horror;7.75;nm0767741;Tom Savini
+Mathilukal, The Walls;1990;India;Drama;tt0097851;7.5;nm0329715;Adoor Gopalakrishnan
+Night of the Living Dead;1990;USA;Horror;tt0100258;7.75;nm0767741;Tom Savini
 Mindwalk;1990;USA;Politics;tt0100151;8.5;nm0003464;Bernt Amadeus Capra
 The Two Jakes;1990;USA;Crime;tt0100828;7;nm0000197;Jack Nicholson
 Stanno tutti Bene;1990;Italy;Drama;tt0100681;8;nm0868153;Giuseppe Tornatore
+State of Grace;1990;USA;Crime;tt0100685;7.25;nm0423333;Phil Joanou
+The Juniper Tree;1990;Iceland;Fantasy;tt0138545;7.25;nm0444729;Nietzchka Keene
+Il Viaggio di Capitan Fracassa;1990;Italy;Drama;tt0103203;8;nm0778633;Ettore Scola
+An Angel at My Table;1990;New Zealand;Drama;tt0099040;8;nm0001005;Jane Campion
+Presumed Innocent;1990;USA;Crime;tt0100404;7.5;nm0001587;Alan J. Pakula
+I Hired a Contract Killer;1990;Finland;Comedy;tt0099818;7;nm0442454;Aki Kaurismäki
+Trust;1990;USA;Drama;tt0103130;7.75;nm0001325;Hal Hartley

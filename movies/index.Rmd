@@ -505,7 +505,7 @@ abline(fit, col='blue')
 
 <script>
   function showCityName() { 
-    let url = "https://www.imdb.com/search/title/?title_type=feature&view=simple&sort=num_votes,desc";
+    let url = "https://www.imdb.com/search/title/?title_type=feature&sort=num_votes,desc";
     
     let genre = document.forms["imdb"]["genre"].value;
     if (genre != null && genre != "") {
@@ -525,13 +525,13 @@ abline(fit, col='blue')
     let start_date = document.forms["imdb"]["start_date"].value;
     let end_date   = document.forms["imdb"]["end_date"].value;
     if (start_date != null && start_date != "") {
-      url = url + "&year=" + start_date + ",";   // start at start date
+      url = url + "&release_date=" + start_date + ",";   // start at start date
       if (end_date != null && end_date != "") {   
         url = url + end_date                     // define end date
       }
     } else {
       if (end_date != null && end_date != "") {  // upto end date
-        url = url + "&year=," + end_date
+        url = url + "&release_date=," + end_date
       }
     }
 
@@ -552,8 +552,12 @@ abline(fit, col='blue')
     
     if (document.forms["imdb"]["mymovies"].checked) {
       url = url + "&my_ratings=restrict";    
+    } else {
+      if (document.forms["imdb"]["notmymovies"].checked) {
+        url = url + "&my_ratings=exclude";    
+      }
     }
-       
+    
     // alert(url);
 
     window.open(url, "_blank");  // open new tab in browser
@@ -564,17 +568,15 @@ abline(fit, col='blue')
 
 <hr/>
 <p><b>Quick movie search at IMDB</b></p>
-<form name='imdb' onsubmit="return false"> 
-   genres: <input type="text" id="genres"     name="genre"  size="15"/> <font size=2>(e.g., horror,sci-fi,!animation)</font>
-  <br>min rating: <input type="text" id="rating"     name="min_rating" value="7.5" size="5"/>
-  <br>min votes: <input type="text" id="min_votes"  name="min_votes"  value="1000"  size="5"/>
-  <br>date: from <input type="text" id="start_date" name="start_date" value="2021-01-01" size="10"/> to <input type="text" id="end_date"   name="end_date"   value="2023-12-31" size="10"/>
-  <br><a href="https://help.imdb.com/article/contribution/other-submission-guides/country-codes/G99K4LFRMSC37DCN#" target='_blank'>countries:</a>
-  <input type="text" id="countries"  name="countries"  value="!pk,!bd,!in,!tr"  size="15"/> 
-  <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" target='_blank'>
-  language:</a> <input type="text" id="language"  name="language"  value="" size="10"/> 
-  <br>keywords: <input type="text" id="keywords"  name="keywords"  value="" size="10"/> <font size=2>(e.g., superhero,!marvel)</font>
-  <br>just my movies: <input type="checkbox" id="mymovies" name="mymovies" />
-  <br><input type="submit" value="Search 🎥" onclick="showCityName()" /> <font size=2>[<a href="https://www.imdb.com/search/title/" target='_blank'>advanced search</a>]</font>
+<form name="imdb" onsubmit="return false">
+genres: <input type="text" id="genres" name="genre" size="20" value="!documentary"></input> <font size="2">(e.g., horror,sci-fi,!animation,!documentary)</font> <br>
+min rating: <input type="text" id="rating" name="min_rating" value="7.5" size="5"></input> <br>
+min votes: <input type="text" id="min_votes" name="min_votes" value="1000" size="5"></input> <br>
+date: from <input type="text" id="start_date" name="start_date" value="2021-01-01" size="10"></input> to <input type="text" id="end_date" name="end_date" value="2023-12-31" size="10"></input> <br>
+<a href="https://help.imdb.com/article/contribution/other-submission-guides/country-codes/G99K4LFRMSC37DCN#" target="_blank">countries:</a> <input type="text" id="countries" name="countries" value="!pk,!bd,!in,!tr" size="15"></input> <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank"> language:</a> <input type="text" id="language" name="language" value size="10"></input> <br>
+keywords: <input type="text" id="keywords" name="keywords" value size="10"></input> <font size="2">(e.g., superhero,!marvel)</font> <br>
+just my movies: <input type="checkbox" id="mymovies" name="mymovies"></input> <br>
+not my movies: <input type="checkbox" id="notmymovies" name="notmymovies"></input> <br>
+<input type="submit" value="Search 🎥" onclick="showCityName()"></input> <font size="2">[<a href="https://www.imdb.com/search/title/" target="_blank">advanced search</a>]</font>
 </form>
 <hr/>
