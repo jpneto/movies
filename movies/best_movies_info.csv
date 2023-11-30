@@ -1,4 +1,7 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+When Evil Lurks;2023;Argentina;Horror;tt16300962;7;nm1899608;Demián Rugna
+Fair Play;2023;USA;Drama;tt16304446;7;nm2132542;Chloe Domont
+The Killer;2023;USA;Crime;tt1136617;7.5;nm0000399;David Fincher
 Hell House, The Carmichael Manor;2023;USA;Horror;tt22796890;7;nm3192191;Stephen Cognetti
 Hermana Muerte;2023;Spain;Horror;tt19175696;7.25;nm0687042;Paco Plaza
 Paradise;2023;Germany;SciFi;tt21308888;7;nm2853069;Boris Kunz
@@ -267,6 +270,7 @@ Logan;2017;USA;Action;tt3315342;8.25;nm0003506;James Mangold
 Wind River;2017;USA;Thriller;tt5362988;8.5;nm0792263;Taylor Sheridan
 Blade Runner 2049;2017;USA;SciFi;tt1856101;9.5;nm0898288;Denis Villeneuve
 The Wailing;2016;South Korea;Horror;tt5215952;7;nm2947553;Hong-jin Na
+Shin Gojira;2016;Japan;Horror;tt4262980;7.25;nm0030417;Hideaki Anno
 São Jorge;2016;Portugal;Drama;tt4895668;7.25;nm0554076;Marco Martins
 Imperium;2016;USA;Thriller;tt4781612;7;nm2495732;Daniel Ragussis
 Julieta;2016;Spain;Drama;tt4326444;7.25;nm0000264;Pedro Almodóvar
@@ -712,12 +716,13 @@ The Godfather: Part III;1990;USA;Drama;tt0099674;8;nm0000338;Francis Ford Coppol
 Wild at Heart;1990;USA;Drama;tt0100935;8;nm0000186;David Lynch
 Miller's Crossing;1990;USA;Crime;tt0100150;9;nm0001054.nm0001053;Cohen Brothers
 Goodfellas;1990;USA;Crime;tt0099685;9;nm0000217;Martin Scorsese
-Cyrano de Bergerac;1990;France;Historical;tt0099334;9;nm0710919;Jean-Paul Rappeneau
+Cyrano de Bergerac;1990;France;Historical;tt0099334;9.25;nm0710919;Jean-Paul Rappeneau
 Dances with Wolves;1990;USA;Western;tt0099348;7.5;nm0000126;Kevin Costner
 The Exorcist III;1990;USA;Horror;tt0099528;8.25;nm0087861;William Peter Blatty
 Misery;1990;USA;Horror;tt0100157;8.5;nm0001661;Rob Reiner
 Rosencrantz & Guildenstern Are Dead;1990;UK;Comedy;tt0100519;8.75;nm0001779;Tom Stoppard
 The Abyss;1989;USA;SciFi;tt0096754;7.25;nm0000116;James Cameron
+Metamorphosis;1989;UK;Drama;tt0093530;7.75;nm0323795;Jim Goddard
 Recordações da Casa Amarela;1989;Portugal;Drama;tt0098175;7.75;nm0599214;João César Monteiro
 Dead Poets Society;1989;UK;Drama;tt0097165;8;nm0001837;Peter Weir
 Crimes and Misdemeanors;1989;USA;Thriller;tt0097123;8;nm0000095;Woody Allen
@@ -2530,3 +2535,37 @@ Presumed Innocent;1990;USA;Crime;tt0100404;7.5;nm0001587;Alan J. Pakula
 I Hired a Contract Killer;1990;Finland;Comedy;tt0099818;7;nm0442454;Aki Kaurismäki
 Trust;1990;USA;Drama;tt0103130;7.75;nm0001325;Hal Hartley
 La Gloire de mon Père;1990;France;Drama;tt0099669;7.25;nm0002216;Yves Robert
+Hidden Agenda;1990;UK;Politics;tt0099768;7.5;nm0516360;Ken Loach
+The Nasty Girl;1990;Germany;Politics;tt0100557;7.75;nm0894201;Michael Verhoeven
+Reversal of Fortune;1990;USA;Crime;tt0100486;7.5;nm0775447;Barbet Schroeder
+Mon Père, le Diable;2021;France;Thriller;tt13892558;7.75;nm3203018;Ellie Foumbi
+Crime and Punishment;2002;UK;Drama;tt0307734;7.5;nm0418982;Julian Jarrold
+Blind Shaft;2003;China;Drama;tt0351299;7.25;nm1317258;Yang Li
+I still didn't do it;2006;Japan;Drama;tt0794350;7.75;nm0839397;Masayuki Suô
+A Vida Invisível;2019;Brazil;Drama;tt6390668;7.5;nm0014694;Karim Aïnouz
+9;2002;Turkey;Crime;tt0342012;7.25;nm0880928;Ümit Ünal
+Monsieur Ibrahim;2003;France;Drama;tt0329388;7.5;nm0243191;François Dupeyron
+La Belle Noiseuse;1991;France;Drama;tt0101428;7.5;nm0729626;Jacques Rivette
+Rhapsody in August;1991;Japan;Drama;tt0101991;7;nm0000041;Akira Kurosawa
+Jungle Fever;1991;USA;Drama;tt0102175;7;nm0000490;Spike Lee
+Urga;1991;Russia;Drama;tt0103176;8;nm0586482;Nikita Mikhalkov
+Tous les Matins du Monde;1991;France;Drama;tt0103110;9;nm0006734;Alain Corneau
+El Rey Pasmado;1991;Spain;Comedy;tt0102788;7;nm0881919;Imanol Uribe
+A Scene at the Sea;1991;Japan;Drama;tt0103704;7;nm0001429;Takeshi Kitano
+Homicide;1991;USA;Thriller;tt0102048;7;nm0000519;David Mamet
+Riff-Raff;1991;UK;Comedy;tt0100491;7.5;nm0516360;Ken Loach
+Les Amants du Pont-Neuf;1991;France;Drama;tt0101318;7.5;nm0136021;Leos Carax
+Agantuk;1991;India;Drama;tt0101279;7.75;nm0006249;Satyajit Ray
+The Rainbow Kids;1991;Japan;Comedy;tt0101648;7.5;nm0645477;Kihachi Okamoto
+The Commitments;1991;Ireland;Comedy;tt0101605;8.25;nm0000570;Alan Parker
+Histoire Immortelle;1968;France;Drama;tt0063127;7.25;nm0000080;Orson Welles
+Simón del Desierto;1965;Mexico;Fantasy;tt0059719;7.75;nm0000320;Luis Buñuel
+Flirting;1991;Australia;Drama;tt0101898;8;nm0241090;John Duigan
+My Own Private Idaho;1991;USA;Drama;tt0102494;7.25;nm0001814;Gus Van Sant
+La Prisonnière;1968;France;Drama;tt0063458;7.75;nm0167241;Henri-Georges Clouzot
+Le Couperet;2005;France;Comedy;tt0422015;7.75;nm0002020;Costa-Gavras
+Out of the Blue;1980;USA;Drama;tt0081291;7.5;nm0000454;Dennis Hopper
+Human Promise;1986;Japan;Drama;tt0169085;7.25;nm0948950;Yoshishige Yoshida
+Malcolm X;1992;USA;Historical;tt0104797;8.75;nm0000490;Spike Lee
+Pigs;1992;Poland;Crime;tt0105185;7.5;nm0664582;Wladyslaw Pasikowski
+Rebels of the Neon God;1992;Taiwan;Drama;tt0103935;7.25;nm0158857;Tsai Ming-liang
