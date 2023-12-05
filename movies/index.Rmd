@@ -118,7 +118,7 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score+1` (blue) and the rest (orange). The list of movies I want to see from 1960-1990 and 2000-2022 is (somewhat) complete. My current goal is to complete the list up to the end of the 1990s. *Then* I will move to the 1950s.
+Showing movies with a minimal rating of `r min.score+1` (blue) and the rest (orange). The list of movies I want to see from 1960-1992 and 2000-2022 is (somewhat) complete. My current goal is to complete the list up to the end of the 1990s. *Then* I will move to the 1950s.
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 

@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Holdovers;2023;USA;Comedy;tt14849194;7.5;nm0668247;Alexander Payne
 When Evil Lurks;2023;Argentina;Horror;tt16300962;7;nm1899608;Demián Rugna
 Fair Play;2023;USA;Drama;tt16304446;7;nm2132542;Chloe Domont
 The Killer;2023;USA;Crime;tt1136617;7.5;nm0000399;David Fincher
@@ -224,7 +225,7 @@ Avengers: Infinity War;2018;USA;Action;tt4154756;7.75;nm0751577;Anthony Russo
 Solo: A Star Wars Story;2018;USA;Action;tt3778644;7.25;nm0000165;Ron Howard
 Dylda, aka Beanpole;2019;Russia;Drama;tt10199640;7.5;nm8921482;Kantemir Balagov
 Mandy;2018;USA;Horror;tt6998518;7.25;nm0181903;Panos Cosmatos
-Annihilation;2018;USA;Horror;tt2798920;7;nm0307497;Alex Garland
+Annihilation;2018;USA;Horror;tt2798920;7.5;nm0307497;Alex Garland
 A Simple Favor;2018;USA;Thriller;tt7040874;7;nm0082450;Paul Feig
 Upgrade;2018;USA;Action;tt6499752;7;nm1191481;Leigh Whannell
 Hereditary;2018;USA;Horror;tt7784604;8.5;nm4170048;Ari Aster
@@ -2569,3 +2570,16 @@ Human Promise;1986;Japan;Drama;tt0169085;7.25;nm0948950;Yoshishige Yoshida
 Malcolm X;1992;USA;Historical;tt0104797;8.75;nm0000490;Spike Lee
 Pigs;1992;Poland;Crime;tt0105185;7.5;nm0664582;Wladyslaw Pasikowski
 Rebels of the Neon God;1992;Taiwan;Drama;tt0103935;7.25;nm0158857;Tsai Ming-liang
+Luminous Moss;1992;Japan;Drama;tt0104420;7;nm0474743;Kei Kumai
+My Cousin Vinny;1992;USA;Comedy;tt0104952;7.25;nm0528718;Jonathan Lynn
+And Life goes on;1992;Iran;Drama;tt0105888;7;nm0452102;Abbas Kiarostami
+Chaplin;1992;UK;Drama;tt0103939;7.25;nm0000277;Richard Attenborough
+Daens;1992;Belgium;Historical;tt0104046;7.75;nm0174659;Stijn Coninx
+Howards End;1992;UK;Drama;tt0104454;7.25;nm0412465;James Ivory
+Bitter Moon;1992;UK;Thriller;tt0104779;7.25;nm0000591;Roman Polanski
+The Best Intentions;1992;Sweden;Drama;tt0104350;8.5;nm0000806;Bille August
+Roja;1992;India;Drama;tt0105271;7.5;nm0711745;Mani Ratnam
+One False Move;1992;USA;Crime;tt0102592;8;nm0002083;Carl Franklin
+Un Lugar en el Mundo;1992;Argentina;Drama;tt0104774;7.75;nm0034899;Adolfo Aristarain
+The Boys of St. Vincent;1992;Canada;Historical;tt0106473;8;nm0808807;John N. Smith
+L'Amant;1992;France;Erotic;tt0101316;7;nm0000269;Jean-Jacques Annaud
