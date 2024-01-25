@@ -1,5 +1,18 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+About Dry Grasses;2023;Turkey;Drama;tt13231544;8.5;nm0149196;Nuri Bilge Ceylan
+Lo Capitano;2023;Italy;Drama;tt14225838;8.25;nm0308520;Matteo Garrone
+L'ultima Notte di Amore;2023;Italy;Crime;tt20465746;8;nm0224331;Andrea Di Stefano
+Monster;2023;Japan;Drama;tt23736044;8;nm0466153;Hirokazu Koreeda
+La Sociedad de la Nieve;2023;Uruguay;Historical;tt16277242;7.5;nm1291105;J.A. Bayona
+Bastarden;2023;Denmark;Drama;tt20561198;7.5;nm1064048;Nikolaj Arcel
+May December;2023;USA;Drama;tt13651794;7.5;nm0001331;Todd Haynes
+Fallen Leaves;2023;Finland;Comedy;tt21027780;7.75;nm0442454;Aki Kaurismäki
+Saltburn;2023;UK;Thriller;tt17351924;8;nm2193504;Emerald Fennell
+Godzilla minus One;2023;Japan;Drama;tt23289160;8.75;nm0945724;Takashi Yamazaki
+Cerrar los Ojos;2023;Spain;Drama;tt21284358;7.75;nm0258977;Víctor Erice
+Dream Scenario;2023;USA;Horror;tt21942866;7.25;nm5589501;Kristoffer Borgli
 Aporia;2023;USA;SciFi;tt8511466;7;nm1474337;Jared Moshe
+The Boy and the Heron;2023;Japan;Fantasy;tt6587046;7;nm0594503;Hayao Miyazaki
 Leave the World Behind;2023;USA;Thriller;tt12747748;8.25;nm1322753;Sam Esmail
 Killers of the Flower Moon;2023;USA;Crime;tt5537002;7.5;nm0000217;Martin Scorsese
 The Holdovers;2023;USA;Comedy;tt14849194;7.5;nm0668247;Alexander Payne
@@ -9,7 +22,7 @@ The Killer;2023;USA;Crime;tt1136617;7.5;nm0000399;David Fincher
 Hell House, The Carmichael Manor;2023;USA;Horror;tt22796890;7;nm3192191;Stephen Cognetti
 Hermana Muerte;2023;Spain;Horror;tt19175696;7.25;nm0687042;Paco Plaza
 Paradise;2023;Germany;SciFi;tt21308888;7;nm2853069;Boris Kunz
-Anatomie d'une Chute;2023;France;Drama;tt17009710;8.5;nm2630323;Justine Triet
+Anatomie d'une Chute;2023;France;Drama;tt17009710;8.75;nm2630323;Justine Triet
 The Conference;2022;Germany;Historical;tt14321668;7.25;nm0315117;Matti Geschonneck
 The Bone Woman;2022;Mexico;Horror;tt11718516;7.25;nm5582325;Michelle Garza Cervera
 Totally Killer;2023;USA;Comedy;tt11426232;7;nm0451274;Nahnatchka Khan
@@ -782,7 +795,7 @@ Platoon;1986;USA;War;tt0091763;8.5;nm0000231;Oliver Stone
 Hannah and Her Sisters;1986;USA;Drama;tt0091167;8.5;nm0000095;Woody Allen
 The Mission;1986;USA;Historical;tt0091530;8.75;nm0423646;Roland Joffé
 Agnes of God;1985;USA;Drama;tt0088683;7;nm0422484;Norman Jewison
-Back to the Future;1985;USA;Comedy;tt0088763;8;nm0000709;Robert Zemeckis
+Back to the Future;1985;USA;Comedy;tt0088763;8.25;nm0000709;Robert Zemeckis
 Brazil;1985;UK;Dystopia;tt0088846;9;nm0000416;Terry Gilliam
 Come and See;1985;Russia;War;tt0091251;9;nm0459552;Elem Klimov
 Ran;1985;Japan;Samurai;tt0089881;9;nm0000041;Akira Kurosawa
@@ -2588,3 +2601,77 @@ The Boys of St. Vincent;1992;Canada;Historical;tt0106473;8;nm0808807;John N. Smi
 L'Amant;1992;France;Erotic;tt0101316;7;nm0000269;Jean-Jacques Annaud
 The Bohemian Life;1992;Finland;Comedy;tt0105750;8;nm0442454;Aki Kaurismäki
 Dry Summer;1963;Turkey;Drama;tt0062322;8.75;nm0259499;Metin Erksan
+The Herd;1978;Turkey;Drama;tt0078355;7.75;nm0259499;Metin Erksan
+Hill of no Return;1992;Taiwan;Drama;tt0108602;7.25;nm0911042;Toon Wang
+Iron Monkey;1993;Hong Kong;Action;tt0108148;8;nm0950759;Woo-Ping Yuen
+Arizona Dream;1993;USA;Drama;tt0106307;7.25;nm0001437;Emir Kusturica
+The Joy Luck Club;1993;USA;Drama;tt0107282;7.5;nm0911061;Wayne Wang
+Manichitrathazhu;1993;India;Thriller;tt0214915;7;nm0269778;Fazil
+Faraway, so Close;1993;Germany;Drama;tt0107209;7;nm0000694;Wim Wenders
+Earth's most Beloved Son;1993;Romania;Drama;tt0106534;8.5;nm0547616;Serban Marinescu
+Mâdadayo;1993;Japan;Drama;tt0107474;7.5;nm0000041;Akira Kurosawa
+Raining Stones;1993;UK;Drama;tt0107920;7.5;nm0516360;Ken Loach
+The Wedding Banquet;1993;Taiwan;Comedy;tt0107156;7.5;nm0000487;Ang Lee
+Seopyeonje;1993;South Korea;Drama;tt0108192;7.25;nm0407990;Im Kwon-taek
+Caro Diario;1993;Italy;Comedy;tt0109382;7;nm0604335;Nanni Moretti
+King of the Hill;1993;USA;Drama;tt0107322;7.25;nm0001752;Steven Soderbergh
+A Borrowed Life;1994;Taiwan;Drama;tt0109691;7;nm0943150;Nien-Jen Wu
+Vidheyan;1994;India;Drama;tt0108490;7.5;nm0329715;Adoor Gopalakrishnan
+Clerks;1994;USA;Comedy;tt0109445;8;nm0003620;Kevin Smith
+Legends of the Fall;1994;USA;Drama;tt0110322;7;nm0001880;Edward Zwick
+Mahanadhi;1994;India;Drama;tt0140348;7.75;nm0080248;Santhana Bharathi
+Back to Back, Face to Face;1994;China;Politics;tt0109235;8.25;nm0399003;Jianxin Huang
+Paradise: Love;2012;Austria;Drama;tt1403214;7.25;nm0782430;Ulrich Seidl
+L'enfer;1994;France;Drama;tt0109731;7.5;nm0001031;Claude Chabrol
+Fresh;1994;USA;Crime;tt0109842;7.75;nm0945026;Boaz Yakin
+Faust;1994;Czech Republic;Fantasy;tt0109781;7;nm0840905;Jan Svankmajer
+Nobody's Fool;1994;USA;Drama;tt0110684;7;nm0000914;Robert Benton
+Paradise: Faith;2012;Austria;Drama;tt1403214;7.5;nm0782430;Ulrich Seidl
+Paradise: Hope;2013;Austria;Drama;tt1403214;7.25;nm0782430;Ulrich Seidl
+Baasha;1995;India;Crime;tt0139876;7.25;nm0471452;Suresh Krishna
+Deep River;1995;Japan;Drama;tt0113129;7.5;nm0474743;Kei Kumai
+La Cérémonie;1995;France;Crime;tt0112769;7.5;nm0001031;Claude Chabrol
+Bombay;1995;India;Drama;tt0112553;8.25;nm0711745;Mani Ratnam
+Summer Snow;1995;Hong Kong;Comedy;tt0111767;7;nm0401176;Ann Hui
+The Cure;1995;USA;Drama;tt0112757;7.25;nm0005022;Peter Horton
+Tokyo Fist;1995;Japan;Horror;tt0114690;7.5;nm0875354;Shin'ya Tsukamoto
+Shanghai Triad;1995;China;Crime;tt0115012;7.5;nm0955443;Yimou Zhang
+Sense and Sensibility;1995;UK;Drama;tt0114388;8;nm0000487;Ang Lee
+Cyclo;1995;Vietnam;Drama;tt0112767;7.5;nm0870841;Anh Hung Tran
+Clockers;1995;USA;Crime;tt0112688;8.5;nm0000490;Spike Lee
+Fallen Angels;1995;Hong Kong;Comedy;tt0112913;7;nm0939182;Kar-Wai Wong
+Terra Estrangeira;1995;Brazil;Crime;tt0114651;7;nm0758574;Walter Salles
+White Balloon;1995;Iran;Drama;tt0112445;7;nm0070159;Jafar Panahi
+Strange Days;1995;USA;Thriller;tt0114558;7;nm0000941;Kathryn Bigelow
+Whisper of the Heart;1995;Japan;Drama;tt0113824;8;nm0464911;Yoshifumi Kondô
+Limbo;2021;China;Crime;tt14032696;7.75;nm1110912;Soi Cheang
+Bad Guy;2001;South Korea;Crime;tt0307213;7.5;nm1104118;Ki-duk Kim
+A Time For Drunken Horses;2000;Iran;Drama;tt0259072;7;nm0315842;Bahman Ghobadi
+Ebola Syndrome;1996;Hong Kong;Comedy;tt0116163;7;nm0946875;Herman Yau
+Kaalapani;1996;India;Drama;tt0255289;7.25;nm0698184;Priyadarshan
+The Deathmaker;1996;Germany;Historical;tt0114704;7;nm0439732;Romuald Karmakar
+Some Like it Hot;1959;USA;Comedy;tt0053291;8.25;nm0000697;Billy Wilder
+Singin' in the Rain;1952;USA;Musical;tt0045152;9;nm0002045;Stanley Donen
+On the Waterfront;1954;USA;Drama;tt0047296;8.75;nm0001415;Elia Kazan
+Lone Star;1996;USA;Drama;tt0116905;8.25;nm0000626;John Sayles
+Conte d'été;1996;France;Drama;tt0115940;7.5;nm0006445;Éric Rohmer
+A Moment of Innocence;1996;Iran;Drama;tt0117214;7.75;nm0538532;Mohsen Makhmalbaf
+Comrades, Almost a Love Story;1996;Hong Kong;Drama;tt0117905;8;nm0151066;Peter Ho-Sun Chan
+La Promesse;1996;Belgium;Drama;tt0117398;8.25;nm0201094;Jean-Pierre Dardenne
+Drifting Clouds;1996;Finland;Comedy;tt0116752;7.5;nm0442454;Aki Kaurismäki
+Shall we Dance?;1996;Japan;Comedy;tt0117615;9;nm0839397;Masayuki Suô
+Shine;1996;Australia;Drama;tt0117631;7.5;nm0382956;Scott Hicks
+The Traveler;1974;Iran;Drama;tt0071859;7.25;nm0452102;Abbas Kiarostami
+The Scent of Green Papaya;1993;Vietnam;tt0107617;7.25;nm0870841;Anh Hung Tran
+Chungking Express;1994;Hong Kong;Comedy;tt0109424;7.5;nm0939182;Kar-Wai Wong
+In the Mood for Love;2000;Hong Kong;Drama;tt0118694;8;nm0939182;Kar-Wai Wong
+Thief;1997;Russia;Drama;tt0124207;7.5;nm0161056;Pavel Chukhray
+The Eel;1997;Japan;Drama;tt0120408;7.5;nm0408076;Shôhei Imamura
+Men with Guns;1997;Mexico;Politics;tt0119657;8;nm0000626;John Sayles
+The Apostle;1997;USA;Drama;tt0118632;8.5;nm0000380;Robert Duvall
+The Full Monty;1997;UK;Comedy;tt0119164;7.5;nm0146341;Peter Cattaneo
+In the Company of Men;1997;USA;Drama;tt0119361;7.5;nm0001438;Neil LaBute
+Karakter;1997;Netherlands;Drama;tt0119448;7.5;nm0226016;Mike van Diem
+Kiler;1997;Poland;Comedy;tt0127626;7.5;nm0532702;Juliusz Machulski
+The Grandmaster;1997;Hong Kong;Drama;tt1462900;7.75;nm0939182;Kar-Wai Wong
+Career Girls;1997;UK;Comedy;tt0118818;7.25;nm0005139;Mike Leigh
