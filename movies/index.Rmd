@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "2021--2023"
+date: "2021--2024"
 output: 
   html_document:
     includes:
@@ -167,8 +167,8 @@ par(mar=c(3,1,1,1))
 #plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color,
 #ylim=c(0,max(df2$n)*1.25), yaxt="n")
 
-plt <- barplot(data, names.arg=df2$Year, las=2, col=c(my.color, 'orange'),
- ylim=c(0,125), yaxt="n")
+plt <- barplot(data, names.arg=df2$Year, las=2, 
+               col=c(my.color, 'orange'), ylim=c(0,125), yaxt="n")
 
 text(x=plt, y=df2$n,      label=df2$n,      pos=3, cex=0.8, col='blue')
 text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=3, cex=0.8, col='blue')

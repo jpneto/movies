@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Poor Things;2024;USA;Fantasy;tt14230458;8.5;nm0487166;Yorgos Lanthimos
 About Dry Grasses;2023;Turkey;Drama;tt13231544;8.5;nm0149196;Nuri Bilge Ceylan
 Lo Capitano;2023;Italy;Drama;tt14225838;8.25;nm0308520;Matteo Garrone
 L'ultima Notte di Amore;2023;Italy;Crime;tt20465746;8;nm0224331;Andrea Di Stefano
@@ -2662,7 +2663,7 @@ Drifting Clouds;1996;Finland;Comedy;tt0116752;7.5;nm0442454;Aki Kaurismäki
 Shall we Dance?;1996;Japan;Comedy;tt0117615;9;nm0839397;Masayuki Suô
 Shine;1996;Australia;Drama;tt0117631;7.5;nm0382956;Scott Hicks
 The Traveler;1974;Iran;Drama;tt0071859;7.25;nm0452102;Abbas Kiarostami
-The Scent of Green Papaya;1993;Vietnam;tt0107617;7.25;nm0870841;Anh Hung Tran
+The Scent of Green Papaya;1993;Vietnam;Drama;tt0107617;7.25;nm0870841;Anh Hung Tran
 Chungking Express;1994;Hong Kong;Comedy;tt0109424;7.5;nm0939182;Kar-Wai Wong
 In the Mood for Love;2000;Hong Kong;Drama;tt0118694;8;nm0939182;Kar-Wai Wong
 Thief;1997;Russia;Drama;tt0124207;7.5;nm0161056;Pavel Chukhray
@@ -2675,3 +2676,17 @@ Karakter;1997;Netherlands;Drama;tt0119448;7.5;nm0226016;Mike van Diem
 Kiler;1997;Poland;Comedy;tt0127626;7.5;nm0532702;Juliusz Machulski
 The Grandmaster;1997;Hong Kong;Drama;tt1462900;7.75;nm0939182;Kar-Wai Wong
 Career Girls;1997;UK;Comedy;tt0118818;7.25;nm0005139;Mike Leigh
+O Que é isso, Companheiro?;1997;Brazil;Politics;tt0119815;8.25;nm0000853;Bruno Barreto
+The Rainmaker;1997;USA;Drama;tt0119978;7.5;nm0000338;Francis Ford Coppola
+La Civil;2021;Mexico;Drama;tt13827606;8.25;nm0586118;Teodora Mihai
+The Boxer;1997;Ireland;Drama;tt0118760;7.25;nm0006487;Jim Sheridan
+Eve's Bayou;1997;USA;Drama;tt0119080;7;nm0501435;Kasi Lemmons
+Citizen X;1995;USA;Crime;tt0112681;7;nm0314665;Chris Gerolmo
+The Sweet Hereafter;1997;USA;Drama;tt0120255;7.75;nm0000382;Atom Egoyan
+Wilde;1997;UK;Historical;tt0120514;7.5;nm0317981;Brian Gilbert
+Kundun;1997;USA;Historical;tt0119485;7.5;nm0000217;Martin Scorsese
+Fist of Legend;1994;Hong Kong;Action;tt0110200;7.5;nm0150906;Gordon Chan
+Following;1998;UK;Crime;tt0154506;7.75;nm0634240;Christopher Nolan
+Kirikou et la Sorcière;1998;France;Fantasy;tt0181627;7.25;nm0643664;Michel Ocelot
+The Long Riders;1980;USA;Western;tt0081071;7;nm0001353;Walter Hill
+Satya;1998;India;Crime;tt0195231;8;nm0890060;Ram Gopal Varma
