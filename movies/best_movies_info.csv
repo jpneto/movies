@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+All of Us Strangers;2023;UK;Drama;tt21192142;7.25;nm0354091;Andrew Haigh
 Poor Things;2024;USA;Fantasy;tt14230458;8.5;nm0487166;Yorgos Lanthimos
 About Dry Grasses;2023;Turkey;Drama;tt13231544;8.5;nm0149196;Nuri Bilge Ceylan
 Lo Capitano;2023;Italy;Drama;tt14225838;8.25;nm0308520;Matteo Garrone
@@ -928,7 +929,7 @@ Willy Wonka & the Chocolate Factory;1971;USA;Musical;tt0067992;7.25;nm0835799;Me
 Get Carter;1971;UK;Crime;tt0067128;7.75;nm0388198;Mike Hodges
 The French Connection;1971;USA;Crime;tt0067116;8.5;nm0001243;William Friedkin
 The Andromeda Strain;1971;USA;SciFi;tt0066769;8.75;nm0936404;Robert Wise
-A Clockwork Orange;1971;UK;Dystopia;tt0066921;9.5;nm0000040;Stanley Kubrick
+A Clockwork Orange;1971;UK;Dystopia;tt0066921;9;nm0000040;Stanley Kubrick
 Colossus: The Forbin Project;1970;USA;SciFi;tt0064177;9;nm0765121;Joseph Sargent
 A Man Called Horse;1970;USA;Western;tt0066049;8.5;nm0799033;Elliot Silverstein
 L'aveu;1970;France;Historical;tt0065439;8.5;nm0002020;Costa-Gavras
@@ -2690,3 +2691,16 @@ Following;1998;UK;Crime;tt0154506;7.75;nm0634240;Christopher Nolan
 Kirikou et la Sorcière;1998;France;Fantasy;tt0181627;7.25;nm0643664;Michel Ocelot
 The Long Riders;1980;USA;Western;tt0081071;7;nm0001353;Walter Hill
 Satya;1998;India;Crime;tt0195231;8;nm0890060;Ram Gopal Varma
+Fucking Åmål;1998;Sweden;Drama;tt0150662;8;nm0600546;Lukas Moodysson
+Pleasantville;1998;USA;Fantasy;tt0120789;8.25;nm0002657;Gary Ross
+Christmas in August;1998;South Korea;Drama;tt0140825;7;nm0403297;Hur Jin-ho
+JCVD;2008;Belgium;Action;tt1130988;7.75;nm1333798;Mabrouk El Mechri
+Conte d'automne;1998;France;Drama;tt0137439;7.5;nm0006445;Éric Rohmer
+My Name is Joe;1998;UK;Drama;tt0151691;7.5;nm0516360;Ken Loach
+Rounders;1998;USA;Crime;tt0128442;7;nm0001093;John Dahl
+Buffalo '66;1998;USA;Comedy;tt0118789;7.25;nm0001252;Vincent Gallo
+The Virgin Suicides;1999;USA;Drama;tt0159097;7.5;nm0001068;Sofia Coppola
+Shower;1999;China;Comedy;tt0215369;8;nm0955434;Yang Zhang
+Dlug, The Debt;1999;Poland;Crime;tt0225535;8.25;nm0470377;Krzysztof Krauze
+The Mission;1999;Hong Kong;Crime;tt0220644;7;nm0864775;Johnnie To
+After the Rain;1999;Japan;Samurai;tt0181960;7.75;nm0463596;Takashi Koizumi
