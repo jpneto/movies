@@ -104,7 +104,13 @@ df.join %>%
 
 This table includes movies I think have a higher than average quality in either plot, main themes and overall cinematography. I'll keep inserting recent movies at the top of the table, and older movies at the end of the table.
 
-This list represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
+The ratings go from $3$ to $10$ (so, eight different basic rates). Movies with $6$ are just below average, while movies with $7$ are just above average. A rating of $5$ means a bad movie, while $8$ is a good movie. A rating of $4$ is a very bad movie, while a $9$ is a great movie. There a just a few $3$ which are horrible movies, and a few $10$ which are perfect movies (imho). 
+
+Starting from rate $7$ I include quarter scores (like, $7.25$ or $8.75$) to distinguish and compare a bit better between movies. For me, a $9.5$ rating is already a masterpiece.
+
+The next table shows `r nrow(df)` movies with ratings 7+, it represents `r 100 * round(nrow(df) / nrow(df.imdb),3)`% of [all movies I've seen](https://www.imdb.com/user/ur3443219/ratings?ref_=nv_usr_rt_4) and is, obviously, quite subjective :-)
+
+All `r nrow(df.imdb)` rated movies are displayed at the end of this page.
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
@@ -118,7 +124,7 @@ min.score <- 7
 my.color <- 'steelblue'
 ```
 
-Showing movies with a minimal rating of `r min.score+1` (blue) and the rest (orange). The list of movies I want to see from 1960-1998 and 2000-2022 is (somewhat) complete. My current goal is to complete the list up to the end of the 1990s. *Then* I will move to the 1950s.
+Showing movies with a minimal rating of `r min.score+1` (blue) and the rest (orange). The list of movies from 1960-2023 is (somewhat) complete. My next goal is to move into the 1950s.
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
 df %>% 
@@ -144,8 +150,8 @@ par(mar=c(3,1,1,1))
 plt <- barplot(data, names.arg=df2$Year, las=2, col=c(my.color, 'orange'),
  ylim=c(0,120), yaxt="n")
 
-text(x=plt, y=df2$n,      label=df2$n,      pos=3, cex=0.8, col='blue')
-text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=3, cex=0.8, col='blue')
+text(x=plt, y=df2$n,      label=df2$n,      pos=1, cex=0.8, col='white')
+text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=1, cex=0.8, col='blue')
 ```
 
 ```{r, fig.width=12, echo=FALSE, eval=TRUE}
@@ -170,8 +176,8 @@ par(mar=c(3,1,1,1))
 plt <- barplot(data, names.arg=df2$Year, las=2, 
                col=c(my.color, 'orange'), ylim=c(0,120), yaxt="n")
 
-text(x=plt, y=df2$n,      label=df2$n,      pos=3, cex=0.8, col='blue')
-text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=3, cex=0.8, col='blue')
+text(x=plt, y=df2$n,      label=df2$n,      pos=1, cex=0.8, col='White')
+text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=1, cex=0.8, col='blue')
 ```
 
 
@@ -335,7 +341,7 @@ Let's check directors with multiple movies in the list,
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
-  filter(n>7) -> df4
+  filter(n>8) -> df4
 
 par(mar=c(1,11,1,6))
 plt <- barplot(df4$n, col='steelblue', horiz=TRUE, names.arg=df4$Director, 
@@ -445,7 +451,7 @@ df %>%
 
 The next plot shows only movies with 7+ rating. Hollywood is highly represented with a current total of `r nrow(df.us)` American movies. Let's check how other countries are represented:
 
-```{r, fig.width=14, fig.height=12, warning=FALSE, echo=FALSE}
+```{r, fig.width=14, fig.height=15, warning=FALSE, echo=FALSE}
 df %>% 
   filter(Rate >= 7) %>% 
   filter (Country!='USA') %>% 
@@ -455,7 +461,7 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,16+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+7.5, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+8, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## All rated movies on Imdb

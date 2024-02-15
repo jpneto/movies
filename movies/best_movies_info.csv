@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Robot Dreams;2023;Spain;Fantasy;tt13429870;7.25;nm0074311;Pablo Berger
+Wonka;2023;USA;Musical;tt6166392;7.25;nm1653753;Paul King
 All of Us Strangers;2023;UK;Drama;tt21192142;7.25;nm0354091;Andrew Haigh
 Poor Things;2024;USA;Fantasy;tt14230458;8.5;nm0487166;Yorgos Lanthimos
 About Dry Grasses;2023;Turkey;Drama;tt13231544;8.5;nm0149196;Nuri Bilge Ceylan
@@ -9,7 +11,7 @@ La Sociedad de la Nieve;2023;Uruguay;Historical;tt16277242;7.5;nm1291105;J.A. Ba
 Bastarden;2023;Denmark;Drama;tt20561198;7.5;nm1064048;Nikolaj Arcel
 May December;2023;USA;Drama;tt13651794;7.5;nm0001331;Todd Haynes
 Fallen Leaves;2023;Finland;Comedy;tt21027780;7.75;nm0442454;Aki Kaurismäki
-Saltburn;2023;UK;Thriller;tt17351924;8;nm2193504;Emerald Fennell
+Saltburn;2023;UK;Thriller;tt17351924;8.25;nm2193504;Emerald Fennell
 Godzilla minus One;2023;Japan;Drama;tt23289160;8.75;nm0945724;Takashi Yamazaki
 Cerrar los Ojos;2023;Spain;Drama;tt21284358;7.75;nm0258977;Víctor Erice
 Dream Scenario;2023;USA;Horror;tt21942866;7.25;nm5589501;Kristoffer Borgli
@@ -1371,7 +1373,7 @@ Lady Bird;2017;USA;Drama;tt4925292;8;nm1950086;Greta Gerwig
 Habit;1995;USA;Horror;tt0113241;7;nm0275244;Larry Fessenden
 The Artist;2011;France;Drama;tt1655442;7.5;nm0371890;Michel Hazanavicius
 The Favourite;2018;Ireland;Historical;tt5083738;8.25;nm0487166;Yorgos Lanthimos
-The Killing of a Sacred Deer;2017;Ireland;Horror;tt5715874;8.75;nm0487166;Yorgos Lanthimos
+The Killing of a Sacred Deer;2017;Ireland;Horror;tt5715874;9;nm0487166;Yorgos Lanthimos
 Il Ladro di Bambini;1992;Italy;Drama;tt0104663;7.75;nm0002167;Gianni Amelio
 Timbuktu;2014;Mauritania;Drama;tt3409392;8.5;nm0803066;Abderrahmane Sissako
 La Grande Bellezza;2013;Italy;Drama;tt2358891;9;nm0815204;Paolo Sorrentino
@@ -2708,3 +2710,22 @@ Bleeder;1999;Denmark;Crime;tt0161292;7.25;nm0716347;Nicolas Winding Refn
 Postmen in the Mountains;1999;China;Drama;tt0210916;8.75;nm0403225;Jianqi Huo
 Samurai Fiction;1998;Japan;Samurai;tt0170544;7.25;nm0620294;Hiroyuki Nakano
 The Signalman;1976;UK;Horror;tt0075220;7;nm0164196;Lawrence Gordon Clark
+Summer of Sam;1999;USA;Crime;tt0162677;7.25;nm0000490;Spike Lee
+Strokes of Fire;2002;South Korea;Historical;tt0317234;7.25;nm0407990;Im Kwon-taek
+Agony;1981;Russia;Historical;tt0081991;7;nm0459552;Elem Klimov
+Ça Commence Aujourd'hui;1999;France;Politics;tt0186730;7.5;nm0851724;Bertrand Tavernier
+Rosetta;1999;Belgium;Drama;tt0200071;7.75;nm0201094;Jean-Pierre Dardenne
+Angela's Ashes;1999;Ireland;Drama;tt0145653;7;nm0000570;Alan Parker
+Girl, Interrupted;1999;USA;Drama;tt0172493;7.5;nm0003506;James Mangold
+The Winslow Boy;1999;UK;Drama;tt0155388;8;nm0000519;David Mamet
+The Stone Tape;1972;UK;Horror;tt0069316;7;nm0765856;Peter Sasdy
+Do you Remember Dolly Bell?;1981;Yoguslavia;Drama;tt0083089;7;nm0001437;Emir Kusturica
+Jeanne la Pucelle, Les Batailles;1994;France;Historical;tt0107259;7.5;nm0729626;Jacques Rivette
+Jeanne la Pucelle, Les Prisons;1994;France;Historical;tt0107260;7.75;nm0729626;Jacques Rivette
+Red Monarch;1983;UK;Comedy;tt0086178;7.25;nm0324995;Jack Gold
+Der Tunnel;2001;German;Historical;tt0251447;7.75;nm0725345;Roland Suso Richter
+Another Year;2010;UK;Drama;tt1431181;8;nm0005139;Mike Leigh
+Kontroll;2003;Hungary;Comedy;tt0373981;7.5;nm0030735;Nimród Antal
+The Rise of Leslie Vernon;2006;USA;Comedy;tt0437857;7.25;nm1795664;Scott Glosserman
+Sometimes in April;2005;USA;Historical;tt0400063;7;nm0669704;Raoul Peck
+Stupeur et Tremblements;2003;France;Comedy;tt0318725;8.25;nm0006734;Alain Corneau
