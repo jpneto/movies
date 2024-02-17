@@ -317,7 +317,7 @@ rotate_x(df2, 'n', df2$Decade, 45)
 
 The next plot shows how different rating ranges are represented by decade,
 
-```{r, fig.width=8, fig.height=6, warning=FALSE, echo=FALSE, message=FALSE}
+```{r, eval=FALSE, fig.width=8, fig.height=6, warning=FALSE, echo=FALSE, message=FALSE}
 df %>% 
   mutate(interval = cut(df$Rate, breaks=c(6.9,7.4,7.9,8.4,8.9,9.4,10))) %>% 
   group_by(Decade, interval, .drop = FALSE) %>% 
@@ -575,12 +575,12 @@ abline(fit, col='blue')
 <hr/>
 <p><b>Quick movie search at IMDB</b></p>
 <form name="imdb" onsubmit="return false">
-genres: <input type="text" id="genres" name="genre" size="20" value="!documentary"></input> <font size="2">(e.g., horror,sci-fi,!animation,!documentary)</font> <br>
+genres: <input type="text" id="genres" name="genre" size="25" value="!documentary,!music,!animation"></input> <font size="2">(e.g., horror,sci-fi,!animation,!documentary)</font> <br>
 min rating: <input type="text" id="rating" name="min_rating" value="7.5" size="5"></input> <br>
 min votes: <input type="text" id="min_votes" name="min_votes" value="1000" size="5"></input> <br>
-date: from <input type="text" id="start_date" name="start_date" value="2021-01-01" size="10"></input> to <input type="text" id="end_date" name="end_date" value="2023-12-31" size="10"></input> <br>
+date: from <input type="text" id="start_date" name="start_date" value="2023-01-01" size="10"></input> to <input type="text" id="end_date" name="end_date" value="2024-12-31" size="10"></input> <br>
 <a href="https://help.imdb.com/article/contribution/other-submission-guides/country-codes/G99K4LFRMSC37DCN#" target="_blank">countries:</a> <input type="text" id="countries" name="countries" value="!pk,!bd,!in,!tr" size="15"></input> <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank"> language:</a> <input type="text" id="language" name="language" value size="10"></input> <br>
-keywords: <input type="text" id="keywords" name="keywords" value size="10"></input> <font size="2">(e.g., superhero,!marvel)</font> <br>
+keywords: <input type="text" id="keywords" name="keywords" value="!remake,!christian-propaganda"  size="30"></input> <font size="2">(e.g., superhero,!marvel)</font> <br>
 just my movies: <input type="checkbox" id="mymovies" name="mymovies"></input> <br>
 not my movies: <input type="checkbox" id="notmymovies" name="notmymovies"></input> <br>
 <input type="submit" value="Search 🎥" onclick="showCityName()"></input> <font size="2">[<a href="https://www.imdb.com/search/title/" target="_blank">advanced search</a>]</font>
