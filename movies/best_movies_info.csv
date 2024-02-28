@@ -1,9 +1,11 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Teacher's Lounge;2023;Germany;Drama;tt26612950;7.25;nm1921714;Ilker Çatak
+Femme;2024;UK;Drama;tt20114686;7.25;nm11956672;Sam H. Freeman
 The Iron Claw;2023;USA;Drama;tt21064584;8;nm1699934;Sean Durkin
 Robot Dreams;2023;Spain;Fantasy;tt13429870;7.25;nm0074311;Pablo Berger
 Wonka;2023;USA;Musical;tt6166392;7.25;nm1653753;Paul King
 All of Us Strangers;2023;UK;Drama;tt21192142;7.25;nm0354091;Andrew Haigh
-Poor Things;2024;USA;Fantasy;tt14230458;8.5;nm0487166;Yorgos Lanthimos
+Poor Things;2023;USA;Fantasy;tt14230458;8.5;nm0487166;Yorgos Lanthimos
 About Dry Grasses;2023;Turkey;Drama;tt13231544;8.5;nm0149196;Nuri Bilge Ceylan
 Lo Capitano;2023;Italy;Drama;tt14225838;8.25;nm0308520;Matteo Garrone
 L'ultima Notte di Amore;2023;Italy;Crime;tt20465746;8;nm0224331;Andrea Di Stefano
@@ -2744,3 +2746,5 @@ Il Lungo Silenzio;1993;Italy;Politics;tt0107462;7.25;nm0903137;Margarethe von Tr
 The Mountain;1956;USA;Thriller;tt0049523;8;nm0229424;Edward Dmytryk
 Blood on the Land;1965;Greece;Politics;tt0057892;9;nm0313745;Vasilis Georgiadis
 La Victoire en Chantant;1976;France;Comedy;tt0074972;8;nm0000269;Jean-Jacques Annaud
+Jiken, The Incident;1978;Japan;Crime;tt0202932;7.25;nm0634607;Yoshitarô Nomura
+La Rupture;1970;France;Drama;tt0066318;7.25;nm0001031;Claude Chabrol
