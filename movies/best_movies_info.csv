@@ -1,6 +1,10 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Stopmotion;2023;UK;Horror;tt14852624;7;nm1152178;Robert Morgan
+The Zone of Interest;2023;UK;War;tt7160372;7.25;nm0322242;Jonathan Glazer
+Dune 2;2024;USA;SciFi;tt15239678;9;nm0898288;Denis Villeneuve
+Spaceman;2024;Czech Republic;SciFi;tt11097384;7;nm0719307;Johan Renck
 The Teacher's Lounge;2023;Germany;Drama;tt26612950;7.25;nm1921714;Ilker Çatak
-Femme;2024;UK;Drama;tt20114686;7.25;nm11956672;Sam H. Freeman
+Femme;2023;UK;Drama;tt20114686;7.25;nm11956672;Sam H. Freeman
 The Iron Claw;2023;USA;Drama;tt21064584;8;nm1699934;Sean Durkin
 Robot Dreams;2023;Spain;Fantasy;tt13429870;7.25;nm0074311;Pablo Berger
 Wonka;2023;USA;Musical;tt6166392;7.25;nm1653753;Paul King
@@ -20,7 +24,7 @@ Cerrar los Ojos;2023;Spain;Drama;tt21284358;7.75;nm0258977;Víctor Erice
 Dream Scenario;2023;USA;Horror;tt21942866;7.25;nm5589501;Kristoffer Borgli
 Aporia;2023;USA;SciFi;tt8511466;7;nm1474337;Jared Moshe
 The Boy and the Heron;2023;Japan;Fantasy;tt6587046;7;nm0594503;Hayao Miyazaki
-Leave the World Behind;2023;USA;Thriller;tt12747748;8.25;nm1322753;Sam Esmail
+Leave the World Behind;2023;USA;Thriller;tt12747748;8;nm1322753;Sam Esmail
 Killers of the Flower Moon;2023;USA;Crime;tt5537002;7.5;nm0000217;Martin Scorsese
 The Holdovers;2023;USA;Comedy;tt14849194;7.5;nm0668247;Alexander Payne
 When Evil Lurks;2023;Argentina;Horror;tt16300962;7;nm1899608;Demián Rugna
@@ -233,6 +237,7 @@ Jojo Rabbit;2019;USA;Comedy;tt2584384;7.5;nm0169806;Taika Waititi
 The Lighthouse;2019;USA;Horror;tt7984734;8.75;nm3211470;Robert Eggers
 Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;9;nm0000233;Quentin Tarantino
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
+The King;2019;UK;Historical;tt7984766;8;nm2391575;David Michôd
 Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
 Dolor y Gloria;2019;Spain;Drama;tt8291806;7;nm0000264;Pedro Almodóvar
 Midsommar, Director's Cut;2019;USA;Horror;tt8772262;7.75;nm4170048;Ari Aster
@@ -284,7 +289,7 @@ The Shape of Water;2017;USA;Drama;tt5580390;8.25;nm0868219;Guillermo del Toro
 One Cut of the Dead;2017;Japan;Comedy;tt7914416;8.5;nm7643451;Yûya Nakaizumi
 The Villainess;2017;South Korea;Action;tt6777338;7.5;nm3468066;Byung-gil Jung
 Brawl In Cell Block 99;2017;USA;Action;tt5657856;8;nm0951975;S. Craig Zahler
-First Reformed;2017;USA;Politics;tt6053438;8.25;nm0001707;Paul Schrader
+First Reformed;2017;USA;Politics;tt6053438;8.5;nm0001707;Paul Schrader
 Valerian, the City of a 1000 Planets;2017;France;Action;tt2239822;7.25;nm0000108;Luc Besson
 The Captain;2017;Germany;War;tt6763252;7.5;nm0777881;Robert Schwentke
 Atomic Blonde;2017;USA;Action;tt2406566;7.5;nm0500610;David Leitch
@@ -2748,3 +2753,8 @@ Blood on the Land;1965;Greece;Politics;tt0057892;9;nm0313745;Vasilis Georgiadis
 La Victoire en Chantant;1976;France;Comedy;tt0074972;8;nm0000269;Jean-Jacques Annaud
 Jiken, The Incident;1978;Japan;Crime;tt0202932;7.25;nm0634607;Yoshitarô Nomura
 La Rupture;1970;France;Drama;tt0066318;7.25;nm0001031;Claude Chabrol
+Border;2018;Sweden;Horror;tt5501104;7.75;nm4389150;Ali Abbasi
+Norte, The End of History;2013;Philippines;Drama;tt2852432;7;nm0225010;Lav Diaz
+90 Degrees in the Shade;1965;Czechoslovakia;Drama;tt0059512;7.25;nm0919041;Jirí Weiss
+The Last Run;1971;USA;Crime;tt0067329;7.75;nm0281507;Richard Fleischer
+The Boxer and Death;1963;Czechoslovakia;War;tt0056885;8;nm0812613;Peter Solan
