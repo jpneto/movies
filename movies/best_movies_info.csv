@@ -1,4 +1,9 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Late Night with the Devil;2023;USA;Horror;tt14966898;8;nm1637876;Cameron Cairnes
+Evil does not Exist;2023;Japan;Drama;tt28490044;7.25;nm3152327;Ryûsuke Hamaguchi
+La Chimera;2023;Italy;Drama;tt14561712;7.25;nm3114621;Alice Rohrwacher
+The Old Oak;2023;UK;Drama;tt19883634;7.75;nm0516360;Ken Loach
+Aattam;2023;India;Drama;tt27302079;8.5;nm11942026;Anand Ekarshi
 Chlopi, The Peasants;2023;Poland;Drama;tt10651230;7.25;nm3699790;DK Welchman
 The Monk and the Gun;2023;Bhutan;Comedy;tt15560314;7;nm8293167;Pawo Choyning Dorji
 Los Colonos;2023;Chile;Drama;tt10370812;8.5;nm3147401;Felipe Gálvez Haberle
@@ -425,7 +430,6 @@ Kick-Ass;2010;USA;Action;tt1250777;7.5;nm0891216;Matthew Vaughn
 The Social Network;2010;USA;Drama;tt1285016;7.25;nm0000399;David Fincher
 Insidious;2010;USA;Horror;tt1591095;7.25;nm1490123;James Wan
 Inception;2010;USA;Thriller;tt1375666;7.5;nm0634240;Christopher Nolan
-Predators;2010;USA;Horror;tt1424381;7;nm0030735;Nimród Antal
 Outrage;2010;Japan;Thriller;tt1462667;7;nm0001429;Takeshi Kitano
 127 Hours;2010;USA;Thriller;tt1542344;7;nm0000965;Danny Boyle
 The Town;2010;USA;Crime;tt0840361;7;nm0000255;Ben Affleck
@@ -742,6 +746,7 @@ Europa;1991;USA;War;tt0101829;7.5;nm0001885;Lars von Trier
 Terminator 2: Judgment Day;1991;USA;SciFi;tt0103064;8.5;nm0000116;James Cameron
 The Silence of the Lambs;1991;USA;Thriller;tt0102926;9.5;nm0001129;Jonathan Demme
 Jacob's Ladder;1990;USA;Horror;tt0099871;7;nm0001490;Adrian Lyne
+Predator 2;1990;USA;Horror;tt1424381;7.5;nm0394280;Stephen Hopkins
 I Love You to Death;1990;USA;Comedy;tt0099819;7.5;nm0001410;Lawrence Kasdan
 Awakenings;1990;USA;Drama;tt0099077;7.75;nm0001508;Penny Marshall
 Total Recall;1990;USA;SciFi;tt0100802;7.5;nm0000682;Paul Verhoeven
@@ -2776,3 +2781,20 @@ Killing Mad Dogs;2001;Iran;Thriller;tt0278006;7.5;nm0067323;Bahram Beyzaie
 Saaransh;1984;India;Drama;tt0088031;8;nm0080315;Mahesh Bhatt
 Door;1988;Japan;Horror;tt0223150;7;nm0847109;Banmei Takahashi
 Un Jeu Brutal;1983;France;Crime;tt0086505;7.25;nm0109885;Jean-Claude Brisseau
+The Bus Driver;1982;Egypt;Drama;tt0083703;7.5;nm0246986;Atef El-Tayeb
+Il Caso Moro;1986;Italy;Historical;tt0090805;7.5;nm0273980;Giuseppe Ferrara
+La Passion Béatrice;1987;France;Drama;tt0093709;7.5;nm0851724;Bertrand Tavernier
+Lazzaro Felice;2018;Italy;Drama;tt6752992;9;nm3114621;Alice Rohrwacher
+Dangal;2016;India;Drama;tt5074352;8;nm4318159;Nitesh Tiwari
+Sanka, Hymn;1972;Japan;Drama;tt0408161;7.5;nm0793881;Kaneto Shindô
+Manthan, The Churning;1976;India;Politics;tt0074858;8;nm0070867;Shyam Benegal
+Zamach, The Attempt;1959;Poland;War;tt0053465;7.25;nm0664846;Jerzy Passendorfer
+Witness for the Prosecution;1957;USA;Crime;tt0051201;8;nm0000697;Billy Wilder
+The Blazing Sword;1966;Japan;Samurai;tt1981026;7;nm0406752;Hirokazu Ichimura
+Sunset Boulevard;1950;USA;Crime;tt0043014;8.25;nm0000697;Billy Wilder
+The White Caravan;1964;Russia;Drama;tt0175238;7;nm0577717;Tamaz Meliava
+Maps to the Stars;2014;USA;Drama;tt2172584;7;nm0000343;David Cronenberg
+I Sequestrati di Altona;1962;Italy;Drama;tt0056468;7;nm0001120;Vittorio De Sica
+The Fear;1966;Greece;Crime;tt0144935;8.5;nm0543650;Kostas Manoussakis
+Unearthly Stranger;1963;UK;SciFi;tt0057623;7;nm0471420;John Krish
+Sujata;1960;India;Drama;tt0053319;7.5;nm0746950;Bimal Roy
