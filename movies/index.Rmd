@@ -245,36 +245,22 @@ rotate_x(df2, 'n', df2$Decade, 45)
 Number of movies with a score of at least 7:
 
 ```{r, fig.width=6, fig.height=3, echo=FALSE, eval=TRUE}
+# not sure why this stopped working ?!
+# df %>% 
+#   filter(Rate >= min.score) %>% 
+#   count( Decade, sort=TRUE ) %>% 
+#   arrange( Decade )  -> df2
+
 df %>% 
   filter(Rate >= min.score) %>% 
-  count(Decade, sort=TRUE) %>% 
-  arrange( Decade ) -> df2
+  count( Decade ) %>% 
+  arrange(Decade, desc()) %>% 
+  arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
 rotate_x(df2, 'n', df2$Decade, 45)
 # plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color, ylim=c(0,max(df2$n)*1.25), yaxt="n")
 # text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col=my.color)
-```
-
-```{r, echo=FALSE, eval=FALSE}
-inputPanel(
-  sliderInput("score2", label="minimum movie score", 
-              min=7, max=10, value=7.5, step=0.25)
-)
-
-output$g2 <- renderPlot({
-df %>% 
-  filter(Rate >= input$score2) %>% 
-  count(Decade, sort=TRUE) %>% 
-  arrange( Decade ) -> df2
-
-  plt <- barplot(df2$n, names.arg=df2$Decade, las=1, col=my.color,
-                 ylim=c(0,max(df2$n)*1.25), yaxt="n")
-  text(x=plt, y=df2$n+0.8, label=df2$n, pos=3, cex=1, col='blue')
-})
-
-plotOutput("g2", height="400px")
-br()
 ```
 
 ## Movie quality per Decade
@@ -284,8 +270,9 @@ Let's see how many very good films (rating at least 8) each decade produced,
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 df %>% 
   filter(Rate >= 8) %>% 
-  count(Decade, sort=TRUE) %>% 
-  arrange( Decade ) -> df2
+  count( Decade ) %>% 
+  arrange(Decade, desc()) %>% 
+  arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
 rotate_x(df2, 'n', df2$Decade, 45)
@@ -296,8 +283,9 @@ And how many great films (rating at least 9) per decade,
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 df %>% 
   filter(Rate >= 9) %>% 
-  count(Decade, sort=TRUE) %>% 
-  arrange( Decade ) -> df2
+  count( Decade ) %>% 
+  arrange(Decade, desc()) %>% 
+  arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
 rotate_x(df2, 'n', df2$Decade, 45)
@@ -308,8 +296,9 @@ And masterpieces (rating of at least 9.5) per decade,
 ```{r, fig.width=6, fig.height=3, echo=FALSE}
 df %>% 
   filter(Rate >= 9.5) %>% 
-  count(Decade, sort=TRUE) %>% 
-  arrange( Decade ) -> df2
+  count( Decade ) %>% 
+  arrange(Decade, desc()) %>% 
+  arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
 rotate_x(df2, 'n', df2$Decade, 45)
