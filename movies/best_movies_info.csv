@@ -1,7 +1,11 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Civil War;2024;USA;Drama;tt17279496;7.25;nm0307497;Alex Garland
+Furiosa;2024;USA;Action;tt12037194;8.5;nm0004306;George Miller
+Housekeeping for Beginners;2023;North Macedonia;Drama;tt24244436;8.25;nm3301836;Goran Stolevski
+The Last Stop in Yuma County;2023;USA;Crime;tt11674730;8;nm6885026;Francis Galluppi
 Don't Expect too much from the End of the World;2023;Romania;Comedy;tt18162096;7.75;nm1257492;Radu Jude
 Vermines;2023;France;Horror;tt26744289;7.5;nm7146773;Sébastien Vanicek
-Love Lies Bleeding;2024;USA;Crime;tt19637052;8;nm3819217;Rose Glass
+Love Lies Bleeding;2024;USA;Crime;tt19637052;8.25;nm3819217;Rose Glass
 Monkey Man;2024;India;Action;tt9214772;7.5;nm2353862;Dev Patel
 La Passion de Dodin Bouffant;2023;France;Drama;tt19760052;7.75;nm0870841;Anh Hung Tran
 Late Night with the Devil;2023;USA;Horror;tt14966898;8;nm1637876;Cameron Cairnes
@@ -1603,7 +1607,7 @@ Silenced;2011;South Korea;Drama;tt2070649;8.5;nm1375363;Hwang Dong-hyuk
 Nostalghia;1983;Italy;Drama;tt0086022;7.5;nm0001789;Andrei Tarkovsky
 Pocketful of Miracles;1961;USA;Comedy;tt0055312;7;nm0001008;Frank Capra
 The Colour of Paradise;1999;Iran;Drama;tt0191043;7.75;nm0006498;Majid Majidi
-Before the Rain;1994;Macedonia;War;tt0110882;7.5;nm0541391;Milcho Manchevskis
+Before the Rain;1994;North Macedonia;War;tt0110882;7.5;nm0541391;Milcho Manchevskis
 The Blue Kite;1993;China;Drama;tt0107358;8.25;nm0862514;Zhuangzhuang Tian
 Viridiana;1961;Spain;Drama;tt0055601;8.5;nm0000320;Luis Buñuel
 Mishima: A Life in Four Chapters;1985;USA;Drama;tt0089603;8.25;nm0001707;Paul Schrader
@@ -2816,3 +2820,9 @@ The Spongers;1978;UK;Drama;tt0216230;8;nm0423646;Roland Joffé
 Sansho the Bailiff;1954;Japan;Drama;tt0047445;8;nm0003226;Kenji Mizoguchi
 Rumpole of the Bailey;1975;UK;Drama;tt0073642;7.5;nm0331290;John Gorrie
 Street of Sahme;1956;Japan;Drama;tt0048933;7.5;nm0003226;Kenji Mizoguchi
+Mandala;1981;South Korea;Drama;tt0082704;7.5;nm0407990;Im Kwon-taek
+La Cage;1975;France;Drama;tt0071265;7;nm0335133;Pierre Granier-Deferre
+Leila;1997;Iran;Drama;tt0116851;7.5;nm0576529;Dariush Mehrjui
+The Dark House;2009;Poland;Crime;tt1485698;8;nm1500530;Wojciech Smarzowski
+La Mesita del Comedor;2022;Spain;Horror;tt21874760;8.5;nm4543557;Caye Casas
+The First Slam Dunk;2022;Japan;Drama;tt15242330;8.25;nm2547182;Takehiko Inoue
