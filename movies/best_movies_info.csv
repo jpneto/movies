@@ -1,4 +1,16 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Dead don't Hurt;2023;USA;Western;tt22773644;8;nm0001557;Viggo Mortensen
+The Great Lillian Hall;2024;USA;Drama;tt14260566;7;nm0188165;Michael Cristofer
+C'è Ancora Domani;2023;Italy;Drama;tt21800162;7.5;nm0181246;Paola Cortellesi
+Kingdom of the Planet of the Apes;2024;USA;SciFi;tt11389872;7.5;nm1226871;Wes Ball
+In a Violent Nature;2024;Canada;Horror;tt30321146;7.5;nm1854288;Chris Nash
+Abang Adik;2023;Malaysia;Drama;tt27445004;7.75;nm5998631;Lay Jin Ong
+Brujería;2023;Chile;Fantasy;tt20395798;7.75;nm3929133;Christopher Murray
+The Devil's Bath;2024;Austria;Drama;tt29141112;8.5;nm3868633;Severin Fiala
+Cabrini;2024;USA;Drama;tt14351082;7.25;nm1920049;Alejandro Monteverde
+The First Omen;2024;USA;Horror;tt5672290;7.75;nm6674331;Arkasha Stevenson
+What You Wish For;2023;USA;Thriller;tt13638858;7.25;nm1204442;Nicholas Tomnay
+Challengers;2024;USA;Drama;tt16426418;7.25;nm0345174;Luca Guadagnino
 Civil War;2024;USA;Drama;tt17279496;7.25;nm0307497;Alex Garland
 Furiosa;2024;USA;Action;tt12037194;8.5;nm0004306;George Miller
 Housekeeping for Beginners;2023;North Macedonia;Drama;tt24244436;8.25;nm3301836;Goran Stolevski
@@ -1086,7 +1098,7 @@ Metropolis;1927;Germany;Dystopia;tt0017136;9.5;nm0000485;Fritz Lang
 The Gold Rush;1925;USA;Comedy;tt0015864;9;nm0000122;Charles Chaplin
 Nosferatu;1922;Germany;Horror;tt0013442;9;nm0003638;F.W. Murnau
 The Kid;1921;USA;Comedy;tt0012349;9.25;nm0000122;Charles Chaplin
-The Adventures of Robin Hood;1938;USA;Action;tt0029843;8.25;nm0002031;Michael Curtiz
+The Adventures of Robin Hood;1938;USA;Action;tt0029843;8.75;nm0002031;Michael Curtiz
 Les Misérables;2019;France;Drama;tt10199590;7.5;nm1868177;Lady Ly
 The Apartment;1960;USA;Comedy;tt0053604;8.25;nm0000697;Billy Wilder
 After the Wedding;2006;Denmark;Drama;tt0457655;7.75;nm0081540;Susanne Bier
@@ -2826,3 +2838,13 @@ Leila;1997;Iran;Drama;tt0116851;7.5;nm0576529;Dariush Mehrjui
 The Dark House;2009;Poland;Crime;tt1485698;8;nm1500530;Wojciech Smarzowski
 La Mesita del Comedor;2022;Spain;Horror;tt21874760;8.5;nm4543557;Caye Casas
 The First Slam Dunk;2022;Japan;Drama;tt15242330;8.25;nm2547182;Takehiko Inoue
+Sympathy for the Underdog;1971;Japan;Crime;tt0066806;7.5;nm0297935;Kinji Fukasaku
+The Strangler;1970;France;Crime;tt0199175;7.25;nm0891580;Paul Vecchiali
+Napoleon Dynamite;2004;USA;Comedy;tt0374900;7.5;nm0381478;Jared Hess
+El Incidente;2014;Mexico;Horror;tt3528756;7.25;nm3533685;Isaac Ezban
+The Ritual;2017;UK;Horror;tt5638642;7.5;nm1410159;David Bruckner
+Dear Doctor;2009;Japan;Drama;tt1257557;7.75;nm1114829;Miwa Nishikawa
+Last Known Address;1970;France;Crime;tt0064225;7;nm0320510;José Giovanni
+Time of Eve;2010;Japan;SciFi;tt1715210;8.25;nm3602074;Yasuhiro Yoshiura
+Still Life;2006;China;Drama;tt0859765;7.25;nm0422605;Zhangke Jia
+Siberiad;1979;Russia;Drama;tt0079907;8.25;nm0464846;Andrey Konchalovskiy
