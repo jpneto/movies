@@ -174,7 +174,7 @@ par(mar=c(3,1,1,1))
 #ylim=c(0,max(df2$n)*1.25), yaxt="n")
 
 plt <- barplot(data, names.arg=df2$Year, las=2, 
-               col=c(my.color, 'orange'), ylim=c(0,130), yaxt="n")
+               col=c(my.color, 'orange'), ylim=c(0,140), yaxt="n")
 
 text(x=plt, y=df2$n,      label=df2$n,      pos=1, cex=0.8, col='White')
 text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=1, cex=0.8, col='blue')
@@ -450,7 +450,7 @@ df %>%
 par(mar=c(1,11,1,6))
 plt <- barplot(df2$n, col='steelblue', horiz=TRUE, names.arg=df2$Country,
                las=1, xlim=c(0,16+max(df2$n)), xaxt='n')
-text(y=plt, x=df2$n+8, label=df2$n, pos = 2, cex = 0.8, col='blue')
+text(y=plt, x=df2$n+10, label=df2$n, pos = 2, cex = 0.8, col='blue')
 ```
 
 ## All rated movies on Imdb

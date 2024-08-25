@@ -1,4 +1,11 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Longlegs;2024;USA;Horror;tt23468450;7.25;nm0674020;Osgood Perkins
+Libertate;2023;Romania;Historical;tt25504794;7.25;nm0321363;Tudor Giurgiu
+Fireworks;2023;Italy;Drama;tt15764854;8;nm0278503;Giuseppe Fiorello
+Ghostlight;2024;USA;Drama;tt30321095;8.5;nm3643779;Kelly O'Sullivan
+Alien: Romulus;2024;USA;Horror;tt18412256;7.5;nm1793079;Fede Alvarez
+Simón;2023;USA;Politics;tt13580840;7;nm8389799;Diego Vicentini
+Kill;2023;India;Action;tt28259207;8;nm2418372;Nikhil Nagesh Bhat
 The Convert;2023;New Zealand;Drama;tt20113412;7.25;nm0848414;Lee Tamahori
 Thelma;2024;USA;Comedy;tt23778968;7.5;nm3936882;Josh Margolin
 The Dead don't Hurt;2023;USA;Western;tt22773644;7.75;nm0001557;Viggo Mortensen
@@ -690,7 +697,6 @@ Event Horizon;1997;USA;SciFi;tt0119081;7;nm0027271;Paul W.S. Anderson
 Snow White: A Tale of Terror;1997;USA;Horror;tt0119227;7.5;nm0169931;Michael Cohn
 La Vita è Bella;1997;Italy;Drama;tt0118799;7.5;nm0000905;Roberto Benigni
 The Game;1997;USA;Thriller;tt0119174;7.25;nm0000399;David Fincher
-Alien Resurrection;1997;USA;Horror;tt0118583;7.5;nm0000466;Jean-Pierre Jeunet
 As Good as it Gets;1997;USA;Comedy;tt0119822;7.25;nm0000985;James L. Brooks
 Cube;1997;USA;Horror;tt0123755;7.25;nm0622112;Vincenzo Natali
 Funny Games;1997;USA;Horror;tt0119167;8;nm0359734;Michael Haneke
@@ -2850,3 +2856,17 @@ Last Known Address;1970;France;Crime;tt0064225;7;nm0320510;José Giovanni
 Time of Eve;2010;Japan;SciFi;tt1715210;8.25;nm3602074;Yasuhiro Yoshiura
 Still Life;2006;China;Drama;tt0859765;7.25;nm0422605;Zhangke Jia
 Siberiad;1979;Russia;Drama;tt0079907;8.25;nm0464846;Andrey Konchalovskiy
+Revenge;2017;France;Action;tt6738136;7.25;nm0267287;Coralie Fargeat
+Un Monde sans Femmes;2011;France;Drama;tt1858582;8;nm2145328;Guillaume Brac
+ARQ;2016;Canada;SciFi;tt5640450;7;nm0254660;Tony Elliott
+Boiling Point;2021;UK;Drama;tt11127680;7.75;nm0053028;Philip Barantini
+El Patrullero;1991;Mexico;Crime;tt0105114;7.25;nm0007182;Alex Cox
+Never Rarely Sometimes Always;2020;USA;Drama;tt7772582;7.75;nm2151374;Eliza Hittman
+Four Weddings and a Funeral;1994;UK;Comedy;tt0109831;7.75;nm0001565;Mike Newell
+Don Juan DeMarco;1994;USA;Comedy;tt0112883;7.75;nm0505230;Jeremy Leven
+Apostasy;2017;UK;Drama;tt4729896;7;nm3782307;Daniel Kokotajlo
+A Field in England;2013;UK;Horror;tt2375574;7.25;nm1296554;Ben Wheatley
+Rose;2022;Denmark;Drama;tt13845652;7.5;nm0649117;Niels Arden Oplev
+25 Years;2020;Poland;Historical;tt11368998;8;nm1450132;Jan Holoubek
+Sin Señas Particulares;2020;Mexico;Drama;tt11394282;7.25;nm3635576;Fernanda Valadez
+Paper Flowers;1959;India;Drama;tt0052954;8.5;nm0244870;Guru Dutt
