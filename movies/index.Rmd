@@ -191,7 +191,7 @@ There are hundreds still to see from the 1920s to the 1950s, and these are the r
 
 + [wishlist from the 1950s](https://www.imdb.com/list/ls089830524/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4dc7ad1a-76a6-49eb-9acb-5d6959572df8&pf_rd_r=G8MGE7R65T5SR6M8362N&pf_rd_s=right-4&pf_rd_t=48201&pf_rd_i=watchlist&ref_=ttls_vw_grd&sort=list_order,asc&st_dt=&mode=grid&page=1)
 
-
+There's also some movies I was [unable to find](https://www.imdb.com/list/ls529885371).
 
 ```{r, echo=FALSE, eval=FALSE}
 inputPanel(
@@ -537,7 +537,7 @@ abline(fit, col='blue')
 
     let language = document.forms["imdb"]["language"].value;
     if (language != null && language != "") {
-      url = url + "&primary_language=" + language + ",";
+      url = url + "&languages=" + language + ",";
     }
     
     let keywords = document.forms["imdb"]["keywords"].value;
@@ -553,8 +553,11 @@ abline(fit, col='blue')
       }
     }
     
-    // alert(url);
+    // exclude 'Not Interested' list
+    url = url + "&lists=!ls543318024" 
 
+    // alert(url);
+    
     window.open(url, "_blank");  // open new tab in browser
   }
 </script>

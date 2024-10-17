@@ -1,4 +1,10 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The Substance;2024;USA;Horror;tt17526714;7.75;nm0267287;Coralie Fargeat
+Strange Darling;2024;USA;Thriller;tt22375054;9;nm2356768;JT Mollner
+Sing Sing;2023;USA;Drama;tt28479262;8.5;nm3613117;Greg Kwedar
+How to make Millions;2024;Thailand;Drama;tt31392609;7.5;nm5503969;Pat Boonnitipat
+Crossing;2024;Georgia;Drama;tt27417166;8.25;nm2172605;Levan Akin
+Kinds of Kindness;2024;Ireland;Fantasy;tt22408160;7;nm0487166;Yorgos Lanthimos
 Longlegs;2024;USA;Horror;tt23468450;7.25;nm0674020;Osgood Perkins
 Libertate;2023;Romania;Historical;tt25504794;7.25;nm0321363;Tudor Giurgiu
 Fireworks;2023;Italy;Drama;tt15764854;8;nm0278503;Giuseppe Fiorello
@@ -296,7 +302,7 @@ Mandy;2018;USA;Horror;tt6998518;7.25;nm0181903;Panos Cosmatos
 Annihilation;2018;USA;Horror;tt2798920;7.5;nm0307497;Alex Garland
 A Simple Favor;2018;USA;Thriller;tt7040874;7;nm0082450;Paul Feig
 Upgrade;2018;USA;Action;tt6499752;7;nm1191481;Leigh Whannell
-Hereditary;2018;USA;Horror;tt7784604;8.5;nm4170048;Ari Aster
+Hereditary;2018;USA;Horror;tt7784604;8.75;nm4170048;Ari Aster
 BlacKkKlansman;2018;USA;Thriller;tt7349662;7;nm0000490;Spike Lee
 Arctic;2018;USA;Thriller;tt6820256;8;nm1020835;Joe Penna
 The Ballad of Buster Scruggs;2018;USA;Western;tt6412452;8;nm0001053.nm0001054;Cohen Brothers
@@ -370,13 +376,13 @@ The Visit;2015;USA;Horror;tt3567288;7;nm0796117;M. Night Shyamalan
 The Walk;2015;USA;Historical;tt3488710;7.75;nm0000709;Robert Zemeckis
 Macbeth;2015;USA;Historical;tt2884018;7;nm0997291;Justin Kurzel
 El Abrazo de la Serpiente;2015;Colombia;Historical;tt4285496;7;nm1458734;Ciro Guerra
-Sicario;2015;USA;Drama;tt3397884;7.5;nm0898288;Denis Villeneuve
+Sicario;2015;USA;Drama;tt3397884;8;nm0898288;Denis Villeneuve
 Green Room;2015;USA;Horror;tt4062536;7.5;nm1099918;Jeremy Saulnier
 Land of Mine;2015;USA;War;tt3841424;7;nm1324710;Martin Zandvliet
 The Revenant;2015;USA;Drama;tt1663202;8;nm0327944;Alejandro G. Iñárritu
 Bone Tomahawk;2015;USA;Horror;tt2494362;8.25;nm0951975;S. Craig Zahler
 The Hateful Eight;2015;USA;Western;tt3460252;8;nm0000233;Quentin Tarantino
-The Witch;2015;USA;Horror;tt4263482;9;nm3211470;Robert Eggers
+The VVitch;2015;USA;Horror;tt4263482;9;nm3211470;Robert Eggers
 Creed;2015;USA;Drama;tt3076658;7.5;nm3363032;Ryan Coogler
 Son of Saul;2015;Hungary;War;tt3808342;7.5;nm1841577;László Nemes
 Room;2015;USA;Thriller;tt3170832;8.25;nm1049433;Lenny Abrahamson
@@ -413,7 +419,7 @@ The Conjuring;2013;USA;Horror;tt1457767;7.5;nm1490123;James Wan
 Pacific Rim;2013;USA;Action;tt1663662;7.5;nm0868219;Guillermo del Toro
 Before Midnight;2013;USA;Drama;tt2209418;7.25;nm0000500;Richard Linklater
 Oculus;2013;USA;Horror;tt2388715;7.5;nm1093039;Mike Flanagan
-Prisoners;2013;USA;Thriller;tt1392214;7.75;nm0898288;Denis Villeneuve
+Prisoners;2013;USA;Thriller;tt1392214;8;nm0898288;Denis Villeneuve
 Stoker;2013;USA;Thriller;tt1682180;7.75;nm0661791;Chan-wook Park
 All is Lost;2013;USA;Thriller;tt2017038;7.75;nm1170855;J.C. Chandor
 Snowpiercer;2013;South Korea;Politics;tt1706620;8.5;nm0094435;Bong Joon Ho
@@ -432,7 +438,7 @@ The Master;2012;USA;Drama;tt1560747;7.75;nm0000759;Paul Thomas Anderson
 An Unexpected Journey;2012;USA;Fantasy;tt0903624;7;nm0001392;Peter Jackson
 Amour;2012;France;Drama;tt1602620;8;nm0359734;Michael Haneke
 Looper;2012;USA;SciFi;tt1276104;8.5;nm0426059;Rian Johnson
-Pieta;2012;South Korea;Drama;tt2299842;8.5;nm1104118;Ki-duk Kim
+Pieta;2012;South Korea;Drama;tt2299842;8.75;nm1104118;Ki-duk Kim
 Hugo;2011;USA;Drama;tt0970179;7;nm0000217;Martin Scorsese
 God Bless America;2011;USA;Comedy;tt1912398;7.25;nm0001281;Bobcat Goldthwait
 The Thing;2011;USA;Horror;tt0905372;7;nm0374048;Matthijs van Heijningen
@@ -706,7 +712,7 @@ Hana-bi;1997;USA;Crime;tt0119250;8;nm0001429;Takeshi Kitano
 Bent;1997;USA;War;tt0118698;8;nm0558773;Sean Mathias
 Amistad;1997;USA;Historical;tt0118607;8;nm0000229;Steven Spielberg
 The Fifth Element;1997;USA;SciFi;tt0119116;7.75;nm0000108;Luc Besson
-Jackie Brown;1997;USA;Drama;tt0119396;8.25;nm0000233;Quentin Tarantino
+Jackie Brown;1997;USA;Drama;tt0119396;8.5;nm0000233;Quentin Tarantino
 Gattaca;1997;USA;SciFi;tt0119177;8.5;nm0629272;Andrew Niccol
 Lost Highway;1997;USA;Drama;tt0116922;8.5;nm0000186;David Lynch
 Hamlet;1996;UK;Historical;tt0116477;7;nm0000110;Kenneth Branagh
@@ -2770,7 +2776,7 @@ Do you Remember Dolly Bell?;1981;Yoguslavia;Drama;tt0083089;7;nm0001437;Emir Kus
 Jeanne la Pucelle, Les Batailles;1994;France;Historical;tt0107259;7.5;nm0729626;Jacques Rivette
 Jeanne la Pucelle, Les Prisons;1994;France;Historical;tt0107260;7.75;nm0729626;Jacques Rivette
 Red Monarch;1983;UK;Comedy;tt0086178;7.25;nm0324995;Jack Gold
-Der Tunnel;2001;German;Historical;tt0251447;7.75;nm0725345;Roland Suso Richter
+Der Tunnel;2001;Germany;Historical;tt0251447;7.75;nm0725345;Roland Suso Richter
 Another Year;2010;UK;Drama;tt1431181;8;nm0005139;Mike Leigh
 Kontroll;2003;Hungary;Comedy;tt0373981;7.5;nm0030735;Nimród Antal
 The Rise of Leslie Vernon;2006;USA;Comedy;tt0437857;7.25;nm1795664;Scott Glosserman
@@ -2856,7 +2862,7 @@ Last Known Address;1970;France;Crime;tt0064225;7;nm0320510;José Giovanni
 Time of Eve;2010;Japan;SciFi;tt1715210;8.25;nm3602074;Yasuhiro Yoshiura
 Still Life;2006;China;Drama;tt0859765;7.25;nm0422605;Zhangke Jia
 Siberiad;1979;Russia;Drama;tt0079907;8.25;nm0464846;Andrey Konchalovskiy
-Revenge;2017;France;Action;tt6738136;7.25;nm0267287;Coralie Fargeat
+Revenge;2017;France;Action;tt6738136;7.5;nm0267287;Coralie Fargeat
 Un Monde sans Femmes;2011;France;Drama;tt1858582;8;nm2145328;Guillaume Brac
 ARQ;2016;Canada;SciFi;tt5640450;7;nm0254660;Tony Elliott
 Boiling Point;2021;UK;Drama;tt11127680;7.75;nm0053028;Philip Barantini
@@ -2870,3 +2876,73 @@ Rose;2022;Denmark;Drama;tt13845652;7.5;nm0649117;Niels Arden Oplev
 25 Years;2020;Poland;Historical;tt11368998;8;nm1450132;Jan Holoubek
 Sin Señas Particulares;2020;Mexico;Drama;tt11394282;7.25;nm3635576;Fernanda Valadez
 Paper Flowers;1959;India;Drama;tt0052954;8.5;nm0244870;Guru Dutt
+O Quatrilho;1995;Brazil;Drama;tt0114212;7.75;nm0057003;Fábio Barreto
+The Ox;1991;Sweden;Drama;tt0102619;7.25;nm0005815;Sven Nykvist
+L'imbalsamatore;2002;Italy;Drama;tt0322725;7;nm0308520;Matteo Garrone
+System Crasher;2019;Germany;Drama;tt8535968;9;nm3519173;Nora Fingscheidt
+Better Days;2019;China;Drama;tt9586294;8.75;nm1229124;Derek Tsang
+La Noche de 12 Años;2018;Uruguay;Politics;tt6792282;8;nm1304308;Álvaro Brechner
+Que Horas Ela Volta?;2015;Brazil;Comedy;tt3742378;7;nm1155957;Anna Muylaert
+Truth and Justice;2019;Estonia;Drama;tt5593384;8;nm1823803;Tanel Toom
+Whistle and I'll Come to You;1968;UK;Horror;tt0063381;7.5;nm0588664;Jonathan Miller
+Sibir. Monamur;2011;Russia;Drama;tt1823202;7.75;nm3142989;Vyacheslav Ross
+Tyrannosaur;2011;UK;Drama;tt1204340;7.5;nm0175916;Paddy Considine
+Kabei, Our Mother;2008;Japan;Drama;tt0855852;7.5;nm0945282;Yôji Yamada
+The Sword of Desperation;2010;Japan;Samurai;tt1606761;8;nm0386312;Hideyuki Hirayama
+Nunta Muta;2008;Romania;Comedy;tt1194620;8.25;nm0538855;Horatiu Malaele
+Live and Become;2005;Israel;Drama;tt0388505;8;nm0586123;Radu Mihaileanu
+Bashing;2005;Japan;Drama;tt0456836;7.5;nm0462029;Masahiro Kobayashi
+When we Leave;2010;Germany;Drama;tt1288376;8.5;nm0770883;Feo Aladag
+Les Invasions Barbares;2003;Canada;Comedy;tt0338135;7;nm0000780;Denys Arcand
+The Visitor;2007;USA;Drama;tt0857191;7.75;nm0565336;Tom McCarthy
+The Man without a Past;2002;Finland;Comedy;tt0311519;8.75;nm0442454;Aki Kaurismäki
+Filantropica;2002;Romania;Comedy;tt0314067;7.75;nm0135952;Nae Caranfil
+The King, O Vasilias;2002;Greece;Drama;tt0357282;7.25;nm0334552;Nikos Grammatikos
+Aleksandra;2007;Russia;War;tt1034427;7.5;nm0812546;Aleksandr Sokurov
+Eternity;2017;Peru;Drama;tt8260948;7;nm9763364;Óscar Catacora
+Sous le Sable;2000;France;Drama;tt0240913;7.5;nm0654830;François Ozon
+Rocks;2019;UK;Drama;tt9067182;7.5;nm0310673;Sarah Gavron
+Tangerine;2015;USA;Comedy;tt3824458;8;nm0048918;Sean Baker
+Capote;2005;USA;Drama;tt0379725;7.5;nm0587955;Bennett Miller
+Larry;2022;Hungary;Drama;tt12952376;8;nm2989218;Szilárd Bernáth
+Good Time;2017;USA;Crime;tt4846232;7.5;nm1509478;Benny Safdie
+Ghost World;2001;USA;Comedy;tt0162346;7.25;nm0959062;Terry Zwigoff
+Séraphine;2008;France;Drama;tt1048171;7.75;nm0699095;Martin Provost
+Michael;2011;Austria;Drama;tt1906426;7.25;nm0772207;Markus Schleinzer
+A Tale of Three Sisters;2019;Turkey;Drama;tt9418878;8.25;nm1625220;Emin Alper
+The State I am in;2000;Germany;Drama;tt0248103;7.5;nm0678857;Christian Petzold
+Ayka;2018;Russia;Drama;tt8305116;7.25;nm0245361;Sergei Dvortsevoy
+Sara;1993;Iran;Drama;tt0111072;7.5;nm0576529;Dariush Mehrjui
+Kiss of the Spider Woman;1985;Brazil;Drama;tt0089424;7.5;nm0002199;Hector Babenco
+Wuthering Heights;1988;Japan;Drama;tt0095786;7.5;nm0948950;Yoshishige Yoshida
+Barbarosa;1982;USA;Western;tt0083619;7;nm0770961;Fred Schepisi
+A Sense of Freedom;1981;UK;Crime;tt0194350;7.25;nm0533334;John Mackenzie
+The 36th Chamber of Shaolin;1978;Hong Kong;Action;tt0078243;7.75;nm0514906;Chia-Liang Liu
+Utu;1983;New Zealand;War;tt0086497;7.5;nm0614276;Geoff Murphy
+Bazaar;1982;India;Drama;tt0246456;7.75;nm0765166;Sagar Sarhadi
+Shogun's Samurai;1978;Japan;Samurai;tt0078513;7.5;nm0297935;Kinji Fukasaku
+Le Témoin;1978;France;Crime;tt0078377;7.5;nm0006620;Jean-Pierre Mocky
+And Soon The Darkness;1970;UK;Thriller;tt0065398;7;nm0297523;Robert Fuest
+One Is a Lonely Number;1972;USA;Drama;tt0069044;7;nm0835799;Mel Stuart
+The Valachi Papers;1972;USA;Crime;tt0068341;7;nm0950109;Terence Young
+La Révolution Française;1989;France;Historical;tt0098238;7.75;nm0257992;Robert Enrico
+Jusqu'à la Garde;2017;France;Thriller;tt6002232;7.5;nm0499488;Xavier Legrand
+Days of Hope I: Joining Up;1975;UK;War;tt1574045;7.25;nm0516360;Ken Loach
+Days of Hope II: Every Pit In Britain Is Idle;1975;UK;War;tt1574046;8;nm0516360;Ken Loach
+Days of Hope III: A Miracle;1975;UK;Politics;tt1574047;7.25;nm0516360;Ken Loach
+Days of Hope IV: General Strike;1975;UK;Politics;tt1574048;7;nm0516360;Ken Loach
+Himala, Miracle;1982;Philippines;Drama;tt0125144;7.5;nm0076075;Ishmael Bernal
+Beg, Flight;1971;Russia;Drama;tt0065457;7;nm0022331;Aleksandr Alov
+The Mirror;1997;Iran;Drama;tt0117056;7;nm9824984;Panah Panahi
+Made in Hong Kong;1997;Hong Kong;Drama;tt0123328;8;nm0150897;Fruit Chan
+La Estrategia del Caracol;1993;Colombia;Comedy;tt0109747;7.5;nm0127882;Sergio Cabrera
+Hamoun;1990;Iran;Drama;tt0099729;7;nm0576529;Dariush Mehrjui
+Balanta, The Oak;1992;Romania;Comedy;tt0103969;7;nm0684596;Lucian Pintilie
+Sunshine;1999;Hungary;Historical;tt0145503;7;nm0843640;István Szabó
+All Dawns here are Quiet;1972;Russia;War;tt0068161;8;nm0744612;Stanislav Rostotskiy
+Heroes of the East;1978;Hong Kong;Action;tt0080172;8;nm0514906;Chia-Liang Liu
+Bashu, The Little Stranger;1989;Iran;Drama;tt0096894;8.5;nm0067323;Bahram Beyzaie
+House of Hummingbird;2018;South Korea;Drama;tt8951086;7.5;nm3258935;Bora Kim
+Apa, Father;1966;Hungary;Drama;tt0060116;7.25;nm0843640;István Szabó
+Forest of the Hanged;1965;Romania;War;tt0058439;7.5;nm0162979;Liviu Ciulei
+Le Retour de Martin Guerre;1982;France;Drama;tt0084589;8;nm0897045;Daniel Vigne
