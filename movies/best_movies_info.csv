@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+MadS;2024;France;Horror;tt28821371;7.25;nm1219963;David Moreau
+The Seed of the Sacred Fig;2024;Iran;Politics;tt32178949;8.25;nm1488024;Mohammad Rasoulof
 The Substance;2024;USA;Horror;tt17526714;7.75;nm0267287;Coralie Fargeat
 Strange Darling;2024;USA;Thriller;tt22375054;9;nm2356768;JT Mollner
 Sing Sing;2023;USA;Drama;tt28479262;8.5;nm3613117;Greg Kwedar
@@ -100,6 +102,7 @@ Cairo Conspiracy;2022;Egypt;Thriller;tt15452062;7.75;nm0757975;Tarik Saleh
 Master Gardener;2022;USA;Drama;tt15342244;7.5;nm0001707;Paul Schrader
 Spider-Man: Across the Spider-Verse;2023;USA;Action;tt9362722;8.5;nm1690966;Joaquim Dos Santos
 World War III;2022;Iran;Drama;tt21378744;8.25;nm1982933;Houman Seyyedi
+Tár;2022;USA;Drama;tt14444726;8.5;nm0276062;Todd Field
 Alcarràs;2022;Spain;Drama;tt11930126;7;nm3427032;Carla Simón
 Great Yarmouth: Provisional Figures;2022;Portugal;Drama;tt14888898;7.5;nm0554076;Marco Martins
 A New Old Play;2021;China;Drama;tt14864160;7.25;nm4392117;Qiu Jiongjiong
@@ -2946,3 +2949,9 @@ House of Hummingbird;2018;South Korea;Drama;tt8951086;7.5;nm3258935;Bora Kim
 Apa, Father;1966;Hungary;Drama;tt0060116;7.25;nm0843640;István Szabó
 Forest of the Hanged;1965;Romania;War;tt0058439;7.5;nm0162979;Liviu Ciulei
 Le Retour de Martin Guerre;1982;France;Drama;tt0084589;8;nm0897045;Daniel Vigne
+Maria Full of Grace;2004;Colombia;Drama;tt0390221;7.5;nm0551358;Joshua Marston
+Rabbit-Proof Fence;2002;Australia;Drama;tt0252444;7.25;nm0637518;Phillip Noyce
+In the Bedroom;2001;USA;Crime;tt0247425;7;nm0276062;Todd Field
+Black Legion;1937;USA;Politics;tt0027367;7.25;nm0562845;Archie Mayo
+Gettysburg;1993;USA;Historical;tt0107007;7;nm0561813;Ron Maxwell
+My Happy Family;2017;Georgia;Drama;tt5791536;8;nm2206574;Nana Ekvtimishvili
