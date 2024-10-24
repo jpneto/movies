@@ -1,4 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Stormskerry Maja;2024;Finland;Drama;tt22257924;7.75;nm0528173;Tiina Lymi
+My Favourite Cake;2024;Iran;Drama;tt31015278;7.75;nm0602206;Maryam Moghadam
 MadS;2024;France;Horror;tt28821371;7.25;nm1219963;David Moreau
 The Seed of the Sacred Fig;2024;Iran;Politics;tt32178949;8.25;nm1488024;Mohammad Rasoulof
 The Substance;2024;USA;Horror;tt17526714;7.75;nm0267287;Coralie Fargeat
@@ -23,7 +25,7 @@ Kingdom of the Planet of the Apes;2024;USA;SciFi;tt11389872;7.5;nm1226871;Wes Ba
 In a Violent Nature;2024;Canada;Horror;tt30321146;7.5;nm1854288;Chris Nash
 Abang Adik;2023;Malaysia;Drama;tt27445004;7.75;nm5998631;Lay Jin Ong
 Brujería;2023;Chile;Fantasy;tt20395798;7.75;nm3929133;Christopher Murray
-The Devil's Bath;2024;Austria;Drama;tt29141112;8.5;nm3868633;Severin Fiala
+The Devil's Bath;2024;Austria;Horror;tt29141112;8.5;nm3868633;Severin Fiala
 Cabrini;2024;USA;Drama;tt14351082;7.25;nm1920049;Alejandro Monteverde
 The First Omen;2024;USA;Horror;tt5672290;7.75;nm6674331;Arkasha Stevenson
 What You Wish For;2023;USA;Thriller;tt13638858;7.25;nm1204442;Nicholas Tomnay
@@ -2955,3 +2957,5 @@ In the Bedroom;2001;USA;Crime;tt0247425;7;nm0276062;Todd Field
 Black Legion;1937;USA;Politics;tt0027367;7.25;nm0562845;Archie Mayo
 Gettysburg;1993;USA;Historical;tt0107007;7;nm0561813;Ron Maxwell
 My Happy Family;2017;Georgia;Drama;tt5791536;8;nm2206574;Nana Ekvtimishvili
+Diary for my Children;1984;Hungary;Drama;tt0084388;7;nm0617767;Márta Mészáros
+The Free Will;2006;Germany;Drama;tt0499101;8.25;nm0321894;Matthias Glasner
