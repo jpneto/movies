@@ -1,4 +1,9 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Joker: Folie à Deux;2024;USA;Drama;tt11315808;8.75;nm0680846;Todd Phillips
+Look Back;2024;Japan;Fantasy;tt31711040;7.25;nm2545337;Kiyotaka Oshiyama
+A Different Man;2024;USA;Comedy;tt21097228;7;nm3661688;Aaron Schimberg
+Anora;2023;USA;Comedy;tt28607951;7.75;nm0048918;Sean Baker
+Goodbye Julia;2023;Sudan;Drama;tt14330672;8.25;nm8190387;Mohamed Kordofani
 Stormskerry Maja;2024;Finland;Drama;tt22257924;7.75;nm0528173;Tiina Lymi
 My Favourite Cake;2024;Iran;Drama;tt31015278;7.75;nm0602206;Maryam Moghadam
 MadS;2024;France;Horror;tt28821371;7.25;nm1219963;David Moreau
@@ -50,7 +55,7 @@ Los Colonos;2023;Chile;Drama;tt10370812;8.5;nm3147401;Felipe Gálvez Haberle
 Origin;2023;USA;Politics;tt13321244;8;nm1148550;Ava DuVernay
 You'll Never Find Me;2023;Australia;Horror;tt22023218;7.5;nm8218659;Josiah Allen
 Stopmotion;2023;UK;Horror;tt14852624;7;nm1152178;Robert Morgan
-The Zone of Interest;2023;UK;War;tt7160372;7.25;nm0322242;Jonathan Glazer
+The Zone of Interest;2023;UK;War;tt7160372;7.5;nm0322242;Jonathan Glazer
 Dune 2;2024;USA;SciFi;tt15239678;9;nm0898288;Denis Villeneuve
 Spaceman;2024;Czech Republic;SciFi;tt11097384;7;nm0719307;Johan Renck
 The Teacher's Lounge;2023;Germany;Drama;tt26612950;7.25;nm1921714;Ilker Çatak
@@ -1212,7 +1217,7 @@ Nausicaa of the Valley of the Wind;1984;Japan;Fantasy;tt0087544;8.25;nm0594503;H
 The Omen;1976;USA;Horror;tt0075005;7;nm0001149;Richard Donner
 Pusher;1996;Denmark;Thriller;tt0117407;7.5;nm0716347;Nicolas Winding Refn
 The Bitter Tears of Petra von Kant;1972;Germany;Drama;tt0068278;7.5;nm0001202;Rainer Werner Fassbinder
-Sitting Target;1972;UK;Crime;tt0069273;7.5;nm0382779;Douglas Hickox
+Sitting Target;1972;UK;Crime;tt0069273;7.75;nm0382779;Douglas Hickox
 When the Last Sword is Drawn;2002;Japan;Samurai;tt0359692;7.25;nm0847690;Yôjirô Takita
 Signs;2002;USA;Horror;tt0286106;7.25;nm0796117;M. Night Shyamalan
 Warrior;2011;USA;Drama;tt1291584;8;nm0640334;Gavin O'Connor
@@ -2959,3 +2964,39 @@ Gettysburg;1993;USA;Historical;tt0107007;7;nm0561813;Ron Maxwell
 My Happy Family;2017;Georgia;Drama;tt5791536;8;nm2206574;Nana Ekvtimishvili
 Diary for my Children;1984;Hungary;Drama;tt0084388;7;nm0617767;Márta Mészáros
 The Free Will;2006;Germany;Drama;tt0499101;8.25;nm0321894;Matthias Glasner
+Lucky;2017;USA;Comedy;tt5859238;7.25;nm0002253;John Carroll Lynch
+Stolen Spring;1993;Denmark;Drama;tt0106949;7;nm0775733;Peter Schrøder
+Ladybird Ladybird;1994;UK;Drama;tt0110296;8.25;nm0516360;Ken Loach
+Wild Reeds;1994;France;Drama;tt0111019;7.75;nm0029242;André Téchiné
+Pauline at the Beach;1983;France;Drama;tt0086087;7.5;nm0006445;Éric Rohmer
+Chocolat;1988;France;Drama;tt0094868;7.5;nm0219136;Claire Denis
+Ridicule;1996;France;Drama;tt0117477;7.25;nm0496312;Patrice Leconte
+Un monde;2021;Belgium;Drama;tt11087960;8.25;nm3218491;Laura Wandel
+Black Death;2010;Germany;Horror;tt1181791;7.5;nm1247462;Christopher Smith
+Severance;2006;UK;Comedy;tt0464196;7.75;nm1247462;Christopher Smith
+The Field;1990;Ireland;Drama;tt0099566;7.75;nm0006487;Jim Sheridan
+The Maid;2009;Chile;Drama;tt1187044;7;nm2928364;Sebastián Silva
+The Seduction of Mimi;1972;Italy;Comedy;tt0068950;7.5;nm0921631;Lina Wertmüller
+Sexy Beast;2000;UK;Crime;tt0203119;8;nm0322242;Jonathan Glazer
+Goodbye Solo;2008;USA;Drama;tt1095442;7.25;nm1023919;Ramin Bahrani
+Ressources Humaines;1999;France;Politics;tt0220726;8;nm0134559;Laurent Cantet
+Nil by Mouth;1997;UK;Drama;tt0119792;8;nm0000198;Gary Oldman
+The Squid and the Whale;2005;USA;Drama;tt0367089;7;nm0000876;Noah Baumbach
+Shot Caller;2017;USA;Crime;tt4633690;7.25;nm0006846;Ric Roman Waugh
+Toni Erdmann;2016;Germany;Drama;tt4048272;7.75;nm0011752;Maren Ade
+Osama;2003;Afghanistan;Drama;tt0368913;7.25;nm1383995;Siddiq Barmak
+The Selfish Giant;2013;UK;Drama;tt2304426;8.5;nm1163237;Clio Barnard
+Los Fuertes;2019;Chile;Drama;tt9187214;7;nm1324730;Omar Zúñiga
+Bespredel;1989;Russia;Crime;tt0286502;7.25;nm0331719;Igor Gostev
+Cesare deve Morire;2012;Italy;Drama;tt2177511;7.25;nm0851752;Paolo Taviani
+Kaili Blues;2015;China;Drama;tt4613272;7;nm7267981;Bi Gan
+Happy Times;2000;China;Comedy;tt0303243;7;nm0955443;Yimou Zhang
+This Is Not a Burial, It's a Resurrection;2019;Lesotho;Drama;tt10849514;8.5;nm6011478;Lemohang Jeremiah Mosese
+Riding Alone for Thousands of Miles;2005;China;Drama;tt0437447;8.25;nm0955443;Yimou Zhang
+Hope;2019;Norway;Drama;tt9812614;7.5;nm0845618;Maria Sødahl
+Barbara;2012;Germany;Drama;tt2178941;7;nm0678857;Christian Petzold
+Theatre of Blood;1973;UK;Crime;tt0070791;7;nm0382779;Douglas Hickox
+I'm Your Man;2021;Germany;Comedy;tt13087796;8.25;nm0775056;Maria Schrader
+Ilo Ilo;2013;Singapore;Drama;tt2901736;7.5;nm2021547;Anthony Chen
+Carol;2015;USA;Drama;tt2402927;7.25;nm0001331;Todd Haynes
+The Believer;2001;USA;Drama;tt0247199;8.25;nm0063785;Henry Bean
