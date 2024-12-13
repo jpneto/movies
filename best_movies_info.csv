@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Smile 2;2024;USA;Horror;tt29268110;7.25;nm6475689;Parker Finn
 Joker: Folie à Deux;2024;USA;Drama;tt11315808;8.75;nm0680846;Todd Phillips
 Look Back;2024;Japan;Fantasy;tt31711040;7.25;nm2545337;Kiyotaka Oshiyama
 A Different Man;2024;USA;Comedy;tt21097228;7;nm3661688;Aaron Schimberg
@@ -188,7 +189,7 @@ DeadStream;2022;USA;Horror;tt12788488;7.25;nm3234892;Joseph Winter
 Fresh;2022;USA;Horror;tt13403046;7;nm6470216;Mimi Cave
 The Worst Person in the World;2021;Norway;Drama;tt10370710;7;nm1258686;Joachim Trier
 Vesper;2021;France;SciFi;tt20225374;7.75;nm3043504;Kristina Buozyte
-Spencer;2021;UK;Drama;tt12536294;8;nm1883257;Pablo Larraín
+Spencer;2021;UK;Drama;tt12536294;8.25;nm1883257;Pablo Larraín
 Pleasure;2021;Sweden;Drama;tt8550054;8;nm5679126;Ninja Thyberg
 Top Gun: Maverick;2022;USA;Action;tt1745960;8;nm2676052;Joseph Kosinski
 Rise Roar Revolt;2022;India;Action;tt8178634;9;nm1442514;S.S. Rajamouli
@@ -440,7 +441,7 @@ Killing Them Softly;2012;USA;Horror;tt1764234;7;nm0231596;Andrew Dominik
 Chronicle;2012;USA;SciFi;tt1706593;7;nm2503633;Josh Trank
 Cloud Atlas;2012;USA;Drama;tt1371111;8;nm0905152.nm0905154;Wachowski Brothers
 Dredd;2012;USA;SciFi;tt1343727;7.5;nm0871428;Pete Travis
-Moonrise Kingdom;2012;USA;Comedy;tt1748122;7.25;nm0027572;Wes Anderson
+Moonrise Kingdom;2012;USA;Comedy;tt1748122;7.75;nm0027572;Wes Anderson
 Jagten, The Hunt;2012;Denmark;Drama;tt2106476;8;nm0899121;Thomas Vinterberg
 Maniac;2012;France;Horror;tt2103217;7.75;nm0451076;Franck Khalfoun
 Django Unchained;2012;USA;Western;tt1853728;7.5;nm0000233;Quentin Tarantino
@@ -584,7 +585,7 @@ Alice;2005;Portugal;Drama;tt0459072;8;nm0554076;Marco Martins
 Caché;2005;Germany;Thriller;tt0387898;7.5;nm0359734;Michael Haneke
 Wolf Creek;2005;Australia;Horror;tt0416315;7.5;nm0572562;Greg McLean
 Gang Street Hooligans;2005;USA;Thriller;tt0385002;7.75;nm0591994;Lexi Alexander
-Kingdom of Heaven, Director's Cut;2005;USA;Historical;tt0320661;8.25;nm0000631;Ridley Scott
+Kingdom of Heaven, Director's Cut;2005;USA;Historical;tt0320661;8.5;nm0000631;Ridley Scott
 The Descent;2005;USA;Horror;tt0435625;8.5;nm0551076;Neil Marshall
 V for Vendetta;2005;USA;Dystopia;tt0434409;8.75;nm0574625;James McTeigue
 Good Night, and Good Luck;2005;USA;Politics;tt0433383;9.25;nm0000123;George Clooney
@@ -674,7 +675,7 @@ Brother;2000;Japan;Crime;tt0222851;8;nm0001429;Takeshi Kitano
 Snatch;2000;UK;Crime;tt0208092;7.5;nm0005363;Guy Ritchie
 Pitch Black;2000;USA;SciFi;tt0134847;7.75;nm0878638;David Twohy
 Memento;2000;USA;SciFi;tt0209144;8.5;nm0634240;Christopher Nolan
-Gladiator;2000;USA;Historical;tt0172495;8;nm0000631;Ridley Scott
+Gladiator;2000;USA;Historical;tt0172495;8.25;nm0000631;Ridley Scott
 Crouching Tiger, Hidden Dragon;2000;China;Action;tt0190332;8.5;nm0000487;Ang Lee
 JSA;2000;South Korea;Thriller;tt0260991;8;nm0661791;Chan-wook Park
 Amores Perros;2000;Mexico;Drama;tt0245712;9.25;nm0327944;Alejandro G. Iñárritu
@@ -877,7 +878,7 @@ A Nightmare on Elm Street;1984;USA;Horror;tt0087800;8;nm0000127;Wes Craven
 Nineteen Eighty-Four;1984;UK;Dystopia;tt0087803;7.5;nm0705535;Michael Radford
 Once Upon a Time in America;1984;USA;Drama;tt0087843;8.5;nm0001466;Sergio Leone
 The Terminator;1984;USA;SciFi;tt0088247;8.5;nm0000116;James Cameron
-Amadeus;1984;USA;Historical;tt0086879;9.25;nm0001232;Milos Forman
+Amadeus;1984;USA;Historical;tt0086879;9.5;nm0001232;Milos Forman
 The Day After;1983;UK;Dystopia;tt0085404;8;nm0583292;Nicholas Meyer
 The Big Chill;1983;USA;Drama;tt0085244;7;nm0001410;Lawrence Kasdan
 Videodrome;1983;USA;SciFi;tt0086541;8;nm0000343;David Cronenberg
@@ -1095,7 +1096,7 @@ Them!;1954;USA;Horror;tt0047573;7.5;nm0235066;Gordon Douglas
 Gojira;1954;Japan;Horror;tt0047034;8.25;nm0393094;Ishirô Honda
 The Bridge on the River Kwai;1957;UK;War;tt0050212;8.25;nm0000180;David Lean
 Forbidden Planet;1956;USA;SciFi;tt0049223;9;nm0928208;Fred M. Wilcox
-Paths of Glory;1957;USA;War;tt0050825;9;nm0000040;Stanley Kubrick
+Paths of Glory;1957;USA;War;tt0050825;9.25;nm0000040;Stanley Kubrick
 Alice in Wonderland;1951;USA;Fantasy;tt0043274;8;nm0314671;Clyde Geronimi
 Le Salaire de la Peur;1953;France;Thriller;tt0046268;9.75;nm0167241;Henri-Georges Clouzot
 Moby Dick;1956;USA;Drama;tt0049513;8.5;nm0001379;John Huston
@@ -2999,4 +3000,25 @@ Theatre of Blood;1973;UK;Crime;tt0070791;7;nm0382779;Douglas Hickox
 I'm Your Man;2021;Germany;Comedy;tt13087796;8.25;nm0775056;Maria Schrader
 Ilo Ilo;2013;Singapore;Drama;tt2901736;7.5;nm2021547;Anthony Chen
 Carol;2015;USA;Drama;tt2402927;7.25;nm0001331;Todd Haynes
-The Believer;2001;USA;Drama;tt0247199;8.25;nm0063785;Henry Bean
+The Believer;2001;USA;Drama;tt0247199;8;nm0063785;Henry Bean
+Des Hommes et des Dieux;2010;France;Historical;tt1588337;7.5;nm0064741;Xavier Beauvois
+Strangled;2016;Hungary;Thriller;tt4975280;7.75;nm0814694;Árpád Sopsits
+The Peach Thief;1964;Bulgaria;Drama;tt0058277;7.25;nm0705497;Vulo Radev
+Samurai Wolf;1966;Japan;Samurai;tt0199681;7.75;nm0331471;Hideo Gosha
+Samurai Wolf II;1967;Japan;Samurai;tt0199681;7;nm0331471;Hideo Gosha
+Woman of Darkness;1966;Sweden;Drama;tt0061207;7.5;nm0560489;Arne Mattsson
+El Escapulario;1968;Mexico;Horror;tt0060379;7.25;nm0328486;Servando González
+A Story Written with Water;1965;Japan;Drama;tt0059758;7;nm0948950;Yoshishige Yoshida
+Hero of the Red Light District;1960;Japan;Drama;tt0187119;7.75;nm0879755;Tomu Uchida
+Elisa, Vida Mia;1977;Spain;Drama;tt0075983;7;nm0767022;Carlos Saura
+Italiani Brava Gente;1964;Italy;War;tt0059323;8.5;tt0059323;Giuseppe De Santis
+Mudar de Vida;1966;Portugal;Drama;tt0060720;7.75;nm0733846;Paulo Rocha
+The Borgia Stick;1967;USA;Thriller;tt0061419;7.5;nm0723629;David Lowell Rich
+Abashiri Prison;1965;Japan;Crime;tt0058869;7.25;nm0411030;Teruo Ishii
+Of Human Bondage;1964;UK;Drama;tt0058425;7.25;nm0400731;Ken Hughes
+The Birch Tree;1967;Yoguslavia;Drama;tt0066862;7.5;nm0044726;Ante Babaja
+The Flame of Devotion;1964;Japan;Drama;tt2645472;8;nm0475542;Koreyoshi Kurahara
+Luxembourg, Luxembourg;2022;Ukraine;Comedy;tt19783714;7;nm9557050;Antonio Lukich
+Jackie;2016;USA;Drama;tt1619029;7.5;nm1883257;Pablo Larraín
+Ash is Purest White;2018;China;Crime;tt7298400;7;nm0422605;Jia Zhang-ke
+Les Frères Sisters;2018;France;Western;tt4971344;7.75;nm0002191;Jacques Audiard
