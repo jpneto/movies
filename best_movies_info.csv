@@ -1,6 +1,6 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
 The Order;2024;USA;Crime;tt26625693;7;nm0997291;Justin Kurzel
-Nosferatu;2024;USA;Horror;tt5040012;8.25;nm3211470;Robert Eggers
+Nosferatu;2024;USA;Horror;tt5040012;8.5;nm3211470;Robert Eggers
 The Wild Robot;2024;USA;Comedy;tt29623480;8;nm0761498;Chris Sanders
 Il Treno dei Bambini;2024;Italy;Drama;tt29242846;7;nm0173724;Cristina Comencini
 Small Things Like These;2024;Ireland;Drama;tt27196021;7.25;nm2139803;Tim Mielants
@@ -734,7 +734,7 @@ Hana-bi;1997;USA;Crime;tt0119250;8;nm0001429;Takeshi Kitano
 Bent;1997;USA;War;tt0118698;8;nm0558773;Sean Mathias
 Amistad;1997;USA;Historical;tt0118607;8;nm0000229;Steven Spielberg
 The Fifth Element;1997;USA;SciFi;tt0119116;7.75;nm0000108;Luc Besson
-Jackie Brown;1997;USA;Drama;tt0119396;8.5;nm0000233;Quentin Tarantino
+Jackie Brown;1997;USA;Drama;tt0119396;8.75;nm0000233;Quentin Tarantino
 Gattaca;1997;USA;SciFi;tt0119177;8.5;nm0629272;Andrew Niccol
 Lost Highway;1997;USA;Drama;tt0116922;8.5;nm0000186;David Lynch
 Hamlet;1996;UK;Historical;tt0116477;7;nm0000110;Kenneth Branagh
@@ -3041,3 +3041,8 @@ Arábia;2017;Brazil;Drama;tt6400280;7.5;nm7925042;João Dumans
 Dupont Lajoie;1975;France;Drama;tt0071449;8.75;nm0092372;Yves Boisset
 We Are the Bus People;1979;Egypt;Drama;tt2256041;8;nm0404008;Hussein Kamal
 The Family;1987;Italy;Drama;tt0093004;7.5;nm0778633;Ettore Scola
+Bizalom, Confidence;1980;Hungary;Drama;tt0078868;7.5;nm0843640;István Szabó
+Dom, House;2011;Russia;Drama;tt2093100;8.25;nm0688239;Oleg Pogodin
+The Inheritors;1998;Germany;Drama;tt0141824;9;nm0752328;Stefan Ruzowitzky
+The Necessities of Life;2008;Canada;Drama;tt1280501;7.5;nm0683597;Benoit Pilon
+Kong que, Peacock;2005;China;Drama;tt0445506;7.75;nm0345146;Changwei Gu
