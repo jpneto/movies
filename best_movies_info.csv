@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Queer;2024;USA;Drama;tt24176060;7;nm0345174;Luca Guadagnino
 The Damned;2024;Ireland;Horror;tt15010692;7;nm4684113;Thordur Palsson
 The Order;2024;USA;Crime;tt26625693;7;nm0997291;Justin Kurzel
 Nosferatu;2024;USA;Horror;tt5040012;8.5;nm3211470;Robert Eggers
@@ -47,7 +48,7 @@ The Devil's Bath;2024;Austria;Horror;tt29141112;8.5;nm3868633;Severin Fiala
 Cabrini;2024;USA;Drama;tt14351082;7.25;nm1920049;Alejandro Monteverde
 The First Omen;2024;USA;Horror;tt5672290;7.75;nm6674331;Arkasha Stevenson
 What You Wish For;2023;USA;Thriller;tt13638858;7.25;nm1204442;Nicholas Tomnay
-Challengers;2024;USA;Drama;tt16426418;7.25;nm0345174;Luca Guadagnino
+Challengers;2024;USA;Drama;tt16426418;7.5;nm0345174;Luca Guadagnino
 Civil War;2024;USA;Drama;tt17279496;7.25;nm0307497;Alex Garland
 Furiosa;2024;USA;Action;tt12037194;8.5;nm0004306;George Miller
 Housekeeping for Beginners;2023;North Macedonia;Drama;tt24244436;8.25;nm3301836;Goran Stolevski
@@ -1411,7 +1412,7 @@ Tokyo Sonata;2008;Japan;Drama;tt0938341;7.75;nm0475905;Kiyoshi Kurosawa
 My Life as a Dog;1985;Sweden;Drama;tt0089606;7.75;nm0002120;Lasse Hallström
 Pelle the Conquerer;1987;Denmark;Drama;tt0093713;8;nm0000806;Bille August
 The Perks of Being a Wallflower;2012;USA;Drama;tt1659337;7.75;nm0154716;Stephen Chbosky
-Call Me by Your Name;2017;Italy;Drama;tt5726616;8;nm0345174;Luca Guadagnino
+Call Me by Your Name;2017;Italy;Drama;tt5726616;8.25;nm0345174;Luca Guadagnino
 '71;2014;UK;War;tt2614684;8;nm1312919;Yann Demange
 The Fighter;2010;USA;Drama;tt0964517;7.25;nm0751102;David O. Russell
 Peppermint Candy;1999;South Korea;Drama;tt0247613;7.5;nm0496969;Chang-dong Lee
