@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Babygirl;2024;USA;Drama;tt30057084;7.75;nm0717603;Halina Reijn
 All We Imagine as Light;2024;India;Drama;tt32086077;8.25;nm10339953;Payal Kapadia
 The Girl with the Needle;2024;Denmark;Drama;tt10236164;7.75;nm3281319;Magnus von Horn
 The Damned;2024;Ireland;Horror;tt15010692;7;nm4684113;Thordur Palsson
@@ -816,7 +817,7 @@ The Godfather: Part III;1990;USA;Drama;tt0099674;8;nm0000338;Francis Ford Coppol
 Wild at Heart;1990;USA;Drama;tt0100935;8;nm0000186;David Lynch
 Miller's Crossing;1990;USA;Crime;tt0100150;9;nm0001054.nm0001053;Cohen Brothers
 Goodfellas;1990;USA;Crime;tt0099685;9;nm0000217;Martin Scorsese
-Cyrano de Bergerac;1990;France;Historical;tt0099334;9.25;nm0710919;Jean-Paul Rappeneau
+Cyrano de Bergerac;1990;France;Drama;tt0099334;9.25;nm0710919;Jean-Paul Rappeneau
 Dances with Wolves;1990;USA;Western;tt0099348;7.5;nm0000126;Kevin Costner
 The Exorcist III;1990;USA;Horror;tt0099528;8.25;nm0087861;William Peter Blatty
 Misery;1990;USA;Horror;tt0100157;8.5;nm0001661;Rob Reiner
@@ -3065,3 +3066,7 @@ Brother's Keeper;2021;Turkey;Drama;tt10311018;7.5;nm5408538;Ferit Karahan
 Something Useful;2017;Turkey;Drama;tt6214084;8;nm1959064;Pelin Esmer
 Joyland;2022;Pakistan;Drama;tt19719976;9.5;nm7932095;Saim Sadiq
 Che: Part One;2008;France;Historical;tt0892255;8.5;nm0001752;Steven Soderbergh
+Che: Part Two;2008;Spain;Historical;tt0374569;7;nm0001752;Steven Soderbergh
+Assalto ao Trem Pagador;1962;Brazil;Crime;tt0056582;7.5;nm0267405;Roberto Farias
+The Wasps are Here;1978;Sri Lanka;Drama;tt0374523;7.5;nm1217568;Darmasena Pathiraja
+Demon Pond;1979;Japan;Fantasy;tt0079041;7;nm0793983;Masahiro Shinoda
