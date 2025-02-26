@@ -1,6 +1,8 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Presence;2024;USA;Horror;tt28249919;7;nm0001752;Steven Soderbergh
+The Brutalist;2024;USA;Drama;tt8999762;7.5;nm1227232;Brady Corbet
 Parthenope;2024;Italy;Drama;tt23853982;7.25;nm0815204;Paolo Sorrentino
-Companion;2025;USA;Crime;tt26584495;7.5;nm1289733;Drew Hancock
+Companion;2025;USA;Crime;tt26584495;8.25;nm1289733;Drew Hancock
 Nickel Boys;2024;USA;Drama;tt23055660;7;nm8840476;RaMell Ross
 Sometimes I Think About Dying;2023;USA;Drama;tt16431966;7.5;nm3939072;Rachel Lambert
 Babygirl;2024;USA;Drama;tt30057084;7.75;nm0717603;Halina Reijn
@@ -3077,3 +3079,4 @@ Demon Pond;1979;Japan;Fantasy;tt0079041;7;nm0793983;Masahiro Shinoda
 Tony;2009;UK;Crime;tt1120945;7.75;nm1976116;Gerard Johnson
 La Femme Flic;1980;France;Crime;tt0079145;7;nm0092372;Yves Boisset
 The Counterfeiters;2007;Austria;Drama;tt0813547;8;nm0752328;Stefan Ruzowitzky
+Dinner in America;2020;USA;Comedy;tt9058654;8;nm0716814;Adam Rehmeier
