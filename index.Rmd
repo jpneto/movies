@@ -173,6 +173,9 @@ par(mar=c(3,1,1,1))
 #plt <- barplot(df2$n, names.arg=df2$Year, las=2, col=my.color,
 #ylim=c(0,max(df2$n)*1.25), yaxt="n")
 
+# NOTA: no início do ano pode dar erro se não houver um filme classificado
+#       com pelo menos 8.0
+
 plt <- barplot(data, names.arg=df2$Year, las=2, 
                col=c(my.color, 'orange'), ylim=c(0,140), yaxt="n")
 
