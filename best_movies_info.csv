@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+The King Tide;2023;Canada;Thriller;tt6632018;7.25;nm2255926;Christian Sparkes
 Presence;2024;USA;Horror;tt28249919;7;nm0001752;Steven Soderbergh
 The Brutalist;2024;USA;Drama;tt8999762;7.5;nm1227232;Brady Corbet
 Parthenope;2024;Italy;Drama;tt23853982;7.25;nm0815204;Paolo Sorrentino
@@ -3080,4 +3081,8 @@ Tony;2009;UK;Crime;tt1120945;7.75;nm1976116;Gerard Johnson
 La Femme Flic;1980;France;Crime;tt0079145;7;nm0092372;Yves Boisset
 The Counterfeiters;2007;Austria;Drama;tt0813547;8;nm0752328;Stefan Ruzowitzky
 Dinner in America;2020;USA;Comedy;tt9058654;8;nm0716814;Adam Rehmeier
-La Traque;1975;France;Thriller;tt0073815;8.25;nm0503793;Serge Leroy
+La Traque;1975;France;Thriller;tt0073815;8;nm0503793;Serge Leroy
+Bread and Roses;2000;USA;Politics;tt0212826;7;nm0516360;Ken Loach
+Ae Fond Kiss...;2004;UK;Drama;tt0380366;7.25;nm0516360;Ken Loach
+En Guerre;2018;France;Politics;tt7555774;8.25;nm0110300;Stéphane Brizé
+It's a Free World;2007;UK;Drama;tt0807054;7.25;nm0516360;Ken Loach
