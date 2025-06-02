@@ -1,11 +1,11 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
 Sinners;2025;USA;Action;tt31193180;8.25;nm3363032;Ryan Coogler
 In the Land of Brothers;2024;Iran;Drama;tt30141676;8;nm8517860;Raha Amirfazli
-The Ugly Stepsister;2025;Norway,Horror;tt29344903;7.75;nm5132581;Emilie Blichfeldt
+The Ugly Stepsister;2025;Norway;Horror;tt29344903;7.75;nm5132581;Emilie Blichfeldt
 Psycho Therapy;2024;USA;Comedy;tt17492148;7.25;nm3796645;Tolga Karaçelik
 Dead Mail;2024;USA;Horror;tt26474783;8;nm6450125;Joe DeBoer
 Fréwaka;2024;Ireland;Horror;tt27828550;7.5;nm5240404;Aislinn Clarke
-The Last Dance;2024:Hong Kong;Drama;tt31648020;8.25;nm2602313;Anselm Chan
+The Last Dance;2024;Hong Kong;Drama;tt31648020;8.25;nm2602313;Anselm Chan
 The Rule of Jenny Pen;2024;New Zealand;Horror;tt6874690;7.25;nm0038778;James Ashcroft
 Hard Truths;2024;UK;Drama;tt11891850;7.25;nm0005139;Mike Leigh
 Mickey 17;2025;USA;Comedy;tt12299608;7;nm0094435;Bong Joon Ho
@@ -3119,3 +3119,7 @@ Looks and Smiles;1981;UK;Drama;tt0082678;7.75;nm0516360;Ken Loach
 The Snow Human;1968;Japan;Drama;tt0063171;7.5;nm0849080;Tokuzô Tanaka
 Tempos Difíceis;1988;Portugal;Drama;tt0095279;7;nm0098439;João Botelho
 Strawman;1987;Japan;Comedy;tt0092829;7.25;nm0911042;Toon Wang
+Without Love;1980;Poland;Drama;tt0080434;7;nm0765904;Barbara Sass
+Evening Rain;1980;China;Drama;tt0080404;8.5;nm0943195;Yigong Wu
+The Gamekeeper;1980;UK;Drama;tt0080773;7.25;nm0516360;Ken Loach
+Dear Yelena Sergeyevna;1988;Russia;Drama;tt0095055;7.25;nm0752922;Eldar Ryazanov

@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "2021--2024"
+date: "2021--2025"
 output: 
   html_document:
     includes:
@@ -177,7 +177,7 @@ par(mar=c(3,1,1,1))
 #       com pelo menos 8.0
 
 plt <- barplot(data, names.arg=df2$Year, las=2, 
-               col=c(my.color, 'orange'), ylim=c(0,140), yaxt="n")
+               col=c(my.color, 'orange'), ylim=c(0,150), yaxt="n")
 
 text(x=plt, y=df2$n,      label=df2$n,      pos=1, cex=0.8, col='White')
 text(x=plt, y=df2.imdb$n, label=df2.imdb$n, pos=1, cex=0.8, col='blue')
@@ -430,7 +430,7 @@ df %>%
 par(mar=c(1,11,1,1))
 plt <- barplot(df6$n, col='steelblue', horiz=TRUE, names.arg=df6$Genre, 
                las=1, xlim=c(0,20+max(df6$n)), xaxt='n')
-text(y=plt, x=df6$n+12, label=df6$n, pos=2, cex=0.8, col='blue')
+text(y=plt, x=df6$n+15, label=df6$n, pos=2, cex=0.8, col='blue')
 ```
 
 ## Movies per Country
