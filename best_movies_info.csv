@@ -1,4 +1,13 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Black Dog;2024;China;Drama;tt28131427;8;nm1299690;Guan Hu
+Superman;2025;USA;Action;tt5950044;7.5;nm0348181;James Gunn
+Bring Her Back;2025;Australia;Horror;tt32246771;8;nm4053334;Danny Philippou
+Eddington;2025;USA;Comedy;tt31176520;7;nm4170048;Ari Aster
+Late Shift;2025;Switzerland;Drama;tt32204858;7;nm1273344;Petra Biondina Volpe
+Dangerous Animals;2025;Australia;Horror;tt32299316;7.25;nm2015237;Sean Byrne
+The Phoenician Scheme;2025;USA;Comedy;tt30840798;7.25;nm0027572;Wes Anderson
+The Life of Chuck;2024;USA;Drama;tt12908150;7;nm1093039;Mike Flanagan
+Maldoror;2024;Belgium;Crime;tt15459206;8;nm0239001;Fabrice du Welz
 April;2024;Georgia;Drama;tt31350080;7.5;nm3529555;Dea Kulumbegashvili
 Sujo;2024;Mexico;Drama;tt30320410;7.5;nm2156418;Astrid Rondero
 Marshmallow;2025;USA;Horror;tt15220066;7.25;nm2819891;Daniel DelPurgatorio
@@ -162,7 +171,7 @@ Sick of Myself;2022;Norway;Drama;tt18816518;8;nm5589501;Kristoffer Borgli
 Sisu;2022;Finland;Action;tt14846026;7.75;nm1118351;Jalmari Helander
 Leila's Brothers;2022;Iran;Drama;tt19653180;9.25;nm7920254;Saeed Roustayi
 Le Bleu du Caftan;2022;Morocco;Drama;tt17679584;8.25;nm5685112;Maryam Touzani
-Guardians of the Galaxy;2023;USA;Action;tt6791350;8;nm0348181;James Gunn
+Guardians of the Galaxy 3;2023;USA;Action;tt6791350;8;nm0348181;James Gunn
 The Covenant;2023;USA;War;tt4873118;8.25;nm0005363;Guy Ritchie
 Evil Dead Rise;2023;USA;Horror;tt13345606;7;nm2091846;Lee Cronin
 How to Blow Up a Pipeline;2022;USA;Politics;tt21440780;7.75;nm3771823;Daniel Goldhaber
@@ -337,7 +346,7 @@ The Lighthouse;2019;USA;Horror;tt7984734;8.75;nm3211470;Robert Eggers
 Once Upon a Time in Hollywood;2019;USA;Drama;tt7131622;9;nm0000233;Quentin Tarantino
 Joker;2019;USA;Drama;tt7286456;9.25;nm0680846;Todd Phillips
 The King;2019;UK;Historical;tt7984766;8;nm2391575;David Michôd
-Dr. Sleep;2019;USA;Horror;tt5606664;8;nm1093039;Mike Flanagan
+Dr. Sleep;2019;USA;Horror;tt5606664;8.25;nm1093039;Mike Flanagan
 Dolor y Gloria;2019;Spain;Drama;tt8291806;7;nm0000264;Pedro Almodóvar
 Midsommar, Director's Cut;2019;USA;Horror;tt8772262;7.75;nm4170048;Ari Aster
 Parasite;2019;South Korea;Drama;tt6751668;9.25;nm0094435;Bong Joon Ho
@@ -3150,3 +3159,15 @@ David and Lisa;1962;USA;Drama;tt0055892;7.25;nm0675068;Frank Perry
 Karnak Café;1975;Egypt;Politics;tt0970427;7.75;nm0046220;Ali Badr Khan
 Five Fingers of Death;1972;Hong Kong;Action;tt0070800;8.25;nm0155548;Chang-hwa Jeong
 The Music Man;1962;USA;Musical;tt0056262;7;nm0196536;Morton DaCosta
+The Stranger and the Fog;1976;Iran;Fantasy;tt0071549;7.75;nm0067323;Bahram Beyzaie
+The Pear Tree;1998;Iran;Drama;tt0187809;7.25;nm0576529;Dariush Mehrjui
+The Catch;1983;Japan;Drama;tt0085632;7.5;nm0814570;Shinji Sômai
+Sahib Bibi Aur Ghulam;1962;India;Drama;tt0056436;8.5;nm0023551;Abrar Alvi
+Bona;1980;Philippines;Drama;tt0082093;7.25;nm0110653;Lino Brocka
+The Education of Sonny Carson;1974;USA;Historical;tt0071456;7;nm0133384;Michael Campus
+Gaman;1978;India;Drama;tt0150683;7;nm0019464;Muzaffar Ali
+Heat;1963;Russia;Drama;tt0129658;7;nm0791899;Larisa Shepitko
+Maqbool;2003;India;Crime;tt0379370;7.75;nm0080235;Vishal Bhardwaj
+Nishant, Night's End;1975;India;Drama;tt0073458;8.5;nm0070867;Shyam Benegal
+Batch '81;1982;Philippines;Crime;tt0138317;7.75;nm0209672;Mike De Leon
+The Yellow Sea;2010;South Korea;Crime;tt1230385;8.25;nm2947553;Hong-jin Na
