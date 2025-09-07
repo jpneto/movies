@@ -1,4 +1,5 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Kontinental '25;2025;Romania;Comedy;tt35492581;7.25;nm1257492;Radu Jude
 F1;2025;USA;Action;tt16311594;7;nm2676052;Joseph Kosinski
 Who do I Belong to;2024;Tunisia;Drama;tt14680834;7.75;nm5084972;Meryam Joobeur
 Ghost Killer;2024;Japan;Action;tt33305290;7;nm2338317;Kensuke Sonomura
@@ -17,6 +18,7 @@ Sujo;2024;Mexico;Drama;tt30320410;7.5;nm2156418;Astrid Rondero
 Marshmallow;2025;USA;Horror;tt15220066;7.25;nm2819891;Daniel DelPurgatorio
 Predator: Killer of Killers;2025;USA;Action;tt36463894;8.25;nm0870469;Dan Trachtenberg
 Sinners;2025;USA;Action;tt31193180;8.25;nm3363032;Ryan Coogler
+Cloud;2024;Japan;Thriller;tt32828123;7;nm0475905;Kiyoshi Kurosawa
 In the Land of Brothers;2024;Iran;Drama;tt30141676;8;nm8517860;Raha Amirfazli
 The Ugly Stepsister;2025;Norway;Horror;tt29344903;7.75;nm5132581;Emilie Blichfeldt
 Psycho Therapy;2024;USA;Comedy;tt17492148;7.25;nm3796645;Tolga Karaçelik
@@ -796,7 +798,7 @@ A Comédia de Deus;1995;Portugal;Comedy;tt0112710;7.25;nm0599214;João César Mo
 Se7en;1995;USA;Thriller;tt0114369;9;nm0000399;David Fincher
 Before Sunrise;1995;USA;Drama;tt0112471;8;nm0000500;Richard Linklater
 Dead Man;1995;USA;Western;tt0112817;9;nm0000464;Jim Jarmusch
-Heat;1995;USA;Crime;tt0113277;7.5;nm0000520;Michael Mann
+Heat;1995;USA;Crime;tt0113277;7.75;nm0000520;Michael Mann
 Twelve Monkeys;1995;USA;SciFi;tt0114746;7.75;nm0000416;Terry Gilliam
 La Haine;1995;France;Drama;tt0113247;8.25;nm0440913;Mathieu Kassovitz
 The Usual Suspects;1995;USA;Thriller;tt0114814;8.5;nm0001741;Bryan Singer
@@ -3178,3 +3180,4 @@ The Yellow Sea;2010;South Korea;Crime;tt1230385;8.25;nm2947553;Hong-jin Na
 The Family Friend;2006;Italy;Drama;tt0772105;7.25;nm0815204;Paolo Sorrentino
 A Chiara;2021;Italy;Drama;tt14324296;7;nm3476432;Jonas Carpignano
 Life is a Miracle;2004;Serbia;Comedy;tt0322420;7;nm0001437;Emir Kusturica
+Climates;2006;Turkey;Drama;tt0498097;7;nm0149196;Nuri Bilge Ceylan
