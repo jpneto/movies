@@ -1,4 +1,8 @@
 Title;Year;Country;Genre;IMDB;Score;directors;primaryName
+Caught Stealing;2025;USA;Comedy;tt1493274;7.25;nm0004716;Darren Aronofsky
+Bramayugam;2024;India;Horror;tt27431598;7.25;nm6572056;Rahul Sadasivan
+Weapons;2025;USA;Horror;tt26581740;8.5;nm1199107;Zach Cregger
+Together;2025;USA;Horror;tt31184028;7.5;nm5479260;Michael Shanks
 Kontinental '25;2025;Romania;Comedy;tt35492581;7.25;nm1257492;Radu Jude
 F1;2025;USA;Action;tt16311594;7;nm2676052;Joseph Kosinski
 Who do I Belong to;2024;Tunisia;Drama;tt14680834;7.75;nm5084972;Meryam Joobeur
@@ -147,6 +151,7 @@ Hell House, The Carmichael Manor;2023;USA;Horror;tt22796890;7;nm3192191;Stephen 
 Hermana Muerte;2023;Spain;Horror;tt19175696;7.25;nm0687042;Paco Plaza
 Paradise;2023;Germany;SciFi;tt21308888;7;nm2853069;Boris Kunz
 Anatomie d'une Chute;2023;France;Drama;tt17009710;8.75;nm2630323;Justine Triet
+Barbarian;2022;USA;Horror;tt15791034;8;nm1199107;Zach Cregger
 The Conference;2022;Germany;Historical;tt14321668;7.25;nm0315117;Matti Geschonneck
 The Bone Woman;2022;Mexico;Horror;tt11718516;7.25;nm5582325;Michelle Garza Cervera
 Totally Killer;2023;USA;Comedy;tt11426232;7;nm0451274;Nahnatchka Khan
@@ -798,7 +803,7 @@ A Comédia de Deus;1995;Portugal;Comedy;tt0112710;7.25;nm0599214;João César Mo
 Se7en;1995;USA;Thriller;tt0114369;9;nm0000399;David Fincher
 Before Sunrise;1995;USA;Drama;tt0112471;8;nm0000500;Richard Linklater
 Dead Man;1995;USA;Western;tt0112817;9;nm0000464;Jim Jarmusch
-Heat;1995;USA;Crime;tt0113277;7.75;nm0000520;Michael Mann
+Heat;1995;USA;Crime;tt0113277;8;nm0000520;Michael Mann
 Twelve Monkeys;1995;USA;SciFi;tt0114746;7.75;nm0000416;Terry Gilliam
 La Haine;1995;France;Drama;tt0113247;8.25;nm0440913;Mathieu Kassovitz
 The Usual Suspects;1995;USA;Thriller;tt0114814;8.5;nm0001741;Bryan Singer
@@ -3181,3 +3186,11 @@ The Family Friend;2006;Italy;Drama;tt0772105;7.25;nm0815204;Paolo Sorrentino
 A Chiara;2021;Italy;Drama;tt14324296;7;nm3476432;Jonas Carpignano
 Life is a Miracle;2004;Serbia;Comedy;tt0322420;7;nm0001437;Emir Kusturica
 Climates;2006;Turkey;Drama;tt0498097;7;nm0149196;Nuri Bilge Ceylan
+Driveways;2019;USA;Drama;tt9318280;7.75;nm3821224;Andrew Ahn
+The Hungry Stones;1960;India;Fantasy;tt0054005;7.5;nm0802377;Tapan Sinha
+The Day I Became a Woman;2000;Iran;Fantasy;tt0260332;7.25;nm0581863;Marzieh Makhmalbaf
+Ballad of a White Cow;2020;Iran;Drama;tt11773484;8.25;nm0602206;Maryam Moghadam
+Lovefilm;1970;Hungary;Drama;tt0066429;7;nm0843640;István Szabó
+I Wish;2011;Japan;Drama;tt1650453;7.25;nm0466153;Hirokazu Koreeda
+The Duke of Burgundy;2014;UK;Drama;tt2570858;7.25;nm3270827;Peter Strickland
+Kiss Me, Stupid;1964;USA;Comedy;tt0058265;8;nm0000697;Billy Wilder
