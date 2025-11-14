@@ -1,9 +1,10 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "2021--2025"
+date: "November, 2025"
 output: 
   html_document:
+    css: styles.css
     includes:
       in_header: header.html
 ---
@@ -257,7 +258,7 @@ Number of movies with a score of at least 7:
 df %>% 
   filter(Rate >= min.score) %>% 
   count( Decade ) %>% 
-  arrange(Decade, desc()) %>% 
+  arrange(desc(Decade)) %>% 
   arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
@@ -274,7 +275,7 @@ Let's see how many very good films (rating at least 8) each decade produced,
 df %>% 
   filter(Rate >= 8) %>% 
   count( Decade ) %>% 
-  arrange(Decade, desc()) %>% 
+  arrange( desc(Decade)) %>% 
   arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
@@ -287,7 +288,7 @@ And how many great films (rating at least 9) per decade,
 df %>% 
   filter(Rate >= 9) %>% 
   count( Decade ) %>% 
-  arrange(Decade, desc()) %>% 
+  arrange( desc(Decade)) %>% 
   arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
@@ -300,7 +301,7 @@ And masterpieces (rating of at least 9.5) per decade,
 df %>% 
   filter(Rate >= 9.5) %>% 
   count( Decade ) %>% 
-  arrange(Decade, desc()) %>% 
+  arrange( desc(Decade)) %>% 
   arrange( row_number()) -> df2
 
 par(mar = c(2.5, .5, .5, .5))
@@ -329,45 +330,45 @@ legend(.25, 400, rev(c('7+','7.5+','8+','8.5+','9+','9.5+')),
 
 Let's check directors with multiple movies in the list,
 
-```{r, fig.width=14, fig.height=12, echo=FALSE}
+```{r, fig.width=21, fig.height=20, echo=FALSE}
 df %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
-  filter(n>8) -> df4
+  filter(n>9) -> df4
 
-par(mar=c(1,11,1,6))
+par(mar=c(1,16,1,6))
 plt <- barplot(df4$n, col='steelblue', horiz=TRUE, names.arg=df4$Director, 
-               las=1, xlim=c(0,10+max(df4$n)), xaxt='n')
-text(y=plt, x=df4$n+0.8, label=df4$n, pos = 2, cex = 0.8, col='blue')
+               las=1, xlim=c(0,10+max(df4$n)), cex.names=1.5, xaxt='n')
+text(y=plt, x=df4$n+0.8, label=df4$n, pos = 2, cex = 1.5, col='blue')
 ```
 
 Directors with movies with a rating of at least 8.5,
 
-```{r, fig.width=14, fig.height=10, echo=FALSE}
+```{r, fig.width=21, fig.height=20, echo=FALSE}
 df %>% 
   filter(Rate >= 8.5) %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) %>% 
   filter(n>2) -> df5
 
-par(mar=c(1,11,1,1))
+par(mar=c(1,16,1,6))
 plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director, 
-               las=1, xlim=c(0,10+max(df5$n)), xaxt='n')
-text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
+               las=1, xlim=c(0,10+max(df5$n)), cex.names=1.5, xaxt='n')
+text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 1.5, col='blue')
 ```
 
 And, finally, who made the masterpieces (≥9.5),
 
-```{r, fig.width=14, fig.height=10, echo=FALSE}
+```{r, fig.width=21, fig.height=20, echo=FALSE}
 df %>% 
   filter(Rate >= 9.5) %>% 
   count(Director, sort=TRUE) %>% 
   filter(!is.na(Director)) -> df5
 
-par(mar=c(1,11,1,1))
+par(mar=c(1,16,1,6))
 plt <- barplot(df5$n, col='steelblue', horiz=TRUE, names.arg=df5$Director, 
-               las=1, xlim=c(0,10+max(df5$n)), xaxt='n')
-text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 0.8, col='blue')
+               las=1, xlim=c(0,10+max(df5$n)), cex.names=1.5, xaxt='n')
+text(y=plt, x=df5$n+0.4, label=df5$n, pos = 2, cex = 1.5, col='blue')
 ```
 
 The next table sums, for each director, the scores of each film rated here. A film ranked 7 gets 1 point, 7.25 gets 2 points, upto a score 10 that gets 13 points. For the Imdb score, films with score less or equal to 6.5 get negative points.
