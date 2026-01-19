@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "November, 2025"
+date: "January, 2026"
 output: 
   html_document:
     css: styles.css
