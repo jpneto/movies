@@ -1,7 +1,7 @@
 ---
 title: "My Movies"
 author: "João Neto"
-date: "September, 2026"
+date: "November, 2026"
 output: 
   html_document:
     css: styles.css
@@ -115,7 +115,15 @@ All `r nrow(df.imdb)` rated movies are displayed at the end of this page.
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(DT)
-DT::datatable(df, escape=FALSE) 
+DT::datatable(df, escape=FALSE, rownames=FALSE, class="compact",
+  options = list(
+    initComplete = DT::JS(
+      "function(settings, json) {",
+      "  $(this.api().table().header()).css({'font-size': '12px'});",
+      "}"
+    )
+  )) %>%
+  DT::formatStyle(columns = colnames(df), fontSize = "12px")
 ```
 
 ## Number of Selected Movies per Year
@@ -476,7 +484,7 @@ df.imdb %>%
 
 df.imdb3$link <- paste0('<a href="', df.imdb$URL, '" target="_blank">',movie.emote,'</a>')
 
-DT::datatable(df.imdb3, escape=FALSE) 
+DT::datatable(df.imdb3, escape=FALSE, rownames=FALSE) 
 ```
 
 
